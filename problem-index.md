@@ -1,6 +1,6 @@
 # Problem Index
 
-LeThis page contains the index of Problems that are documented in this repository
+This page contains the index of Problems that are documented in this repository
 
 {% page-ref page="leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md" %}
 
@@ -9,6 +9,8 @@ LeThis page contains the index of Problems that are documented in this repositor
 {% page-ref page="leetcode-medium/leetcode-63-unique-paths-ii.md" %}
 
 {% page-ref page="leetcode-medium/leetcode-86-partition-list.md" %}
+
+{% page-ref page="leetcode-medium/leetcode-98-validate-binary-search-tree.md" %}
 
 {% page-ref page="leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md" %}
 

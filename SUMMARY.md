@@ -7,6 +7,7 @@
   * [Leetcode 34 Find First and Last Position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md)
   * [Leetcode 63 Unique Paths II](leetcode-medium/leetcode-63-unique-paths-ii.md)
   * [LeetCode 86 Partition List](leetcode-medium/leetcode-86-partition-list.md)
+  * [LeetCode 98 Validate Binary Search Tree](leetcode-medium/leetcode-98-validate-binary-search-tree.md)
   * [Leetcode 189 Rotate Array](leetcode-medium/leetcode-189-rotate-array.md)
   * [Leetcode 1302 Deepest Leaves Sum](leetcode-medium/leetcode-1302-deepest-leaves-sum.md)
 * [LeetCode Easy](leetcode-easy/README.md)
