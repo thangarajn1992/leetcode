@@ -12,6 +12,6 @@
   * [Leetcode 26 Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md)
   * [Leetcode 122 Best time to buy and sell stock II](leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md)
   * [Leetcode 575 Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md)
-* [Leetcode 589  N-ary Tree Preorder Traversal](leetcode-589-n-ary-tree-preorder-traversal.md)
+  * [Leetcode 589  N-ary Tree Preorder Traversal](leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md)
 * [LeetCode Hard](leetcode-hard.md)
 

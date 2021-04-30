@@ -10,5 +10,3 @@ For List of Problems visit the Index page
 
 {% page-ref page="problem-index.md" %}
 
-
-
