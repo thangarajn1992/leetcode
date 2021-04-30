@@ -2,6 +2,8 @@
 
 This page contains the index of Problems that are documented in this repository
 
+Total: 13 Problems
+
 {% page-ref page="leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md" %}
 
 {% page-ref page="leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md" %}
