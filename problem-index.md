@@ -18,6 +18,8 @@ This page contains the index of Problems that are documented in this repository
 
 {% page-ref page="leetcode-medium/leetcode-189-rotate-array.md" %}
 
+{% page-ref page="leetcode-medium/leetcode-474-ones-and-zeroes.md" %}
+
 {% page-ref page="leetcode-easy/leetcode-575-distribute-candies.md" %}
 
 {% page-ref page="leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md" %}
