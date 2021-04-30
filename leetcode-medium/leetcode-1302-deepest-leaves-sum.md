@@ -22,7 +22,7 @@ Output: 19
 
 **Constraints:**
 
-* The number of nodes in the tree is in the range `[1, 104]`.
+* The number of nodes in the tree is in the range `[1, 10^4]`.
 * `1 <= Node.val <= 100`
 
 ## Solution
