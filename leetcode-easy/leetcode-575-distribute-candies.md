@@ -44,9 +44,9 @@ Even though she can eat 2 candies, she only has 1 type.
 **Constraints:**
 
 * `n == candyType.length`
-* `2 <= n <= 10^4`
+* `2 <= n <= 104`
 * `n` is even.
-* `-10^5 <= candyType[i] <= 10^5`
+* `-105 <= candyType[i] <= 105`
 
 ## Solution
 
