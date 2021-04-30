@@ -40,7 +40,7 @@ Output: 1
 
 ## Solution
 
-```text
+```cpp
 int uniquePathsWithObstacles(vector<vector<int>>& G) {
     int m = G.size();
     int n = G[0].size();
