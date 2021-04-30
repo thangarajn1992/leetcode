@@ -2,10 +2,6 @@
 
 * [leetcode](README.md)
 
-## Leetcode
-
-* [LeetCode Easy](leetcode/leetcode-easy.md)
-
 ## LeetCode Medium
 
 ---
