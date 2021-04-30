@@ -8,6 +8,8 @@ This page contains the index of Problems that are documented in this repository
 
 {% page-ref page="leetcode-medium/leetcode-63-unique-paths-ii.md" %}
 
+{% page-ref page="leetcode-easy/leetcode-70-climbing-stairs.md" %}
+
 {% page-ref page="leetcode-medium/leetcode-86-partition-list.md" %}
 
 {% page-ref page="leetcode-medium/leetcode-98-validate-binary-search-tree.md" %}
