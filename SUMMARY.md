@@ -4,8 +4,7 @@
 
 ## Leetcode
 
-* [LeetCode Easy](leetcode/leetcode-easy/README.md)
-  * [Untitled](leetcode/leetcode-easy/untitled.md)
+* [LeetCode Easy](leetcode/leetcode-easy.md)
 
 ## LeetCode Medium
 
