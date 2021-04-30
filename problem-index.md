@@ -8,6 +8,8 @@ LeThis page contains the index of Problems that are documented in this repositor
 
 {% page-ref page="leetcode-medium/leetcode-86-partition-list.md" %}
 
+{% page-ref page="leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md" %}
+
 {% page-ref page="leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md" %}
 
 {% page-ref page="leetcode-medium/leetcode-189-rotate-array.md" %}
