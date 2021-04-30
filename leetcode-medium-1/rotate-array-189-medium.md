@@ -1,10 +1,8 @@
----
-description: 'Leetcode 189 (Medium) https://leetcode.com/problems/rotate-array/'
----
-
-# Rotate Array
+# Leetcode 189 Rotate Array
 
 ## Problem Description
+
+[https://leetcode.com/problems/rotate-array/](https://leetcode.com/problems/rotate-array/)
 
 Given an array, rotate the array to the right by `k` steps, where `k` is non-negative.
 
