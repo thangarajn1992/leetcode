@@ -10,15 +10,5 @@ For List of Problems visit the Index page
 
 {% page-ref page="problem-index.md" %}
 
-For problems specific to one of the particular concept below, please use approrpriate link below
-
-{% page-ref page="arrays.md" %}
-
-{% page-ref page="linked-lists.md" %}
-
-{% page-ref page="trees.md" %}
-
-{% page-ref page="dynamic-programming.md" %}
-
 
 
