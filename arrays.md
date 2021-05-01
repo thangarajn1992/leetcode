@@ -16,6 +16,8 @@ This page contains list of problems that involves arrays
 
 {% page-ref page="leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md" %}
 
+{% page-ref page="leetcode-medium/leetcode-341-flatten-nested-list-iterator.md" %}
+
 {% page-ref page="leetcode-easy/leetcode-575-distribute-candies.md" %}
 
 {% page-ref page="leetcode-medium/leetcode-970-powerful-integers.md" %}
