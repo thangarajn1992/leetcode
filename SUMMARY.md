@@ -14,6 +14,7 @@
   * [LeetCode 98 Validate Binary Search Tree](leetcode-medium/leetcode-98-validate-binary-search-tree.md)
   * [Leetcode 189 Rotate Array](leetcode-medium/leetcode-189-rotate-array.md)
   * [Leetcode 198 House Robber](leetcode-medium/leetcode-198-house-robber.md)
+  * [Leetcode 341 Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md)
   * [Leetcode 377 Combination Sum IV](leetcode-medium/leetcode-377-combination-sum-iv.md)
   * [Leetcode 474 Ones and Zeroes](leetcode-medium/leetcode-474-ones-and-zeroes.md)
   * [Leetcode 970 Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md)

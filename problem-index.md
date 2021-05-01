@@ -26,6 +26,8 @@ This page contains the index of Problems that are documented in this repository
 
 {% page-ref page="leetcode-easy/leetcode-234-palindrome-linked-list.md" %}
 
+{% page-ref page="leetcode-medium/leetcode-341-flatten-nested-list-iterator.md" %}
+
 {% page-ref page="leetcode-medium/leetcode-377-combination-sum-iv.md" %}
 
 {% page-ref page="leetcode-medium/leetcode-474-ones-and-zeroes.md" %}
