@@ -29,5 +29,6 @@
   * [Leetcode 509 Fibonacci Number](leetcode-easy/leetcode-509-fibonacci-number.md)
   * [Leetcode 575 Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md)
   * [Leetcode 589  N-ary Tree Preorder Traversal](leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md)
-* [LeetCode Hard](leetcode-hard.md)
+* [LeetCode Hard](leetcode-hard/README.md)
+  * [Leetcode 745 Prefix and Suffix Search](leetcode-hard/leetcode-745-prefix-and-suffix-search.md)
 

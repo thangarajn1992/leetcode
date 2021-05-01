@@ -2,7 +2,7 @@
 
 This page contains the index of Problems that are documented in this repository
 
-**Total**: 17 Problems
+**Total**: 18 Problems
 
 {% page-ref page="leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md" %}
 
@@ -26,13 +26,21 @@ This page contains the index of Problems that are documented in this repository
 
 {% page-ref page="leetcode-easy/leetcode-234-palindrome-linked-list.md" %}
 
+{% page-ref page="leetcode-medium/leetcode-341-flatten-nested-list-iterator.md" %}
+
 {% page-ref page="leetcode-medium/leetcode-377-combination-sum-iv.md" %}
 
 {% page-ref page="leetcode-medium/leetcode-474-ones-and-zeroes.md" %}
 
+{% page-ref page="leetcode-easy/leetcode-509-fibonacci-number.md" %}
+
 {% page-ref page="leetcode-easy/leetcode-575-distribute-candies.md" %}
 
 {% page-ref page="leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md" %}
+
+{% page-ref page="leetcode-hard/leetcode-745-prefix-and-suffix-search.md" %}
+
+
 
 {% page-ref page="leetcode-medium/leetcode-970-powerful-integers.md" %}
 
