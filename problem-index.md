@@ -2,7 +2,7 @@
 
 This page contains the index of Problems that are documented in this repository
 
-**Total**: 15 Problems
+**Total**: 16 Problems
 
 {% page-ref page="leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md" %}
 
@@ -31,6 +31,8 @@ This page contains the index of Problems that are documented in this repository
 {% page-ref page="leetcode-easy/leetcode-575-distribute-candies.md" %}
 
 {% page-ref page="leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md" %}
+
+{% page-ref page="leetcode-medium/leetcode-970-powerful-integers.md" %}
 
 {% page-ref page="leetcode-medium/leetcode-1302-deepest-leaves-sum.md" %}
 

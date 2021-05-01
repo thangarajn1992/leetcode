@@ -2,7 +2,7 @@
 
 This page contains list of problems that involves arrays
 
-**Total**: 6
+**Total**: 7
 
 {% page-ref page="leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md" %}
 
@@ -16,7 +16,7 @@ This page contains list of problems that involves arrays
 
 {% page-ref page="leetcode-easy/leetcode-575-distribute-candies.md" %}
 
-
+{% page-ref page="leetcode-medium/leetcode-970-powerful-integers.md" %}
 
 
 
