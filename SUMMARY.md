@@ -21,6 +21,7 @@
   * [Leetcode 70 Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md)
   * [Leetcode 121 Best Time to Buy and Sell Stock](leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md)
   * [Leetcode 122 Best time to buy and sell stock II](leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md)
+  * [Leetcode 234 Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md)
   * [Leetcode 575 Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md)
   * [Leetcode 589  N-ary Tree Preorder Traversal](leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md)
 * [LeetCode Hard](leetcode-hard.md)

@@ -2,7 +2,7 @@
 
 This page contains problems that involves any type of trees
 
-Total : 3
+**Total** : 3
 
 {% page-ref page="leetcode-medium/leetcode-98-validate-binary-search-tree.md" %}
 

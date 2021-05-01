@@ -2,7 +2,7 @@
 
 This page contains list of problems that involves arrays
 
-Total: 6
+**Total**: 6
 
 {% page-ref page="leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md" %}
 

@@ -2,7 +2,7 @@
 
 This page contains the index of Problems that are documented in this repository
 
-Total: 14 Problems
+**Total**: 15 Problems
 
 {% page-ref page="leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md" %}
 
@@ -21,6 +21,8 @@ Total: 14 Problems
 {% page-ref page="leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md" %}
 
 {% page-ref page="leetcode-medium/leetcode-189-rotate-array.md" %}
+
+{% page-ref page="leetcode-easy/leetcode-234-palindrome-linked-list.md" %}
 
 {% page-ref page="leetcode-medium/leetcode-377-combination-sum-iv.md" %}
 

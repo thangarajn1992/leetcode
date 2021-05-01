@@ -2,7 +2,7 @@
 
 This page contains list of problems that are solved using dynamic programming.
 
-Total : 3
+**Total** : 3
 
 {% page-ref page="leetcode-easy/leetcode-70-climbing-stairs.md" %}
 
