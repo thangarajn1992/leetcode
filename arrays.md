@@ -2,27 +2,18 @@
 
 This page contains list of problems that involves arrays
 
-**Total**: 10
-
-{% page-ref page="leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md" %}
-
-{% page-ref page="leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md" %}
-
-{% page-ref page="leetcode-medium/leetcode-189-rotate-array.md" %}
-
-{% page-ref page="leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md" %}
-
-{% page-ref page="leetcode-medium/leetcode-198-house-robber.md" %}
-
-{% page-ref page="leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md" %}
-
-{% page-ref page="leetcode-medium/leetcode-341-flatten-nested-list-iterator.md" %}
-
-{% page-ref page="leetcode-easy/leetcode-575-distribute-candies.md" %}
-
-{% page-ref page="leetcode-medium/leetcode-970-powerful-integers.md" %}
-
-{% page-ref page="leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md" %}
+| Leetcode No | Difficulty | Solution Link |
+| :--- | :--- | :--- |
+| 26 | Easy | [Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
+| 34 | Medium | [Find First and Last Position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
+| 121 | Easy | [Best Time to Buy and Sell Stock](leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md) |
+| 122 | Easy | [Best Time to Buy and Sell Stock II](leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md) |
+| 189 | Medium | [Rotate Array](leetcode-medium/leetcode-189-rotate-array.md) |
+| 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
+| 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
+| 575 | Easy | [Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md) |
+| 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |
+| 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 
 
 

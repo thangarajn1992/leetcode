@@ -2,9 +2,9 @@
 
 * Arrays 
 
-  * Remove Duplicates from Sorted Array 
-  * Best Time to Buy and Sell Stocks 
-  * Rotate Array 
+  * [Remove Duplicates from Sorted Array ](../leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md)
+  * [Best Time to Buy and Sell Stocks ](../leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md)
+  * [Rotate Array ](../leetcode-medium/leetcode-189-rotate-array.md)
   * Contains Duplicate 
   * Single Number Intersection of Two Arrays II 
   * Plus One 
@@ -15,7 +15,7 @@
 
 * Strings
 
-  *  Reverse String 
+  * Reverse String 
   * Reverse Integer 
   * First Unique Character in a String 
   * Valid Anagram 
@@ -28,16 +28,16 @@
 * Linked List 
 
   * Delete Node in a Linked List 
-  * Remove Nth node from end of the linked list 
+  * [Remove Nth node from end of the linked list ](../leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md)
   * Reverse Linked List 
   * Merge Two Sorted Lists 
-  * Palindrome Linked List 
+  * [Palindrome Linked List ](../leetcode-easy/leetcode-234-palindrome-linked-list.md)
   * Linked List Cycle 
 
 * Trees 
 
   * Maximum depth of binary Tree 
-  * Validate Binary Search Tree 
+  * [Validate Binary Search Tree ](../leetcode-medium/leetcode-98-validate-binary-search-tree.md)
   * Symmetric Tree 
   * Binary Tree Level Order Traversal 
   * Convert Sorted Array to Binary tree 
@@ -49,10 +49,10 @@
 
 * Dynamic Programming 
 
-  * Climbing Stairs 
-  * Best Time to Buy and Sell stock 
+  * [Climbing Stairs ](../leetcode-easy/leetcode-70-climbing-stairs.md)
+  * [Best Time to Buy and Sell stock](../leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md) 
   * Maximum Sub-array 
-  * House Robber 
+  * [House Robber ](../leetcode-medium/leetcode-198-house-robber.md)
 
 * Design 
 

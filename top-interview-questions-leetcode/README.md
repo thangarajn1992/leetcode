@@ -4,11 +4,11 @@ This page contains the list of Top interview Questions available at Leetcode and
 
 Based on the difficulty level, please use the appropriate link below
 
-{% page-ref page="top-interview-questions-easy-leetcode.md" %}
+[Easy](top-interview-questions-easy-leetcode.md)
 
-{% page-ref page="top-interview-questions-medium-leetcode.md" %}
+[Medium](top-interview-questions-medium-leetcode.md)
 
-{% page-ref page="top-interview-questions-hard-leetcode.md" %}
+[Hard](top-interview-questions-hard-leetcode.md)
 
 
 

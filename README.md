@@ -6,21 +6,15 @@ For now my solution will be based on CPP. Later I may plan to add solution on ot
 
 Lets learn and create more!!
 
-For List of Problems visit the Index page
-
-{% page-ref page="problem-index.md" %}
+For List of Problems visit the [Problem Index](problem-index.md) page
 
 For problems specific to one of the particular concept below, please use approrpriate link below
 
-{% page-ref page="arrays.md" %}
-
-{% page-ref page="linked-lists.md" %}
-
-{% page-ref page="trees.md" %}
-
-{% page-ref page="dynamic-programming.md" %}
-
-{% page-ref page="math.md" %}
+* [Arrays](arrays.md)
+* [Linked Lists](linked-lists.md)
+* [Trees](trees.md)
+* [Dynamic Programming](dynamic-programming.md)
+* [Math](math.md)
 
 
 
