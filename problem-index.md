@@ -33,6 +33,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 1642 | Medium | [Furthest Building You Can Reach](leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md) |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1845 | Medium | [Seat Reservation Manager](leetcode-medium/leetcode-1845-seat-reservation-manager.md) |
+| 1846 | Medium | [Maximum Element After Decreasing and Rearranging](leetcode-medium/leetcode-1846-maximum-element-after-decreasing-and-rearranging.md) |
 
 
 
