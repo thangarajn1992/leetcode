@@ -30,6 +30,7 @@
   * [Leetcode 970 Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md)
   * [Leetcode 1302 Deepest Leaves Sum](leetcode-medium/leetcode-1302-deepest-leaves-sum.md)
   * [Leetcode 1642  Furthest Building You Can Reach](leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md)
+  * [Leetcode 1845  Seat Reservation Manager](leetcode-medium/leetcode-1845-seat-reservation-manager.md)
 * [LeetCode Easy](leetcode-easy/README.md)
   * [Leetcode 1 Two Sum](leetcode-easy/leetcode-1-two-sum.md)
   * [Leetcode 26 Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md)
