@@ -7,6 +7,10 @@
 * [Trees](trees.md)
 * [Dynamic Programming](dynamic-programming.md)
 * [Math](math.md)
+* [Top Interview Questions \(Leetcode\)](top-interview-questions-leetcode/README.md)
+  * [Top Interview Questions - Easy \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-easy-leetcode.md)
+  * [Top Interview Questions - Medium \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-medium-leetcode.md)
+  * [Top Interview Questions - Hard \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-hard-leetcode.md)
 * [LeetCode Medium](leetcode-medium/README.md)
   * [Leetcode 19 Remove Nth Node From End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md)
   * [Leetcode 34 Find First and Last Position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md)
@@ -29,6 +33,7 @@
   * [Leetcode 509 Fibonacci Number](leetcode-easy/leetcode-509-fibonacci-number.md)
   * [Leetcode 575 Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md)
   * [Leetcode 589  N-ary Tree Preorder Traversal](leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md)
+  * [Leetcode 1844 Replace All Digits with Characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md)
 * [LeetCode Hard](leetcode-hard/README.md)
   * [Leetcode 745 Prefix and Suffix Search](leetcode-hard/leetcode-745-prefix-and-suffix-search.md)
 

@@ -2,7 +2,7 @@
 
 This page contains list of problems that involves arrays
 
-**Total**: 8
+**Total**: 10
 
 {% page-ref page="leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md" %}
 
@@ -21,6 +21,8 @@ This page contains list of problems that involves arrays
 {% page-ref page="leetcode-easy/leetcode-575-distribute-candies.md" %}
 
 {% page-ref page="leetcode-medium/leetcode-970-powerful-integers.md" %}
+
+{% page-ref page="leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md" %}
 
 
 
