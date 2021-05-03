@@ -30,6 +30,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 745 | Hard | [Prefix and Suffix Search](leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |
 | 1302 | Medium | [Deepest Leaves Sum ](leetcode-medium/leetcode-1302-deepest-leaves-sum.md) |
+| 1480 | Easy | [Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
 | 1642 | Medium | [Furthest Building You Can Reach](leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md) |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1845 | Medium | [Seat Reservation Manager](leetcode-medium/leetcode-1845-seat-reservation-manager.md) |

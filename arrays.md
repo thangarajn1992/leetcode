@@ -17,6 +17,7 @@ This page contains list of problems that involves arrays
 | 575 | Easy | [Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md) |
 | 696 | Easy | [Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |
+| 1480 | Easy | [Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1846 | Medium | [Maximum Element After Decreasing and Rearranging](leetcode-medium/leetcode-1846-maximum-element-after-decreasing-and-rearranging.md) |
 
