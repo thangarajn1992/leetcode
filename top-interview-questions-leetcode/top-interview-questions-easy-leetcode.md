@@ -10,7 +10,7 @@
   * [Intersection of Two Arrays II](../leetcode-easy/leetcode-350-intersection-of-two-array-ii.md)
   * [Plus One ](../leetcode-easy/leetcode-66-plus-one.md)
   * [Move Zeroes ](../leetcode-easy/leetcode-283-move-zeroes.md)
-  * Two Sum 
+  * [Two Sum ](../leetcode-easy/leetcode-1-two-sum.md)
   * Valid Sudoku 
   * Rotate Image 
 
