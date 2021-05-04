@@ -7,7 +7,7 @@
   * [Rotate Array ](../leetcode-medium/leetcode-189-rotate-array.md)
   * [Contains Duplicate ](../leetcode-easy/leetcode-217-contains-duplicate.md)
   * [Single Number](../leetcode-easy/leetcode-136-single-number.md)
-  * Single Number Intersection of Two Arrays II 
+  * [Intersection of Two Arrays II](../leetcode-easy/leetcode-350-intersection-of-two-array-ii.md)
   * Plus One 
   * Move Zeroes 
   * Two Sum 

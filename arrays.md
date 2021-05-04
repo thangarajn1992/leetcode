@@ -16,6 +16,8 @@ This page contains list of problems that involves arrays
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
 | 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
+| 349 | Easy | [Intersection of Two Array](leetcode-easy/leetcode-349-intersection-of-two-arrays.md) |
+| 350 | Easy | [Intersection of Two Array II](leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |
 | 575 | Easy | [Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md) |
 | 665 | Medium | [Non-decreasing array](leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 696 | Easy | [Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md) |

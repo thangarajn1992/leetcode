@@ -22,6 +22,8 @@ This page contains the index of Leetcode problems that are documented in this re
 | 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 234 | Easy | [Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
+| 349 | Easy | [Intersection of Two Arrays](leetcode-easy/leetcode-349-intersection-of-two-arrays.md) |
+| 350 | Easy | [Intersection of Two Arrays II](leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |
 | 377 | Medium | [Combination Sum IV](leetcode-medium/leetcode-377-combination-sum-iv.md) |
 | 474 | Medium | [Ones and Zeroes](leetcode-medium/leetcode-474-ones-and-zeroes.md) |
 | 509 | Easy | [Fibonacci Number](leetcode-easy/leetcode-509-fibonacci-number.md) |
