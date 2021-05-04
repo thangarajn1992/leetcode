@@ -11,6 +11,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 34 | Medium | [First and Last position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
 | 48 | Medium | [Rotate Image](leetcode-medium/leetcode-48-rotate-image.md) |
 | 63 | Medium | [Unique Paths II](leetcode-medium/leetcode-63-unique-paths-ii.md) |
+| 66 | Easy | [Plus One](leetcode-easy/leetcode-66-plus-one.md) |
 | 70 | Easy | [Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md) |
 | 86 | Medium | [Partition List](leetcode-medium/leetcode-86-partition-list.md) |
 | 120 | Medium | [Triangle](leetcode-medium/leetcode-120-triangle.md) |

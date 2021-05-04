@@ -8,7 +8,7 @@
   * [Contains Duplicate ](../leetcode-easy/leetcode-217-contains-duplicate.md)
   * [Single Number](../leetcode-easy/leetcode-136-single-number.md)
   * [Intersection of Two Arrays II](../leetcode-easy/leetcode-350-intersection-of-two-array-ii.md)
-  * Plus One 
+  * [Plus One ](../leetcode-easy/leetcode-66-plus-one.md)
   * Move Zeroes 
   * Two Sum 
   * Valid Sudoku 
