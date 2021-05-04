@@ -27,6 +27,7 @@
   * [Leetcode 377 Combination Sum IV](leetcode-medium/leetcode-377-combination-sum-iv.md)
   * [Leetcode 474 Ones and Zeroes](leetcode-medium/leetcode-474-ones-and-zeroes.md)
   * [Leetcode 554 Brick Wall](leetcode-medium/leetcode-554-brick-wall.md)
+  * [Leetcode 665 Non-decreasing Array](leetcode-medium/leetcode-665-non-decreasing-array.md)
   * [Leetcode 970 Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md)
   * [Leetcode 1302 Deepest Leaves Sum](leetcode-medium/leetcode-1302-deepest-leaves-sum.md)
   * [Leetcode 1642  Furthest Building You Can Reach](leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md)

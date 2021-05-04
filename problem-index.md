@@ -28,6 +28,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 554 | Medium | [Brick Wall](leetcode-medium/leetcode-554-brick-wall.md) |
 | 575 | Easy | [Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md) |
 | 589 | Easy | [N Ary Tree Preorder Traversal](leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md) |
+| 665 | Medium | [Non-decreasing Array](leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 696 | Easy | [Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
 | 745 | Hard | [Prefix and Suffix Search](leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |

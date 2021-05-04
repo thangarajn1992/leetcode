@@ -17,6 +17,7 @@ This page contains list of problems that involves arrays
 | 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
 | 575 | Easy | [Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md) |
+| 665 | Medium | [Non-decreasing array](leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 696 | Easy | [Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |
 | 1480 | Easy | [Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
