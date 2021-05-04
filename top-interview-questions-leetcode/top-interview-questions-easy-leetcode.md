@@ -1,7 +1,6 @@
 # Top Interview Questions - Easy \(Leetcode\)
 
 * Arrays 
-
   * [Remove Duplicates from Sorted Array ](../leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md)
   * [Best Time to Buy and Sell Stocks ](../leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md)
   * [Rotate Array ](../leetcode-medium/leetcode-189-rotate-array.md)
@@ -11,9 +10,8 @@
   * [Plus One ](../leetcode-easy/leetcode-66-plus-one.md)
   * [Move Zeroes ](../leetcode-easy/leetcode-283-move-zeroes.md)
   * [Two Sum ](../leetcode-easy/leetcode-1-two-sum.md)
-  * Valid Sudoku 
-  * Rotate Image 
-
+  * [Valid Sudoku ](../leetcode-medium/leetcode-36-valid-sudoku.md)
+  * [Rotate Image](../leetcode-medium/leetcode-48-rotate-image.md)
 * Strings
 
   * Reverse String 

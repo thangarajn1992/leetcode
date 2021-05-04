@@ -9,8 +9,10 @@ This page contains the index of Leetcode problems that are documented in this re
 | 19 | Medium | [Remove Nth Node from End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
 | 34 | Medium | [First and Last position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
+| 36 | Medium | [Valid Sudoku](leetcode-medium/leetcode-36-valid-sudoku.md) |
 | 48 | Medium | [Rotate Image](leetcode-medium/leetcode-48-rotate-image.md) |
 | 63 | Medium | [Unique Paths II](leetcode-medium/leetcode-63-unique-paths-ii.md) |
+| 66 | Easy | [Plus One](leetcode-easy/leetcode-66-plus-one.md) |
 | 70 | Easy | [Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md) |
 | 86 | Medium | [Partition List](leetcode-medium/leetcode-86-partition-list.md) |
 | 120 | Medium | [Triangle](leetcode-medium/leetcode-120-triangle.md) |
@@ -21,6 +23,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
 | 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 234 | Easy | [Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md) |
+| 283 | Easy | [Move Zeroes](leetcode-easy/leetcode-283-move-zeroes.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
 | 349 | Easy | [Intersection of Two Arrays](leetcode-easy/leetcode-349-intersection-of-two-arrays.md) |
 | 350 | Easy | [Intersection of Two Arrays II](leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |

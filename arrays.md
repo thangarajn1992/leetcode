@@ -8,13 +8,16 @@ This page contains list of problems that involves arrays
 | 17 | Medium | [Letter Combination of Phone Number](leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
 | 34 | Medium | [Find First and Last Position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
+| 36 | Medium | [Valid Sudoku](leetcode-medium/leetcode-36-valid-sudoku.md) |
 | 48 | Medium | [Rotate Image](leetcode-medium/leetcode-48-rotate-image.md) |
+| 66 | Easy | [Plus One](leetcode-easy/leetcode-66-plus-one.md) |
 | 121 | Easy | [Best Time to Buy and Sell Stock](leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md) |
 | 122 | Easy | [Best Time to Buy and Sell Stock II](leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md) |
 | 136 | Easy | [Single Number](leetcode-easy/leetcode-136-single-number.md) |
 | 189 | Medium | [Rotate Array](leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
 | 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
+| 283 | Easy | [Move Zeroes](leetcode-easy/leetcode-283-move-zeroes.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
 | 349 | Easy | [Intersection of Two Array](leetcode-easy/leetcode-349-intersection-of-two-arrays.md) |
 | 350 | Easy | [Intersection of Two Array II](leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |

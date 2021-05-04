@@ -44,14 +44,14 @@ Output: [0,1]
 ```cpp
 class Solution {
 public:
+    map<int,int> m;
     vector<int> twoSum(vector<int>& nums, int target) {
-        map<int,int> m;
         for(int i = 0; i < nums.size(); i++)
         {
             if(m.size())
                 if(m.count(nums[i]))
-                    return {m[nums[i]], i};     
-            m[target-nums[i]] = i;
+                    return {m.at(nums[i]), i};     
+            m.insert(pair<int,int>(target-nums[i], i));
         }
         return {};
     }
