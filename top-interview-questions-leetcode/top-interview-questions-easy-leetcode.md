@@ -6,6 +6,7 @@
   * [Best Time to Buy and Sell Stocks ](../leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md)
   * [Rotate Array ](../leetcode-medium/leetcode-189-rotate-array.md)
   * [Contains Duplicate ](../leetcode-easy/leetcode-217-contains-duplicate.md)
+  * [Single Number](../leetcode-easy/leetcode-136-single-number.md)
   * Single Number Intersection of Two Arrays II 
   * Plus One 
   * Move Zeroes 

@@ -16,6 +16,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 120 | Medium | [Triangle](leetcode-medium/leetcode-120-triangle.md) |
 | 121 | Easy | [Best Time to Buy and Sell stock](leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md) |
 | 122 | Easy | [Best Time to Buy and Sell stock II](leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md) |
+| 136 | Easy | [Single Number](leetcode-easy/leetcode-136-single-number.md) |
 | 189 | Medium | [Rotate Array](leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
 | 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
