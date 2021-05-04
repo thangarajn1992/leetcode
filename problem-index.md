@@ -18,6 +18,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 122 | Easy | [Best Time to Buy and Sell stock II](leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md) |
 | 189 | Medium | [Rotate Array](leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
+| 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 234 | Easy | [Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
 | 377 | Medium | [Combination Sum IV](leetcode-medium/leetcode-377-combination-sum-iv.md) |
