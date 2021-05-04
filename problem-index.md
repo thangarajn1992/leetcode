@@ -22,6 +22,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
 | 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 234 | Easy | [Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md) |
+| 283 | Easy | [Move Zeroes](leetcode-easy/leetcode-283-move-zeroes.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
 | 349 | Easy | [Intersection of Two Arrays](leetcode-easy/leetcode-349-intersection-of-two-arrays.md) |
 | 350 | Easy | [Intersection of Two Arrays II](leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |

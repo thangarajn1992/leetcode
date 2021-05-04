@@ -43,6 +43,7 @@
   * [Leetcode 136 Single Number](leetcode-easy/leetcode-136-single-number.md)
   * [Leetcode 217 Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md)
   * [Leetcode 234 Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md)
+  * [Leetcode 283 Move Zeroes](leetcode-easy/leetcode-283-move-zeroes.md)
   * [Leetcode 349 Intersection of Two Arrays](leetcode-easy/leetcode-349-intersection-of-two-arrays.md)
   * [Leetcode 350 Intersection of Two Array II](leetcode-easy/leetcode-350-intersection-of-two-array-ii.md)
   * [Leetcode 509 Fibonacci Number](leetcode-easy/leetcode-509-fibonacci-number.md)
