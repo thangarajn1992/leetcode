@@ -12,6 +12,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 36 | Medium | [Valid Sudoku](leetcode-medium/leetcode-36-valid-sudoku.md) |
 | 45 | Medium | [Jump Game II](leetcode-medium/leetcode-45-jump-game-ii.md) |
 | 48 | Medium | [Rotate Image](leetcode-medium/leetcode-48-rotate-image.md) |
+| 55 | Medium | [Jump Game](leetcode-medium/leetcode-55-jump-game.md) |
 | 63 | Medium | [Unique Paths II](leetcode-medium/leetcode-63-unique-paths-ii.md) |
 | 66 | Easy | [Plus One](leetcode-easy/leetcode-66-plus-one.md) |
 | 70 | Easy | [Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md) |
@@ -40,6 +41,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 745 | Hard | [Prefix and Suffix Search](leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |
 | 1302 | Medium | [Deepest Leaves Sum ](leetcode-medium/leetcode-1302-deepest-leaves-sum.md) |
+| 1306 | Medium | [Jump Game III](leetcode-medium/leetcode-1306-jump-game-iii.md) |
 | 1480 | Easy | [Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
 | 1642 | Medium | [Furthest Building You Can Reach](leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md) |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |

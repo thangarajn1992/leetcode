@@ -10,6 +10,7 @@ This page contains list of problems that involves arrays
 | 34 | Medium | [Find First and Last Position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
 | 36 | Medium | [Valid Sudoku](leetcode-medium/leetcode-36-valid-sudoku.md) |
 | 45 | Medium | [Jump Game II](leetcode-medium/leetcode-45-jump-game-ii.md) |
+| 55 | Medium | [Jump Game](leetcode-medium/leetcode-55-jump-game.md) |
 | 48 | Medium | [Rotate Image](leetcode-medium/leetcode-48-rotate-image.md) |
 | 66 | Easy | [Plus One](leetcode-easy/leetcode-66-plus-one.md) |
 | 121 | Easy | [Best Time to Buy and Sell Stock](leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md) |
@@ -27,6 +28,7 @@ This page contains list of problems that involves arrays
 | 665 | Medium | [Non-decreasing array](leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 696 | Easy | [Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |
+| 1306 | Medium | [Jump Game III](leetcode-medium/leetcode-1306-jump-game-iii.md) |
 | 1480 | Easy | [Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1846 | Medium | [Maximum Element After Decreasing and Rearranging](leetcode-medium/leetcode-1846-maximum-element-after-decreasing-and-rearranging.md) |

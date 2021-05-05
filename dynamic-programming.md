@@ -4,7 +4,6 @@ This page contains list of problems that are solved using dynamic programming.
 
 | Leetcode No | Difficulty | Solution Link |
 | :--- | :--- | :--- |
-| 45 | Medium | [Jump Game II](leetcode-medium/leetcode-45-jump-game-ii.md) |
 | 70 | Easy | [Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md) |
 | 120 | Medium | [Triangle](leetcode-medium/leetcode-120-triangle.md) |
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
