@@ -43,6 +43,7 @@
   * [Leetcode 26 Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md)
   * [Leetcode 66 Plus One](leetcode-easy/leetcode-66-plus-one.md)
   * [Leetcode 70 Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md)
+  * [Leetcode 108 Convert Sorted Array to Binary Search Tree](leetcode-easy/leetcode-108-convert-sorted-array-to-binary-search-tree.md)
   * [Leetcode 121 Best Time to Buy and Sell Stock](leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md)
   * [Leetcode 122 Best time to buy and sell stock II](leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md)
   * [Leetcode 136 Single Number](leetcode-easy/leetcode-136-single-number.md)

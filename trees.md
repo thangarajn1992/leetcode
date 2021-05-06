@@ -5,6 +5,7 @@ This page contains problems that involves any type of trees
 | Leetcode No | Difficulty | Solution Link |
 | :--- | :--- | :--- |
 | 98 | Medium | [Validate BST \( Binary Search Tree \)](leetcode-medium/leetcode-98-validate-binary-search-tree.md) |
+| 108 | Easy | [Convert Sorted Array to Binary Search Tree](leetcode-easy/leetcode-108-convert-sorted-array-to-binary-search-tree.md) |
 | 109 | Medium | [Convert Sorted List to Binary Search Tree](leetcode-medium/leetcode-109-convert-sorted-list-to-binary-search-tree.md) |
 | 589 | Easy | [N ary Tree Preorder Traversal](leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md) |
 | 745 | Hard | [Prefix and Suffix Search](leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
