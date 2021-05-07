@@ -5,6 +5,8 @@ This page contains the index of Leetcode problems that are documented in this re
 | **Leetcode No** | **Difficulty** | **Solution Link** |
 | :--- | :--- | :--- |
 | 1 | Easy | [Two Sum](leetcode-easy/leetcode-1-two-sum.md) |
+| 7 | Easy | [Reverse Integer](leetcode-easy/leetcode-7-reverse-integer.md) |
+| 8 | Medium | [String to Integer \(atoi\)](leetcode-medium/leetcode-8-string-to-integer-atoi.md) |
 | 17 | Medium | [Letter Combination of a Phone Number](leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
 | 19 | Medium | [Remove Nth Node from End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
@@ -22,21 +24,25 @@ This page contains the index of Leetcode problems that are documented in this re
 | 120 | Medium | [Triangle](leetcode-medium/leetcode-120-triangle.md) |
 | 121 | Easy | [Best Time to Buy and Sell stock](leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md) |
 | 122 | Easy | [Best Time to Buy and Sell stock II](leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md) |
+| 125 | Easy | [Valid Palindrome](leetcode-easy/leetcode-125-valid-palindrome.md) |
 | 136 | Easy | [Single Number](leetcode-easy/leetcode-136-single-number.md) |
 | 189 | Medium | [Rotate Array](leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
 | 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 234 | Easy | [Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md) |
+| 242 | Easy | [Valid Anagram](leetcode-easy/leetcode-242-valid-anagram.md) |
 | 283 | Easy | [Move Zeroes](leetcode-easy/leetcode-283-move-zeroes.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
 | 344 | Easy | [Reverse String](leetcode-easy/leetcode-344-reverse-string.md) |
 | 349 | Easy | [Intersection of Two Arrays](leetcode-easy/leetcode-349-intersection-of-two-arrays.md) |
 | 350 | Easy | [Intersection of Two Arrays II](leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |
 | 377 | Medium | [Combination Sum IV](leetcode-medium/leetcode-377-combination-sum-iv.md) |
+| 387 | Easy | [First Unique Character in a String](leetcode-easy/leetcode-387-first-unique-character-in-a-string.md) |
 | 474 | Medium | [Ones and Zeroes](leetcode-medium/leetcode-474-ones-and-zeroes.md) |
 | 509 | Easy | [Fibonacci Number](leetcode-easy/leetcode-509-fibonacci-number.md) |
 | 554 | Medium | [Brick Wall](leetcode-medium/leetcode-554-brick-wall.md) |
 | 575 | Easy | [Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md) |
+| 583 | Medium | [Delete Operation for two strings](leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
 | 589 | Easy | [N Ary Tree Preorder Traversal](leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md) |
 | 665 | Medium | [Non-decreasing Array](leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 696 | Easy | [Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
