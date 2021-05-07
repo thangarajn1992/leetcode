@@ -20,7 +20,7 @@
   * [Valid Anagram ](../leetcode-easy/leetcode-242-valid-anagram.md)
   * [Valid Palindrome ](../leetcode-easy/leetcode-125-valid-palindrome.md)
   * [String to Integer \(atoi\) ](../leetcode-medium/leetcode-8-string-to-integer-atoi.md)
-  * Implement strStr\(\) 
+  * [Implement strStr\(\) ](../leetcode-easy/leetcode-28-implement-strstr.md)
   * Count and Say 
   * Longest Common Prefix 
 

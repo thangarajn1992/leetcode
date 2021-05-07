@@ -8,6 +8,7 @@ This page contains list of problems that involves arrays
 | 8 | Medium | [String to Integer \(atoi\)](leetcode-medium/leetcode-8-string-to-integer-atoi.md) |
 | 17 | Medium | [Letter Combination of Phone Number](leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
+| 28 | Easy | [Implement strStr\(\)](leetcode-easy/leetcode-28-implement-strstr.md) |
 | 34 | Medium | [Find First and Last Position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
 | 36 | Medium | [Valid Sudoku](leetcode-medium/leetcode-36-valid-sudoku.md) |
 | 45 | Medium | [Jump Game II](leetcode-medium/leetcode-45-jump-game-ii.md) |

@@ -44,6 +44,7 @@
   * [Leetcode 1 Two Sum](leetcode-easy/leetcode-1-two-sum.md)
   * [Leetcode 7 Reverse Integer](leetcode-easy/leetcode-7-reverse-integer.md)
   * [Leetcode 26 Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md)
+  * [Leetcode 28 Implement strStr\(\)](leetcode-easy/leetcode-28-implement-strstr.md)
   * [Leetcode 66 Plus One](leetcode-easy/leetcode-66-plus-one.md)
   * [Leetcode 70 Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md)
   * [Leetcode 108 Convert Sorted Array to Binary Search Tree](leetcode-easy/leetcode-108-convert-sorted-array-to-binary-search-tree.md)
