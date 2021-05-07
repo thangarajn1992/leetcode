@@ -18,6 +18,7 @@
   * [Leetcode 19 Remove Nth Node From End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md)
   * [Leetcode 34 Find First and Last Position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md)
   * [Leetcode 36 Valid Sudoku](leetcode-medium/leetcode-36-valid-sudoku.md)
+  * [Leetcode 38  Count and Say](leetcode-medium/leetcode-38-count-and-say.md)
   * [Leetcode 45 Jump Game II](leetcode-medium/leetcode-45-jump-game-ii.md)
   * [Leetcode 48 Rotate Image](leetcode-medium/leetcode-48-rotate-image.md)
   * [Leetcode 55 Jump Game](leetcode-medium/leetcode-55-jump-game.md)

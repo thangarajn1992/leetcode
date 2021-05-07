@@ -21,7 +21,7 @@
   * [Valid Palindrome ](../leetcode-easy/leetcode-125-valid-palindrome.md)
   * [String to Integer \(atoi\) ](../leetcode-medium/leetcode-8-string-to-integer-atoi.md)
   * [Implement strStr\(\) ](../leetcode-easy/leetcode-28-implement-strstr.md)
-  * Count and Say 
+  * [Count and Say ](../leetcode-medium/leetcode-38-count-and-say.md)
   * Longest Common Prefix 
 
 * Linked List 
