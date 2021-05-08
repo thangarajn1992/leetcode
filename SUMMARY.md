@@ -71,4 +71,5 @@
   * [Leetcode 1844 Replace All Digits with Characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md)
 * [LeetCode Hard](leetcode-hard/README.md)
   * [Leetcode 745 Prefix and Suffix Search](leetcode-hard/leetcode-745-prefix-and-suffix-search.md)
+  * [Leetcode 906 Super Palindromes](leetcode-hard/leetcode-906-super-palindromes.md)
 
