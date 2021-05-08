@@ -54,6 +54,7 @@
   * [Leetcode 122 Best time to buy and sell stock II](leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md)
   * [Leetcode 125 Valid Palindrome](leetcode-easy/leetcode-125-valid-palindrome.md)
   * [Leetcode 136 Single Number](leetcode-easy/leetcode-136-single-number.md)
+  * [Leetcode 206 Reverse Linked List](leetcode-easy/leetcode-206-reverse-linked-list.md)
   * [Leetcode 217 Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md)
   * [Leetcode 234 Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md)
   * [Leetcode 237 Delete Node in a Linked List](leetcode-easy/leetcode-237-delete-node-in-a-linked-list.md)

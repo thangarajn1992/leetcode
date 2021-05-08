@@ -1,36 +1,34 @@
 # Top Interview Questions - Easy \(Leetcode\)
 
 * Arrays 
-
   * [Remove Duplicates from Sorted Array ](../leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md)
   * [Best Time to Buy and Sell Stocks ](../leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md)
   * [Rotate Array ](../leetcode-medium/leetcode-189-rotate-array.md)
   * [Contains Duplicate ](../leetcode-easy/leetcode-217-contains-duplicate.md)
   * [Single Number](../leetcode-easy/leetcode-136-single-number.md)
   * [Intersection of Two Arrays II](../leetcode-easy/leetcode-350-intersection-of-two-array-ii.md)
-  * Plus One 
-  * Move Zeroes 
-  * Two Sum 
-  * Valid Sudoku 
-  * Rotate Image 
-
+  * [Plus One ](../leetcode-easy/leetcode-66-plus-one.md)
+  * [Move Zeroes ](../leetcode-easy/leetcode-283-move-zeroes.md)
+  * [Two Sum ](../leetcode-easy/leetcode-1-two-sum.md)
+  * [Valid Sudoku ](../leetcode-medium/leetcode-36-valid-sudoku.md)
+  * [Rotate Image](../leetcode-medium/leetcode-48-rotate-image.md)
 * Strings
 
-  * Reverse String 
-  * Reverse Integer 
-  * First Unique Character in a String 
-  * Valid Anagram 
-  * Valid Palindrome 
-  * String to Integer \(atoi\) 
-  * Implement strStr\(\) 
-  * Count and Say 
-  * Longest Common Prefix 
+  * [Reverse String ](../leetcode-easy/leetcode-344-reverse-string.md)
+  * [Reverse Integer ](../leetcode-easy/leetcode-7-reverse-integer.md)
+  * [First Unique Character in a String ](../leetcode-easy/leetcode-387-first-unique-character-in-a-string.md)
+  * [Valid Anagram ](../leetcode-easy/leetcode-242-valid-anagram.md)
+  * [Valid Palindrome ](../leetcode-easy/leetcode-125-valid-palindrome.md)
+  * [String to Integer \(atoi\) ](../leetcode-medium/leetcode-8-string-to-integer-atoi.md)
+  * [Implement strStr\(\) ](../leetcode-easy/leetcode-28-implement-strstr.md)
+  * [Count and Say ](../leetcode-medium/leetcode-38-count-and-say.md)
+  * [Longest Common Prefix ](../leetcode-medium/leetcode-14-longest-common-prefix.md)
 
 * Linked List 
 
-  * Delete Node in a Linked List 
+  * [Delete Node in a Linked List ](../leetcode-easy/leetcode-237-delete-node-in-a-linked-list.md)
   * [Remove Nth node from end of the linked list ](../leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md)
-  * Reverse Linked List 
+  * [Reverse Linked List ](../leetcode-easy/leetcode-206-reverse-linked-list.md)
   * Merge Two Sorted Lists 
   * [Palindrome Linked List ](../leetcode-easy/leetcode-234-palindrome-linked-list.md)
   * Linked List Cycle 

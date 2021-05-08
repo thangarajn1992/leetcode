@@ -32,6 +32,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 189 | Medium | [Rotate Array](leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
 | 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
+| 206 | Easy | [Reverse Linked List](leetcode-easy/leetcode-206-reverse-linked-list.md) |
 | 234 | Easy | [Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md) |
 | 237 | Easy | [Delete Node in a Linked List](leetcode-easy/leetcode-237-delete-node-in-a-linked-list.md) |
 | 242 | Easy | [Valid Anagram](leetcode-easy/leetcode-242-valid-anagram.md) |
