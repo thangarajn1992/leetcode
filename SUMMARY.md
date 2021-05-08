@@ -14,6 +14,7 @@
   * [Top Interview Questions - Hard \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-hard-leetcode.md)
 * [LeetCode Medium](leetcode-medium/README.md)
   * [Leetcode 8 String to Integer \(atoi\)](leetcode-medium/leetcode-8-string-to-integer-atoi.md)
+  * [Leetcode 14 Longest Common Prefix](leetcode-medium/leetcode-14-longest-common-prefix.md)
   * [Leetcode 17  Letter Combinations of a Phone Number](leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md)
   * [Leetcode 19 Remove Nth Node From End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md)
   * [Leetcode 34 Find First and Last Position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md)

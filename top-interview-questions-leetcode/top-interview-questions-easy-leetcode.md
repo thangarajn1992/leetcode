@@ -1,27 +1,29 @@
 # Top Interview Questions - Easy \(Leetcode\)
 
 * Arrays 
+
   * [Remove Duplicates from Sorted Array ](../leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md)
   * [Best Time to Buy and Sell Stocks ](../leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md)
   * [Rotate Array ](../leetcode-medium/leetcode-189-rotate-array.md)
   * [Contains Duplicate ](../leetcode-easy/leetcode-217-contains-duplicate.md)
   * [Single Number](../leetcode-easy/leetcode-136-single-number.md)
   * [Intersection of Two Arrays II](../leetcode-easy/leetcode-350-intersection-of-two-array-ii.md)
-  * [Plus One ](../leetcode-easy/leetcode-66-plus-one.md)
-  * [Move Zeroes ](../leetcode-easy/leetcode-283-move-zeroes.md)
-  * [Two Sum ](../leetcode-easy/leetcode-1-two-sum.md)
-  * [Valid Sudoku ](../leetcode-medium/leetcode-36-valid-sudoku.md)
-  * [Rotate Image](../leetcode-medium/leetcode-48-rotate-image.md)
+  * Plus One 
+  * Move Zeroes 
+  * Two Sum 
+  * Valid Sudoku 
+  * Rotate Image 
+
 * Strings
 
-  * [Reverse String ](../leetcode-easy/leetcode-344-reverse-string.md)
-  * [Reverse Integer ](../leetcode-easy/leetcode-7-reverse-integer.md)
-  * [First Unique Character in a String ](../leetcode-easy/leetcode-387-first-unique-character-in-a-string.md)
-  * [Valid Anagram ](../leetcode-easy/leetcode-242-valid-anagram.md)
-  * [Valid Palindrome ](../leetcode-easy/leetcode-125-valid-palindrome.md)
-  * [String to Integer \(atoi\) ](../leetcode-medium/leetcode-8-string-to-integer-atoi.md)
-  * [Implement strStr\(\) ](../leetcode-easy/leetcode-28-implement-strstr.md)
-  * [Count and Say ](../leetcode-medium/leetcode-38-count-and-say.md)
+  * Reverse String 
+  * Reverse Integer 
+  * First Unique Character in a String 
+  * Valid Anagram 
+  * Valid Palindrome 
+  * String to Integer \(atoi\) 
+  * Implement strStr\(\) 
+  * Count and Say 
   * Longest Common Prefix 
 
 * Linked List 

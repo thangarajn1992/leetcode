@@ -6,6 +6,7 @@ This page contains list of problems that involves arrays
 | :--- | :--- | :--- |
 | 1 | Easy | [Two Sum](leetcode-easy/leetcode-1-two-sum.md) |
 | 8 | Medium | [String to Integer \(atoi\)](leetcode-medium/leetcode-8-string-to-integer-atoi.md) |
+| 14 | Easy | [Longest Common Prefix](leetcode-medium/leetcode-14-longest-common-prefix.md) |
 | 17 | Medium | [Letter Combination of Phone Number](leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
 | 28 | Easy | [Implement strStr\(\)](leetcode-easy/leetcode-28-implement-strstr.md) |

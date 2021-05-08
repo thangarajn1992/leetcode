@@ -7,6 +7,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 1 | Easy | [Two Sum](leetcode-easy/leetcode-1-two-sum.md) |
 | 7 | Easy | [Reverse Integer](leetcode-easy/leetcode-7-reverse-integer.md) |
 | 8 | Medium | [String to Integer \(atoi\)](leetcode-medium/leetcode-8-string-to-integer-atoi.md) |
+| 14 | Easy | [Longest Common Prefix](leetcode-medium/leetcode-14-longest-common-prefix.md) |
 | 17 | Medium | [Letter Combination of a Phone Number](leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
 | 19 | Medium | [Remove Nth Node from End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
