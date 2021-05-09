@@ -29,7 +29,7 @@
   * [Delete Node in a Linked List ](../leetcode-easy/leetcode-237-delete-node-in-a-linked-list.md)
   * [Remove Nth node from end of the linked list ](../leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md)
   * [Reverse Linked List ](../leetcode-easy/leetcode-206-reverse-linked-list.md)
-  * Merge Two Sorted Lists 
+  * [Merge Two Sorted Lists ](../leetcode-easy/leetcode-21-merge-two-sorted-lists.md)
   * [Palindrome Linked List ](../leetcode-easy/leetcode-234-palindrome-linked-list.md)
   * Linked List Cycle 
 

@@ -10,6 +10,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 14 | Easy | [Longest Common Prefix](leetcode-medium/leetcode-14-longest-common-prefix.md) |
 | 17 | Medium | [Letter Combination of a Phone Number](leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
 | 19 | Medium | [Remove Nth Node from End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md) |
+| 21 | Easy | [Merge two Sorted Lists](leetcode-easy/leetcode-21-merge-two-sorted-lists.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
 | 28 | Easy | [Implement strStr\(\)](leetcode-easy/leetcode-28-implement-strstr.md) |
 | 34 | Medium | [First and Last position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
