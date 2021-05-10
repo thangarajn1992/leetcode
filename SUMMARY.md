@@ -74,4 +74,5 @@
 * [LeetCode Hard](leetcode-hard/README.md)
   * [Leetcode 745 Prefix and Suffix Search](leetcode-hard/leetcode-745-prefix-and-suffix-search.md)
   * [Leetcode 906 Super Palindromes](leetcode-hard/leetcode-906-super-palindromes.md)
+  * [Leetcode 1354 Construct Target Array With Multiple Sums](leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md)
 

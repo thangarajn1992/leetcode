@@ -57,6 +57,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |
 | 1302 | Medium | [Deepest Leaves Sum ](leetcode-medium/leetcode-1302-deepest-leaves-sum.md) |
 | 1306 | Medium | [Jump Game III](leetcode-medium/leetcode-1306-jump-game-iii.md) |
+| 1354 | Hard | [Construct Target Array With Multiple Sums](leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md) |
 | 1480 | Easy | [Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
 | 1642 | Medium | [Furthest Building You Can Reach](leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md) |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
