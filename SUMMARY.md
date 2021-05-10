@@ -61,6 +61,7 @@
   * [Leetcode 234 Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md)
   * [Leetcode 237 Delete Node in a Linked List](leetcode-easy/leetcode-237-delete-node-in-a-linked-list.md)
   * [Leetcode 242 Valid Anagram](leetcode-easy/leetcode-242-valid-anagram.md)
+  * [Leetcode 263 Ugly Number](leetcode-easy/leetcode-263-ugly-number.md)
   * [Leetcode 283 Move Zeroes](leetcode-easy/leetcode-283-move-zeroes.md)
   * [Leetcode 344 Reverse String](leetcode-easy/leetcode-344-reverse-string.md)
   * [Leetcode 349 Intersection of Two Arrays](leetcode-easy/leetcode-349-intersection-of-two-arrays.md)
