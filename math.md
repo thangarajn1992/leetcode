@@ -8,6 +8,7 @@ This page contains list of problems related to Mathematics
 | 202 | Easy | [Happy Number](leetcode-easy/leetcode-202-happy-number.md) |
 | 204 | Easy | [Count Primes](leetcode-easy/leetcode-204-count-primes.md) |
 | 263 | Easy | [Ugly Number](leetcode-easy/leetcode-204-count-primes.md) |
+| 264 | Medium | [Ugly Number II](leetcode-medium/leetcode-264-ugly-number-ii.md) |
 | 509 | Easy | [Fibonacci Number](leetcode-easy/leetcode-509-fibonacci-number.md) |
 | 906 | Hard | [Super Palindromes](leetcode-hard/leetcode-906-super-palindromes.md) |
 

@@ -40,6 +40,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 237 | Easy | [Delete Node in a Linked List](leetcode-easy/leetcode-237-delete-node-in-a-linked-list.md) |
 | 242 | Easy | [Valid Anagram](leetcode-easy/leetcode-242-valid-anagram.md) |
 | 263 | Easy | [Ugly Number](leetcode-easy/leetcode-263-ugly-number.md) |
+| 264 | Medium | [Ugly Number II](leetcode-medium/leetcode-264-ugly-number-ii.md) |
 | 283 | Easy | [Move Zeroes](leetcode-easy/leetcode-283-move-zeroes.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
 | 344 | Easy | [Reverse String](leetcode-easy/leetcode-344-reverse-string.md) |
