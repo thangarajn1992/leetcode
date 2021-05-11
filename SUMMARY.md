@@ -68,6 +68,7 @@
   * [Leetcode 136 Single Number](leetcode-easy/leetcode-136-single-number.md)
   * [Leetcode 141 Linked List Cycle](leetcode-easy/leetcode-141-linked-list-cycle.md)
   * [Leetcode 155 Min Stack](leetcode-easy/leetcode-155-min-stack.md)
+  * [Leetcode 191 Number of 1 Bits](leetcode-easy/leetcode-191-number-of-1-bits.md)
   * [Leetcode 202 Happy Number](leetcode-easy/leetcode-202-happy-number.md)
   * [Leetcode 204 Count Primes](leetcode-easy/leetcode-204-count-primes.md)
   * [Leetcode 206 Reverse Linked List](leetcode-easy/leetcode-206-reverse-linked-list.md)

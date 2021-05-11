@@ -39,6 +39,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 141 | Easy | [Linked List Cycle](leetcode-easy/leetcode-141-linked-list-cycle.md) |
 | 155 | Easy | [Min Stack](leetcode-easy/leetcode-155-min-stack.md) |
 | 189 | Medium | [Rotate Array](leetcode-medium/leetcode-189-rotate-array.md) |
+| 191 | Easy | [Number of 1 bits](leetcode-easy/leetcode-191-number-of-1-bits.md) |
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
 | 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 202 | Easy | [Happy Number](leetcode-easy/leetcode-202-happy-number.md) |

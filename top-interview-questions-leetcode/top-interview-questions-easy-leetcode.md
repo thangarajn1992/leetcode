@@ -66,7 +66,7 @@
   * [Roman to Integer ](../leetcode-easy/leetcode-13-roman-to-integer.md)
 
 * Others 
-  * Number of 1 bits 
+  * [Number of 1 bits ](../leetcode-easy/leetcode-191-number-of-1-bits.md)
   * Hamming distance 
   * Reverse bits 
   * Pascal’s Triangle 
