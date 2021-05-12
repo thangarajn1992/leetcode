@@ -67,9 +67,9 @@
 
 * Others 
   * [Number of 1 bits ](../leetcode-easy/leetcode-191-number-of-1-bits.md)
-  * Hamming distance 
-  * Reverse bits 
-  * Pascal’s Triangle 
-  * Valid Parentheses 
-  * Missing Number
+  * [Hamming distance ](../leetcode-easy/leetcode-461-hamming-distance.md)
+  * [Reverse bits ](../leetcode-easy/leetcode-190-reverse-bits.md)
+  * [Pascal’s Triangle ](../leetcode-easy/leetcode-118-pascals-triangle.md)
+  * [Valid Parentheses ](../leetcode-easy/leetcode-20-valid-parentheses.md)
+  * [Missing Number](../leetcode-easy/leetcode-268-missing-number.md)
 

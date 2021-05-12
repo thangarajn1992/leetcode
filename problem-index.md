@@ -11,6 +11,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 14 | Easy | [Longest Common Prefix](leetcode-medium/leetcode-14-longest-common-prefix.md) |
 | 17 | Medium | [Letter Combination of a Phone Number](leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
 | 19 | Medium | [Remove Nth Node from End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md) |
+| 20 | Easy | [Valid Parentheses](leetcode-easy/leetcode-20-valid-parentheses.md) |
 | 21 | Easy | [Merge two Sorted Lists](leetcode-easy/leetcode-21-merge-two-sorted-lists.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
 | 28 | Easy | [Implement strStr\(\)](leetcode-easy/leetcode-28-implement-strstr.md) |
@@ -31,6 +32,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 104 | Easy | [Maximum Depth of Binary Tree](leetcode-easy/leetcode-104-maximum-depth-of-binary-tree.md) |
 | 108 | Easy | [Convert Sorted Array to Binary Search Tree](leetcode-easy/leetcode-108-convert-sorted-array-to-binary-search-tree.md) |
 | 109 | Medium | [Convert Sorted List to Binary Search Tree](leetcode-medium/leetcode-109-convert-sorted-list-to-binary-search-tree.md) |
+| 118 | Easy | [Pascal's Triangle](leetcode-easy/leetcode-118-pascals-triangle.md) |
 | 120 | Medium | [Triangle](leetcode-medium/leetcode-120-triangle.md) |
 | 121 | Easy | [Best Time to Buy and Sell stock](leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md) |
 | 122 | Easy | [Best Time to Buy and Sell stock II](leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md) |
@@ -39,6 +41,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 141 | Easy | [Linked List Cycle](leetcode-easy/leetcode-141-linked-list-cycle.md) |
 | 155 | Easy | [Min Stack](leetcode-easy/leetcode-155-min-stack.md) |
 | 189 | Medium | [Rotate Array](leetcode-medium/leetcode-189-rotate-array.md) |
+| 190 | Easy | [Reverse Bits](leetcode-easy/leetcode-190-reverse-bits.md) |
 | 191 | Easy | [Number of 1 bits](leetcode-easy/leetcode-191-number-of-1-bits.md) |
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
 | 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
@@ -50,6 +53,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 242 | Easy | [Valid Anagram](leetcode-easy/leetcode-242-valid-anagram.md) |
 | 263 | Easy | [Ugly Number](leetcode-easy/leetcode-263-ugly-number.md) |
 | 264 | Medium | [Ugly Number II](leetcode-medium/leetcode-264-ugly-number-ii.md) |
+| 268 | Easy | [Missing Number ](leetcode-easy/leetcode-268-missing-number.md) |
 | 278 | Easy | [First Bad Version](leetcode-easy/leetcode-278-first-bad-version.md) |
 | 283 | Easy | [Move Zeroes](leetcode-easy/leetcode-283-move-zeroes.md) |
 | 326 | Easy | [Power of three](leetcode-easy/leetcode-326-power-of-three.md) |
@@ -61,6 +65,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 384 | Medium | [Shuffle an Array](leetcode-medium/leetcode-384-shuffle-an-array.md) |
 | 387 | Easy | [First Unique Character in a String](leetcode-easy/leetcode-387-first-unique-character-in-a-string.md) |
 | 412 | Easy  | [Fizz Buzz](leetcode-easy/leetcode-412-fizz-buzz.md) |
+| 461 | Easy | [Hamming Distance](leetcode-easy/leetcode-461-hamming-distance.md) |
 | 474 | Medium | [Ones and Zeroes](leetcode-medium/leetcode-474-ones-and-zeroes.md) |
 | 509 | Easy | [Fibonacci Number](leetcode-easy/leetcode-509-fibonacci-number.md) |
 | 554 | Medium | [Brick Wall](leetcode-medium/leetcode-554-brick-wall.md) |
