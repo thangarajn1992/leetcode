@@ -56,6 +56,9 @@ This page contains the index of Leetcode problems that are documented in this re
 | 268 | Easy | [Missing Number ](leetcode-easy/leetcode-268-missing-number.md) |
 | 278 | Easy | [First Bad Version](leetcode-easy/leetcode-278-first-bad-version.md) |
 | 283 | Easy | [Move Zeroes](leetcode-easy/leetcode-283-move-zeroes.md) |
+| 303 | Easy | [Range Sum Query](leetcode-easy/leetcode-303-range-sum-query-immutable.md) |
+| 304 | Medium | [Range Sum Query 2D - Immutable](leetcode-medium/leetcode-304-range-sum-query-2d-immutable.md) |
+| 307 | Medium | [Range Sum Query 1D - Mutable](leetcode-medium/leetcode-307-range-sum-query-mutable.md) |
 | 326 | Easy | [Power of three](leetcode-easy/leetcode-326-power-of-three.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
 | 344 | Easy | [Reverse String](leetcode-easy/leetcode-344-reverse-string.md) |
