@@ -30,6 +30,7 @@
   * [LeetCode 98 Validate Binary Search Tree](leetcode-medium/leetcode-98-validate-binary-search-tree.md)
   * [Leetcode 102 Binary Tree Level Order Traversal](leetcode-medium/leetcode-102-binary-tree-level-order-traversal.md)
   * [Leetcode 109 Convert Sorted List to Binary Search Tree](leetcode-medium/leetcode-109-convert-sorted-list-to-binary-search-tree.md)
+  * [Leetcode 114 Flatten Binary Tree to Linked List](leetcode-medium/leetcode-114-flatten-binary-tree-to-linked-list.md)
   * [Leetcode 120 Triangle](leetcode-medium/leetcode-120-triangle.md)
   * [Leetcode 189 Rotate Array](leetcode-medium/leetcode-189-rotate-array.md)
   * [Leetcode 198 House Robber](leetcode-medium/leetcode-198-house-robber.md)
