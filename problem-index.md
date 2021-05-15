@@ -5,6 +5,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | **Leetcode No** | **Difficulty** | **Solution Link** |
 | :--- | :--- | :--- |
 | 1 | Easy | [Two Sum](leetcode-easy/leetcode-1-two-sum.md) |
+| 3 | Medium | [Longest Substring Without Repeating Characters](leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md) |
 | 7 | Easy | [Reverse Integer](leetcode-easy/leetcode-7-reverse-integer.md) |
 | 8 | Medium | [String to Integer \(atoi\)](leetcode-medium/leetcode-8-string-to-integer-atoi.md) |
 | 13 | Easy | [Roman to Integer](leetcode-easy/leetcode-13-roman-to-integer.md) |
@@ -20,6 +21,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 38 | Medium | [Count and Say](leetcode-medium/leetcode-38-count-and-say.md) |
 | 45 | Medium | [Jump Game II](leetcode-medium/leetcode-45-jump-game-ii.md) |
 | 48 | Medium | [Rotate Image](leetcode-medium/leetcode-48-rotate-image.md) |
+| 49 | Medium | [Group Anagrams](leetcode-medium/leetcode-49-group-anagrams.md) |
 | 53 | Easy | [Maximum Sub-array](leetcode-easy/leetcode-53-maximum-subarray.md) |
 | 55 | Medium | [Jump Game](leetcode-medium/leetcode-55-jump-game.md) |
 | 63 | Medium | [Unique Paths II](leetcode-medium/leetcode-63-unique-paths-ii.md) |
