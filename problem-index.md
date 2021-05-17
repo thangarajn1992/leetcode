@@ -26,6 +26,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 53 | Easy | [Maximum Sub-array](leetcode-easy/leetcode-53-maximum-subarray.md) |
 | 55 | Medium | [Jump Game](leetcode-medium/leetcode-55-jump-game.md) |
 | 63 | Medium | [Unique Paths II](leetcode-medium/leetcode-63-unique-paths-ii.md) |
+| 65 | Hard | [Valid Number](leetcode-hard/leetcode-65-valid-number.md) |
 | 66 | Easy | [Plus One](leetcode-easy/leetcode-66-plus-one.md) |
 | 70 | Easy | [Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md) |
 | 86 | Medium | [Partition List](leetcode-medium/leetcode-86-partition-list.md) |
@@ -91,7 +92,9 @@ This page contains the index of Leetcode problems that are documented in this re
 | 745 | Hard | [Prefix and Suffix Search](leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
 |  |  |  |
 | 906 | Hard | [Super Palindromes](leetcode-hard/leetcode-906-super-palindromes.md) |
+| 968 | Hard | [Binary Tree Cameras](leetcode-hard/leetcode-968-binary-tree-cameras.md) |
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |
+| 1048 | Medium | [Longest String Chain](leetcode-medium/leetcode-1048-longest-string-chain.md) |
 | 1302 | Medium | [Deepest Leaves Sum ](leetcode-medium/leetcode-1302-deepest-leaves-sum.md) |
 | 1306 | Medium | [Jump Game III](leetcode-medium/leetcode-1306-jump-game-iii.md) |
 | 1354 | Hard | [Construct Target Array With Multiple Sums](leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md) |
@@ -104,6 +107,14 @@ This page contains the index of Leetcode problems that are documented in this re
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1845 | Medium | [Seat Reservation Manager](leetcode-medium/leetcode-1845-seat-reservation-manager.md) |
 | 1846 | Medium | [Maximum Element After Decreasing and Rearranging](leetcode-medium/leetcode-1846-maximum-element-after-decreasing-and-rearranging.md) |
+| 1859 | Easy | [Sorting the Sentence](leetcode-easy/leetcode-1859-sorting-the-sentence.md) |
+| 1860 | Medium | [Incremental Memory Leak](leetcode-medium/leetcode-1860-incremental-memory-leak.md) |
+| 1861 | Medium | [Rotating the Box](leetcode-medium/leetcode-1861-rotating-the-box.md) |
+| 1862 | Hard | [Sum of Floored Pairs](leetcode-hard/leetcode-1862-sum-of-floored-pairs.md) |
+| 1863 | Easy | [Sum of All Subset XOR Totals](leetcode-easy/leetcode-1863-sum-of-all-subset-xor-totals.md) |
+| 1864 | Medium | [Minimum Number of Swaps to Make the Binary String Alternating](leetcode-medium/leetcode-1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.md) |
+| 1865 | Medium | [Finding Pairs with Certain Sum](leetcode-medium/leetcode-1865-finding-pairs-with-a-certain-sum.md) |
+| 1866 | Hard | [Number of Ways to Rearrange Sticks With K Sticks Visible](leetcode-hard/leetcode-1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.md) |
 
 
 
