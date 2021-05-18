@@ -40,6 +40,7 @@ This page contains list of problems that involves arrays
 | 387 | Easy | [First Unique Character in a String](leetcode-easy/leetcode-387-first-unique-character-in-a-string.md) |
 | 575 | Easy | [Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md) |
 | 583 | Medium | [Delete Operation for Two Strings](leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
+| 609 | Medium | [Find Duplicate File in System](leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
 | 665 | Medium | [Non-decreasing array](leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 696 | Easy | [Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |

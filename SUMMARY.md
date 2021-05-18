@@ -45,6 +45,7 @@
   * [Leetcode 474 Ones and Zeroes](leetcode-medium/leetcode-474-ones-and-zeroes.md)
   * [Leetcode 554 Brick Wall](leetcode-medium/leetcode-554-brick-wall.md)
   * [Leetcode 583 Delete Operation for Two Strings](leetcode-medium/leetcode-583-delete-operation-for-two-strings.md)
+  * [Leetcode 609 Find Duplicate File in System](leetcode-medium/leetcode-609-find-duplicate-file-in-system.md)
   * [Leetcode 665 Non-decreasing Array](leetcode-medium/leetcode-665-non-decreasing-array.md)
   * [Leetcode 970 Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md)
   * [Leetcode 1048 Longest String Chain](leetcode-medium/leetcode-1048-longest-string-chain.md)

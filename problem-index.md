@@ -86,6 +86,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 583 | Medium | [Delete Operation for two strings](leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
 | 589 | Easy | [N Ary Tree Preorder Traversal](leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md) |
 |  |  |  |
+| 609 | Medium | [Find Duplicate File in System](leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
 | 665 | Medium | [Non-decreasing Array](leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 696 | Easy | [Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
 |  |  |  |
