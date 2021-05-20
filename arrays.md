@@ -38,6 +38,8 @@ This page contains list of problems that involves arrays
 | 349 | Easy | [Intersection of Two Array](leetcode-easy/leetcode-349-intersection-of-two-arrays.md) |
 | 350 | Easy | [Intersection of Two Array II](leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |
 | 387 | Easy | [First Unique Character in a String](leetcode-easy/leetcode-387-first-unique-character-in-a-string.md) |
+| 453 | Easy | [Minimum Moves to Equal Array Elements](leetcode-easy/leetcode-453-minimum-moves-to-equal-array-elements.md) |
+| 462 | Medium | [Minimum Moves to Equal Array Elements II](leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
 | 575 | Easy | [Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md) |
 | 583 | Medium | [Delete Operation for Two Strings](leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | Medium | [Find Duplicate File in System](leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
@@ -45,10 +47,12 @@ This page contains list of problems that involves arrays
 | 696 | Easy | [Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |
 | 1048 | Medium | [Longest String Chain](leetcode-medium/leetcode-1048-longest-string-chain.md) |
+| 1239 | Medium | [Maximum Length of a Concatenated String with Unique Characters](leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
 | 1306 | Medium | [Jump Game III](leetcode-medium/leetcode-1306-jump-game-iii.md) |
 | 1354 | Hard  | [Construct Target Array With Multiple Sums](leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md) |
 | 1423 | Medium | [Maximum Points You Can Obtain from Cards](leetcode-medium/leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
 | 1480 | Easy | [Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
+| 1647 | Medium | [Minimum Deletions to Make Character Frequencies Unique](leetcode-medium/leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1846 | Medium | [Maximum Element After Decreasing and Rearranging](leetcode-medium/leetcode-1846-maximum-element-after-decreasing-and-rearranging.md) |
 | 1859 | Easy | [Sorting the Sentence](leetcode-easy/leetcode-1859-sorting-the-sentence.md) |

@@ -77,7 +77,9 @@ This page contains the index of Leetcode problems that are documented in this re
 | 387 | Easy | [First Unique Character in a String](leetcode-easy/leetcode-387-first-unique-character-in-a-string.md) |
 |  |  |  |
 | 412 | Easy  | [Fizz Buzz](leetcode-easy/leetcode-412-fizz-buzz.md) |
+| 453 | Easy | [Minimum Moves to Equal Array Elements](leetcode-easy/leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 461 | Easy | [Hamming Distance](leetcode-easy/leetcode-461-hamming-distance.md) |
+| 462 | Medium | [Minimum Moves to Equal Array Elements II](leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
 | 474 | Medium | [Ones and Zeroes](leetcode-medium/leetcode-474-ones-and-zeroes.md) |
 |  |  |  |
 | 509 | Easy | [Fibonacci Number](leetcode-easy/leetcode-509-fibonacci-number.md) |
@@ -95,8 +97,13 @@ This page contains the index of Leetcode problems that are documented in this re
 | 906 | Hard | [Super Palindromes](leetcode-hard/leetcode-906-super-palindromes.md) |
 | 968 | Hard | [Binary Tree Cameras](leetcode-hard/leetcode-968-binary-tree-cameras.md) |
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |
+|  |  |  |
 | 1048 | Medium | [Longest String Chain](leetcode-medium/leetcode-1048-longest-string-chain.md) |
+|  |  |  |
+| 1239 | Medium | [Maximum Length of a Concatenated String with Unique Characters](leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
+|  |  |  |
 | 1302 | Medium | [Deepest Leaves Sum ](leetcode-medium/leetcode-1302-deepest-leaves-sum.md) |
+| 1304 | Easy | [Find N Unique Integers Sum up to Zero](leetcode-easy/leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
 | 1306 | Medium | [Jump Game III](leetcode-medium/leetcode-1306-jump-game-iii.md) |
 | 1354 | Hard | [Construct Target Array With Multiple Sums](leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md) |
 |  |  |  |
@@ -104,6 +111,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 1480 | Easy | [Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
 |  |  |  |
 | 1642 | Medium | [Furthest Building You Can Reach](leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md) |
+| 1647 | Medium | [Minimum Deletions to Make Character Frequencies Unique](leetcode-medium/leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
 |  |  |  |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1845 | Medium | [Seat Reservation Manager](leetcode-medium/leetcode-1845-seat-reservation-manager.md) |
