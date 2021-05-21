@@ -45,6 +45,7 @@ This page contains list of problems that involves arrays
 | 609 | Medium | [Find Duplicate File in System](leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
 | 665 | Medium | [Non-decreasing array](leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 696 | Easy | [Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
+| 890 | Medium | [Find and Replace pattern](leetcode-medium/leetcode-890-find-and-replace-pattern.md) |
 | 970 | Medium | [Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md) |
 | 1048 | Medium | [Longest String Chain](leetcode-medium/leetcode-1048-longest-string-chain.md) |
 | 1239 | Medium | [Maximum Length of a Concatenated String with Unique Characters](leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
