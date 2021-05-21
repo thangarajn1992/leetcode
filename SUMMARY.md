@@ -29,6 +29,7 @@
   * [Leetcode 55 Jump Game](leetcode-medium/leetcode-55-jump-game.md)
   * [Leetcode 63 Unique Paths II](leetcode-medium/leetcode-63-unique-paths-ii.md)
   * [LeetCode 86 Partition List](leetcode-medium/leetcode-86-partition-list.md)
+  * [Leetcode 92 Reverse Linked List II](leetcode-medium/leetcode-92-reverse-linked-list-ii.md)
   * [LeetCode 98 Validate Binary Search Tree](leetcode-medium/leetcode-98-validate-binary-search-tree.md)
   * [Leetcode 102 Binary Tree Level Order Traversal](leetcode-medium/leetcode-102-binary-tree-level-order-traversal.md)
   * [Leetcode 103 Binary Tree Zigzag Level Order Traversal](leetcode-medium/leetcode-103-binary-tree-zigzag-level-order-traversal.md)

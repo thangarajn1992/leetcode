@@ -31,6 +31,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 70 | Easy | [Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md) |
 | 86 | Medium | [Partition List](leetcode-medium/leetcode-86-partition-list.md) |
 | 88 | Easy | [Merge Sorted Array](leetcode-easy/leetcode-88-merge-sorted-array.md) |
+| 92 | Medium | [Reverse Linked List II](leetcode-medium/leetcode-92-reverse-linked-list-ii.md) |
 | 94 | Easy | [Binary Tree Inorder Traversal](leetcode-easy/leetcode-94-binary-tree-inorder-traversal.md) |
 | 98 | Medium | [Validate BST \( Binary Search Tree \)](leetcode-medium/leetcode-98-validate-binary-search-tree.md) |
 |  |  |  |

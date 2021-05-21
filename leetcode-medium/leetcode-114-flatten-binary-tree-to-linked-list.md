@@ -47,17 +47,17 @@ public:
     void flatten(TreeNode* root) {
         if(root == nullptr)
             return;
-        deque<TreeNode*> NodeStack;
+        stack<TreeNode*> NodeStack;
         TreeNode *prev = nullptr;
-        NodeStack.push_back(root);
+        NodeStack.push(root);
         while(!NodeStack.empty())
         {
-            TreeNode* curr = NodeStack.back();
-            NodeStack.pop_back();
+            TreeNode* curr = NodeStack.top();
+            NodeStack.pop();
             if(curr->right)
-                NodeStack.push_back(curr->right);
+                NodeStack.push(curr->right);
             if(curr->left)
-                NodeStack.push_back(curr->left);
+                NodeStack.push(curr->left);
             if(prev) prev->right = curr;
             prev = curr;
             curr->left = curr->right = nullptr;

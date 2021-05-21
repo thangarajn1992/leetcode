@@ -7,6 +7,7 @@ This page contains list of problems involving linked lists
 | 19 | Medium | [Remove Nth Node from End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md) |
 | 21 | Easy | [Merge Two Sorted Lists](leetcode-easy/leetcode-21-merge-two-sorted-lists.md) |
 | 86 | Medium | [Partition List](leetcode-medium/leetcode-86-partition-list.md) |
+| 92 | Medium | [Reverse Linked List II](leetcode-medium/leetcode-92-reverse-linked-list-ii.md) |
 | 109 | Medium | [Convert Sorted List to Binary Search Tree](leetcode-medium/leetcode-109-convert-sorted-list-to-binary-search-tree.md) |
 | 114 | Medium | [Flatten Binary Tree to Linked List](leetcode-medium/leetcode-114-flatten-binary-tree-to-linked-list.md) |
 | 141 | Easy | [Linked List Cycle](leetcode-easy/leetcode-141-linked-list-cycle.md) |
