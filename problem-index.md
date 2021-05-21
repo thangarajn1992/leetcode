@@ -30,6 +30,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 65 | Hard | [Valid Number](leetcode-hard/leetcode-65-valid-number.md) |
 | 66 | Easy | [Plus One](leetcode-easy/leetcode-66-plus-one.md) |
 | 70 | Easy | [Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md) |
+| 82 | Medium | [Remove Duplicates from Sorted List II](leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md) |
 | 83 | Easy | [Remove Duplicates from Sorted List](leetcode-easy/leetcode-83-remove-duplicates-from-sorted-list.md) |
 | 86 | Medium | [Partition List](leetcode-medium/leetcode-86-partition-list.md) |
 | 88 | Easy | [Merge Sorted Array](leetcode-easy/leetcode-88-merge-sorted-array.md) |

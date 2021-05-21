@@ -29,6 +29,7 @@
   * [Leetcode 49 Group Anagrams](leetcode-medium/leetcode-49-group-anagrams.md)
   * [Leetcode 55 Jump Game](leetcode-medium/leetcode-55-jump-game.md)
   * [Leetcode 63 Unique Paths II](leetcode-medium/leetcode-63-unique-paths-ii.md)
+  * [Leetcode 82 Remove Duplicates from Sorted List II](leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md)
   * [LeetCode 86 Partition List](leetcode-medium/leetcode-86-partition-list.md)
   * [Leetcode 92 Reverse Linked List II](leetcode-medium/leetcode-92-reverse-linked-list-ii.md)
   * [LeetCode 98 Validate Binary Search Tree](leetcode-medium/leetcode-98-validate-binary-search-tree.md)
