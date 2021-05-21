@@ -78,6 +78,7 @@
   * [Leetcode 53 Maximum Subarray](leetcode-easy/leetcode-53-maximum-subarray.md)
   * [Leetcode 66 Plus One](leetcode-easy/leetcode-66-plus-one.md)
   * [Leetcode 70 Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md)
+  * [Leetcode 83 Remove Duplicates from Sorted List](leetcode-easy/leetcode-83-remove-duplicates-from-sorted-list.md)
   * [Leetcode 88 Merge Sorted Array](leetcode-easy/leetcode-88-merge-sorted-array.md)
   * [Leetcode 94 Binary Tree Inorder Traversal](leetcode-easy/leetcode-94-binary-tree-inorder-traversal.md)
   * [Leetcode 101 Symmetric Tree](leetcode-easy/leetcode-101-symmetric-tree.md)
