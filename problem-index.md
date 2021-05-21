@@ -6,6 +6,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | :--- | :--- | :--- |
 |  |  | 1-100 |
 | 1 | Easy | [Two Sum](leetcode-easy/leetcode-1-two-sum.md) |
+| 2 | Medium | [Add Two Numbers](leetcode-medium/leetcode-2-add-two-numbers.md) |
 | 3 | Medium | [Longest Substring Without Repeating Characters](leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md) |
 | 7 | Easy | [Reverse Integer](leetcode-easy/leetcode-7-reverse-integer.md) |
 | 8 | Medium | [String to Integer \(atoi\)](leetcode-medium/leetcode-8-string-to-integer-atoi.md) |

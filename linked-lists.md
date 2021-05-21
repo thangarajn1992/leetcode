@@ -4,6 +4,7 @@ This page contains list of problems involving linked lists
 
 | Leetcode No | Difficulty | Solution Link |
 | :--- | :--- | :--- |
+| 2 | Medium | [Add Two Numbers](leetcode-medium/leetcode-2-add-two-numbers.md) |
 | 19 | Medium | [Remove Nth Node from End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md) |
 | 21 | Easy | [Merge Two Sorted Lists](leetcode-easy/leetcode-21-merge-two-sorted-lists.md) |
 | 86 | Medium | [Partition List](leetcode-medium/leetcode-86-partition-list.md) |

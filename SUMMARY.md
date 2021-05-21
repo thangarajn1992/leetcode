@@ -15,6 +15,7 @@
   * [Top Interview Questions - Medium \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-medium-leetcode.md)
   * [Top Interview Questions - Hard \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-hard-leetcode.md)
 * [LeetCode Medium](leetcode-medium/README.md)
+  * [Leetcode 2 Add Two Numbers](leetcode-medium/leetcode-2-add-two-numbers.md)
   * [Leetcode 3 Longest Substring Without Repeating Characters](leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md)
   * [Leetcode 8 String to Integer \(atoi\)](leetcode-medium/leetcode-8-string-to-integer-atoi.md)
   * [Leetcode 14 Longest Common Prefix](leetcode-medium/leetcode-14-longest-common-prefix.md)
