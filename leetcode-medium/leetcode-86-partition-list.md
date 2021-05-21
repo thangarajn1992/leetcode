@@ -1,16 +1,62 @@
 # LeetCode 86 Partition List
 
-This page contains list of problems involving linked lists
+## Problem Statement
 
-**Total**: 3
+[https://leetcode.com/problems/partition-list/](https://leetcode.com/problems/partition-list/)
 
-| Leetcode No | Difficulty | Solution Link |
-| :--- | :--- | :--- |
-| 19 | Medium | [Remove Nth Node from End of List](leetcode-19-remove-nth-node-from-end-of-list.md) |
-| 86 | Medium | [Partition List](leetcode-86-partition-list.md) |
-| 234 | Easy | [Palindrome Linked List](../leetcode-easy/leetcode-234-palindrome-linked-list.md) |
+Given the `head` of a linked list and a value `x`, partition it such that all nodes **less than** `x` come before nodes **greater than or equal** to `x`.
 
+You should **preserve** the original relative order of the nodes in each of the two partitions.
 
+**Example 1:** ![](https://assets.leetcode.com/uploads/2021/01/04/partition.jpg)
 
+```text
+Input: head = [1,4,3,2,5,2], x = 3
+Output: [1,2,2,4,3,5]
+```
 
+**Example 2:**
+
+```text
+Input: head = [2,1], x = 2
+Output: [1,2]
+```
+
+**Constraints:**
+
+* The number of nodes in the list is in the range `[0, 200]`.
+* `-100 <= Node.val <= 100`
+* `-200 <= x <= 200`
+
+## Solution
+
+```cpp
+class Solution {
+public:
+    ListNode* partition(ListNode* head, int x) 
+    {
+        ListNode* beforehead = new ListNode(0);
+        ListNode* bf = beforehead;
+        ListNode* afterhead = new ListNode(0);
+        ListNode* af = afterhead;
+        while(head != nullptr)
+        {
+            if(head->val < x)
+            {
+                bf->next = head;
+                bf = bf->next;
+            }
+            else
+            {
+                af->next = head;
+                af = af->next;
+            }
+            head = head->next;
+        }
+        af->next = nullptr;
+        bf->next = afterhead->next;
+        return beforehead->next;
+    }
+};
+```
 
