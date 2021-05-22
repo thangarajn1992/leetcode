@@ -65,10 +65,11 @@ This page contains the index of Leetcode problems that are documented in this re
 | 191 | Easy | [Number of 1 bits](leetcode-easy/leetcode-191-number-of-1-bits.md) |
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |
 |  |  |  |
-| 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 202 | Easy | [Happy Number](leetcode-easy/leetcode-202-happy-number.md) |
+| 203 | Easy | [Remove Linked List Elements](leetcode-easy/leetcode-203-remove-linked-list-elements.md) |
 | 204 | Easy | [Count Primes](leetcode-easy/leetcode-204-count-primes.md) |
 | 206 | Easy | [Reverse Linked List](leetcode-easy/leetcode-206-reverse-linked-list.md) |
+| 217 | Easy | [Contains Duplicate](leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 234 | Easy | [Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md) |
 | 237 | Easy | [Delete Node in a Linked List](leetcode-easy/leetcode-237-delete-node-in-a-linked-list.md) |
 | 242 | Easy | [Valid Anagram](leetcode-easy/leetcode-242-valid-anagram.md) |
