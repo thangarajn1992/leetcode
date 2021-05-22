@@ -132,6 +132,7 @@
   * [Leetcode 1859 Sorting the Sentence](leetcode-easy/leetcode-1859-sorting-the-sentence.md)
   * [Leetcode 1863 Sum of All Subset XOR Totals](leetcode-easy/leetcode-1863-sum-of-all-subset-xor-totals.md)
 * [LeetCode Hard](leetcode-hard/README.md)
+  * [Leetcode 51 N-Queens](leetcode-hard/leetcode-51-n-queens.md)
   * [Leetcode 65 Valid Number](leetcode-hard/leetcode-65-valid-number.md)
   * [Leetcode 745 Prefix and Suffix Search](leetcode-hard/leetcode-745-prefix-and-suffix-search.md)
   * [Leetcode 906 Super Palindromes](leetcode-hard/leetcode-906-super-palindromes.md)

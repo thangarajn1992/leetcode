@@ -25,6 +25,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 45 | Medium | [Jump Game II](leetcode-medium/leetcode-45-jump-game-ii.md) |
 | 48 | Medium | [Rotate Image](leetcode-medium/leetcode-48-rotate-image.md) |
 | 49 | Medium | [Group Anagrams](leetcode-medium/leetcode-49-group-anagrams.md) |
+| 51 | Hard | [N-Queens](leetcode-hard/leetcode-51-n-queens.md) |
 | 53 | Easy | [Maximum Sub-array](leetcode-easy/leetcode-53-maximum-subarray.md) |
 | 55 | Medium | [Jump Game](leetcode-medium/leetcode-55-jump-game.md) |
 | 61 | Medium | [Rotate List](leetcode-medium/leetcode-61-rotate-list.md) |
