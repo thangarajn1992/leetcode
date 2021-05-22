@@ -7,6 +7,7 @@ This page contains list of problems involving linked lists
 | 2 | Medium | [Add Two Numbers](leetcode-medium/leetcode-2-add-two-numbers.md) |
 | 19 | Medium | [Remove Nth Node from End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md) |
 | 21 | Easy | [Merge Two Sorted Lists](leetcode-easy/leetcode-21-merge-two-sorted-lists.md) |
+| 61 | Medium | [Rotate List](leetcode-medium/leetcode-61-rotate-list.md) |
 | 82 | Medium | [Remove Duplicates from Sorted List II](leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md) |
 | 83 | Easy | [Remove Duplicates from Sorted List](leetcode-easy/leetcode-83-remove-duplicates-from-sorted-list.md) |
 | 86 | Medium | [Partition List](leetcode-medium/leetcode-86-partition-list.md) |

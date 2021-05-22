@@ -28,6 +28,7 @@
   * [Leetcode 48 Rotate Image](leetcode-medium/leetcode-48-rotate-image.md)
   * [Leetcode 49 Group Anagrams](leetcode-medium/leetcode-49-group-anagrams.md)
   * [Leetcode 55 Jump Game](leetcode-medium/leetcode-55-jump-game.md)
+  * [Leetcode 61 Rotate List](leetcode-medium/leetcode-61-rotate-list.md)
   * [Leetcode 63 Unique Paths II](leetcode-medium/leetcode-63-unique-paths-ii.md)
   * [Leetcode 82 Remove Duplicates from Sorted List II](leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md)
   * [LeetCode 86 Partition List](leetcode-medium/leetcode-86-partition-list.md)
