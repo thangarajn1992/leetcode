@@ -74,6 +74,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 268 | Easy | [Missing Number ](leetcode-easy/leetcode-268-missing-number.md) |
 | 278 | Easy | [First Bad Version](leetcode-easy/leetcode-278-first-bad-version.md) |
 | 283 | Easy | [Move Zeroes](leetcode-easy/leetcode-283-move-zeroes.md) |
+| 287 | Medium | [Find the Duplicate Number](leetcode-medium/leetcode-287-find-the-duplicate-number.md) |
 |  |  |  |
 | 303 | Easy | [Range Sum Query](leetcode-easy/leetcode-303-range-sum-query-immutable.md) |
 | 304 | Medium | [Range Sum Query 2D - Immutable](leetcode-medium/leetcode-304-range-sum-query-2d-immutable.md) |

@@ -33,6 +33,7 @@ This page contains list of problems that involves arrays
 | 242 | Easy | [Valid Anagram](leetcode-easy/leetcode-242-valid-anagram.md) |
 | 278 | Easy | [First Bad Version](leetcode-easy/leetcode-278-first-bad-version.md) |
 | 283 | Easy | [Move Zeroes](leetcode-easy/leetcode-283-move-zeroes.md) |
+| 287 | Medium | [Find the duplicate number](leetcode-medium/leetcode-287-find-the-duplicate-number.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
 | 344 | Easy | [Reverse String](leetcode-easy/leetcode-344-reverse-string.md) |
 | 349 | Easy | [Intersection of Two Array](leetcode-easy/leetcode-349-intersection-of-two-arrays.md) |

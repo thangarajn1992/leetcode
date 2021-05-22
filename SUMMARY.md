@@ -43,6 +43,7 @@
   * [Leetcode 189 Rotate Array](leetcode-medium/leetcode-189-rotate-array.md)
   * [Leetcode 198 House Robber](leetcode-medium/leetcode-198-house-robber.md)
   * [Leetcode 264 Ugly Number II](leetcode-medium/leetcode-264-ugly-number-ii.md)
+  * [Leetcode 287 Find the Duplicate Number](leetcode-medium/leetcode-287-find-the-duplicate-number.md)
   * [Leetcode 304 Range Sum Query 2D - Immutable](leetcode-medium/leetcode-304-range-sum-query-2d-immutable.md)
   * [Leetcode 307 Range Sum Query - Mutable](leetcode-medium/leetcode-307-range-sum-query-mutable.md)
   * [Leetcode 341 Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md)
