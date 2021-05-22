@@ -16,6 +16,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 19 | Medium | [Remove Nth Node from End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md) |
 | 20 | Easy | [Valid Parentheses](leetcode-easy/leetcode-20-valid-parentheses.md) |
 | 21 | Easy | [Merge two Sorted Lists](leetcode-easy/leetcode-21-merge-two-sorted-lists.md) |
+| 24 | Medium | [Swap nodes in pairs](leetcode-medium/leetcode-24-swap-nodes-in-pairs.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
 | 28 | Easy | [Implement strStr\(\)](leetcode-easy/leetcode-28-implement-strstr.md) |
 | 34 | Medium | [First and Last position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
@@ -58,6 +59,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 144 | Easy | [Binary Tree Preorder Traversal](leetcode-easy/leetcode-144-binary-tree-preorder-traversal.md) |
 | 145 | Easy | [Binary Tree Postorder Traversal](leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md) |
 | 155 | Easy | [Min Stack](leetcode-easy/leetcode-155-min-stack.md) |
+| 160 | Easy | [Intersection of two linked lists](leetcode-easy/leetcode-160-intersection-of-two-linked-lists.md) |
 | 189 | Medium | [Rotate Array](leetcode-medium/leetcode-189-rotate-array.md) |
 | 190 | Easy | [Reverse Bits](leetcode-easy/leetcode-190-reverse-bits.md) |
 | 191 | Easy | [Number of 1 bits](leetcode-easy/leetcode-191-number-of-1-bits.md) |

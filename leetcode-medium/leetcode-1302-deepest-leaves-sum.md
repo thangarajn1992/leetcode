@@ -45,6 +45,7 @@ public:
                 max_depth = depth;
                 sum = root->val;
             }
+            return;
         }
         deepestLeavesSumUtil(root->left, depth + 1);
         deepestLeavesSumUtil(root->right, depth + 1);
