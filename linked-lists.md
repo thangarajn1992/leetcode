@@ -14,6 +14,7 @@ This page contains list of problems involving linked lists
 | 109 | Medium | [Convert Sorted List to Binary Search Tree](leetcode-medium/leetcode-109-convert-sorted-list-to-binary-search-tree.md) |
 | 114 | Medium | [Flatten Binary Tree to Linked List](leetcode-medium/leetcode-114-flatten-binary-tree-to-linked-list.md) |
 | 141 | Easy | [Linked List Cycle](leetcode-easy/leetcode-141-linked-list-cycle.md) |
+| 142 | Medium | [Linked List Cycle II](leetcode-medium/leetcode-142-linked-list-cycle-ii.md) |
 | 206 | Easy | [Reverse Linked List](leetcode-easy/leetcode-206-reverse-linked-list.md) |
 | 234 | Easy | [Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md) |
 | 237 | Easy | [Delete Node in a Linked List](leetcode-easy/leetcode-237-delete-node-in-a-linked-list.md) |

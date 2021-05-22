@@ -53,6 +53,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 125 | Easy | [Valid Palindrome](leetcode-easy/leetcode-125-valid-palindrome.md) |
 | 136 | Easy | [Single Number](leetcode-easy/leetcode-136-single-number.md) |
 | 141 | Easy | [Linked List Cycle](leetcode-easy/leetcode-141-linked-list-cycle.md) |
+| 142 | Medium | [Linked List Cycle II](leetcode-medium/leetcode-142-linked-list-cycle-ii.md) |
 | 144 | Easy | [Binary Tree Preorder Traversal](leetcode-easy/leetcode-144-binary-tree-preorder-traversal.md) |
 | 145 | Easy | [Binary Tree Postorder Traversal](leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md) |
 | 155 | Easy | [Min Stack](leetcode-easy/leetcode-155-min-stack.md) |

@@ -39,6 +39,7 @@
   * [Leetcode 109 Convert Sorted List to Binary Search Tree](leetcode-medium/leetcode-109-convert-sorted-list-to-binary-search-tree.md)
   * [Leetcode 114 Flatten Binary Tree to Linked List](leetcode-medium/leetcode-114-flatten-binary-tree-to-linked-list.md)
   * [Leetcode 120 Triangle](leetcode-medium/leetcode-120-triangle.md)
+  * [Leetcode 142 Linked List Cycle II](leetcode-medium/leetcode-142-linked-list-cycle-ii.md)
   * [Leetcode 189 Rotate Array](leetcode-medium/leetcode-189-rotate-array.md)
   * [Leetcode 198 House Robber](leetcode-medium/leetcode-198-house-robber.md)
   * [Leetcode 264 Ugly Number II](leetcode-medium/leetcode-264-ugly-number-ii.md)
