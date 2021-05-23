@@ -144,6 +144,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 1865 | Medium | [Finding Pairs with Certain Sum](leetcode-medium/leetcode-1865-finding-pairs-with-a-certain-sum.md) |
 | 1866 | Hard | [Number of Ways to Rearrange Sticks With K Sticks Visible](leetcode-hard/leetcode-1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.md) |
 | 1869 | Easy | [Longer Contiguous Segments of Ones than Zeros](leetcode-hard/leetcode-1869-longer-contiguous-segments-of-ones-than-zeros.md) |
+| 1870 | Medium | [Minimum Speed to Arrive on Time](leetcode-medium/leetcode-1870-minimum-speed-to-arrive-on-time.md) |
 
 
 
