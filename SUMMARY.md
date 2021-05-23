@@ -140,4 +140,5 @@
   * [Leetcode 1354 Construct Target Array With Multiple Sums](leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md)
   * [Leetcode 1862 Sum of Floored Pairs](leetcode-hard/leetcode-1862-sum-of-floored-pairs.md)
   * [Leetcode 1866 Number of Ways to Rearrange Sticks With K Sticks Visible](leetcode-hard/leetcode-1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.md)
+  * [Leetcode 1869 Longer Contiguous Segments of Ones than Zeros](leetcode-hard/leetcode-1869-longer-contiguous-segments-of-ones-than-zeros.md)
 

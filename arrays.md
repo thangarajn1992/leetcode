@@ -61,6 +61,7 @@ This page contains list of problems that involves arrays
 | 1861 | Medium | [Rotating the Box](leetcode-medium/leetcode-1861-rotating-the-box.md) |
 | 1864 | Medium | [Minimum Number of Swaps to Make the Binary String Alternating](leetcode-medium/leetcode-1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.md) |
 | 1865 | Medium | [Finding Pairs with certain Sum](leetcode-medium/leetcode-1865-finding-pairs-with-a-certain-sum.md) |
+| 1869 | Easy | [Longer Contiguous Segments of Ones than Zeros](leetcode-hard/leetcode-1869-longer-contiguous-segments-of-ones-than-zeros.md) |
 
 
 

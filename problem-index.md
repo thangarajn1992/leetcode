@@ -143,6 +143,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 1864 | Medium | [Minimum Number of Swaps to Make the Binary String Alternating](leetcode-medium/leetcode-1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.md) |
 | 1865 | Medium | [Finding Pairs with Certain Sum](leetcode-medium/leetcode-1865-finding-pairs-with-a-certain-sum.md) |
 | 1866 | Hard | [Number of Ways to Rearrange Sticks With K Sticks Visible](leetcode-hard/leetcode-1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.md) |
+| 1869 | Easy | [Longer Contiguous Segments of Ones than Zeros](leetcode-hard/leetcode-1869-longer-contiguous-segments-of-ones-than-zeros.md) |
 
 
 
