@@ -73,6 +73,7 @@
   * [Leetcode 1864 Minimum Number of Swaps to Make the Binary String Alternating](leetcode-medium/leetcode-1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.md)
   * [Leetcode 1865 Finding Pairs With a Certain Sum](leetcode-medium/leetcode-1865-finding-pairs-with-a-certain-sum.md)
   * [Leetcode 1870 Minimum Speed to Arrive on Time](leetcode-medium/leetcode-1870-minimum-speed-to-arrive-on-time.md)
+  * [Leetcode 1871 Jump Game VII](leetcode-medium/leetcode-1871-jump-game-vii.md)
 * [LeetCode Easy](leetcode-easy/README.md)
   * [Leetcode 1 Two Sum](leetcode-easy/leetcode-1-two-sum.md)
   * [Leetcode 7 Reverse Integer](leetcode-easy/leetcode-7-reverse-integer.md)

@@ -17,6 +17,7 @@ This page contains list of problems that are solved using dynamic programming.
 | 1048 | Medium | [Longest String Chain](leetcode-medium/leetcode-1048-longest-string-chain.md) |
 | 1239  | Medium | [Maximum Length of a Concatenated String with Unique Characters](leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
 | 1866 | Hard | [Number of Ways to Rearrange Sticks With K Sticks Visible](leetcode-hard/leetcode-1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.md) |
+| 1871 | Medium | [Jump Game VII](leetcode-medium/leetcode-1871-jump-game-vii.md) |
 
 
 
