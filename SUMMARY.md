@@ -101,6 +101,7 @@
   * [Leetcode 145 Binary Tree Postorder Traversal](leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md)
   * [Leetcode 155 Min Stack](leetcode-easy/leetcode-155-min-stack.md)
   * [Leetcode 160 Intersection of Two Linked Lists](leetcode-easy/leetcode-160-intersection-of-two-linked-lists.md)
+  * [Leetcode 169 Majority Element](leetcode-easy/leetcode-169-majority-element.md)
   * [Leetcode 190  Reverse Bits](leetcode-easy/leetcode-190-reverse-bits.md)
   * [Leetcode 191 Number of 1 Bits](leetcode-easy/leetcode-191-number-of-1-bits.md)
   * [Leetcode 202 Happy Number](leetcode-easy/leetcode-202-happy-number.md)

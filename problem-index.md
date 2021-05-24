@@ -61,6 +61,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 145 | Easy | [Binary Tree Postorder Traversal](leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md) |
 | 155 | Easy | [Min Stack](leetcode-easy/leetcode-155-min-stack.md) |
 | 160 | Easy | [Intersection of two linked lists](leetcode-easy/leetcode-160-intersection-of-two-linked-lists.md) |
+| 169 | Easy | [Majority Element](leetcode-easy/leetcode-169-majority-element.md) |
 | 189 | Medium | [Rotate Array](leetcode-medium/leetcode-189-rotate-array.md) |
 | 190 | Easy | [Reverse Bits](leetcode-easy/leetcode-190-reverse-bits.md) |
 | 191 | Easy | [Number of 1 bits](leetcode-easy/leetcode-191-number-of-1-bits.md) |
