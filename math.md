@@ -20,6 +20,7 @@ This page contains list of problems related to Mathematics
 | 509 | Easy | [Fibonacci Number](leetcode-easy/leetcode-509-fibonacci-number.md) |
 | 906 | Hard | [Super Palindromes](leetcode-hard/leetcode-906-super-palindromes.md) |
 | 1304 | Easy | [Find N Unique Integers Sum up to Zero](leetcode-easy/leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
+| 1486 | Easy | [XOR Operation in an Array](leetcode-easy/leetcode-1486-xor-operation-in-an-array.md) |
 | 1862 | Hard | [Sum of Floored pairs](leetcode-hard/leetcode-1862-sum-of-floored-pairs.md) |
 | 1863 | Easy | [Sum of All Subset XOR Totals](leetcode-easy/leetcode-1863-sum-of-all-subset-xor-totals.md) |
 

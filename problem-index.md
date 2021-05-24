@@ -129,6 +129,7 @@ This page contains the index of Leetcode problems that are documented in this re
 |  |  |  |
 | 1423 | Medium | [Maximum Points You Can Obtain from Cards](leetcode-medium/leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
 | 1480 | Easy | [Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
+| 1486 | Easy | [XOR Operation in an Array](leetcode-easy/leetcode-1486-xor-operation-in-an-array.md) |
 |  |  |  |
 | 1642 | Medium | [Furthest Building You Can Reach](leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md) |
 | 1647 | Medium | [Minimum Deletions to Make Character Frequencies Unique](leetcode-medium/leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |

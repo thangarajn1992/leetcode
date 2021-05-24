@@ -131,6 +131,7 @@
   * [Leetcode 709 To Lower Case](leetcode-easy/leetcode-709-to-lower-case.md)
   * [Leetcode 1304 Find N Unique Integers Sum up to Zero](leetcode-easy/leetcode-1304-find-n-unique-integers-sum-up-to-zero.md)
   * [Leetcode 1480 Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md)
+  * [Leetcode 1486 XOR Operation in an Array](leetcode-easy/leetcode-1486-xor-operation-in-an-array.md)
   * [Leetcode 1844 Replace All Digits with Characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md)
   * [Leetcode 1859 Sorting the Sentence](leetcode-easy/leetcode-1859-sorting-the-sentence.md)
   * [Leetcode 1863 Sum of All Subset XOR Totals](leetcode-easy/leetcode-1863-sum-of-all-subset-xor-totals.md)
