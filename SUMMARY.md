@@ -128,6 +128,7 @@
   * [Leetcode 575 Distribute Candies](leetcode-easy/leetcode-575-distribute-candies.md)
   * [Leetcode 589  N-ary Tree Preorder Traversal](leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md)
   * [Leetcode 696 Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md)
+  * [Leetcode 709 To Lower Case](leetcode-easy/leetcode-709-to-lower-case.md)
   * [Leetcode 1304 Find N Unique Integers Sum up to Zero](leetcode-easy/leetcode-1304-find-n-unique-integers-sum-up-to-zero.md)
   * [Leetcode 1480 Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md)
   * [Leetcode 1844 Replace All Digits with Characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md)
