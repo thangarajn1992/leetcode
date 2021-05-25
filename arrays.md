@@ -27,6 +27,7 @@ This page contains list of problems that involves arrays
 | 122 | Easy | [Best Time to Buy and Sell Stock II](leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md) |
 | 125 | Easy | [Valid Palindrome](leetcode-easy/leetcode-125-valid-palindrome.md) |
 | 136 | Easy | [Single Number](leetcode-easy/leetcode-136-single-number.md) |
+| 150 | Medium | [Evaluate Reverse Polish Notation](leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md) |
 | 169 | Easy | [Majority Element](leetcode-easy/leetcode-169-majority-element.md) |
 | 189 | Medium | [Rotate Array](leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](leetcode-medium/leetcode-198-house-robber.md) |

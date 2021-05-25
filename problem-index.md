@@ -59,6 +59,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 142 | Medium | [Linked List Cycle II](leetcode-medium/leetcode-142-linked-list-cycle-ii.md) |
 | 144 | Easy | [Binary Tree Preorder Traversal](leetcode-easy/leetcode-144-binary-tree-preorder-traversal.md) |
 | 145 | Easy | [Binary Tree Postorder Traversal](leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md) |
+| 150 | Medium | [Evaluate Reverse Polish Notation](leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md) |
 | 155 | Easy | [Min Stack](leetcode-easy/leetcode-155-min-stack.md) |
 | 160 | Easy | [Intersection of two linked lists](leetcode-easy/leetcode-160-intersection-of-two-linked-lists.md) |
 | 169 | Easy | [Majority Element](leetcode-easy/leetcode-169-majority-element.md) |
