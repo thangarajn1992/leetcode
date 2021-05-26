@@ -22,6 +22,7 @@
   * [Leetcode 17  Letter Combinations of a Phone Number](leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md)
   * [Leetcode 19 Remove Nth Node From End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md)
   * [Leetcode 24 Swap Nodes in Pairs](leetcode-medium/leetcode-24-swap-nodes-in-pairs.md)
+  * [Leetcode 33 Search in Rotated Sorted Array](leetcode-medium/leetcode-33-search-in-rotated-sorted-array.md)
   * [Leetcode 34 Find First and Last Position of Element in Sorted Array](leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md)
   * [Leetcode 36 Valid Sudoku](leetcode-medium/leetcode-36-valid-sudoku.md)
   * [Leetcode 38  Count and Say](leetcode-medium/leetcode-38-count-and-say.md)
