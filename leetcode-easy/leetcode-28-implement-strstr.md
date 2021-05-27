@@ -56,8 +56,7 @@ public:
                     match = false;
                     break;
                 }
-            if(match) 
-                return i;
+            if(match) return i;
         }
         return (needle.size()) ? -1 : 0;
     }
