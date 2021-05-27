@@ -46,11 +46,11 @@ countAndSay(4) = say "21" = one 2 + one 1 = "12" + "11" = "1211"
 class Solution {
 public:
     string countAndSay(int n) {
-        if(n == 1)
-            return "1";
-        if(n == 2)
-            return "11";
         string ret = "11";
+        if(n==1)
+            return "1";
+        if(n==2)
+            return "11";
         for(int i = 3; i <= n; i++)
         {
             int len = ret.size();
