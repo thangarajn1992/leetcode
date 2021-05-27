@@ -87,6 +87,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 303 | Easy | [Range Sum Query](leetcode-easy/leetcode-303-range-sum-query-immutable.md) |
 | 304 | Medium | [Range Sum Query 2D - Immutable](leetcode-medium/leetcode-304-range-sum-query-2d-immutable.md) |
 | 307 | Medium | [Range Sum Query 1D - Mutable](leetcode-medium/leetcode-307-range-sum-query-mutable.md) |
+| 318 | Medium | [Maximum Product of Word Lengths](leetcode-medium/leetcode-318-maximum-product-of-word-lengths.md) |
 | 326 | Easy | [Power of three](leetcode-easy/leetcode-326-power-of-three.md) |
 | 341 | Medium | [Flatten Nested List Iterator](leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
 | 344 | Easy | [Reverse String](leetcode-easy/leetcode-344-reverse-string.md) |
