@@ -39,7 +39,7 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
         if(head == nullptr)
-            return nullptr;
+            return head;
         ListNode *prev = nullptr, *curr = head, *next = head->next;
         while(next)
         {

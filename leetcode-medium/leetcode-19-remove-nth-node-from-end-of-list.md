@@ -45,7 +45,7 @@ public:
         ListNode dummy = ListNode(0);
         dummy.next = head;
         ListNode *first = &dummy, *second = &dummy;
-        for(int i = 0; i <= n; i++) {
+        for(int i=0; i<=n; i++) {
             first = first->next;
         }
         while(first) {
