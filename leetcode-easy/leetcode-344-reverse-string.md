@@ -22,7 +22,7 @@ Output: ["h","a","n","n","a","H"]
 
 **Constraints:**
 
-* `1 <= s.length <= 10^5`
+* `1 <= s.length <= 105`
 * `s[i]` is a [printable ascii character](https://en.wikipedia.org/wiki/ASCII#Printable_characters).
 
 **Follow up:** Do not allocate extra space for another array. You must do this by modifying the input array [in-place](https://en.wikipedia.org/wiki/In-place_algorithm) with `O(1)` extra memory.
