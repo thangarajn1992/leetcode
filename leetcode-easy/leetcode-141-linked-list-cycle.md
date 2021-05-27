@@ -51,14 +51,15 @@ There is no cycle in the linked list.
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        if(!head) return false;
+        if(!head) 
+            return false;
         ListNode *slow = head, *fast = head->next;
         
         while(slow && fast && fast->next && slow != fast){
             slow = slow->next;
             fast = fast->next->next;
         }
-        return slow==fast;
+        return (slow == fast);
     }
 };
 ```
