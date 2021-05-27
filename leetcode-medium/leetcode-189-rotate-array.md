@@ -39,7 +39,7 @@ rotate 2 steps to the right: [3,99,-1,-100]
 void rotate(vector<int>& nums, int k) {
     int size = nums.size();
     int start = 0, count = 0;
-    if(k==0 || k == size)
+    if(k == 0 || k == size)
         return;
     while(count < size)
     {
@@ -47,10 +47,11 @@ void rotate(vector<int>& nums, int k) {
         int prev = nums[i];
         while(1)
         {
-            i = (i+k)%size;
+            i = ( i + k) % size;
             swap(prev, nums[i]);
             count++;
-            if(start == i) break;
+            if(start == i) 
+                break;
         }
         start++;
     }
