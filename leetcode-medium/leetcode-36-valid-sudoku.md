@@ -87,7 +87,7 @@ public:
     bool isValidSudoku(vector<vector<char>>& board) {
         map<int, map<char,int>> rows;
         map<int, map<char,int>> cols;
-        map< int, map<char,int>> boxs;
+        map<int, map<char,int>> boxs;
         for(int i = 0; i < board.size(); i++)
             for(int j = 0; j < board[i].size(); j++)
             {
@@ -119,21 +119,13 @@ public:
                 if(board[i][j] == '.')
                     continue;
                 int mask = 1 << (board[i][j] - '1');
-                
-                // row check
-                if(m[0][i] & mask)
-                    return false;
-                m[0][i] |= mask;
-                
-                // col check
-                if(m[1][j] & mask)
-                    return false;
-                m[1][j] |= mask;
-                
-                // box check
                 int box = (i/3)*3 + (j/3);
-                if(m[2][box] & mask)
+                
+                if(m[0][i] & mask || m[1][j] & mask || m[2][box] & mask)
                     return false;
+                    
+                m[0][i] |= mask;
+                m[1][j] |= mask;
                 m[2][box] |= mask;
             }
         return true;
