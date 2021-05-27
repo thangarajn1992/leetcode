@@ -121,7 +121,7 @@ public:
         while(s[index] == ' ' && index < s.size())
             index++;
         //Step 2: Reading + or -
-        if(s[index] == '-' || s[index] == '+')
+        if(index < s.size() && (s[index] == '-' || s[index] == '+'))
         {
             neg = (s[index] == '-')? true: false;
             index++;
