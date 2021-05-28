@@ -70,7 +70,7 @@ class Solution {
 public:
     int hammingWeight(uint32_t n) {
         int hweight = 0;
-        while( n > 0)
+        while(n > 0)
         {
             hweight += (n % 2);
             n /= 2;
