@@ -10,11 +10,11 @@
   * Missing Ranges
 * Linked List
   * [Add two numbers](../leetcode-medium/leetcode-2-add-two-numbers.md)
-  * Odd Even Linked List
-  * Intersection of Two Linked Lists
+  * [Odd Even Linked List](../leetcode-medium/leetcode-328-odd-even-linked-list.md)
+  * [Intersection of Two Linked Lists](../leetcode-easy/leetcode-160-intersection-of-two-linked-lists.md)
 * Trees and Graphs
-  * Binary Tree Inorder Traversal
-  * Binary Tree ZigZag Level Order Traversal
+  * [Binary Tree Inorder Traversal](../leetcode-easy/leetcode-94-binary-tree-inorder-traversal.md)
+  * [Binary Tree ZigZag Level Order Traversal](../leetcode-medium/leetcode-103-binary-tree-zigzag-level-order-traversal.md)
   * Construct BBinary Tree from Preorder and Inorder Traversal
   * Populating Next Right Pointers in each node
   * Kth Smallest Element in BST
