@@ -138,7 +138,6 @@ This page contains the index of Leetcode problems that are documented in this re
 | 1642 | Medium | [Furthest Building You Can Reach](leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md) |
 | 1647 | Medium | [Minimum Deletions to Make Character Frequencies Unique](leetcode-medium/leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
 | 1689 | Medium | [Partitioning Into Minimum Number Of Deci-Binary Numbers](leetcode-medium/leetcode-1689-partitioning-into-minimum-number-of-deci-binary-numbers.md) |
-| 1695 | Medium | [Maximum Erasure Value](leetcode-medium/leetcode-1695-maximum-erasure-value.md) |
 |  |  |  |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1845 | Medium | [Seat Reservation Manager](leetcode-medium/leetcode-1845-seat-reservation-manager.md) |
