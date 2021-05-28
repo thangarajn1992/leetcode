@@ -61,6 +61,7 @@ This page contains list of problems that involves arrays
 | 1480 | Easy | [Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
 | 1647 | Medium | [Minimum Deletions to Make Character Frequencies Unique](leetcode-medium/leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
 | 1689 | Medium | [Partitioning Into Minimum Number Of Deci-Binary Numbers](leetcode-medium/leetcode-1689-partitioning-into-minimum-number-of-deci-binary-numbers.md) |
+| 1695 | Medium | [Maximum Erasure Value](leetcode-medium/leetcode-1695-maximum-erasure-value.md) |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1846 | Medium | [Maximum Element After Decreasing and Rearranging](leetcode-medium/leetcode-1846-maximum-element-after-decreasing-and-rearranging.md) |
 | 1859 | Easy | [Sorting the Sentence](leetcode-easy/leetcode-1859-sorting-the-sentence.md) |
