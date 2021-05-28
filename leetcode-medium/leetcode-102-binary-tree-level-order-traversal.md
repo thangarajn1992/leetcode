@@ -43,7 +43,7 @@ public:
     {
         if(!root)
             return;
-        if(result.size() <= level){
+        if(result.size() == level){
             result.push_back({});
         }
         result[level].push_back(root->val);
