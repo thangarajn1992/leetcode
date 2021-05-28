@@ -46,7 +46,7 @@ minStack.getMin(); // return -2
 ```cpp
 class MinStack {
 public:
-    /** initialize your data structure here. */
+    /* initialize your data structure here. */
     stack<pair<int,int>> s;
     MinStack() { }
     

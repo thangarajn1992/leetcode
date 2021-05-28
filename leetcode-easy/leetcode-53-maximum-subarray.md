@@ -41,7 +41,7 @@ public:
     int maxSubArray(vector<int>& nums) {
         int maxEnd = 0, maxSoFar = INT_MIN;
         
-        for(int i = 0; i < nums.size(); i++){
+        for(int i=0; i<nums.size(); i++){
             maxEnd += nums[i];
            
             if(maxSoFar < maxEnd)
