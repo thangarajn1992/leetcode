@@ -33,6 +33,8 @@ Output: 1
 
 ## Solution
 
+### Once we Ex-OR, it becomes No.of 1 bit sum
+
 ```cpp
 class Solution {
 public:
