@@ -72,7 +72,7 @@ public:
         int hweight = 0;
         while( n > 0)
         {
-            hweight += (n % 2 == 1) ? 1 : 0;
+            hweight += (n % 2);
             n /= 2;
         }
         return hweight;
