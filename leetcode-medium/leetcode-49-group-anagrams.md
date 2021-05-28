@@ -42,20 +42,18 @@ class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         vector<vector<string>> result;
-        unordered_map<string, vector<string>> m;  
+        unordered_map<string, int> m;  
         for(auto &str : strs)
         {
             string loc = str;
             sort(loc.begin(), loc.end());
-            auto it = m.find(loc);
-            if(it != m.end())
-                m[loc].push_back(str);
+            if(!m.count(loc)){
+               m[loc] = result.size();
+               result.push_back({str}); 
+            }
             else
-                m.insert({loc,vector<string>{str}});
+                result[m[loc]].push_back(str);
         }
-                
-        for(auto item : m)
-            result.push_back(move(item.second));
         return result;
     }
 };

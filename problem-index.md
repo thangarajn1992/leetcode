@@ -12,7 +12,6 @@ This page contains the index of Leetcode problems that are documented in this re
 | 8 | Medium | [String to Integer \(atoi\)](leetcode-medium/leetcode-8-string-to-integer-atoi.md) |
 | 13 | Easy | [Roman to Integer](leetcode-easy/leetcode-13-roman-to-integer.md) |
 | 14 | Easy | [Longest Common Prefix](leetcode-medium/leetcode-14-longest-common-prefix.md) |
-| 15 | Medium | [3Sum](leetcode-medium/leetcode-15-3sum.md) |
 | 17 | Medium | [Letter Combination of a Phone Number](leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
 | 19 | Medium | [Remove Nth Node from End of List](leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md) |
 | 20 | Easy | [Valid Parentheses](leetcode-easy/leetcode-20-valid-parentheses.md) |
@@ -35,7 +34,6 @@ This page contains the index of Leetcode problems that are documented in this re
 | 65 | Hard | [Valid Number](leetcode-hard/leetcode-65-valid-number.md) |
 | 66 | Easy | [Plus One](leetcode-easy/leetcode-66-plus-one.md) |
 | 70 | Easy | [Climbing Stairs](leetcode-easy/leetcode-70-climbing-stairs.md) |
-| 73 | Medium | [Set Matrix Zeroes](leetcode-medium/leetcode-73-set-matrix-zeroes.md) |
 | 82 | Medium | [Remove Duplicates from Sorted List II](leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md) |
 | 83 | Easy | [Remove Duplicates from Sorted List](leetcode-easy/leetcode-83-remove-duplicates-from-sorted-list.md) |
 | 86 | Medium | [Partition List](leetcode-medium/leetcode-86-partition-list.md) |
@@ -140,7 +138,6 @@ This page contains the index of Leetcode problems that are documented in this re
 | 1642 | Medium | [Furthest Building You Can Reach](leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md) |
 | 1647 | Medium | [Minimum Deletions to Make Character Frequencies Unique](leetcode-medium/leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
 | 1689 | Medium | [Partitioning Into Minimum Number Of Deci-Binary Numbers](leetcode-medium/leetcode-1689-partitioning-into-minimum-number-of-deci-binary-numbers.md) |
-| 1695 | Medium | [Maximum Erasure Value](leetcode-medium/leetcode-1695-maximum-erasure-value.md) |
 |  |  |  |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1845 | Medium | [Seat Reservation Manager](leetcode-medium/leetcode-1845-seat-reservation-manager.md) |
