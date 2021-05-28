@@ -45,7 +45,8 @@ public:
         int count = 1, sq = sqrt(n);
         for(int i = 3; i < n; i += 2)
         {
-            if(!prime_check[i]) continue;
+            if(!prime_check[i]) 
+                continue;
             count++;
             if(i <= sq)
                 for(int j = i * i; j < n; j += i)
