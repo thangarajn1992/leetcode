@@ -55,19 +55,20 @@ public:
         int n = s.size();
         if(n < 2)
             return n;
-        int max_length = 0, start_index = 0;
-        vector<int> m(256, -1);  // 256 total Ascii char
-        for(int i = 0; i < n; i++)
+        int max_length = 0, start_index = 0, i = 0;
+        vector<int> m(256, -1);
+        m[s[0]] = 0;
+        for(i = 1; i < n; i++)
         {
             if(m[s[i]] != -1 && m[s[i]] >= start_index)
             {
-                max_length = max(max_length, i-start_index);
+                if(i - start_index > max_length)
+                    max_length = i - start_index;
                 start_index = m[s[i]] + 1;
             }
             m[s[i]] = i;
         }
-        max_length = max(max_length, n-start_index);
-        return max_length;
+        return max_length > i-start_index ? max_length: i-start_index;
     }
 };
 ```

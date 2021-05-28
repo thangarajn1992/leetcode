@@ -1,15 +1,15 @@
 # Top Interview Questions - Medium \(Leetcode\)
 
 * Arrays and Strings
-  * 3Sum
-  * Set Matrix Zeroes
-  * Group Anagrams
-  * Longest Substring without Repeating Characters
+  * [3Sum](../leetcode-medium/leetcode-15-3sum.md)
+  * [Set Matrix Zeroes](../leetcode-medium/leetcode-73-set-matrix-zeroes.md)
+  * [Group Anagrams](../leetcode-medium/leetcode-49-group-anagrams.md)
+  * [Longest Substring without Repeating Characters](../leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md)
   * Longest Palindromic Substring
   * Increasing Triplet Subsequence
   * Missing Ranges
 * Linked List
-  * Add two numbers
+  * [Add two numbers](../leetcode-medium/leetcode-2-add-two-numbers.md)
   * Odd Even Linked List
   * Intersection of Two Linked Lists
 * Trees and Graphs
