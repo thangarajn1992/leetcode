@@ -64,7 +64,6 @@ public:
             cnt1++;
         for(temp = headB; temp; temp = temp->next)
             cnt2++;
-            
         int diff = abs(cnt1 - cnt2);
         if(cnt1 > cnt2)
             while(diff--)
@@ -72,7 +71,6 @@ public:
         else
             while(diff--)
                 headB = headB->next;
-                
         while(headA && headA != headB)
         {
             headA = headA->next;

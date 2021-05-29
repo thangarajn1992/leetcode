@@ -45,23 +45,27 @@ public:
         queue<TreeNode*> q;
         q.push(root);
         int level = 0;
-        while(!q.empty()) {
-            ans.push_back({});
+        while  (!q.empty()) {
+            vector<int> temp;
+            
             for (int i = q.size(); i > 0; i--) {
                 if(level % 2)
-                    ans[level].insert(ans[level].begin(),q.front()->val);
+                    temp.insert(temp.begin(),q.front()->val);
                 else
-                    ans[level].push_back(q.front()->val);
+                    temp.push_back(q.front()->val);
                 
                 if (q.front()->left) {
                     q.push(q.front()->left);
                 }
+                
                 if (q.front()->right) {
                     q.push(q.front()->right);
                 }
+                
                 q.pop();
             }
             level++;
+            ans.push_back(temp);
         } 
         return ans;        
     }
