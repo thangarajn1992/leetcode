@@ -8,6 +8,7 @@ This page contains list of problems that involves arrays
 | 3 | Medium | [Longest Substring Without Repeating Characters](leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md) |
 | 8 | Medium | [String to Integer \(atoi\)](leetcode-medium/leetcode-8-string-to-integer-atoi.md) |
 | 14 | Easy | [Longest Common Prefix](leetcode-medium/leetcode-14-longest-common-prefix.md) |
+| 15 | Medium | [3Sum](leetcode-medium/leetcode-15-3sum.md) |
 | 17 | Medium | [Letter Combination of Phone Number](leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
 | 28 | Easy | [Implement strStr\(\)](leetcode-easy/leetcode-28-implement-strstr.md) |
@@ -22,6 +23,7 @@ This page contains list of problems that involves arrays
 | 55 | Medium | [Jump Game](leetcode-medium/leetcode-55-jump-game.md) |
 | 65 | Hard | [Valid Number](leetcode-hard/leetcode-65-valid-number.md) |
 | 66 | Easy | [Plus One](leetcode-easy/leetcode-66-plus-one.md) |
+| 73 | Medium | [Set Matrix Zeroes](leetcode-medium/leetcode-73-set-matrix-zeroes.md) |
 | 88 | Easy | [Merged Sorted Array](leetcode-easy/leetcode-88-merge-sorted-array.md) |
 | 108 | Easy | [Convert Sorted Array into Binary Search Tree](leetcode-easy/leetcode-108-convert-sorted-array-to-binary-search-tree.md) |
 | 121 | Easy | [Best Time to Buy and Sell Stock](leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md) |
@@ -61,6 +63,7 @@ This page contains list of problems that involves arrays
 | 1480 | Easy | [Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
 | 1647 | Medium | [Minimum Deletions to Make Character Frequencies Unique](leetcode-medium/leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
 | 1689 | Medium | [Partitioning Into Minimum Number Of Deci-Binary Numbers](leetcode-medium/leetcode-1689-partitioning-into-minimum-number-of-deci-binary-numbers.md) |
+| 1695 | Medium | [Maximum Erasure Value](leetcode-medium/leetcode-1695-maximum-erasure-value.md) |
 | 1844 | Easy | [Replace all digits with characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1846 | Medium | [Maximum Element After Decreasing and Rearranging](leetcode-medium/leetcode-1846-maximum-element-after-decreasing-and-rearranging.md) |
 | 1859 | Easy | [Sorting the Sentence](leetcode-easy/leetcode-1859-sorting-the-sentence.md) |
@@ -68,6 +71,11 @@ This page contains list of problems that involves arrays
 | 1864 | Medium | [Minimum Number of Swaps to Make the Binary String Alternating](leetcode-medium/leetcode-1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.md) |
 | 1865 | Medium | [Finding Pairs with certain Sum](leetcode-medium/leetcode-1865-finding-pairs-with-a-certain-sum.md) |
 | 1869 | Easy | [Longer Contiguous Segments of Ones than Zeros](leetcode-hard/leetcode-1869-longer-contiguous-segments-of-ones-than-zeros.md) |
+| 1876 | Easy | [Substrings of Size Three with Distinct Characters](leetcode-easy/leetcode-1876-substrings-of-size-three-with-distinct-characters.md) |
+| 1877 | Medium | [Minimize Maximum Pair Sum in Array](leetcode-medium/leetcode-1877-minimize-maximum-pair-sum-in-array.md) |
+| 1879 | Hard | [Minimum XOR Sum of Two Arrays](leetcode-hard/leetcode-1879-minimum-xor-sum-of-two-arrays.md) |
+| 1880 | Easy | [Check if Word Equals Summation of Two Words](leetcode-easy/leetcode-1880-check-if-word-equals-summation-of-two-words.md) |
+| 1881 | Medium | [Maximum Value after Insertion](leetcode-medium/leetcode-1881-maximum-value-after-insertion.md) |
 
 
 

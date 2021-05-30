@@ -23,6 +23,7 @@ This page contains list of problems related to Mathematics
 | 1486 | Easy | [XOR Operation in an Array](leetcode-easy/leetcode-1486-xor-operation-in-an-array.md) |
 | 1862 | Hard | [Sum of Floored pairs](leetcode-hard/leetcode-1862-sum-of-floored-pairs.md) |
 | 1863 | Easy | [Sum of All Subset XOR Totals](leetcode-easy/leetcode-1863-sum-of-all-subset-xor-totals.md) |
+| 1879 | Hard | [Minimum XOR Sum of Two Arrays](leetcode-hard/leetcode-1879-minimum-xor-sum-of-two-arrays.md) |
 
 
 

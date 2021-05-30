@@ -160,6 +160,12 @@ This page contains the index of Leetcode problems that are documented in this re
 | 1870 | Medium | [Minimum Speed to Arrive on Time](leetcode-medium/leetcode-1870-minimum-speed-to-arrive-on-time.md) |
 | 1871 | Medium | [Jump Game VII](leetcode-medium/leetcode-1871-jump-game-vii.md) |
 | 1872 | Hard | [Stone Game VIII](leetcode-hard/leetcode-1872-stone-game-viii.md) |
+| 1876 | Easy | [Substrings of Size Three with Distinct Characters](leetcode-easy/leetcode-1876-substrings-of-size-three-with-distinct-characters.md) |
+| 1877 | Medium | [Minimize Maximum Pair Sum in Array](leetcode-medium/leetcode-1877-minimize-maximum-pair-sum-in-array.md) |
+| 1878 | Medium | [Get Biggest Three Rhombus Sums in a Grid](leetcode-medium/leetcode-1878-get-biggest-three-rhombus-sums-in-a-grid.md) |
+| 1879 | Hard | [Minimum XOR Sum of Two Arrays](leetcode-hard/leetcode-1879-minimum-xor-sum-of-two-arrays.md) |
+| 1880 | Easy | [Check if Word Equals Summation of Two Words](leetcode-easy/leetcode-1880-check-if-word-equals-summation-of-two-words.md) |
+| 1881 | Medium | [Maximum Value after Insertion](leetcode-medium/leetcode-1881-maximum-value-after-insertion.md) |
 
 
 
