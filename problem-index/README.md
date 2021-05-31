@@ -5,7 +5,7 @@ This page contains the index of Leetcode problems that are documented in this re
 Problem Number Range based link
 
 | [1 - 100](leetcode-1-100.md) | [101 - 200](leetcode-101-200.md) | [201 - 300](leetcode-201-300.md) |
-| :--- | :--- | :--- |
+| :---: | :---: | :---: |
 | [301 - 400](leetcode-301-400.md) | [401- 500](leetcode-401-500.md) | [501 - 600](leetcode-501-600.md) |
 | [601 - 700](leetcode-601-700.md) | [701 - 800](leetcode-701-800.md) | [801 - 900](leetcode-801-900.md) |
 | [901 - 1000](leetcode-901-1000.md) | [1001 - 1100](leetcode-1001-1100.md) | [1101 - 1200](leetcode-1101-1200.md) |
