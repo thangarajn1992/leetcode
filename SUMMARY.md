@@ -69,6 +69,7 @@
   * [Leetcode 970 Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md)
   * [Leetcode 1048 Longest String Chain](leetcode-medium/leetcode-1048-longest-string-chain.md)
   * [Leetcode 1239 Maximum Length of a Concatenated String with Unique Characters](leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md)
+  * [Leetcode 1268 Search Suggestions System](leetcode-medium/leetcode-1268-search-suggestions-system.md)
   * [Leetcode 1302 Deepest Leaves Sum](leetcode-medium/leetcode-1302-deepest-leaves-sum.md)
   * [Leetcode 1306 Jump Game III](leetcode-medium/leetcode-1306-jump-game-iii.md)
   * [Leetcode 1423 Maximum Points You Can Obtain from Cards](leetcode-medium/leetcode-1423-maximum-points-you-can-obtain-from-cards.md)

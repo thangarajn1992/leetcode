@@ -130,6 +130,7 @@ This page contains the index of Leetcode problems that are documented in this re
 | 1048 | Medium | [Longest String Chain](leetcode-medium/leetcode-1048-longest-string-chain.md) |
 |  |  |  |
 | 1239 | Medium | [Maximum Length of a Concatenated String with Unique Characters](leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
+| 1268 | Medium | [Search Suggestions System](leetcode-medium/leetcode-1268-search-suggestions-system.md) |
 |  |  |  |
 | 1302 | Medium | [Deepest Leaves Sum ](leetcode-medium/leetcode-1302-deepest-leaves-sum.md) |
 | 1304 | Easy | [Find N Unique Integers Sum up to Zero](leetcode-easy/leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
