@@ -1,6 +1,6 @@
 # Difficulty Based Problem Index
 
-Leetcode Problems Categorised based on difficulty levels. Select the link below to see problems with that particular difficulty level
+Leetcode Problems Categorized based on difficulty levels. Select the link below to see problems with that particular difficulty level
 
 [Hard Level](leetcode-hard/)
 
