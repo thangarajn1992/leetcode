@@ -1,4 +1,4 @@
-# Problem Index
+# Leetcode Number Based Problem Index
 
 This page contains the index of Leetcode problems that are documented in this repository
 

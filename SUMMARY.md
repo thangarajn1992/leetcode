@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Leetcode](README.md)
-* [Problem Index](problem-index.md)
+* [Difficulty Based Problem Index](difficulty-based-problem-index.md)
+* [Leetcode Number Based Problem Index](problem-index.md)
 * [Arrays and Strings](arrays.md)
 * [Linked Lists](linked-lists.md)
 * [Trees](trees.md)
