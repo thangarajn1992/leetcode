@@ -10,12 +10,12 @@ For List of Problems visit the [Problem Index](problem-index/) page
 
 For problems specific to one of the particular concept below, please use approrpriate link below
 
-* [Arrays](arrays.md)
-* [Linked Lists](linked-lists.md)
-* [Trees](trees.md)
-* [Dynamic Programming](dynamic-programming.md)
-* [Math](math.md)
-* [Others](others.md)
+* [Arrays](concept-based-problem-index/arrays.md)
+* [Linked Lists](concept-based-problem-index/linked-lists.md)
+* [Trees](concept-based-problem-index/trees.md)
+* [Dynamic Programming](concept-based-problem-index/dynamic-programming.md)
+* [Math](concept-based-problem-index/math.md)
+* [Others](concept-based-problem-index/others.md)
 
 
 
