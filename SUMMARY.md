@@ -23,7 +23,7 @@
   * [Leetcode 1701 - 1800](problem-index/leetcode-1701-1800.md)
   * [Leetcode 1801 - 1900](problem-index/leetcode-1801-1900.md)
 * [Arrays and Strings](arrays.md)
-* [Linked Lists](linked-lists.md)
+* [Linnked Lists](linked-lists.md)
 * [Trees](trees.md)
 * [Dynamic Programming](dynamic-programming.md)
 * [Math & Bit Manipulation](math.md)

@@ -1,4 +1,4 @@
-# Linked Lists
+# Linnked Lists
 
 This page contains list of problems involving linked lists
 
