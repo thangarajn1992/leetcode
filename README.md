@@ -6,7 +6,7 @@ For now my solution will be based on CPP. Later I may plan to add solution on ot
 
 Lets learn and create more!!
 
-For List of Problems visit the [Problem Index](problem-index.md) page
+For List of Problems visit the [Problem Index](problem-index/) page
 
 For problems specific to one of the particular concept below, please use approrpriate link below
 

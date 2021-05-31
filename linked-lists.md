@@ -22,6 +22,7 @@ This page contains list of problems involving linked lists
 | 206 | Easy | [Reverse Linked List](leetcode-easy/leetcode-206-reverse-linked-list.md) |
 | 234 | Easy | [Palindrome Linked List](leetcode-easy/leetcode-234-palindrome-linked-list.md) |
 | 237 | Easy | [Delete Node in a Linked List](leetcode-easy/leetcode-237-delete-node-in-a-linked-list.md) |
+| 328 | Medium | [Odd Even Linked List](leetcode-medium/leetcode-328-odd-even-linked-list.md) |
 
 
 

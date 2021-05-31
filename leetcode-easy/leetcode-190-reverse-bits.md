@@ -47,7 +47,7 @@ public:
         int result = 0;
         for(int count = 31; n > 0 ; count--, n >>= 1)
             if(n & 1) 
-                result += 1<<count;
+                result += 1 << count;
         return result;
     }
 };

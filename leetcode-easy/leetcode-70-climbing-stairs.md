@@ -52,7 +52,7 @@ public:
         return memo[cur];
     }
     int climbStairs(int n) {
-        vector<int> memo(n+1,0);
+        vector<int> memo(n+1, 0);
         return climbStairsiter(n, 0, memo);
     }
 };

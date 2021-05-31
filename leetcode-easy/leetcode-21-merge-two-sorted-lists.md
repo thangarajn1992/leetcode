@@ -37,8 +37,8 @@ Output: [0]
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
-        ListNode* result = new ListNode;
-        ListNode* l3 = result;
+        ListNode* dummy = new ListNode;
+        ListNode* l3 = dummy;
         while(l1 && l2)
         {
             if(l1->val <= l2->val)
@@ -54,7 +54,7 @@ public:
             l3 = l3->next;
         }
         l3->next = (l1 != nullptr) ? l1 : l2;
-        return result->next;
+        return dummy->next;
     }
 };
 ```

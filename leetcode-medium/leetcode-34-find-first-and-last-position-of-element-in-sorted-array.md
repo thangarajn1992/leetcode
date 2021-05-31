@@ -40,6 +40,49 @@ Output: [-1,-1]
 
 ## Solution
 
+### Two Binary Search to find lower and upper bound
+
+```cpp
+class Solution {
+public:
+    vector<int> searchRange(vector<int>& nums, int target) {        
+        /* Null Checks */
+        if (nums.size() == 0) return {-1, -1};
+        
+        /* Create low and high pointers for binary search */
+        int low = 0, high = nums.size() - 1;
+        
+        /* Do a binary search for the highest point at which the target is at */
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            
+            if (nums[mid] >= target) high = mid - 1;
+            else low = mid + 1;
+        }
+        
+        /* Set the lowest bound to the high, reset the low and high pointers */
+        int lower_bound = high;
+        low = 0, high = nums.size() - 1;
+        
+        /* Do a binary search for the lowest point at which the target is at */
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            
+            if (nums[mid] <= target) low = mid + 1;
+            else high = mid - 1;
+        }
+        
+        int upper_bound = low;
+        if (upper_bound - lower_bound == 1) return {-1, -1};
+        
+        /* Include everything between the upper and lower bounds */
+        return {lower_bound + 1, upper_bound - 1};
+    }
+};
+```
+
+### Binary Search to find element and linear traversal
+
 ```cpp
 vector<int> searchRange(vector<int>& nums, int target) {
     vector<int> res(2,-1);
