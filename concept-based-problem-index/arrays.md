@@ -34,6 +34,7 @@ This page contains list of problems that involves arrays
 | 169 | Easy | [Majority Element](../leetcode-easy/leetcode-169-majority-element.md) |
 | 189 | Medium | [Rotate Array](../leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](../leetcode-medium/leetcode-198-house-robber.md) |
+| 200 | Medium | [Number of Islands](../leetcode-medium/leetcode-200-number-of-islands.md) |
 | 217 | Easy | [Contains Duplicate](../leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 242 | Easy | [Valid Anagram](../leetcode-easy/leetcode-242-valid-anagram.md) |
 | 278 | Easy | [First Bad Version](../leetcode-easy/leetcode-278-first-bad-version.md) |
@@ -51,6 +52,7 @@ This page contains list of problems that involves arrays
 | 583 | Medium | [Delete Operation for Two Strings](../leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | Medium | [Find Duplicate File in System](../leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
 | 665 | Medium | [Non-decreasing array](../leetcode-medium/leetcode-665-non-decreasing-array.md) |
+| 695 | Medium | [Max Area of Island](../leetcode-medium/leetcode-695-max-area-of-island.md) |
 | 696 | Easy | [Count Binary Sub-strings](../leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
 | 709 | Easy | [To Lower case](../leetcode-easy/leetcode-709-to-lower-case.md) |
 | 890 | Medium | [Find and Replace pattern](../leetcode-medium/leetcode-890-find-and-replace-pattern.md) |

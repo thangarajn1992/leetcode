@@ -27,6 +27,8 @@ Medium Level Problem Sets for Leetcode
 | 86 | [Partition List](leetcode-86-partition-list.md) |
 | 92 | [Reverse Linked List II](leetcode-92-reverse-linked-list-ii.md) |
 | 98 | [Validate Binary Search Tree](leetcode-98-validate-binary-search-tree.md) |
+| 200 | [Number of Islands](leetcode-200-number-of-islands.md) |
+| 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |
 | 1268 | [Search Suggestions System](leetcode-1268-search-suggestions-system.md) |
 
 
