@@ -31,6 +31,7 @@ Medium Level Problem Sets for Leetcode
 | 200 | [Number of Islands](leetcode-200-number-of-islands.md) |
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |
 | 1268 | [Search Suggestions System](leetcode-1268-search-suggestions-system.md) |
+| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |
 
 
 
