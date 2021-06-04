@@ -56,6 +56,7 @@ Medium Level Problem Sets for Leetcode
 | 609 | [Find Duplicate File in System](leetcode-609-find-duplicate-file-in-system.md) |
 | 665 | [Non-decreasing Array](leetcode-665-non-decreasing-array.md) |
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |
+| 752 | [Open the Lock](leetcode-752-open-the-lock.md) |
 | 890 | [Find and Replace Pattern](leetcode-890-find-and-replace-pattern.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
 | 1268 | [Search Suggestions System](leetcode-1268-search-suggestions-system.md) |
