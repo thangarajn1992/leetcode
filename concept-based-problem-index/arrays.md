@@ -62,9 +62,7 @@ This page contains list of problems that involves arrays
 | 1306 | Medium | [Jump Game III](../leetcode-medium/leetcode-1306-jump-game-iii.md) |
 | 1354 | Hard  | [Construct Target Array With Multiple Sums](../leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md) |
 | 1423 | Medium | [Maximum Points You Can Obtain from Cards](../leetcode-medium/leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
-| 1465 | Medium | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](../leetcode-medium/leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |
 | 1480 | Easy | [Running Sum of 1d Array](../leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
-|  |  |  |
 | 1647 | Medium | [Minimum Deletions to Make Character Frequencies Unique](../leetcode-medium/leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
 | 1689 | Medium | [Partitioning Into Minimum Number Of Deci-Binary Numbers](../leetcode-medium/leetcode-1689-partitioning-into-minimum-number-of-deci-binary-numbers.md) |
 | 1695 | Medium | [Maximum Erasure Value](../leetcode-medium/leetcode-1695-maximum-erasure-value.md) |
