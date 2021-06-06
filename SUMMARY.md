@@ -199,4 +199,5 @@
   * [Leetcode 1869 Longer Contiguous Segments of Ones than Zeros](leetcode-hard/leetcode-1869-longer-contiguous-segments-of-ones-than-zeros.md)
   * [Leetcode 1872 Stone Game VIII](leetcode-hard/leetcode-1872-stone-game-viii.md)
   * [Leetcode 1879 Minimum XOR Sum of Two Arrays](leetcode-hard/leetcode-1879-minimum-xor-sum-of-two-arrays.md)
+  * [Leetcode 1889 Minimum Space Wasted From Packaging](leetcode-hard/leetcode-1889-minimum-space-wasted-from-packaging.md)
 

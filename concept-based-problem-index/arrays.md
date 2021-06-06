@@ -55,7 +55,6 @@ This page contains list of problems that involves arrays
 | 1877 | Medium | [Minimize Maximum Pair Sum in Array](../leetcode-medium/leetcode-1877-minimize-maximum-pair-sum-in-array.md) |
 | 1879 | Hard | [Minimum XOR Sum of Two Arrays](../leetcode-hard/leetcode-1879-minimum-xor-sum-of-two-arrays.md) |
 | 1881 | Medium | [Maximum Value after Insertion](../leetcode-medium/leetcode-1881-maximum-value-after-insertion.md) |
-| 1887 | Medium | [Reduction Operations to Make the Array Elements Equal](../leetcode-medium/leetcode-1887-reduction-operations-to-make-the-array-elements-equal.md) |
 
 
 
