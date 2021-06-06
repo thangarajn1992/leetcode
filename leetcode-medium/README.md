@@ -63,6 +63,7 @@ Medium Level Problem Sets for Leetcode
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
 | 1268 | [Search Suggestions System](leetcode-1268-search-suggestions-system.md) |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |
+| 1887 | [Reduction Operations to Make the Array Elements Equal](leetcode-1887-reduction-operations-to-make-the-array-elements-equal.md) |
 
 
 
