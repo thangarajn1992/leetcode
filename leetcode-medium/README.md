@@ -59,6 +59,7 @@ Medium Level Problem Sets for Leetcode
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |
 | 752 | [Open the Lock](leetcode-752-open-the-lock.md) |
 | 890 | [Find and Replace Pattern](leetcode-890-find-and-replace-pattern.md) |
+| 948 | [Bag of Tokens](leetcode-948-bag-of-tokens.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
 | 1268 | [Search Suggestions System](leetcode-1268-search-suggestions-system.md) |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |
