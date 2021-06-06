@@ -70,6 +70,7 @@
   * [Leetcode 114 Flatten Binary Tree to Linked List](leetcode-medium/leetcode-114-flatten-binary-tree-to-linked-list.md)
   * [Leetcode 116 Populating Next Right Pointers in Each Node](leetcode-medium/leetcode-116-populating-next-right-pointers-in-each-node.md)
   * [Leetcode 120 Triangle](leetcode-medium/leetcode-120-triangle.md)
+  * [Leetcode 128 Longest Consecutive Sequence](leetcode-medium/leetcode-128-longest-consecutive-sequence.md)
   * [Leetcode 142 Linked List Cycle II](leetcode-medium/leetcode-142-linked-list-cycle-ii.md)
   * [Leetcode 150 Evaluate Reverse Polish Notation](leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md)
   * [Leetcode 189 Rotate Array](leetcode-medium/leetcode-189-rotate-array.md)

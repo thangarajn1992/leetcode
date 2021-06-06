@@ -35,6 +35,7 @@ Medium Level Problem Sets for Leetcode
 | 114 | [Flatten Binary Tree to Linked List](leetcode-114-flatten-binary-tree-to-linked-list.md) |
 | 116 | [Populating Next Right Pointers in Each Node](leetcode-116-populating-next-right-pointers-in-each-node.md) |
 | 120 | [Triangle](leetcode-120-triangle.md) |
+| 128 | [Longest Consecutive Sequence](leetcode-128-longest-consecutive-sequence.md) |
 | 142 | [Linked List Cycle II](leetcode-142-linked-list-cycle-ii.md) |
 | 150 | [Evaluate Reverse Polish Notation](leetcode-150-evaluate-reverse-polish-notation.md) |
 | 189 | [Rotate Array](leetcode-189-rotate-array.md) |
