@@ -3,7 +3,7 @@
 * [Leetcode](README.md)
 * [Difficulty Based Problem Index](difficulty-based-problem-index.md)
 * [Concept Based Problem Index](concept-based-problem-index/README.md)
-  * [Arrays and Strings](concept-based-problem-index/arrays.md)
+  * [Arrays](concept-based-problem-index/arrays.md)
   * [Strings](concept-based-problem-index/strings.md)
   * [Linked Lists](concept-based-problem-index/linked-lists.md)
   * [Trees](concept-based-problem-index/trees.md)
