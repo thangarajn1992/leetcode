@@ -120,6 +120,7 @@
   * [Leetcode 1878 Get Biggest Three Rhombus Sums in a Grid](leetcode-medium/leetcode-1878-get-biggest-three-rhombus-sums-in-a-grid.md)
   * [Leetcode 1881 Maximum Value after Insertion](leetcode-medium/leetcode-1881-maximum-value-after-insertion.md)
   * [Leetcode 1887 Reduction Operations to Make the Array Elements Equal](leetcode-medium/leetcode-1887-reduction-operations-to-make-the-array-elements-equal.md)
+  * [Leetcode 1888 Minimum Number of Flips to Make the Binary String Alternating](leetcode-medium/leetcode-1888-minimum-number-of-flips-to-make-the-binary-string-alternating.md)
 * [LeetCode Easy](leetcode-easy/README.md)
   * [Leetcode 1 Two Sum](leetcode-easy/leetcode-1-two-sum.md)
   * [Leetcode 7 Reverse Integer](leetcode-easy/leetcode-7-reverse-integer.md)
