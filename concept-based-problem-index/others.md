@@ -11,7 +11,6 @@
 | 1860 | Medium | [Incremental Memory Leak](../leetcode-medium/leetcode-1860-incremental-memory-leak.md) |
 | 1870 | Medium | [Minimum Speed to Arrive on Time](../leetcode-medium/leetcode-1870-minimum-speed-to-arrive-on-time.md) |
 | 1878 | Medium | [Get Biggest Three Rhombus Sums in a Grid](../leetcode-medium/leetcode-1878-get-biggest-three-rhombus-sums-in-a-grid.md) |
-| 1889 | Hard | [Minimum Space Wasted From Packaging](../leetcode-hard/leetcode-1889-minimum-space-wasted-from-packaging.md) |
 
 
 

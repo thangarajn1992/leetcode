@@ -83,7 +83,7 @@ public:
                prev_idx = idx;
                curBoxSizeUsed += long(box) * packages_covered;
                // No need to use other boxes if we already covered all packages
-               if(total_pkg_covered == packages.size())
+               if(total_pkg_covered == packages.size() || curBoxSizeUsed >= minBoxSizeUsed)
                    break;
             }
             minBoxSizeUsed = min(minBoxSizeUsed, curBoxSizeUsed);
