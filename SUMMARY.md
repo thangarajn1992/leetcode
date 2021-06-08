@@ -67,6 +67,7 @@
   * [Leetcode 102 Binary Tree Level Order Traversal](leetcode-medium/leetcode-102-binary-tree-level-order-traversal.md)
   * [Leetcode 103 Binary Tree Zigzag Level Order Traversal](leetcode-medium/leetcode-103-binary-tree-zigzag-level-order-traversal.md)
   * [Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal](leetcode-medium/leetcode-105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+  * [Leetcode 106 Construct Binary Tree from Inorder and Postorder Traversal](leetcode-medium/leetcode-106-construct-binary-tree-from-inorder-and-postorder-traversal.md)
   * [Leetcode 107 Binary Tree Level Order Traversal II](leetcode-medium/leetcode-107-binary-tree-level-order-traversal-ii.md)
   * [Leetcode 109 Convert Sorted List to Binary Search Tree](leetcode-medium/leetcode-109-convert-sorted-list-to-binary-search-tree.md)
   * [Leetcode 114 Flatten Binary Tree to Linked List](leetcode-medium/leetcode-114-flatten-binary-tree-to-linked-list.md)

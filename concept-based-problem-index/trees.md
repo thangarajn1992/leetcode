@@ -11,6 +11,7 @@ This page contains problems that involves any type of trees
 | 103 | Medium | [Binary Tree Zigzag Level Order Traversal](../leetcode-medium/leetcode-103-binary-tree-zigzag-level-order-traversal.md) |
 | 104 | Easy | [Maximum Depth of Binary Tree](../leetcode-easy/leetcode-104-maximum-depth-of-binary-tree.md) |
 | 105 | Medium | [Construct Binary Tree from Preorder and Inorder Traversal](../leetcode-medium/leetcode-105-construct-binary-tree-from-preorder-and-inorder-traversal.md) |
+| 106 | Medium | [Construct Binary Tree from Inorder and Postorder Traversal](../leetcode-medium/leetcode-106-construct-binary-tree-from-inorder-and-postorder-traversal.md) |
 | 107 | Medium | [Binary Tree Level Order Traversal II](../leetcode-medium/leetcode-107-binary-tree-level-order-traversal-ii.md) |
 | 108 | Easy | [Convert Sorted Array to Binary Search Tree](../leetcode-easy/leetcode-108-convert-sorted-array-to-binary-search-tree.md) |
 | 109 | Medium | [Convert Sorted List to Binary Search Tree](../leetcode-medium/leetcode-109-convert-sorted-list-to-binary-search-tree.md) |
