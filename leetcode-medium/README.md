@@ -30,6 +30,7 @@ Medium Level Problem Sets for Leetcode
 | 98 | [Validate Binary Search Tree](leetcode-98-validate-binary-search-tree.md) |
 | 102 | [Binary Tree Level Order Traversal](leetcode-102-binary-tree-level-order-traversal.md) |
 | 103 | [Binary Tree ZigZag level Order Traversal](leetcode-103-binary-tree-zigzag-level-order-traversal.md) |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](leetcode-105-construct-binary-tree-from-preorder-and-inorder-traversal.md) |
 | 107 | [Binary Tree Level Order Traversal II](leetcode-107-binary-tree-level-order-traversal-ii.md) |
 | 109 | [Convert Sorted List to Binary Search Tree](leetcode-109-convert-sorted-list-to-binary-search-tree.md) |
 | 114 | [Flatten Binary Tree to Linked List](leetcode-114-flatten-binary-tree-to-linked-list.md) |
