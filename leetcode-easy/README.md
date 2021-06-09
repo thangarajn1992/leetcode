@@ -45,4 +45,28 @@ Easy Level Problem Sets for Leetcode
 | 268 | [Missing Number](leetcode-268-missing-number.md) |
 | 278 | [First Bad Version](leetcode-278-first-bad-version.md) |
 | 283 | [Move Zeroes](leetcode-283-move-zeroes.md) |
+| 303 | [Range Sum Query - Immutable](leetcode-303-range-sum-query-immutable.md) |
+| 326 | [Power of Three](leetcode-326-power-of-three.md) |
+| 344 | [Reverse String](leetcode-344-reverse-string.md) |
+| 349 | [Intersection of Two Arrays](leetcode-349-intersection-of-two-arrays.md) |
+| 350 | [Intersection of Two Arrays II](leetcode-350-intersection-of-two-array-ii.md) |
+| 387 | [First Unique Character in a String](leetcode-387-first-unique-character-in-a-string.md) |
+| 412 | [Fizz Buzz](leetcode-412-fizz-buzz.md) |
+| 453 | [Minimum Moves to Equal Array Elements](leetcode-453-minimum-moves-to-equal-array-elements.md) |
+| 461 | [Hamming Distance](leetcode-461-hamming-distance.md) |
+| 509 | [Fibonacci Number](leetcode-509-fibonacci-number.md) |
+| 575 | [Distribute Candies](leetcode-575-distribute-candies.md) |
+| 589 | [N-ary Tree Preorder Traversal](leetcode-589-n-ary-tree-preorder-traversal.md) |
+| 696 | [Count Binary Sub-strings](leetcode-696-count-binary-sub-strings.md) |
+| 709 | [To Lower Case](leetcode-709-to-lower-case.md) |
+| 746 | [Min Cost Climbing Stairs](leetcode-746-min-cost-climbing-stairs.md) |
+| 1304 | [Find N Unique Integers Sum up to Zero](leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
+| 1480 | [Running Sum of 1D Array](leetcode-1480-running-sum-of-1d-array.md) |
+| 1486 | [XOR Operation in an Array](leetcode-1486-xor-operation-in-an-array.md) |
+| 1844 | [Replace All digits with Characters](leetcode-1844-replace-all-digits-with-characters.md) |
+| 1859 | [Sorting the Sentence](leetcode-1859-sorting-the-sentence.md) |
+| 1863 | [Sum of All Subset XOR Totals](leetcode-1863-sum-of-all-subset-xor-totals.md) |
+| 1876 | [Substrings of Size Three with distinct Characters](leetcode-1876-substrings-of-size-three-with-distinct-characters.md) |
+| 1880 | [Check if Word Equals Summation of Two Words](leetcode-1880-check-if-word-equals-summation-of-two-words.md) |
+| 1886 | [Determine Whether Matrix can be Obtained by Rotation](leetcode-1886-determine-whether-matrix-can-be-obtained-by-rotation.md) |
 
