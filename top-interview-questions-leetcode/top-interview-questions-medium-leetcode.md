@@ -15,12 +15,12 @@
 * Trees and Graphs
   * [Binary Tree Inorder Traversal](../leetcode-easy/leetcode-94-binary-tree-inorder-traversal.md)
   * [Binary Tree ZigZag Level Order Traversal](../leetcode-medium/leetcode-103-binary-tree-zigzag-level-order-traversal.md)
-  * [Construct Binary Tree from Preorder and Inorder Traversal](../leetcode-medium/leetcode-105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
-  * [Populating Next Right Pointers in each node](../leetcode-medium/leetcode-116-populating-next-right-pointers-in-each-node.md)
+  * Construct BBinary Tree from Preorder and Inorder Traversal
+  * Populating Next Right Pointers in each node
   * Kth Smallest Element in BST
-  * [Number of Islands](../leetcode-medium/leetcode-200-number-of-islands.md)
+  * Number of Islands
 * Backtracking
-  * [Letter Combination of a Phone Number](../leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md)
+  * Letter Combination of a Phone Numbber
   * Generate Parentheses
   * Permutations
   * Subsets
@@ -32,7 +32,7 @@
   * Find Peak element
   * Search for a range
   * Merge Intervals
-  * [Search in Rotated Sorted Array](../leetcode-medium/leetcode-33-search-in-rotated-sorted-array.md)
+  * Search in Rotated Sorted Array
   * Meeting Rooms II
   * Search a 2D Matrix II
 * Dynamic Programming
@@ -46,7 +46,7 @@
   * Insert Delete Get Random 0\(1\)
   * Design Tic-Tac-Toe
 * Math
-  * [Happy Number](../leetcode-easy/leetcode-202-happy-number.md)
+  * Happy Number
   * Factorial Trailing Zeroes
   * Excel Sheet Column Number
   * Pow\(x,n\)
@@ -55,8 +55,8 @@
   * Fraction to Recurring Decimal
 * Others
   * Sum of Two Integers
-  * [Evaluate Reverse Polish Notation](../leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md)
-  * [Majority Element](../leetcode-easy/leetcode-169-majority-element.md)
+  * Evaluate Reverse Polish Notation
+  * Majority Element
   * Find the Celebrity
-  * Task Scheduler
+  * Task Schdeuler
 
