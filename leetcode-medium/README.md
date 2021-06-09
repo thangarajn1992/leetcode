@@ -43,6 +43,7 @@ Medium Level Problem Sets for Leetcode
 | 189 | [Rotate Array](leetcode-189-rotate-array.md) |
 | 198 | [House Robber](leetcode-198-house-robber.md) |
 | 200 | [Number of Islands](leetcode-200-number-of-islands.md) |
+| 230 | [Kth Smallest Element in a BST](leetcode-230-kth-smallest-element-in-a-bst.md) |
 | 264 | [Ugly Number II](leetcode-264-ugly-number-ii.md) |
 | 287 | [Find the Duplicate Number](leetcode-287-find-the-duplicate-number.md) |
 | 304 | [Range Sum Query 2D - Immutable](leetcode-304-range-sum-query-2d-immutable.md) |

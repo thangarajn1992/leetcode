@@ -145,6 +145,7 @@
   * [Leetcode 189 Rotate Array](leetcode-medium/leetcode-189-rotate-array.md)
   * [Leetcode 198 House Robber](leetcode-medium/leetcode-198-house-robber.md)
   * [Leetcode 200 Number of Islands](leetcode-medium/leetcode-200-number-of-islands.md)
+  * [Leetcode 230 Kth Smallest Element in a BST](leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md)
   * [Leetcode 264 Ugly Number II](leetcode-medium/leetcode-264-ugly-number-ii.md)
   * [Leetcode 287 Find the Duplicate Number](leetcode-medium/leetcode-287-find-the-duplicate-number.md)
   * [Leetcode 304 Range Sum Query 2D - Immutable](leetcode-medium/leetcode-304-range-sum-query-2d-immutable.md)
