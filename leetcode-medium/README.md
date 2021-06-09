@@ -63,9 +63,29 @@ Medium Level Problem Sets for Leetcode
 | 890 | [Find and Replace Pattern](leetcode-890-find-and-replace-pattern.md) |
 | 948 | [Bag of Tokens](leetcode-948-bag-of-tokens.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
+| 1048 | [Longest String Chain](leetcode-1048-longest-string-chain.md) |
+| 1239 | [Maximum Length of a Concatenated String with Unique Characters](leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
 | 1268 | [Search Suggestions System](leetcode-1268-search-suggestions-system.md) |
+| 1302 | [Deepest Leaves Sum](leetcode-1302-deepest-leaves-sum.md) |
+| 1306 | [Jump Game III](leetcode-1306-jump-game-iii.md) |
+| 1423 | [Maximum Points You Can Obtain from Cards](leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |
+| 1642 | [Furthest Building You Can Reach](leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
+| 1647 | [Minimum Deletions to Make Character Frequencies Unique](leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
+| 1689 | [Partitioning into Minimum Number of Deci-Binary Numbers](leetcode-1689-partitioning-into-minimum-number-of-deci-binary-numbers.md) |
+| 1695 | [Maximum Erasure Value](leetcode-1695-maximum-erasure-value.md) |
 | 1696 | [Jump Game VI](leetcode-1696-jump-game-vi.md) |
+| 1845 | [Seat Reservation Manager](leetcode-1845-seat-reservation-manager.md) |
+| 1846 | [Maximum Element After decreasing and Rearranging](leetcode-1846-maximum-element-after-decreasing-and-rearranging.md) |
+| 1860 | [Incremental Memory Leak](leetcode-1860-incremental-memory-leak.md) |
+| 1861 | [Rotating the Box](leetcode-1861-rotating-the-box.md) |
+| 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](leetcode-1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.md) |
+| 1865 | [Finding Pairs with a Certain Sum](leetcode-1865-finding-pairs-with-a-certain-sum.md) |
+| 1870 | [Minimum Speed to Arrive on Time](leetcode-1870-minimum-speed-to-arrive-on-time.md) |
+| 1871 | [Jump Game VII](leetcode-1871-jump-game-vii.md) |
+| 1877 | [Minimize Maximum Pair Sum in Array](leetcode-1877-minimize-maximum-pair-sum-in-array.md) |
+| 1878 | [Get Biggest Three Rhombus Sums in a Grid](leetcode-1878-get-biggest-three-rhombus-sums-in-a-grid.md) |
+| 1881 | [Maximum Value after insertion](leetcode-1881-maximum-value-after-insertion.md) |
 | 1887 | [Reduction Operations to Make the Array Elements Equal](leetcode-1887-reduction-operations-to-make-the-array-elements-equal.md) |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](leetcode-1888-minimum-number-of-flips-to-make-the-binary-string-alternating.md) |
 

@@ -49,14 +49,12 @@ This page contains list of problems that involves arrays
 | 1480 | Easy | [Running Sum of 1d Array](../leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
 | 1689 | Medium | [Partitioning Into Minimum Number Of Deci-Binary Numbers](../leetcode-medium/leetcode-1689-partitioning-into-minimum-number-of-deci-binary-numbers.md) |
 | 1695 | Medium | [Maximum Erasure Value](../leetcode-medium/leetcode-1695-maximum-erasure-value.md) |
-| 1696 | Medium | [Jump Game VI](../leetcode-medium/leetcode-1696-jump-game-vi.md) |
 | 1846 | Medium | [Maximum Element After Decreasing and Rearranging](../leetcode-medium/leetcode-1846-maximum-element-after-decreasing-and-rearranging.md) |
 | 1861 | Medium | [Rotating the Box](../leetcode-medium/leetcode-1861-rotating-the-box.md) |
 | 1865 | Medium | [Finding Pairs with certain Sum](../leetcode-medium/leetcode-1865-finding-pairs-with-a-certain-sum.md) |
 | 1877 | Medium | [Minimize Maximum Pair Sum in Array](../leetcode-medium/leetcode-1877-minimize-maximum-pair-sum-in-array.md) |
 | 1879 | Hard | [Minimum XOR Sum of Two Arrays](../leetcode-hard/leetcode-1879-minimum-xor-sum-of-two-arrays.md) |
 | 1881 | Medium | [Maximum Value after Insertion](../leetcode-medium/leetcode-1881-maximum-value-after-insertion.md) |
-| 1887 | Medium | [Reduction Operations to Make the Array Elements Equal](../leetcode-medium/leetcode-1887-reduction-operations-to-make-the-array-elements-equal.md) |
 
 
 
