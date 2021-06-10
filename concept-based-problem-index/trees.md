@@ -18,7 +18,6 @@ This page contains problems that involves any type of trees
 | 116 | Medium | [Populating Next Right Pointers in Each Node](../leetcode-medium/leetcode-116-populating-next-right-pointers-in-each-node.md) |
 | 144 | Easy | [Binary Tree Preorder Traversal](../leetcode-easy/leetcode-144-binary-tree-preorder-traversal.md) |
 | 145 | Easy | [Binary Tree Postorder Traversal](../leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md) |
-| 230 | Medium | [Kth Smallest Element in a BST](../leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md) |
 | 307 | Medium | [Ranged Sum Query 1D - Mutable](../leetcode-medium/leetcode-307-range-sum-query-mutable.md) |
 | 589 | Easy | [N ary Tree Preorder Traversal](../leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md) |
 | 745 | Hard | [Prefix and Suffix Search](../leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |

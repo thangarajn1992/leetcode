@@ -17,12 +17,14 @@ Medium Level Problem Sets for Leetcode
 | 36 | [Valid Sudoku](leetcode-36-valid-sudoku.md) |
 | 38 | [Count and Say](leetcode-38-count-and-say.md) |
 | 45 | [Jump Game II](leetcode-45-jump-game-ii.md) |
+| 46 | [Permutations](leetcode-46-permutations.md) |
 | 48 | [Rotate Image](leetcode-48-rotate-image.md) |
 | 49 | [Group Anagrams](leetcode-49-group-anagrams.md) |
 | 55 | [Jump Game](leetcode-55-jump-game.md) |
 | 61 | [Rotate List](leetcode-61-rotate-list.md) |
 | 63 | [Unique Paths II](leetcode-63-unique-paths-ii.md) |
 | 73 | [Set Matrix Zeroes](leetcode-73-set-matrix-zeroes.md) |
+| 78 | [Subsets](leetcode-78-subsets.md) |
 | 82 | [Remove Duplicates from Sorted List II](leetcode-82-remove-duplicates-from-sorted-list-ii.md) |
 | 86 | [Partition List](leetcode-86-partition-list.md) |
 | 92 | [Reverse Linked List II](leetcode-92-reverse-linked-list-ii.md) |
