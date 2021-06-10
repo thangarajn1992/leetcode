@@ -4,5 +4,6 @@
 
 | Leetcode | Difficulty | Problem Link |
 | :--- | :--- | :--- |
+| 79 | Medium | [Word Search](../leetcode-medium/leetcode-79-word-search.md) |
 | 1886 | Easy | [Determine Whether Matrix Can Be Obtained By Rotation](../leetcode-easy/leetcode-1886-determine-whether-matrix-can-be-obtained-by-rotation.md) |
 

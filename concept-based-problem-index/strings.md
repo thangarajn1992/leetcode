@@ -8,7 +8,6 @@
 | 8 | Medium | [String to Integer \(atoi\)](../leetcode-medium/leetcode-8-string-to-integer-atoi.md) |
 | 14 | Easy | [Longest Common Prefix](../leetcode-medium/leetcode-14-longest-common-prefix.md) |
 | 17 | Medium | [Letter Combination of Phone Number](../leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
-| 22 | Medium | [Generate Parentheses](../leetcode-medium/leetcode-22-generate-parentheses.md) |
 | 28 | Easy | [Implement strStr\(\)](../leetcode-easy/leetcode-28-implement-strstr.md) |
 | 38 | Medium | [Count and Say](../leetcode-medium/leetcode-38-count-and-say.md) |
 | 49 | Medium | [Group Anagrams](../leetcode-medium/leetcode-49-group-anagrams.md) |

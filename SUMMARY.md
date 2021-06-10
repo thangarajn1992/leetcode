@@ -129,6 +129,7 @@
   * [Leetcode 63 Unique Paths II](leetcode-medium/leetcode-63-unique-paths-ii.md)
   * [Leetcode 73 Set Matrix Zeroes](leetcode-medium/leetcode-73-set-matrix-zeroes.md)
   * [Leetcode 78 Subsets](leetcode-medium/leetcode-78-subsets.md)
+  * [Leetcode 79 Word Search](leetcode-medium/leetcode-79-word-search.md)
   * [Leetcode 82 Remove Duplicates from Sorted List II](leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md)
   * [LeetCode 86 Partition List](leetcode-medium/leetcode-86-partition-list.md)
   * [Leetcode 92 Reverse Linked List II](leetcode-medium/leetcode-92-reverse-linked-list-ii.md)

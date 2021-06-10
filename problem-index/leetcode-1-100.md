@@ -63,6 +63,7 @@ description: Leetcode Problem from 1 to 100
 | 70 | Easy | [Climbing Stairs](../leetcode-easy/leetcode-70-climbing-stairs.md) |
 | 73 | Medium | [Set Matrix Zeroes](../leetcode-medium/leetcode-73-set-matrix-zeroes.md) |
 | 78 | Medium | [Subsets](../leetcode-medium/leetcode-78-subsets.md) |
+| 79 | Medium | [Word Search](../leetcode-medium/leetcode-79-word-search.md) |
 | 82 | Medium | [Remove Duplicates From Sorted List II](../leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md) |
 | 83 | Easy | [Remove Duplicates From Sorted List](../leetcode-easy/leetcode-83-remove-duplicates-from-sorted-list.md) |
 | 86 | Medium | [Partition List](../leetcode-medium/leetcode-86-partition-list.md) |

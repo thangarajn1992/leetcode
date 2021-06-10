@@ -26,6 +26,7 @@ Medium Level Problem Sets for Leetcode
 | 63 | [Unique Paths II](leetcode-63-unique-paths-ii.md) |
 | 73 | [Set Matrix Zeroes](leetcode-73-set-matrix-zeroes.md) |
 | 78 | [Subsets](leetcode-78-subsets.md) |
+| 79 | [Word Search](leetcode-79-word-search.md) |
 | 82 | [Remove Duplicates from Sorted List II](leetcode-82-remove-duplicates-from-sorted-list-ii.md) |
 | 86 | [Partition List](leetcode-86-partition-list.md) |
 | 92 | [Reverse Linked List II](leetcode-92-reverse-linked-list-ii.md) |
