@@ -126,6 +126,7 @@
   * [Leetcode 49 Group Anagrams](leetcode-medium/leetcode-49-group-anagrams.md)
   * [Leetcode 55 Jump Game](leetcode-medium/leetcode-55-jump-game.md)
   * [Leetcode 61 Rotate List](leetcode-medium/leetcode-61-rotate-list.md)
+  * [Leetcode 62 Unique Paths](leetcode-medium/leetcode-62-unique-paths.md)
   * [Leetcode 63 Unique Paths II](leetcode-medium/leetcode-63-unique-paths-ii.md)
   * [Leetcode 73 Set Matrix Zeroes](leetcode-medium/leetcode-73-set-matrix-zeroes.md)
   * [Leetcode 78 Subsets](leetcode-medium/leetcode-78-subsets.md)

@@ -23,6 +23,7 @@ Medium Level Problem Sets for Leetcode
 | 49 | [Group Anagrams](leetcode-49-group-anagrams.md) |
 | 55 | [Jump Game](leetcode-55-jump-game.md) |
 | 61 | [Rotate List](leetcode-61-rotate-list.md) |
+| 62 | [Unique Paths](leetcode-62-unique-paths.md) |
 | 63 | [Unique Paths II](leetcode-63-unique-paths-ii.md) |
 | 73 | [Set Matrix Zeroes](leetcode-73-set-matrix-zeroes.md) |
 | 78 | [Subsets](leetcode-78-subsets.md) |

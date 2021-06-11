@@ -57,6 +57,7 @@ description: Leetcode Problem from 1 to 100
 | 53 | Easy | [Maximum Sub-array](../leetcode-easy/leetcode-53-maximum-subarray.md) |
 | 55 | Medium | [Jump Game](../leetcode-medium/leetcode-55-jump-game.md) |
 | 61 | Medium | [Rotate List](../leetcode-medium/leetcode-61-rotate-list.md) |
+| 62 | Medium | [Unique Paths](../leetcode-medium/leetcode-62-unique-paths.md) |
 | 63 | Medium | [Unique Paths II](../leetcode-medium/leetcode-63-unique-paths-ii.md) |
 | 65 | Hard | [Valid Number](../leetcode-hard/leetcode-65-valid-number.md) |
 | 66 | Easy | [Plus One](../leetcode-easy/leetcode-66-plus-one.md) |
