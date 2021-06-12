@@ -59,6 +59,7 @@ description: Leetcode Problem from 1 to 100
 | 61 | Medium | [Rotate List](../leetcode-medium/leetcode-61-rotate-list.md) |
 | 62 | Medium | [Unique Paths](../leetcode-medium/leetcode-62-unique-paths.md) |
 | 63 | Medium | [Unique Paths II](../leetcode-medium/leetcode-63-unique-paths-ii.md) |
+| 64 | Medium | [Minimum Path Sum](../leetcode-medium/leetcode-64-minimum-path-sum.md) |
 | 65 | Hard | [Valid Number](../leetcode-hard/leetcode-65-valid-number.md) |
 | 66 | Easy | [Plus One](../leetcode-easy/leetcode-66-plus-one.md) |
 | 70 | Easy | [Climbing Stairs](../leetcode-easy/leetcode-70-climbing-stairs.md) |

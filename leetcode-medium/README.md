@@ -25,6 +25,7 @@ Medium Level Problem Sets for Leetcode
 | 61 | [Rotate List](leetcode-61-rotate-list.md) |
 | 62 | [Unique Paths](leetcode-62-unique-paths.md) |
 | 63 | [Unique Paths II](leetcode-63-unique-paths-ii.md) |
+| 64 | [Minimum Path Sum](leetcode-64-minimum-path-sum.md) |
 | 73 | [Set Matrix Zeroes](leetcode-73-set-matrix-zeroes.md) |
 | 78 | [Subsets](leetcode-78-subsets.md) |
 | 79 | [Word Search](leetcode-79-word-search.md) |
