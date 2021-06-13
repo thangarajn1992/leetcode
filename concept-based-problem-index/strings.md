@@ -8,6 +8,7 @@
 | 8 | Medium | [String to Integer \(atoi\)](../leetcode-medium/leetcode-8-string-to-integer-atoi.md) |
 | 14 | Easy | [Longest Common Prefix](../leetcode-medium/leetcode-14-longest-common-prefix.md) |
 | 17 | Medium | [Letter Combination of Phone Number](../leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
+| 22 | Medium | [Generate Parentheses](../leetcode-medium/leetcode-22-generate-parentheses.md) |
 | 28 | Easy | [Implement strStr\(\)](../leetcode-easy/leetcode-28-implement-strstr.md) |
 | 38 | Medium | [Count and Say](../leetcode-medium/leetcode-38-count-and-say.md) |
 | 49 | Medium | [Group Anagrams](../leetcode-medium/leetcode-49-group-anagrams.md) |
@@ -31,4 +32,5 @@
 | 1876 | Easy | [Substrings of Size Three with Distinct Characters](../leetcode-easy/leetcode-1876-substrings-of-size-three-with-distinct-characters.md) |
 | 1880 | Easy | [Check if Word Equals Summation of Two Words](../leetcode-easy/leetcode-1880-check-if-word-equals-summation-of-two-words.md) |
 | 1888 | Medium | [Minimum Number of Flips to Make the Binary String Alternating](../leetcode-medium/leetcode-1888-minimum-number-of-flips-to-make-the-binary-string-alternating.md) |
+| 1897 | Easy | [Redistribute Characters to Make All Strings Equal](../leetcode-easy/leetcode-1897-redistribute-characters-to-make-all-strings-equal.md) |
 

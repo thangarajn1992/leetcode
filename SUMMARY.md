@@ -106,6 +106,7 @@
   * [Leetcode 1876 Substrings of Size Three with Distinct Characters](leetcode-easy/leetcode-1876-substrings-of-size-three-with-distinct-characters.md)
   * [Leetcode 1880 Check if Word Equals Summation of Two Words](leetcode-easy/leetcode-1880-check-if-word-equals-summation-of-two-words.md)
   * [Leetcode 1886 Determine Whether Matrix Can Be Obtained By Rotation](leetcode-easy/leetcode-1886-determine-whether-matrix-can-be-obtained-by-rotation.md)
+  * [Leetcode 1897 Redistribute Characters to Make All Strings Equal](leetcode-easy/leetcode-1897-redistribute-characters-to-make-all-strings-equal.md)
 * [LeetCode Medium](leetcode-medium/README.md)
   * [Leetcode 2 Add Two Numbers](leetcode-medium/leetcode-2-add-two-numbers.md)
   * [Leetcode 3 Longest Substring Without Repeating Characters](leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md)
