@@ -207,6 +207,7 @@
   * [Leetcode 51 N-Queens](leetcode-hard/leetcode-51-n-queens.md)
   * [Leetcode 52  N-Queens II](leetcode-hard/leetcode-52-n-queens-ii.md)
   * [Leetcode 65 Valid Number](leetcode-hard/leetcode-65-valid-number.md)
+  * [Leetcode 336 Palindrome Pairs](leetcode-hard/leetcode-336-palindrome-pairs.md)
   * [Leetcode 745 Prefix and Suffix Search](leetcode-hard/leetcode-745-prefix-and-suffix-search.md)
   * [Leetcode 906 Super Palindromes](leetcode-hard/leetcode-906-super-palindromes.md)
   * [Leetcode 968 Binary Tree Cameras](leetcode-hard/leetcode-968-binary-tree-cameras.md)
