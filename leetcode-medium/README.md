@@ -97,6 +97,8 @@ Medium Level Problem Sets for Leetcode
 | 1881 | [Maximum Value after insertion](leetcode-1881-maximum-value-after-insertion.md) |
 | 1887 | [Reduction Operations to Make the Array Elements Equal](leetcode-1887-reduction-operations-to-make-the-array-elements-equal.md) |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](leetcode-1888-minimum-number-of-flips-to-make-the-binary-string-alternating.md) |
+| 1894 | [Find the Student that Will Replace the Chalk](leetcode-1894-find-the-student-that-will-replace-the-chalk.md) |
+| 1899 | [Merge Triplets to Form Target Triplet](leetcode-1899-merge-triplets-to-form-target-triplet.md) |
 
 
 
