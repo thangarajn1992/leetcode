@@ -6,6 +6,7 @@ Medium Level Problem Sets for Leetcode
 | :--- | :--- |
 | 2 | [Add Two Numbers](leetcode-2-add-two-numbers.md) |
 | 3 | [Longest Substring without Repeating Characters](leetcode-3-longest-substring-without-repeating-characters.md) |
+| 5 | [Longest Palindromic Substring](leetcode-5-longest-palindromic-substring.md) |
 | 8 | [String to Integer \(atoi\)](leetcode-8-string-to-integer-atoi.md) |
 | 14 | [Longest Common Prefix](leetcode-14-longest-common-prefix.md) |
 | 15 | [3Sum](leetcode-15-3sum.md) |

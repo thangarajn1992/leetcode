@@ -113,6 +113,7 @@
 * [LeetCode Medium](leetcode-medium/README.md)
   * [Leetcode 2 Add Two Numbers](leetcode-medium/leetcode-2-add-two-numbers.md)
   * [Leetcode 3 Longest Substring Without Repeating Characters](leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md)
+  * [Leetcode 5 Longest Palindromic Substring](leetcode-medium/leetcode-5-longest-palindromic-substring.md)
   * [Leetcode 8 String to Integer \(atoi\)](leetcode-medium/leetcode-8-string-to-integer-atoi.md)
   * [Leetcode 14 Longest Common Prefix](leetcode-medium/leetcode-14-longest-common-prefix.md)
   * [Leetcode 15 3Sum](leetcode-medium/leetcode-15-3sum.md)

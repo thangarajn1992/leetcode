@@ -10,7 +10,7 @@ description: Leetcode Problem from 1 to 100
 | 2 | Medium | [Add Two Numbers](../leetcode-medium/leetcode-2-add-two-numbers.md) |
 | 3 | Medium | [Longest Substring without Repeating Characters](../leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md) |
 | 4 |  |  |
-| 5 |  |  |
+| 5 | Medium | [Longest Palindromic Substring](../leetcode-medium/leetcode-5-longest-palindromic-substring.md) |
 | 6 |  |  |
 | 7 | Easy | [Reverse Integer](../leetcode-easy/leetcode-7-reverse-integer.md) |
 | 8 | Medium | [String to Integer \(atoi\)](../leetcode-medium/leetcode-8-string-to-integer-atoi.md) |

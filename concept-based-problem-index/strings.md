@@ -5,6 +5,7 @@
 | Leetcode No | Difficulty | Problem Link |
 | :--- | :--- | :--- |
 | 3 | Medium | [Longest Substring Without Repeating characters](../leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md) |
+| 5 | Medium | [Longest Palindromic Substring](../leetcode-medium/leetcode-5-longest-palindromic-substring.md) |
 | 8 | Medium | [String to Integer \(atoi\)](../leetcode-medium/leetcode-8-string-to-integer-atoi.md) |
 | 14 | Easy | [Longest Common Prefix](../leetcode-medium/leetcode-14-longest-common-prefix.md) |
 | 17 | Medium | [Letter Combination of Phone Number](../leetcode-medium/leetcode-17-letter-combinations-of-a-phone-number.md) |
