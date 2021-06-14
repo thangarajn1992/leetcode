@@ -99,6 +99,7 @@ Medium Level Problem Sets for Leetcode
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](leetcode-1888-minimum-number-of-flips-to-make-the-binary-string-alternating.md) |
 | 1894 | [Find the Student that Will Replace the Chalk](leetcode-1894-find-the-student-that-will-replace-the-chalk.md) |
 | 1895 | [Largest Magic Square](leetcode-1895-largest-magic-square.md) |
+| 1898 | [Maximum Number of Removable Characters](leetcode-1898-maximum-number-of-removable-characters.md) |
 | 1899 | [Merge Triplets to Form Target Triplet](leetcode-1899-merge-triplets-to-form-target-triplet.md) |
 
 

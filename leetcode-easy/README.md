@@ -31,6 +31,7 @@ Easy Level Problem Sets for Leetcode
 | 155 | [Min Stack](leetcode-155-min-stack.md) |
 | 160 | [Intersection of Two Linked Lists](leetcode-160-intersection-of-two-linked-lists.md) |
 | 169 | [Majority Element](leetcode-169-majority-element.md) |
+| 171 | [Excel Sheet Column Number](leetcode-171-excel-sheet-column-number.md) |
 | 190 | [Reverse Bits](leetcode-190-reverse-bits.md) |
 | 191 | [Number of 1 bits](leetcode-191-number-of-1-bits.md) |
 | 202 | [Happy Number](leetcode-202-happy-number.md) |
