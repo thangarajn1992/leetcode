@@ -101,6 +101,7 @@
   * [Leetcode 1480 Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md)
   * [Leetcode 1486 XOR Operation in an Array](leetcode-easy/leetcode-1486-xor-operation-in-an-array.md)
   * [Leetcode 1844 Replace All Digits with Characters](leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md)
+  * [Leetcode 1710 Maximum Units on a Truck](leetcode-easy/leetcode-1710-maximum-units-on-a-truck.md)
   * [Leetcode 1859 Sorting the Sentence](leetcode-easy/leetcode-1859-sorting-the-sentence.md)
   * [Leetcode 1863 Sum of All Subset XOR Totals](leetcode-easy/leetcode-1863-sum-of-all-subset-xor-totals.md)
   * [Leetcode 1876 Substrings of Size Three with Distinct Characters](leetcode-easy/leetcode-1876-substrings-of-size-three-with-distinct-characters.md)
