@@ -204,6 +204,7 @@
   * [Leetcode 1887 Reduction Operations to Make the Array Elements Equal](leetcode-medium/leetcode-1887-reduction-operations-to-make-the-array-elements-equal.md)
   * [Leetcode 1888 Minimum Number of Flips to Make the Binary String Alternating](leetcode-medium/leetcode-1888-minimum-number-of-flips-to-make-the-binary-string-alternating.md)
   * [Leetcode 1894 Find the Student that Will Replace the Chalk](leetcode-medium/leetcode-1894-find-the-student-that-will-replace-the-chalk.md)
+  * [Leetcode 1895 Largest Magic Square](leetcode-medium/leetcode-1895-largest-magic-square.md)
   * [Leetcode 1899 Merge Triplets to Form Target Triplet](leetcode-medium/leetcode-1899-merge-triplets-to-form-target-triplet.md)
 * [LeetCode Hard](leetcode-hard/README.md)
   * [Leetcode 51 N-Queens](leetcode-hard/leetcode-51-n-queens.md)
