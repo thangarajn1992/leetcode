@@ -5,7 +5,6 @@
 | 20 | Easy | [Valid Parenthesis](../leetcode-easy/leetcode-20-valid-parentheses.md) |
 | 51 | Hard | [N-Queens](../leetcode-hard/leetcode-51-n-queens.md) |
 | 52 | Hard  | [N-Queens II](../leetcode-hard/leetcode-52-n-queens-ii.md) |
-| 473 | Medium | [Matchsticks to Square](../leetcode-medium/leetcode-473-matchsticks-to-square.md) |
 | 554 | Medium | [Brick Wall](../leetcode-medium/leetcode-554-brick-wall.md) |
 | 1642 | Medium | [Furthest Building You Can Reach](../leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md) |
 | 1845 | Medium | [Seat Reservation Manager](../leetcode-medium/leetcode-1845-seat-reservation-manager.md) |

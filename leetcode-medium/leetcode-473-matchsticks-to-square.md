@@ -40,13 +40,14 @@ public:
     bool makesquare(vector<int>& matchsticks) {
         if(matchsticks.size() < 4)
             return false;
-        int maxi = -1, sum = 0;
+            
+        // Sorting improves the time from 180ms to 4ms
+        sort(matchsticks.begin(), matchsticks.end(), greater<>());
+        int sum = 0;
         for(int i : matchsticks)
-        {
             sum += i;
-            maxi = (i > maxi)? i:maxi;
-        }
-        if(!sum || sum%4 != 0 || sum/4 < maxi)
+
+        if(!sum || sum%4 != 0 || sum/4 < matchsticks[0])
             return false;
             
         square_side = sum/4;
