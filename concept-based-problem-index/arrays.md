@@ -42,6 +42,7 @@ This page contains list of problems that involves arrays
 | 575 | Easy | [Distribute Candies](../leetcode-easy/leetcode-575-distribute-candies.md) |
 | 665 | Medium | [Non-decreasing array](../leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 695 | Medium | [Max Area of Island](../leetcode-medium/leetcode-695-max-area-of-island.md) |
+| 795 | Medium | [Number of Subarrays with Bounded Maximum](../leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 970 | Medium | [Powerful Integers](../leetcode-medium/leetcode-970-powerful-integers.md) |
 | 1306 | Medium | [Jump Game III](../leetcode-medium/leetcode-1306-jump-game-iii.md) |
 | 1354 | Hard  | [Construct Target Array With Multiple Sums](../leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md) |

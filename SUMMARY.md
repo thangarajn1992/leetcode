@@ -178,6 +178,7 @@
   * [Leetcode 695 Max Area of Island](leetcode-medium/leetcode-695-max-area-of-island.md)
   * [Leetcode 729 My Calendar I](leetcode-medium/leetcode-729-my-calendar-i.md)
   * [Leetcode 752 Open the Lock](leetcode-medium/leetcode-752-open-the-lock.md)
+  * [Leetcode 795 Number of Subarrays with Bounded Maximum](leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md)
   * [Leetcode 890 Find and Replace Pattern](leetcode-medium/leetcode-890-find-and-replace-pattern.md)
   * [Leetcode 948 Bag of Tokens](leetcode-medium/leetcode-948-bag-of-tokens.md)
   * [Leetcode 970 Powerful Integers](leetcode-medium/leetcode-970-powerful-integers.md)

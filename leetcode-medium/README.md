@@ -62,6 +62,7 @@ Medium Level Problem Sets for Leetcode
 | 377 | [Combination Sum IV](leetcode-377-combination-sum-iv.md) |
 | 384 | [Shuffle an Array](leetcode-384-shuffle-an-array.md) |
 | 462 | [Minimum Moves to Equal Array Elements II](leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
+| 473 | [Matchsticks to Square](leetcode-473-matchsticks-to-square.md) |
 | 474 | [Ones and Zeroes](leetcode-474-ones-and-zeroes.md) |
 | 554 | [Brick Wall](leetcode-554-brick-wall.md) |
 | 583 | [Delete Operation for Two Strings](leetcode-583-delete-operation-for-two-strings.md) |
@@ -70,6 +71,7 @@ Medium Level Problem Sets for Leetcode
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |
 | 729 | [My Calendar I](leetcode-729-my-calendar-i.md) |
 | 752 | [Open the Lock](leetcode-752-open-the-lock.md) |
+| 795 | [Number of Subarrays with Bounded Maximum](leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 890 | [Find and Replace Pattern](leetcode-890-find-and-replace-pattern.md) |
 | 948 | [Bag of Tokens](leetcode-948-bag-of-tokens.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
