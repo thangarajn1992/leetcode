@@ -42,8 +42,8 @@ numArray.sumRange(0, 2); // return 1 + 2 + 5 = 8
 
 ## Solution
 
-### Segment Tree Approach
-
+{% tabs %}
+{% tab title="Segment Tree Approach" %}
 ```cpp
 class SegmentNode{
 public:
@@ -124,11 +124,9 @@ public:
     }
 };
 ```
+{% endtab %}
 
-### Binary Indexed Tree \(BIT\) Approach
-
-For more details on BIT, please check this [link](https://www.topcoder.com/thrive/articles/Binary%20Indexed%20Trees).
-
+{% tab title="Binary Indexed Tree \(BIT\) Approach" %}
 ```cpp
 class NumArray {
 public:
@@ -176,4 +174,8 @@ public:
     }
 };
 ```
+{% endtab %}
+{% endtabs %}
+
+### 
 
