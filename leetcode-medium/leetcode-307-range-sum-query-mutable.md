@@ -42,6 +42,89 @@ numArray.sumRange(0, 2); // return 1 + 2 + 5 = 8
 
 ## Solution
 
+### Segment Tree Approach
+
+```cpp
+class SegmentNode{
+public:
+    int start;
+    int end;
+    int sum;
+    SegmentNode* left;
+    SegmentNode* right;
+    SegmentNode(int start,int end){
+        this->start = start;
+        this->end = end;
+        this->left = nullptr;
+        this->right = nullptr;
+        this->sum = 0;
+    }
+};
+
+class NumArray {
+public:
+    SegmentNode* root;
+    vector<int> my_nums;
+
+    NumArray(vector<int>& nums) {
+        my_nums = nums;
+        root = constructSt(0, nums.size()-1);
+    }
+    
+    void update(int index, int val) {
+        if(!root)
+            return;
+        int diff = my_nums[index] - val;
+        my_nums[index] = val;
+        SegmentUpdate(root, index, diff);
+    }
+    
+    int sumRange(int left, int right) {
+        if(!root)
+            return 0;
+        return SegmentSum(root, left, right);
+    }
+    
+    SegmentNode *constructSt(int start, int end)
+    {
+        if(start > end)
+            return nullptr;
+        
+        SegmentNode *node = new SegmentNode(start,end);
+        if(start == end)
+            node->sum = my_nums[start];
+        else
+        {
+            int mid = start + (end-start)/2;
+            node->left = constructSt(start, mid);
+            node->right = constructSt(mid+1, end);
+            node->sum = node->left->sum + node->right->sum;
+        }
+        return node;
+    }
+    
+    void SegmentUpdate(SegmentNode* root, int index, int diff)
+    {
+        if(!root || index < root->start || index > root->end)
+            return;
+        if(index >= root->start && index <= root->end)
+            root->sum -= diff;
+        SegmentUpdate(root->left, index, diff);
+        SegmentUpdate(root->right, index, diff);
+    }
+    
+    int SegmentSum(SegmentNode* root, int start, int end)
+    {
+        if(!root || start > root->end || end < root->start)
+            return 0;
+        if(start <= root->start && end >= root->end)
+            return root->sum;
+        else
+            return SegmentSum(root->left, start, end) + SegmentSum(root->right, start, end);
+    }
+};
+```
+
 ### Binary Indexed Tree \(BIT\) Approach
 
 For more details on BIT, please check this [link](https://www.topcoder.com/thrive/articles/Binary%20Indexed%20Trees).
