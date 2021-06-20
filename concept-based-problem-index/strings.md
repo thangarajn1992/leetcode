@@ -36,4 +36,5 @@
 | 1888 | Medium | [Minimum Number of Flips to Make the Binary String Alternating](../leetcode-medium/leetcode-1888-minimum-number-of-flips-to-make-the-binary-string-alternating.md) |
 | 1897 | Easy | [Redistribute Characters to Make All Strings Equal](../leetcode-easy/leetcode-1897-redistribute-characters-to-make-all-strings-equal.md) |
 | 1898 | Medium | [Maximum Number of Removable Characters](../leetcode-medium/leetcode-1898-maximum-number-of-removable-characters.md) |
+| 1903 | Easy | [Largest Odd Number in String](../leetcode-easy/leetcode-1903-largest-odd-number-in-string.md) |
 

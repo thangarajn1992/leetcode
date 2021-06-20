@@ -73,4 +73,5 @@ Easy Level Problem Sets for Leetcode
 | 1886 | [Determine Whether Matrix can be Obtained by Rotation](leetcode-1886-determine-whether-matrix-can-be-obtained-by-rotation.md) |
 | 1893 | [Check if All the Integers in a Range Are Covered](leetcode-1893-check-if-all-the-integers-in-a-range-are-covered.md) |
 | 1897 | [Redistribute Characters to Make All Strings Equal](leetcode-1897-redistribute-characters-to-make-all-strings-equal.md) |
+| 1903 | [Largest Odd Number in String](leetcode-1903-largest-odd-number-in-string.md) |
 

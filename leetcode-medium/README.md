@@ -104,6 +104,9 @@ Medium Level Problem Sets for Leetcode
 | 1895 | [Largest Magic Square](leetcode-1895-largest-magic-square.md) |
 | 1898 | [Maximum Number of Removable Characters](leetcode-1898-maximum-number-of-removable-characters.md) |
 | 1899 | [Merge Triplets to Form Target Triplet](leetcode-1899-merge-triplets-to-form-target-triplet.md) |
+| 1904 | [The Number of Full Rounds You Have Played](leetcode-1904-the-number-of-full-rounds-you-have-played.md) |
+| 1905 | [Count Sub Islands](leetcode-1905-count-sub-islands.md) |
+| 1906 | [Minimum Absolute Difference Queries](leetcode-1906-minimum-absolute-difference-queries.md) |
 
 
 
