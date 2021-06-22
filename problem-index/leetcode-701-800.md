@@ -13,5 +13,6 @@ description: Leetcode Problems from 701 to 800
 | 745 | Hard | [Prefix and Suffix Search](../leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
 | 746 | Easy | [Min Cost Climbing Stairs](../leetcode-easy/leetcode-746-min-cost-climbing-stairs.md) |
 | 752 | Medium | [Open the Lock](../leetcode-medium/leetcode-752-open-the-lock.md) |
+| 792 | Medium | [Number of Matching Subsequences](../leetcode-medium/leetcode-792-number-of-matching-subsequences.md) |
 | 795 | Medium | [Number of Subarrays with Bounded Maximum](../leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 
