@@ -33,14 +33,14 @@ Output: [5]
 
 Let's look at the steps for the algorithm now.
 
-1. We need two pointers, `prev` and `cur` as explained above.
+1. We need two pointers, `prev` and `cur`.
 2. The `prev` pointer should be initialized to `None` initially while `cur` is initialized to the `head` of the linked list.
 3. We progress the `cur` pointer one step at a time and the `prev` pointer follows it.
-4. We keep progressing the two pointers in this way until the `cur` pointer reaches themthm^{th}mth node from the beginning of the list. This is the point from where we start reversing our linked list.
-5. An important thing to note here is the usage of two additional pointers which we will call as `tail` and `con`. The `tail` pointer points to themthm^{th}mth node from the beginning of the linked list and we call it a _tail_ pointer since this node becomes the tail of the reverse sublist. The `con` points to the node one beforemthm^{th}mth node and this connects to the new head of the reversed sublist. Let's take a look at a figure to understand these two pointers better. 
+4. We keep progressing the two pointers in this way until the `cur` pointer reaches the 'm'th node from the beginning of the list. This is the point from where we start reversing our linked list.
+5. An important thing to note here is the usage of two additional pointers which we will call as `tail` and `con`. The `tail` pointer points to the mth node from the beginning of the linked list and we call it a _tail_ pointer since this node becomes the tail of the reverse sublist. The `con` points to the node one before mth node and this connects to the new head of the reversed sublist. Let's take a look at a figure to understand these two pointers better. 
 6. The `tail` and the `con` pointers are set once initially and then used in the end to finish the linked list reversal.
-7. Once we reach themthm^{th}mth node, we iteratively reverse the links as explained before using the two pointers. We keep on doing this until we are done reversing the link \(next pointer\) for thenthn^{th}nth node. At that point, the `prev` pointer would point to thenthn^{th}nth node.
-8. We use the `con` pointer to attach to the `prev` pointer since the node now pointed to by the `prev` pointer \(thenthn^{th}nth node from the beginning\) will come in place of themthm^{th}mth node due after the reversal. Similarly, we will make use of the `tail` pointer to connect to the node next to the `prev` node i.e.\(n+1\)th\(n+1\)^{th}\(n+1\)th node from the beginning.
+7. Once we reach the mth node, we iteratively reverse the links as explained before using the two pointers. We keep on doing this until we are done reversing the link \(next pointer\) for the nth node. At that point, the `prev` pointer would point to the nth node.
+8. We use the `con` pointer to attach to the `prev` pointer since the node now pointed to by the `prev` pointer \(the nth node from the beginning\) will come in place of the mth node due after the reversal. Similarly, we will make use of the `tail` pointer to connect to the node next to the `prev` node i.e.\(n+1\)th node from the beginning.
 
 ![](https://leetcode.com/problems/reverse-linked-list-ii/Figures/92/tail_and_con.png)
 
@@ -68,8 +68,6 @@ As we can see from the above images, now the two pointers have reached their fin
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if(left == right || head->next == nullptr)
-            return head;
         ListNode *con = nullptr, *tail = nullptr;
         ListNode *prev = nullptr, *curr = head, *next = nullptr;
         while(left > 1)
