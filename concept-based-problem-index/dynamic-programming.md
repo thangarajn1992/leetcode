@@ -15,6 +15,7 @@ This page contains list of problems that are solved using dynamic programming.
 | 377 | Medium | [Combination Sum IV](../leetcode-medium/leetcode-377-combination-sum-iv.md) |
 | 474 | Medium | [Ones and Zeroes](../leetcode-medium/leetcode-474-ones-and-zeroes.md) |
 | 509 | Easy | [Fibonacci Number](../leetcode-easy/leetcode-509-fibonacci-number.md) |
+| 576 | Medium | [Out of Boundary Paths](../leetcode-medium/leetcode-576-out-of-boundary-paths.md) |
 | 583 | Medium | [Delete Operation for Two Strings](../leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
 | 746 | Easy | [Min Cost Climbing Stairs](../leetcode-easy/leetcode-746-min-cost-climbing-stairs.md) |
 | 1048 | Medium | [Longest String Chain](../leetcode-medium/leetcode-1048-longest-string-chain.md) |

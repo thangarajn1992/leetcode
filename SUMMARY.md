@@ -174,6 +174,7 @@
   * [Leetcode 473 Matchsticks to Square](leetcode-medium/leetcode-473-matchsticks-to-square.md)
   * [Leetcode 474 Ones and Zeroes](leetcode-medium/leetcode-474-ones-and-zeroes.md)
   * [Leetcode 554 Brick Wall](leetcode-medium/leetcode-554-brick-wall.md)
+  * [Leetcode 576 Out of Boundary Paths](leetcode-medium/leetcode-576-out-of-boundary-paths.md)
   * [Leetcode 583 Delete Operation for Two Strings](leetcode-medium/leetcode-583-delete-operation-for-two-strings.md)
   * [Leetcode 609 Find Duplicate File in System](leetcode-medium/leetcode-609-find-duplicate-file-in-system.md)
   * [Leetcode 665 Non-decreasing Array](leetcode-medium/leetcode-665-non-decreasing-array.md)
