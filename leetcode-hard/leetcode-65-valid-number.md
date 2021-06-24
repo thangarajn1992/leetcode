@@ -1,0 +1,109 @@
+# Leetcode 65 Valid Number
+
+## Problem Statement
+
+A **valid number** can be split up into these components \(in order\):
+
+1. A **decimal number** or an **integer**.
+2. \(Optional\) An `'e'` or `'E'`, followed by an **integer**.
+
+A **decimal number** can be split up into these components \(in order\):
+
+1. \(Optional\) A sign character \(either `'+'` or `'-'`\).
+2. One of the following formats:
+   1. At least one digit, followed by a dot `'.'`.
+   2. At least one digit, followed by a dot `'.'`, followed by at least one digit.
+   3. A dot `'.'`, followed by at least one digit.
+
+An **integer** can be split up into these components \(in order\):
+
+1. \(Optional\) A sign character \(either `'+'` or `'-'`\).
+2. At least one digit.
+
+For example, all the following are valid numbers: `["2", "0089", "-0.1", "+3.14", "4.", "-.9", "2e10", "-90E3", "3e+7", "+6e-1", "53.5e93", "-123.456e789"]`, while the following are not valid numbers: `["abc", "1a", "1e", "e3", "99e2.5", "--6", "-+3", "95a54e53"]`.
+
+Given a string `s`, return `true` _if_ `s` _is a **valid number**_.
+
+**Example 1:**
+
+```text
+Input: s = "0"
+Output: true
+```
+
+**Example 2:**
+
+```text
+Input: s = "e"
+Output: false
+```
+
+**Example 3:**
+
+```text
+Input: s = "."
+Output: false
+```
+
+**Example 4:**
+
+```text
+Input: s = ".1"
+Output: true
+```
+
+**Constraints:**
+
+* `1 <= s.length <= 20`
+* `s` consists of only English letters \(both uppercase and lowercase\), digits \(`0-9`\), plus `'+'`, minus `'-'`, or dot `'.'`.
+
+## Solution
+
+```cpp
+class Solution {
+public:
+    bool isNumber(string s) {
+        int index = 0;
+        int size = s.size();
+        
+        // If first char is sign, skip it.
+        if(s[index] == '+' || s[index] == '-')
+            if(++index == size) // If sign is only char present, return false
+                return false;
+    
+        bool dot_seen = false;
+        int base_index = 0;
+        
+        //Run loop till we see max of single dot and only numbers
+        while(index < size && isdigit(s[index]) || (!dot_seen && s[index] == '.'))
+        {
+            if(s[index] == '.')
+                dot_seen = true;
+            base_index++, index++;
+        }
+        
+        if( (!base_index ||  // no valid char
+             base_index == 1 && dot_seen)) // only dot seen
+            return false;
+        
+        if(index == size) // Proper base without exponent
+            return true;
+        
+        if(tolower(s[index++]) != 'e')
+            return false;
+        
+        if(index == size) // No proper exponent
+            return false;
+        
+        if(s[index] == '+' || s[index] == '-')
+            if(++index == size)
+                return false;
+            
+        while(index < size && isdigit(s[index]))
+            index++;
+        
+        return index == size;    
+    }
+};
+```
+
