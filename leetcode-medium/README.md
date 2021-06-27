@@ -69,7 +69,6 @@ Medium Level Problem Sets for Leetcode
 | 583 | [Delete Operation for Two Strings](leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | [Find Duplicate File in System](leetcode-609-find-duplicate-file-in-system.md) |
 | 665 | [Non-decreasing Array](leetcode-665-non-decreasing-array.md) |
-| 684 | [Redundant Connection](leetcode-684-redundant-connection.md) |
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |
 | 729 | [My Calendar I](leetcode-729-my-calendar-i.md) |
 | 752 | [Open the Lock](leetcode-752-open-the-lock.md) |

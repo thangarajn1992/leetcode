@@ -63,6 +63,7 @@ This page contains list of problems that involves arrays
 | 1893 | Easy | [Check if All the Integers in a Range Are Covered](../leetcode-easy/leetcode-1893-check-if-all-the-integers-in-a-range-are-covered.md) |
 | 1899 | Medium | [Merge Triplets to Form Target Triplet](../leetcode-medium/leetcode-1899-merge-triplets-to-form-target-triplet.md) |
 | 1906 | Medium | [Minimum Absolute Difference Queries](../leetcode-medium/leetcode-1906-minimum-absolute-difference-queries.md) |
+| 1913 | Easy | [Maximum Product Difference Between Two Pairs](../leetcode-easy/leetcode-1913-maximum-product-difference-between-two-pairs.md) |
 
 
 

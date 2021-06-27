@@ -112,6 +112,7 @@
   * [Leetcode 1893 Check if All the Integers in a Range Are Covered](leetcode-easy/leetcode-1893-check-if-all-the-integers-in-a-range-are-covered.md)
   * [Leetcode 1897 Redistribute Characters to Make All Strings Equal](leetcode-easy/leetcode-1897-redistribute-characters-to-make-all-strings-equal.md)
   * [Leetcode 1903 Largest Odd Number in String](leetcode-easy/leetcode-1903-largest-odd-number-in-string.md)
+  * [Leetcode 1913 Maximum Product Difference Between Two Pairs](leetcode-easy/leetcode-1913-maximum-product-difference-between-two-pairs.md)
 * [LeetCode Medium](leetcode-medium/README.md)
   * [Leetcode 2 Add Two Numbers](leetcode-medium/leetcode-2-add-two-numbers.md)
   * [Leetcode 3 Longest Substring Without Repeating Characters](leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md)
