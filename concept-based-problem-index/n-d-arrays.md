@@ -9,5 +9,4 @@
 | 1886 | Easy | [Determine Whether Matrix Can Be Obtained By Rotation](../leetcode-easy/leetcode-1886-determine-whether-matrix-can-be-obtained-by-rotation.md) |
 | 1895 | Medium | [Largest Magic Square](../leetcode-medium/leetcode-1895-largest-magic-square.md) |
 | 1905 | Medium | [Count Sub Islands](../leetcode-medium/leetcode-1905-count-sub-islands.md) |
-| 1914 | Medium | [Cyclically Rotating a Grid](../leetcode-medium/leetcode-1914-cyclically-rotating-a-grid.md) |
 

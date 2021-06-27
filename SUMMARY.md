@@ -220,6 +220,7 @@
   * [Leetcode 1904 The Number of Full Rounds You Have Played](leetcode-medium/leetcode-1904-the-number-of-full-rounds-you-have-played.md)
   * [Leetcode 1905 Count Sub Islands](leetcode-medium/leetcode-1905-count-sub-islands.md)
   * [Leetcode 1906 Minimum Absolute Difference Queries](leetcode-medium/leetcode-1906-minimum-absolute-difference-queries.md)
+  * [Leetcode 1910 Remove All Occurrences of a Substring](leetcode-medium/leetcode-1910-remove-all-occurrences-of-a-substring.md)
   * [Leetcode 1914 Cyclically Rotating a Grid](leetcode-medium/leetcode-1914-cyclically-rotating-a-grid.md)
 * [LeetCode Hard](leetcode-hard/README.md)
   * [Leetcode 51 N-Queens](leetcode-hard/leetcode-51-n-queens.md)

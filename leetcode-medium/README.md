@@ -110,6 +110,7 @@ Medium Level Problem Sets for Leetcode
 | 1904 | [The Number of Full Rounds You Have Played](leetcode-1904-the-number-of-full-rounds-you-have-played.md) |
 | 1905 | [Count Sub Islands](leetcode-1905-count-sub-islands.md) |
 | 1906 | [Minimum Absolute Difference Queries](leetcode-1906-minimum-absolute-difference-queries.md) |
+| 1910 | [Remove All Occurrences of a Substring](leetcode-1910-remove-all-occurrences-of-a-substring.md) |
 | 1914 | [Cyclically Rotating a Grid](leetcode-1914-cyclically-rotating-a-grid.md) |
 
 
