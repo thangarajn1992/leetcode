@@ -32,6 +32,10 @@ You can't get a non-decreasing array by modify at most one element.
 * `1 <= n <= 10^4`
 * `-10^5 <= nums[i] <= 10^5`
 
+**Similar Problems:**
+
+[Remove One Element to Make the Array Strictly Increasing](../leetcode-easy/leetcode-1909-remove-one-element-to-make-the-array-strictly-increasing.md)
+
 ## Solution
 
 ### Easier Solution

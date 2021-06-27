@@ -74,4 +74,6 @@ Easy Level Problem Sets for Leetcode
 | 1893 | [Check if All the Integers in a Range Are Covered](leetcode-1893-check-if-all-the-integers-in-a-range-are-covered.md) |
 | 1897 | [Redistribute Characters to Make All Strings Equal](leetcode-1897-redistribute-characters-to-make-all-strings-equal.md) |
 | 1903 | [Largest Odd Number in String](leetcode-1903-largest-odd-number-in-string.md) |
+| 1909 | [Remove One Element to Make the Array Strictly Increasing](leetcode-1909-remove-one-element-to-make-the-array-strictly-increasing.md) |
+| 1913 | [Maximum Product Difference Between Two Pairs](leetcode-1913-maximum-product-difference-between-two-pairs.md) |
 

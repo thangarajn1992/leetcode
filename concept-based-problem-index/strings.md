@@ -38,5 +38,4 @@
 | 1897 | Easy | [Redistribute Characters to Make All Strings Equal](../leetcode-easy/leetcode-1897-redistribute-characters-to-make-all-strings-equal.md) |
 | 1898 | Medium | [Maximum Number of Removable Characters](../leetcode-medium/leetcode-1898-maximum-number-of-removable-characters.md) |
 | 1903 | Easy | [Largest Odd Number in String](../leetcode-easy/leetcode-1903-largest-odd-number-in-string.md) |
-| 1910 | Medium | [Remove All Occurrences of a Substring](../leetcode-medium/leetcode-1910-remove-all-occurrences-of-a-substring.md) |
 
