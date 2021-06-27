@@ -69,6 +69,7 @@ Medium Level Problem Sets for Leetcode
 | 583 | [Delete Operation for Two Strings](leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | [Find Duplicate File in System](leetcode-609-find-duplicate-file-in-system.md) |
 | 665 | [Non-decreasing Array](leetcode-665-non-decreasing-array.md) |
+| 684 | [Redundant Connection](leetcode-684-redundant-connection.md) |
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |
 | 729 | [My Calendar I](leetcode-729-my-calendar-i.md) |
 | 752 | [Open the Lock](leetcode-752-open-the-lock.md) |
@@ -109,6 +110,7 @@ Medium Level Problem Sets for Leetcode
 | 1904 | [The Number of Full Rounds You Have Played](leetcode-1904-the-number-of-full-rounds-you-have-played.md) |
 | 1905 | [Count Sub Islands](leetcode-1905-count-sub-islands.md) |
 | 1906 | [Minimum Absolute Difference Queries](leetcode-1906-minimum-absolute-difference-queries.md) |
+| 1914 | [Cyclically Rotating a Grid](leetcode-1914-cyclically-rotating-a-grid.md) |
 
 
 
