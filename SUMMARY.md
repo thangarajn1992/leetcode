@@ -99,6 +99,7 @@
   * [Leetcode 696 Count Binary Sub-strings](leetcode-easy/leetcode-696-count-binary-sub-strings.md)
   * [Leetcode 709 To Lower Case](leetcode-easy/leetcode-709-to-lower-case.md)
   * [Leetcode 746 Min Cost Climbing Stairs](leetcode-easy/leetcode-746-min-cost-climbing-stairs.md)
+  * [Leetcode 1047 Remove All Adjacent Duplicates In String](leetcode-easy/leetcode-1047-remove-all-adjacent-duplicates-in-string.md)
   * [Leetcode 1304 Find N Unique Integers Sum up to Zero](leetcode-easy/leetcode-1304-find-n-unique-integers-sum-up-to-zero.md)
   * [Leetcode 1480 Running Sum of 1d Array](leetcode-easy/leetcode-1480-running-sum-of-1d-array.md)
   * [Leetcode 1486 XOR Operation in an Array](leetcode-easy/leetcode-1486-xor-operation-in-an-array.md)

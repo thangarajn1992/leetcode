@@ -61,6 +61,7 @@ Easy Level Problem Sets for Leetcode
 | 696 | [Count Binary Sub-strings](leetcode-696-count-binary-sub-strings.md) |
 | 709 | [To Lower Case](leetcode-709-to-lower-case.md) |
 | 746 | [Min Cost Climbing Stairs](leetcode-746-min-cost-climbing-stairs.md) |
+| 1047 | [Remove All Adjacent Duplicates In String](leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
 | 1304 | [Find N Unique Integers Sum up to Zero](leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
 | 1480 | [Running Sum of 1D Array](leetcode-1480-running-sum-of-1d-array.md) |
 | 1486 | [XOR Operation in an Array](leetcode-1486-xor-operation-in-an-array.md) |
