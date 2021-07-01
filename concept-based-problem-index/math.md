@@ -7,6 +7,7 @@ This page contains list of problems related to Mathematics
 | 7 | Easy | [Reverse Integer](../leetcode-easy/leetcode-7-reverse-integer.md) |
 | 13 | Easy | [Roman to Integer](../leetcode-easy/leetcode-13-roman-to-integer.md) |
 | 78 | Medium | [Subsets](../leetcode-medium/leetcode-78-subsets.md) |
+| 89 | Medium | [Gray Code](../leetcode-medium/leetcode-89-gray-code.md) |
 | 118 | Easy | [Pascal's Triangle](../leetcode-easy/leetcode-118-pascals-triangle.md) |
 | 171 | Easy | [Excel Sheet Column Number](../leetcode-easy/leetcode-171-excel-sheet-column-number.md) |
 | 190 | Easy | [Reverse Bits](../leetcode-easy/leetcode-190-reverse-bits.md) |

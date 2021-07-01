@@ -32,6 +32,7 @@ Medium Level Problem Sets for Leetcode
 | 79 | [Word Search](leetcode-79-word-search.md) |
 | 82 | [Remove Duplicates from Sorted List II](leetcode-82-remove-duplicates-from-sorted-list-ii.md) |
 | 86 | [Partition List](leetcode-86-partition-list.md) |
+| 89 | [Gray Code](leetcode-89-gray-code.md) |
 | 92 | [Reverse Linked List II](leetcode-92-reverse-linked-list-ii.md) |
 | 97 | [Interleaving Strings](leetcode-97-interleaving-string.md) |
 | 98 | [Validate Binary Search Tree](leetcode-98-validate-binary-search-tree.md) |

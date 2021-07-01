@@ -144,6 +144,7 @@
   * [Leetcode 79 Word Search](leetcode-medium/leetcode-79-word-search.md)
   * [Leetcode 82 Remove Duplicates from Sorted List II](leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md)
   * [LeetCode 86 Partition List](leetcode-medium/leetcode-86-partition-list.md)
+  * [Leetcode 89 Gray Code](leetcode-medium/leetcode-89-gray-code.md)
   * [Leetcode 92 Reverse Linked List II](leetcode-medium/leetcode-92-reverse-linked-list-ii.md)
   * [Leetcode 97 Interleaving String](leetcode-medium/leetcode-97-interleaving-string.md)
   * [LeetCode 98 Validate Binary Search Tree](leetcode-medium/leetcode-98-validate-binary-search-tree.md)

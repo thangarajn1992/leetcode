@@ -70,6 +70,7 @@ description: Leetcode Problem from 1 to 100
 | 83 | Easy | [Remove Duplicates From Sorted List](../leetcode-easy/leetcode-83-remove-duplicates-from-sorted-list.md) |
 | 86 | Medium | [Partition List](../leetcode-medium/leetcode-86-partition-list.md) |
 | 88 | Medium | [Merge Sorted Array](../leetcode-easy/leetcode-88-merge-sorted-array.md) |
+| 89 | Medium | [Gray Code](../leetcode-medium/leetcode-89-gray-code.md) |
 | 92 | Medium | [Reverse Linked List II](../leetcode-medium/leetcode-92-reverse-linked-list-ii.md) |
 | 94 | Easy | [Binary Tree Inorder Traversal](../leetcode-easy/leetcode-94-binary-tree-inorder-traversal.md) |
 | 98 | Medium | [Validate BST \(Binary Search Tree\)](../leetcode-medium/leetcode-98-validate-binary-search-tree.md) |
