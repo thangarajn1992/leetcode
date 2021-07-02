@@ -70,6 +70,7 @@ Medium Level Problem Sets for Leetcode
 | 576 | [Out of Boundary Paths](leetcode-576-out-of-boundary-paths.md) |
 | 583 | [Delete Operation for Two Strings](leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | [Find Duplicate File in System](leetcode-609-find-duplicate-file-in-system.md) |
+| 658 | [Find K Closest Elements](leetcode-658-find-k-closest-elements.md) |
 | 665 | [Non-decreasing Array](leetcode-665-non-decreasing-array.md) |
 | 684 | [Redundant Connection](leetcode-684-redundant-connection.md) |
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |

@@ -3,7 +3,7 @@
 | Day No | Problem & Solution Link |
 | :--- | :--- |
 | Day 1 | [Gray Code](../../difficulty-based-problem-index/leetcode-medium/leetcode-89-gray-code.md) |
-| Day 2 |  |
+| Day 2 | [Find K Closest Elements](../../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md) |
 | Day 3 |  |
 | Day 4 |  |
 | Day 5 |  |

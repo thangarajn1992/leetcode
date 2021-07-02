@@ -40,6 +40,7 @@ This page contains list of problems that involves arrays
 | 453 | Easy | [Minimum Moves to Equal Array Elements](../difficulty-based-problem-index/leetcode-easy/leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 462 | Medium | [Minimum Moves to Equal Array Elements II](../difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
 | 575 | Easy | [Distribute Candies](../difficulty-based-problem-index/leetcode-easy/leetcode-575-distribute-candies.md) |
+| 658 | Medium | [Find K Closest Elements](../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md) |
 | 665 | Medium | [Non-decreasing array](../difficulty-based-problem-index/leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 695 | Medium | [Max Area of Island](../difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md) |
 | 795 | Medium | [Number of Subarrays with Bounded Maximum](../difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
