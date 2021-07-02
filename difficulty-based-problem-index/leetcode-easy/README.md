@@ -67,6 +67,7 @@ Easy Level Problem Sets for Leetcode
 | 1480 | [Running Sum of 1D Array](leetcode-1480-running-sum-of-1d-array.md) |
 | 1486 | [XOR Operation in an Array](leetcode-1486-xor-operation-in-an-array.md) |
 | 1710 | [Maximum Units on a Truck](leetcode-1710-maximum-units-on-a-truck.md) |
+| 1791 | [Find Center of Star Graph](leetcode-1791-find-center-of-star-graph.md) |
 | 1844 | [Replace All digits with Characters](leetcode-1844-replace-all-digits-with-characters.md) |
 | 1859 | [Sorting the Sentence](leetcode-1859-sorting-the-sentence.md) |
 | 1863 | [Sum of All Subset XOR Totals](leetcode-1863-sum-of-all-subset-xor-totals.md) |

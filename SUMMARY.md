@@ -230,6 +230,7 @@
     * [Leetcode 1486 XOR Operation in an Array](difficulty-based-problem-index/leetcode-easy/leetcode-1486-xor-operation-in-an-array.md)
     * [Leetcode 1844 Replace All Digits with Characters](difficulty-based-problem-index/leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md)
     * [Leetcode 1710 Maximum Units on a Truck](difficulty-based-problem-index/leetcode-easy/leetcode-1710-maximum-units-on-a-truck.md)
+    * [Leetcode 1791 Find Center of Star Graph](difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph.md)
     * [Leetcode 1859 Sorting the Sentence](difficulty-based-problem-index/leetcode-easy/leetcode-1859-sorting-the-sentence.md)
     * [Leetcode 1863 Sum of All Subset XOR Totals](difficulty-based-problem-index/leetcode-easy/leetcode-1863-sum-of-all-subset-xor-totals.md)
     * [Leetcode 1876 Substrings of Size Three with Distinct Characters](difficulty-based-problem-index/leetcode-easy/leetcode-1876-substrings-of-size-three-with-distinct-characters.md)
