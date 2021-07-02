@@ -2,7 +2,7 @@
 
 | Day No | Problem & Solution Link |
 | :--- | :--- |
-| Day 1 | [Gray Code](../../leetcode-medium/leetcode-89-gray-code.md) |
+| Day 1 | [Gray Code](../../difficulty-based-problem-index/leetcode-medium/leetcode-89-gray-code.md) |
 | Day 2 |  |
 | Day 3 |  |
 | Day 4 |  |

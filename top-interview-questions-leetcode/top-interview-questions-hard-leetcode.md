@@ -48,7 +48,7 @@
 * Design
   * LRU Cache
   * Implement Trie \( Prefix Tree\)
-  * [Flatten Nested List Iterator](../leetcode-medium/leetcode-341-flatten-nested-list-iterator.md)
+  * [Flatten Nested List Iterator](../difficulty-based-problem-index/leetcode-medium/leetcode-341-flatten-nested-list-iterator.md)
   * Find Median from Data Stream
   * Range Sum Query 2D - Mutable
 * Math

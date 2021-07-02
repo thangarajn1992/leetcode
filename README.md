@@ -10,7 +10,7 @@ Problems are indexed based on
 
 [Leetcode Numbers](problem-index/)
 
-[Difficulty levels](difficulty-based-problem-index.md)
+[Difficulty levels](difficulty-based-problem-index/)
 
 [Concepts](concept-based-problem-index/)
 

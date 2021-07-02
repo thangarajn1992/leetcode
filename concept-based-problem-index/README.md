@@ -10,6 +10,7 @@ For problems specific to one of the particular concept below, please use the app
 * [Graphs](graphs.md)
 * [Dynamic Programming](dynamic-programming.md)
 * [Greedy Algorithm](greedy-algorithm.md)
+* [Backtracking](backtracking.md)
 * [Math & Bit Manipulation](math.md)
 * [Sorting and Searching](sorting-and-searching.md)
 * [Design](design.md)
