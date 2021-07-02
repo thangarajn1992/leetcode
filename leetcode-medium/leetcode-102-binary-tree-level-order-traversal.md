@@ -1,6 +1,6 @@
 # Leetcode 102 Binary Tree Level Order Traversal
 
-## Problem Statement
+Problem Statement
 
 [https://leetcode.com/problems/binary-tree-level-order-traversal/](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 

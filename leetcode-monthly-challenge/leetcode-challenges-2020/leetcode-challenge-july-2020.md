@@ -1,8 +1,12 @@
-# Leetcode Challenge - July 2021
+# Leetcode Challenge - July 2020
+
+
+
+
 
 | Day No | Problem & Solution Link |
 | :--- | :--- |
-| Day 1 | [Gray Code](../leetcode-medium/leetcode-89-gray-code.md) |
+| Day 1 |  |
 | Day 2 |  |
 | Day 3 |  |
 | Day 4 |  |

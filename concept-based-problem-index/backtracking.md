@@ -9,4 +9,5 @@
 | 46 | Medium | [Permutations](../leetcode-medium/leetcode-46-permutations.md) |
 | 78 | Medium | [Subsets](../leetcode-medium/leetcode-78-subsets.md) |
 | 79 | Medium | [Word Search](../leetcode-medium/leetcode-79-word-search.md) |
+| 473 | Medium | [Matchsticks to Square](../leetcode-medium/leetcode-473-matchsticks-to-square.md) |
 
