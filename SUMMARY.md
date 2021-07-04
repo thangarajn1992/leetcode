@@ -45,6 +45,7 @@
     * [Leetcode 745 Prefix and Suffix Search](difficulty-based-problem-index/leetcode-hard/leetcode-745-prefix-and-suffix-search.md)
     * [Leetcode 906 Super Palindromes](difficulty-based-problem-index/leetcode-hard/leetcode-906-super-palindromes.md)
     * [Leetcode 968 Binary Tree Cameras](difficulty-based-problem-index/leetcode-hard/leetcode-968-binary-tree-cameras.md)
+    * [Leetcode 1220 Count Vowels Permutation](difficulty-based-problem-index/leetcode-hard/leetcode-1220-count-vowels-permutation.md)
     * [Leetcode 1354 Construct Target Array With Multiple Sums](difficulty-based-problem-index/leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md)
     * [Leetcode 1383 Maximum Performance of a Team](difficulty-based-problem-index/leetcode-hard/leetcode-1383-maximum-performance-of-a-team.md)
     * [Leetcode 1862 Sum of Floored Pairs](difficulty-based-problem-index/leetcode-hard/leetcode-1862-sum-of-floored-pairs.md)
