@@ -11,7 +11,6 @@ Hard Level Problem Sets for Leetcode
 | 745 | [Prefix and Suffix Search](leetcode-745-prefix-and-suffix-search.md) |
 | 906 | [Super Palindromes](leetcode-906-super-palindromes.md) |
 | 968 | [Binary Tree Cameras](leetcode-968-binary-tree-cameras.md) |
-| 1220 | [Count Vowels Permutation](leetcode-1220-count-vowels-permutation.md) |
 | 1354 | [Construct Target Array with Multiple Sums](leetcode-1354-construct-target-array-with-multiple-sums.md) |
 | 1383 | [Maximum Performance of a Team](leetcode-1383-maximum-performance-of-a-team.md) |
 | 1862 | [Sum of Floored Pairs](leetcode-1862-sum-of-floored-pairs.md) |
