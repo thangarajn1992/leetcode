@@ -46,11 +46,13 @@ Medium Level Problem Sets for Leetcode
 | 116 | [Populating Next Right Pointers in Each Node](leetcode-116-populating-next-right-pointers-in-each-node.md) |
 | 120 | [Triangle](leetcode-120-triangle.md) |
 | 128 | [Longest Consecutive Sequence](leetcode-128-longest-consecutive-sequence.md) |
+| 133 | [Clone Graph](leetcode-133-clone-graph.md) |
 | 142 | [Linked List Cycle II](leetcode-142-linked-list-cycle-ii.md) |
 | 150 | [Evaluate Reverse Polish Notation](leetcode-150-evaluate-reverse-polish-notation.md) |
 | 189 | [Rotate Array](leetcode-189-rotate-array.md) |
 | 198 | [House Robber](leetcode-198-house-robber.md) |
 | 200 | [Number of Islands](leetcode-200-number-of-islands.md) |
+| 207 | [Course Schedule](leetcode-207-course-schedule.md) |
 | 230 | [Kth Smallest Element in a BST](leetcode-230-kth-smallest-element-in-a-bst.md) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](leetcode-236-lowest-common-ancestor-of-a-binary-tree.md) |
 | 264 | [Ugly Number II](leetcode-264-ugly-number-ii.md) |
@@ -70,6 +72,7 @@ Medium Level Problem Sets for Leetcode
 | 576 | [Out of Boundary Paths](leetcode-576-out-of-boundary-paths.md) |
 | 583 | [Delete Operation for Two Strings](leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | [Find Duplicate File in System](leetcode-609-find-duplicate-file-in-system.md) |
+| 658 | [Find K Closest Elements](leetcode-658-find-k-closest-elements.md) |
 | 665 | [Non-decreasing Array](leetcode-665-non-decreasing-array.md) |
 | 684 | [Redundant Connection](leetcode-684-redundant-connection.md) |
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |

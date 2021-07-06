@@ -103,6 +103,7 @@
     * [Leetcode 189 Rotate Array](difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md)
     * [Leetcode 198 House Robber](difficulty-based-problem-index/leetcode-medium/leetcode-198-house-robber.md)
     * [Leetcode 200 Number of Islands](difficulty-based-problem-index/leetcode-medium/leetcode-200-number-of-islands.md)
+    * [Leetcode 207 Course Schedule](difficulty-based-problem-index/leetcode-medium/leetcode-207-course-schedule.md)
     * [Leetcode 230 Kth Smallest Element in a BST](difficulty-based-problem-index/leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md)
     * [Leetcode 236 Lowest Common Ancestor of a Binary Tree](difficulty-based-problem-index/leetcode-medium/leetcode-236-lowest-common-ancestor-of-a-binary-tree.md)
     * [Leetcode 264 Ugly Number II](difficulty-based-problem-index/leetcode-medium/leetcode-264-ugly-number-ii.md)

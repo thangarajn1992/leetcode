@@ -10,7 +10,6 @@ description: Leetcode Problems from 501 to 600
 | :--- | :--- | :--- |
 | 509 | Easy | [Fibonacci Number](../difficulty-based-problem-index/leetcode-easy/leetcode-509-fibonacci-number.md) |
 | 554 | Medium | [Brick Wall](../difficulty-based-problem-index/leetcode-medium/leetcode-554-brick-wall.md) |
-| 566 | Easy | [Reshape the Matrix](../difficulty-based-problem-index/leetcode-easy/leetcode-566-reshape-the-matrix.md) |
 | 575 | Easy | [Distribute Candies](../difficulty-based-problem-index/leetcode-easy/leetcode-575-distribute-candies.md) |
 | 576 | Medium | [Out of Boundary Paths](../difficulty-based-problem-index/leetcode-medium/leetcode-576-out-of-boundary-paths.md) |
 | 583 | Medium | [Delete Operation for two strings](../difficulty-based-problem-index/leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |

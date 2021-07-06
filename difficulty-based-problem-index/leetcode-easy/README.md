@@ -56,7 +56,6 @@ Easy Level Problem Sets for Leetcode
 | 453 | [Minimum Moves to Equal Array Elements](leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 461 | [Hamming Distance](leetcode-461-hamming-distance.md) |
 | 509 | [Fibonacci Number](leetcode-509-fibonacci-number.md) |
-| 566 | [Reshape the Matrix](leetcode-566-reshape-the-matrix.md) |
 | 575 | [Distribute Candies](leetcode-575-distribute-candies.md) |
 | 589 | [N-ary Tree Preorder Traversal](leetcode-589-n-ary-tree-preorder-traversal.md) |
 | 696 | [Count Binary Sub-strings](leetcode-696-count-binary-sub-strings.md) |

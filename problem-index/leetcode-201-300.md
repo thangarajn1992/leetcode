@@ -12,6 +12,7 @@ description: Leetcode Problems from 201 to 300
 | 203 | Easy | [Remove Linked List Elements](../difficulty-based-problem-index/leetcode-easy/leetcode-203-remove-linked-list-elements.md) |
 | 204 | Easy | [Count Primes](../difficulty-based-problem-index/leetcode-easy/leetcode-204-count-primes.md) |
 | 206 | Easy | [Reverse Linked List](../difficulty-based-problem-index/leetcode-easy/leetcode-206-reverse-linked-list.md) |
+| 207 | Medium | [Course Schedule](../difficulty-based-problem-index/leetcode-medium/leetcode-207-course-schedule.md) |
 | 217 | Easy | [Contains Duplicate](../difficulty-based-problem-index/leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 230 | Medium | [Kth Smallest Element in a BST](../difficulty-based-problem-index/leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md) |
 | 234 | Easy | [Palindrome Linked List](../difficulty-based-problem-index/leetcode-easy/leetcode-234-palindrome-linked-list.md) |
