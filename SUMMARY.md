@@ -111,6 +111,7 @@
     * [Leetcode 287 Find the Duplicate Number](difficulty-based-problem-index/leetcode-medium/leetcode-287-find-the-duplicate-number.md)
     * [Leetcode 304 Range Sum Query 2D - Immutable](difficulty-based-problem-index/leetcode-medium/leetcode-304-range-sum-query-2d-immutable.md)
     * [Leetcode 307 Range Sum Query - Mutable](difficulty-based-problem-index/leetcode-medium/leetcode-307-range-sum-query-mutable.md)
+    * [Leetcode 310 Minimum Height Trees](difficulty-based-problem-index/leetcode-medium/leetcode-310-minimum-height-trees.md)
     * [Leetcode 318 Maximum Product of Word Lengths](difficulty-based-problem-index/leetcode-medium/leetcode-318-maximum-product-of-word-lengths.md)
     * [Leetcode 328 Odd Even Linked List](difficulty-based-problem-index/leetcode-medium/leetcode-328-odd-even-linked-list.md)
     * [Leetcode 334 Increasing Triplet Subsequence](difficulty-based-problem-index/leetcode-medium/leetcode-334-increasing-triplet-subsequence.md)

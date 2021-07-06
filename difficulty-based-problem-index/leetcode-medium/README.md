@@ -60,6 +60,7 @@ Medium Level Problem Sets for Leetcode
 | 287 | [Find the Duplicate Number](leetcode-287-find-the-duplicate-number.md) |
 | 304 | [Range Sum Query 2D - Immutable](leetcode-304-range-sum-query-2d-immutable.md) |
 | 307 | [Range Sum Query - Mutable](leetcode-307-range-sum-query-mutable.md) |
+| 310 | [Minimum Height Trees](leetcode-310-minimum-height-trees.md) |
 | 318 | [Maximum Product of Word Lengths](leetcode-318-maximum-product-of-word-lengths.md) |
 | 328 | [Odd Even Linked List](leetcode-328-odd-even-linked-list.md) |
 | 334 | [Increasing Triplet Subsequence](leetcode-334-increasing-triplet-subsequence.md) |
