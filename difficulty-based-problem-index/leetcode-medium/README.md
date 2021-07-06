@@ -89,6 +89,7 @@ Medium Level Problem Sets for Leetcode
 | 1268 | [Search Suggestions System](leetcode-1268-search-suggestions-system.md) |
 | 1302 | [Deepest Leaves Sum](leetcode-1302-deepest-leaves-sum.md) |
 | 1306 | [Jump Game III](leetcode-1306-jump-game-iii.md) |
+| 1338 | [Reduce Array Size to The Half](leetcode-1338-reduce-array-size-to-the-half.md) |
 | 1423 | [Maximum Points You Can Obtain from Cards](leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |
 | 1642 | [Furthest Building You Can Reach](leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |

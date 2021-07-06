@@ -140,6 +140,7 @@
     * [Leetcode 1268 Search Suggestions System](difficulty-based-problem-index/leetcode-medium/leetcode-1268-search-suggestions-system.md)
     * [Leetcode 1302 Deepest Leaves Sum](difficulty-based-problem-index/leetcode-medium/leetcode-1302-deepest-leaves-sum.md)
     * [Leetcode 1306 Jump Game III](difficulty-based-problem-index/leetcode-medium/leetcode-1306-jump-game-iii.md)
+    * [Leetcode 1338 Reduce Array Size to The Half](difficulty-based-problem-index/leetcode-medium/leetcode-1338-reduce-array-size-to-the-half.md)
     * [Leetcode 1423 Maximum Points You Can Obtain from Cards](difficulty-based-problem-index/leetcode-medium/leetcode-1423-maximum-points-you-can-obtain-from-cards.md)
     * [Leetcode 1465 Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](difficulty-based-problem-index/leetcode-medium/leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md)
     * [Leetcode 1642  Furthest Building You Can Reach](difficulty-based-problem-index/leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md)
