@@ -41,6 +41,7 @@
     * [Leetcode 51 N-Queens](difficulty-based-problem-index/leetcode-hard/leetcode-51-n-queens.md)
     * [Leetcode 52  N-Queens II](difficulty-based-problem-index/leetcode-hard/leetcode-52-n-queens-ii.md)
     * [Leetcode 65 Valid Number](difficulty-based-problem-index/leetcode-hard/leetcode-65-valid-number.md)
+    * [Leetcode 329 Longest Increasing Path in a Matrix](difficulty-based-problem-index/leetcode-hard/leetcode-329-longest-increasing-path-in-a-matrix.md)
     * [Leetcode 336 Palindrome Pairs](difficulty-based-problem-index/leetcode-hard/leetcode-336-palindrome-pairs.md)
     * [Leetcode 745 Prefix and Suffix Search](difficulty-based-problem-index/leetcode-hard/leetcode-745-prefix-and-suffix-search.md)
     * [Leetcode 906 Super Palindromes](difficulty-based-problem-index/leetcode-hard/leetcode-906-super-palindromes.md)

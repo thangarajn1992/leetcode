@@ -15,6 +15,7 @@ description: Leetcode Problems from 301 to 400
 | 318 | Medium | [Maximum Product of Word Lengths](../difficulty-based-problem-index/leetcode-medium/leetcode-318-maximum-product-of-word-lengths.md) |
 | 326 | Easy | [Power of Three](../difficulty-based-problem-index/leetcode-easy/leetcode-326-power-of-three.md) |
 | 328 | Medium | [Odd Even Linked List](../difficulty-based-problem-index/leetcode-medium/leetcode-328-odd-even-linked-list.md) |
+| 329 | Hard | [Longest Increasing Path in a Matrix](../difficulty-based-problem-index/leetcode-hard/leetcode-329-longest-increasing-path-in-a-matrix.md) |
 | 334 | Medium | [Increasing Triplet Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-334-increasing-triplet-subsequence.md) |
 | 336 | Hard | [Palindrome Pairs](../difficulty-based-problem-index/leetcode-hard/leetcode-336-palindrome-pairs.md) |
 | 341 | Medium | [Flatten Nested List iterator](../difficulty-based-problem-index/leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
