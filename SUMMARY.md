@@ -119,6 +119,7 @@
     * [Leetcode 334 Increasing Triplet Subsequence](difficulty-based-problem-index/leetcode-medium/leetcode-334-increasing-triplet-subsequence.md)
     * [Leetcode 341 Flatten Nested List Iterator](difficulty-based-problem-index/leetcode-medium/leetcode-341-flatten-nested-list-iterator.md)
     * [Leetcode 377 Combination Sum IV](difficulty-based-problem-index/leetcode-medium/leetcode-377-combination-sum-iv.md)
+    * [Leetcode 378 Kth Smallest Element in a Sorted Matrix](difficulty-based-problem-index/leetcode-medium/leetcode-378-kth-smallest-element-in-a-sorted-matrix.md)
     * [Leetcode 384 Shuffle an Array](difficulty-based-problem-index/leetcode-medium/leetcode-384-shuffle-an-array.md)
     * [Leetcode 462 Minimum Moves to Equal Array Elements II](difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md)
     * [Leetcode 473 Matchsticks to Square](difficulty-based-problem-index/leetcode-medium/leetcode-473-matchsticks-to-square.md)

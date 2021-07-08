@@ -24,6 +24,7 @@ description: Leetcode Problems from 301 to 400
 | 349 | Easy | [Intersection of Two Arrays](../difficulty-based-problem-index/leetcode-easy/leetcode-349-intersection-of-two-arrays.md) |
 | 350 | Easy | [Intersection of Two Arrays II](../difficulty-based-problem-index/leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |
 | 377 | Medium | [Combination Sum IV](../difficulty-based-problem-index/leetcode-medium/leetcode-377-combination-sum-iv.md) |
+| 378 | Medium | [Kth Smallest Element in a Sorted Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-378-kth-smallest-element-in-a-sorted-matrix.md) |
 | 384 | Medium | [Shuffle an Array](../difficulty-based-problem-index/leetcode-medium/leetcode-384-shuffle-an-array.md) |
 | 387 | Easy | [First Unique Character in a String](../difficulty-based-problem-index/leetcode-easy/leetcode-387-first-unique-character-in-a-string.md) |
 
