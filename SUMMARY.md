@@ -132,6 +132,7 @@
     * [Leetcode 665 Non-decreasing Array](difficulty-based-problem-index/leetcode-medium/leetcode-665-non-decreasing-array.md)
     * [Leetcode 684 Redundant Connection](difficulty-based-problem-index/leetcode-medium/leetcode-684-redundant-connection.md)
     * [Leetcode 695 Max Area of Island](difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md)
+    * [Leetcode 718 Maximum Length of Repeated Subarray](difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md)
     * [Leetcode 729 My Calendar I](difficulty-based-problem-index/leetcode-medium/leetcode-729-my-calendar-i.md)
     * [Leetcode 752 Open the Lock](difficulty-based-problem-index/leetcode-medium/leetcode-752-open-the-lock.md)
     * [Leetcode 792  Number of Matching Subsequences](difficulty-based-problem-index/leetcode-medium/leetcode-792-number-of-matching-subsequences.md)

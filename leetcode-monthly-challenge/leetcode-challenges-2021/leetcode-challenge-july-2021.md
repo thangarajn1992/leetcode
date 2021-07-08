@@ -9,7 +9,7 @@
 | Day 5 | [Reshape the Matrix](../../difficulty-based-problem-index/leetcode-easy/leetcode-566-reshape-the-matrix.md) |
 | Day 6 | [Reduce Array Size to The Half](../../difficulty-based-problem-index/leetcode-medium/leetcode-1338-reduce-array-size-to-the-half.md) |
 | Day 7 | [Kth Smallest Element in a Sorted Matrix](../../difficulty-based-problem-index/leetcode-medium/leetcode-378-kth-smallest-element-in-a-sorted-matrix.md) |
-| Day 8 |  |
+| Day 8 | [Maximum Length of Repeated Subarray](../../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | Day 9 |  |
 | Day 10 |  |
 | Day 11 |  |
