@@ -73,6 +73,7 @@ Medium Level Problem Sets for Leetcode
 | 462 | [Minimum Moves to Equal Array Elements II](leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
 | 473 | [Matchsticks to Square](leetcode-473-matchsticks-to-square.md) |
 | 474 | [Ones and Zeroes](leetcode-474-ones-and-zeroes.md) |
+| 547 | [Number of Provinces](leetcode-547-number-of-provinces.md) |
 | 554 | [Brick Wall](leetcode-554-brick-wall.md) |
 | 576 | [Out of Boundary Paths](leetcode-576-out-of-boundary-paths.md) |
 | 583 | [Delete Operation for Two Strings](leetcode-583-delete-operation-for-two-strings.md) |

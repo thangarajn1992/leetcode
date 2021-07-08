@@ -125,6 +125,7 @@
     * [Leetcode 462 Minimum Moves to Equal Array Elements II](difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md)
     * [Leetcode 473 Matchsticks to Square](difficulty-based-problem-index/leetcode-medium/leetcode-473-matchsticks-to-square.md)
     * [Leetcode 474 Ones and Zeroes](difficulty-based-problem-index/leetcode-medium/leetcode-474-ones-and-zeroes.md)
+    * [Leetcode 547 Number of Provinces](difficulty-based-problem-index/leetcode-medium/leetcode-547-number-of-provinces.md)
     * [Leetcode 554 Brick Wall](difficulty-based-problem-index/leetcode-medium/leetcode-554-brick-wall.md)
     * [Leetcode 576 Out of Boundary Paths](difficulty-based-problem-index/leetcode-medium/leetcode-576-out-of-boundary-paths.md)
     * [Leetcode 583 Delete Operation for Two Strings](difficulty-based-problem-index/leetcode-medium/leetcode-583-delete-operation-for-two-strings.md)
