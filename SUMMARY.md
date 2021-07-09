@@ -136,6 +136,7 @@
     * [Leetcode 695 Max Area of Island](difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md)
     * [Leetcode 718 Maximum Length of Repeated Subarray](difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md)
     * [Leetcode 729 My Calendar I](difficulty-based-problem-index/leetcode-medium/leetcode-729-my-calendar-i.md)
+    * [Leetcode 743 Network Delay Time](difficulty-based-problem-index/leetcode-medium/leetcode-743-network-delay-time.md)
     * [Leetcode 752 Open the Lock](difficulty-based-problem-index/leetcode-medium/leetcode-752-open-the-lock.md)
     * [Leetcode 792  Number of Matching Subsequences](difficulty-based-problem-index/leetcode-medium/leetcode-792-number-of-matching-subsequences.md)
     * [Leetcode 795 Number of Subarrays with Bounded Maximum](difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md)

@@ -84,6 +84,7 @@ Medium Level Problem Sets for Leetcode
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |
 | 718 | [Maximum Length of Repeated Subarray](leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 729 | [My Calendar I](leetcode-729-my-calendar-i.md) |
+| 743 | [Network Delay Time](leetcode-743-network-delay-time.md) |
 | 752 | [Open the Lock](leetcode-752-open-the-lock.md) |
 | 792 | [Number of Matching Subsequences](leetcode-792-number-of-matching-subsequences.md) |
 | 795 | [Number of Subarrays with Bounded Maximum](leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
