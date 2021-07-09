@@ -26,5 +26,4 @@ description: Leetcode Problems from 201 to 300
 | 278 | Easy | [First Bad Version](../difficulty-based-problem-index/leetcode-easy/leetcode-278-first-bad-version.md) |
 | 283 | Easy | [Move Zeroes](../difficulty-based-problem-index/leetcode-easy/leetcode-283-move-zeroes.md) |
 | 287 | Medium | [Find the Duplicate Number](../difficulty-based-problem-index/leetcode-medium/leetcode-287-find-the-duplicate-number.md) |
-| 300 | Medium | [Longest Increasing Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md) |
 

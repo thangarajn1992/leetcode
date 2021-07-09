@@ -87,6 +87,7 @@ Medium Level Problem Sets for Leetcode
 | 729 | [My Calendar I](leetcode-729-my-calendar-i.md) |
 | 743 | [Network Delay Time](leetcode-743-network-delay-time.md) |
 | 752 | [Open the Lock](leetcode-752-open-the-lock.md) |
+| 785 | [Is Graph Bipartite?](leetcode-785-is-graph-bipartite.md) |
 | 792 | [Number of Matching Subsequences](leetcode-792-number-of-matching-subsequences.md) |
 | 795 | [Number of Subarrays with Bounded Maximum](leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 890 | [Find and Replace Pattern](leetcode-890-find-and-replace-pattern.md) |
