@@ -32,6 +32,7 @@ This page contains list of problems that involves arrays
 | 278 | Easy | [First Bad Version](../difficulty-based-problem-index/leetcode-easy/leetcode-278-first-bad-version.md) |
 | 283 | Easy | [Move Zeroes](../difficulty-based-problem-index/leetcode-easy/leetcode-283-move-zeroes.md) |
 | 287 | Medium | [Find the duplicate number](../difficulty-based-problem-index/leetcode-medium/leetcode-287-find-the-duplicate-number.md) |
+| 300 | Medium | [Longest Increasing Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md) |
 | 318 | Medium | [Maximum Product of Word Lengths](../difficulty-based-problem-index/leetcode-medium/leetcode-318-maximum-product-of-word-lengths.md) |
 | 334 | Medium | [Increasing Triplet Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-334-increasing-triplet-subsequence.md) |
 | 341 | Medium | [Flatten Nested List Iterator](../difficulty-based-problem-index/leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
@@ -40,11 +41,14 @@ This page contains list of problems that involves arrays
 | 453 | Easy | [Minimum Moves to Equal Array Elements](../difficulty-based-problem-index/leetcode-easy/leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 462 | Medium | [Minimum Moves to Equal Array Elements II](../difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
 | 575 | Easy | [Distribute Candies](../difficulty-based-problem-index/leetcode-easy/leetcode-575-distribute-candies.md) |
+| 658 | Medium | [Find K Closest Elements](../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md) |
 | 665 | Medium | [Non-decreasing array](../difficulty-based-problem-index/leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 695 | Medium | [Max Area of Island](../difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md) |
+| 718 | Medium | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 795 | Medium | [Number of Subarrays with Bounded Maximum](../difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 970 | Medium | [Powerful Integers](../difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md) |
 | 1306 | Medium | [Jump Game III](../difficulty-based-problem-index/leetcode-medium/leetcode-1306-jump-game-iii.md) |
+| 1338 | Medium | [Reduce Array Size to The Half](../difficulty-based-problem-index/leetcode-medium/leetcode-1338-reduce-array-size-to-the-half.md) |
 | 1354 | Hard  | [Construct Target Array With Multiple Sums](../difficulty-based-problem-index/leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md) |
 | 1423 | Medium | [Maximum Points You Can Obtain from Cards](../difficulty-based-problem-index/leetcode-medium/leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
 | 1465 | Medium | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](../difficulty-based-problem-index/leetcode-medium/leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |

@@ -3,14 +3,14 @@
 | Day No | Problem & Solution Link |
 | :--- | :--- |
 | Day 1 | [Gray Code](../../difficulty-based-problem-index/leetcode-medium/leetcode-89-gray-code.md) |
-| Day 2 |  |
+| Day 2 | [Find K Closest Elements](../../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md) |
 | Day 3 |  |
-| Day 4 |  |
-| Day 5 |  |
-| Day 6 |  |
-| Day 7 |  |
-| Day 8 |  |
-| Day 9 |  |
+| Day 4 | [Count Vowels Permutation](../../difficulty-based-problem-index/leetcode-hard/leetcode-1220-count-vowels-permutation.md) |
+| Day 5 | [Reshape the Matrix](../../difficulty-based-problem-index/leetcode-easy/leetcode-566-reshape-the-matrix.md) |
+| Day 6 | [Reduce Array Size to The Half](../../difficulty-based-problem-index/leetcode-medium/leetcode-1338-reduce-array-size-to-the-half.md) |
+| Day 7 | [Kth Smallest Element in a Sorted Matrix](../../difficulty-based-problem-index/leetcode-medium/leetcode-378-kth-smallest-element-in-a-sorted-matrix.md) |
+| Day 8 | [Maximum Length of Repeated Subarray](../../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
+| Day 9 | [Longest Increasing Subsequence](../../difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md) |
 | Day 10 |  |
 | Day 11 |  |
 | Day 12 |  |
