@@ -12,7 +12,7 @@
 | Day 8 | [Maximum Length of Repeated Subarray](../../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | Day 9 | [Longest Increasing Subsequence](../../difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md) |
 | Day 10 |  |
-| Day 11 |  |
+| Day 11 | [Find Median from Data Stream](../../difficulty-based-problem-index/leetcode-hard/leetcode-295-find-median-from-data-stream.md) |
 | Day 12 |  |
 | Day 13 |  |
 | Day 14 |  |
