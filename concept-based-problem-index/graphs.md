@@ -1,7 +1,5 @@
 # Graphs
 
-
-
 | Leetcode No | Difficulty | Problem Link |
 | :--- | :--- | :--- |
 | 133 | Medium | [Clone Graph](../difficulty-based-problem-index/leetcode-medium/leetcode-133-clone-graph.md) |
@@ -17,6 +15,4 @@
 | 785 | Medium | [Is Graph Bipartite?](../difficulty-based-problem-index/leetcode-medium/leetcode-785-is-graph-bipartite.md) |
 | 997 | Easy | [Find the Town Judge](../difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge.md) |
 | 1791 | Easy | [Find Center of Star Graph](../difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph.md) |
-
-
 

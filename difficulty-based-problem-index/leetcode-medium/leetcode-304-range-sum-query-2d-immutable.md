@@ -49,14 +49,14 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        dp=vector<vector<int>>(n+1,vector<int>(m+1,0));
+        dp = vector<vector<int>>(n+1,vector<int>(m+1,0));
         for(int i = 1; i <= n; i++)
             for(int j = 1; j <= m; j++)
                 dp[i][j] = matrix[i-1][j-1] + dp[i][j-1] + dp[i-1][j] - dp[i-1][j-1];
     }
     
     int sumRegion(int r1, int c1, int r2, int c2) {
-        r1++;c1++;r2++;c2++;
+        r1++; c1++; r2++; c2++;
         int ans = dp[r2][c2] - dp[r1-1][c2] - dp[r2][c1-1] + dp[r1-1][c1-1];
         return ans;
     }
