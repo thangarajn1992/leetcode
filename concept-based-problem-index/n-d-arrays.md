@@ -13,4 +13,5 @@
 | 1895 | Medium | [Largest Magic Square](../difficulty-based-problem-index/leetcode-medium/leetcode-1895-largest-magic-square.md) |
 | 1905 | Medium | [Count Sub Islands](../difficulty-based-problem-index/leetcode-medium/leetcode-1905-count-sub-islands.md) |
 | 1914 | Medium | [Cyclically Rotating a Grid](../difficulty-based-problem-index/leetcode-medium/leetcode-1914-cyclically-rotating-a-grid.md) |
+| 1926 | Medium | [Nearest Exit from Entrance in Maze](../difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
 
