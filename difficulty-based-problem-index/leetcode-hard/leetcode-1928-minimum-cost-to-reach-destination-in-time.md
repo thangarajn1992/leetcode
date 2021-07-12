@@ -101,7 +101,7 @@ public:
             {
                 if (t + adj[v][i][1] <= maxTime) 
                 {
-				    // if cost will decrease or time will decrease, push it into queue
+				            // if cost will decrease or time will decrease, push it into queue
                     if (cost[adj[v][i][0]] > c + adj[v][i][2] or time[adj[v][i][0]] > t + adj[v][i][1] ) 
                     {
                         cost[adj[v][i][0]] = c + adj[v][i][2];

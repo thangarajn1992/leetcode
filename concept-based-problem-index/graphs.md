@@ -13,9 +13,7 @@
 | 743 | Medium | [Network Delay Time](../difficulty-based-problem-index/leetcode-medium/leetcode-743-network-delay-time.md) |
 | 752 | Medium | [Open the Lock](../difficulty-based-problem-index/leetcode-medium/leetcode-752-open-the-lock.md) |
 | 785 | Medium | [Is Graph Bipartite?](../difficulty-based-problem-index/leetcode-medium/leetcode-785-is-graph-bipartite.md) |
-| 787 | Medium | [Cheapest Flights Within K Stops](../difficulty-based-problem-index/leetcode-medium/leetcode-787-cheapest-flights-within-k-stops.md) |
 | 997 | Easy | [Find the Town Judge](../difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge.md) |
 | 1791 | Easy | [Find Center of Star Graph](../difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph.md) |
 | 1926 | Medium | [Nearest Exit from Entrance in Maze](../difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
-| 1928 | Hard | [Minimum Cost to Reach Destination in Time](../difficulty-based-problem-index/leetcode-hard/leetcode-1928-minimum-cost-to-reach-destination-in-time.md) |
 
