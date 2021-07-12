@@ -59,11 +59,11 @@ public:
             {
                 color[i] = 0;
                 q.push(i);
-                
+
                 while(!q.empty())
                 {
                     int t = q.front(); q.pop();
-                    
+
                     for(int j = 0; j < graph[t].size(); j++)
                     {
                         if(color[graph[t][j]] == -1)

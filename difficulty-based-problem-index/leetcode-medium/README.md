@@ -58,7 +58,7 @@ Medium Level Problem Sets for Leetcode
 | 236 | [Lowest Common Ancestor of a Binary Tree](leetcode-236-lowest-common-ancestor-of-a-binary-tree.md) |
 | 264 | [Ugly Number II](leetcode-264-ugly-number-ii.md) |
 | 287 | [Find the Duplicate Number](leetcode-287-find-the-duplicate-number.md) |
-| 300  | [Longest Increasing Subsequence](leetcode-300-longest-increasing-subsequence.md) |
+| 300 | [Longest Increasing Subsequence](leetcode-300-longest-increasing-subsequence.md) |
 | 304 | [Range Sum Query 2D - Immutable](leetcode-304-range-sum-query-2d-immutable.md) |
 | 307 | [Range Sum Query - Mutable](leetcode-307-range-sum-query-mutable.md) |
 | 310 | [Minimum Height Trees](leetcode-310-minimum-height-trees.md) |
@@ -128,6 +128,5 @@ Medium Level Problem Sets for Leetcode
 | 1906 | [Minimum Absolute Difference Queries](leetcode-1906-minimum-absolute-difference-queries.md) |
 | 1910 | [Remove All Occurrences of a Substring](leetcode-1910-remove-all-occurrences-of-a-substring.md) |
 | 1914 | [Cyclically Rotating a Grid](leetcode-1914-cyclically-rotating-a-grid.md) |
-
-
+| 1926 | [Nearest Exit from Entrance in Maze](leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
 
