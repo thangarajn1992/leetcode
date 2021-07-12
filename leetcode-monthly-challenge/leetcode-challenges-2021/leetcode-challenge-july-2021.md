@@ -11,7 +11,7 @@
 | Day 7 | [Kth Smallest Element in a Sorted Matrix](../../difficulty-based-problem-index/leetcode-medium/leetcode-378-kth-smallest-element-in-a-sorted-matrix.md) |
 | Day 8 | [Maximum Length of Repeated Subarray](../../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | Day 9 | [Longest Increasing Subsequence](../../difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md) |
-| Day 10 |  |
+| Day 10 | [Decode Ways II](../../difficulty-based-problem-index/leetcode-hard/leetcode-639-decode-ways-ii.md) |
 | Day 11 | [Find Median from Data Stream](../../difficulty-based-problem-index/leetcode-hard/leetcode-295-find-median-from-data-stream.md) |
 | Day 12 |  |
 | Day 13 |  |
