@@ -59,6 +59,7 @@
     * [Leetcode 1872 Stone Game VIII](difficulty-based-problem-index/leetcode-hard/leetcode-1872-stone-game-viii.md)
     * [Leetcode 1879 Minimum XOR Sum of Two Arrays](difficulty-based-problem-index/leetcode-hard/leetcode-1879-minimum-xor-sum-of-two-arrays.md)
     * [Leetcode 1889 Minimum Space Wasted From Packaging](difficulty-based-problem-index/leetcode-hard/leetcode-1889-minimum-space-wasted-from-packaging.md)
+    * [Leetcode 1928 Minimum Cost to Reach Destination in Time](difficulty-based-problem-index/leetcode-hard/leetcode-1928-minimum-cost-to-reach-destination-in-time.md)
     * [Leetcode 1932 Merge BSTs to Create Single BST](difficulty-based-problem-index/leetcode-hard/leetcode-1932-merge-bsts-to-create-single-bst.md)
   * [LeetCode Medium](difficulty-based-problem-index/leetcode-medium/README.md)
     * [Leetcode 2 Add Two Numbers](difficulty-based-problem-index/leetcode-medium/leetcode-2-add-two-numbers.md)

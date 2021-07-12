@@ -23,5 +23,6 @@ Hard Level Problem Sets for Leetcode
 | 1872 | [Stone Game VIII](leetcode-1872-stone-game-viii.md) |
 | 1879 | [Minimum XOR Sum of Two Arrays](leetcode-1879-minimum-xor-sum-of-two-arrays.md) |
 | 1889 | [Minimum Space Wasted From Packaging](leetcode-1889-minimum-space-wasted-from-packaging.md) |
+| 1928 | [Minimum Cost to Reach Destination in Time](leetcode-1928-minimum-cost-to-reach-destination-in-time.md) |
 | 1932 | [Merge BSTs to Create Single BST](leetcode-1932-merge-bsts-to-create-single-bst.md) |
 

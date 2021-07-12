@@ -17,4 +17,5 @@
 | 997 | Easy | [Find the Town Judge](../difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge.md) |
 | 1791 | Easy | [Find Center of Star Graph](../difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph.md) |
 | 1926 | Medium | [Nearest Exit from Entrance in Maze](../difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
+| 1928 | Hard | [Minimum Cost to Reach Destination in Time](../difficulty-based-problem-index/leetcode-hard/leetcode-1928-minimum-cost-to-reach-destination-in-time.md) |
 
