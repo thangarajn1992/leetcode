@@ -27,6 +27,7 @@ This page contains list of problems related to Mathematics
 | 1862 | Hard | [Sum of Floored pairs](../difficulty-based-problem-index/leetcode-hard/leetcode-1862-sum-of-floored-pairs.md) |
 | 1863 | Easy | [Sum of All Subset XOR Totals](../difficulty-based-problem-index/leetcode-easy/leetcode-1863-sum-of-all-subset-xor-totals.md) |
 | 1879 | Hard | [Minimum XOR Sum of Two Arrays](../difficulty-based-problem-index/leetcode-hard/leetcode-1879-minimum-xor-sum-of-two-arrays.md) |
+| 1925 | Easy | [Count Square Sum Triples](../difficulty-based-problem-index/leetcode-easy/leetcode-1925-count-square-sum-triples.md) |
 
 
 

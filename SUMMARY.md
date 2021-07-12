@@ -262,6 +262,7 @@
     * [Leetcode 1903 Largest Odd Number in String](difficulty-based-problem-index/leetcode-easy/leetcode-1903-largest-odd-number-in-string.md)
     * [Leetcode 1909 Remove One Element to Make the Array Strictly Increasing](difficulty-based-problem-index/leetcode-easy/leetcode-1909-remove-one-element-to-make-the-array-strictly-increasing.md)
     * [Leetcode 1913 Maximum Product Difference Between Two Pairs](difficulty-based-problem-index/leetcode-easy/leetcode-1913-maximum-product-difference-between-two-pairs.md)
+    * [Leetcode 1925 Count Square Sum Triples](difficulty-based-problem-index/leetcode-easy/leetcode-1925-count-square-sum-triples.md)
 * [Top Interview Questions \(Leetcode\)](top-interview-questions-leetcode/README.md)
   * [Top Interview Questions - Easy \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-easy-leetcode.md)
   * [Top Interview Questions - Medium \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-medium-leetcode.md)

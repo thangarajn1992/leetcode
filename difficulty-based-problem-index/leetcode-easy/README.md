@@ -81,4 +81,5 @@ Easy Level Problem Sets for Leetcode
 | 1903 | [Largest Odd Number in String](leetcode-1903-largest-odd-number-in-string.md) |
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](leetcode-1909-remove-one-element-to-make-the-array-strictly-increasing.md) |
 | 1913 | [Maximum Product Difference Between Two Pairs](leetcode-1913-maximum-product-difference-between-two-pairs.md) |
+| 1925 | [Count Square Sum Triples](leetcode-1925-count-square-sum-triples.md) |
 
