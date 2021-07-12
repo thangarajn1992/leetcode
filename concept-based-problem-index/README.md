@@ -11,6 +11,7 @@ For problems specific to one of the particular concept below, please use the app
 * [Dynamic Programming](dynamic-programming.md)
 * [Greedy Algorithm](greedy-algorithm.md)
 * [Backtracking](backtracking.md)
+* [Priority Queue](priority-queue.md)
 * [Math & Bit Manipulation](math.md)
 * [Sorting and Searching](sorting-and-searching.md)
 * [Binary Search Problems](binary-search-problems.md)

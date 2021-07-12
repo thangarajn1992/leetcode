@@ -7,6 +7,7 @@ Hard Level Problem Sets for Leetcode
 | 51 | [N - Queens](leetcode-51-n-queens.md) |
 | 52 | [N - Queens II](leetcode-52-n-queens-ii.md) |
 | 65 | [Valid Number](leetcode-65-valid-number.md) |
+| 295 | [Find Median from Data Stream](leetcode-295-find-median-from-data-stream.md) |
 | 329 | [Longest Increasing Path in a Matrix](leetcode-329-longest-increasing-path-in-a-matrix.md) |
 | 336 | [Palindrome Pairs](leetcode-336-palindrome-pairs.md) |
 | 745 | [Prefix and Suffix Search](leetcode-745-prefix-and-suffix-search.md) |

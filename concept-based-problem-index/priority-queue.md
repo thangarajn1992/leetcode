@@ -1,9 +1,8 @@
-# Binary Search Problems
+# Priority Queue
 
 
 
 | Leetcode No | Difficulty | Problem Link |
 | :--- | :--- | :--- |
 | 295 | Hard | [Find Median from Data Stream](../difficulty-based-problem-index/leetcode-hard/leetcode-295-find-median-from-data-stream.md) |
-| 300 | Medium | [Longest Increasing Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md) |
 
