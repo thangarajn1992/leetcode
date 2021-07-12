@@ -37,6 +37,7 @@ Easy Level Problem Sets for Leetcode
 | 202 | [Happy Number](leetcode-202-happy-number.md) |
 | 203 | [Remove Linked List Elements](leetcode-203-remove-linked-list-elements.md) |
 | 204 | [Count Primes](leetcode-204-count-primes.md) |
+| 205 | [Isomorphic Strings](leetcode-205-isomorphic-strings.md) |
 | 206 | [Reverse Linked List](leetcode-206-reverse-linked-list.md) |
 | 217 | [Contains Duplicate](leetcode-217-contains-duplicate.md) |
 | 234 | [Palindrome Linked List](leetcode-234-palindrome-linked-list.md) |

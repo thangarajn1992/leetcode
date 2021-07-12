@@ -13,7 +13,7 @@
 | Day 9 | [Longest Increasing Subsequence](../../difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md) |
 | Day 10 | [Decode Ways II](../../difficulty-based-problem-index/leetcode-hard/leetcode-639-decode-ways-ii.md) |
 | Day 11 | [Find Median from Data Stream](../../difficulty-based-problem-index/leetcode-hard/leetcode-295-find-median-from-data-stream.md) |
-| Day 12 |  |
+| Day 12 | [Isomorphic Strings](../../difficulty-based-problem-index/leetcode-easy/leetcode-205-isomorphic-strings.md) |
 | Day 13 |  |
 | Day 14 |  |
 | Day 15 |  |

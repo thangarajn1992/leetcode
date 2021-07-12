@@ -218,6 +218,7 @@
     * [Leetcode 202 Happy Number](difficulty-based-problem-index/leetcode-easy/leetcode-202-happy-number.md)
     * [Leetcode 203 Remove Linked List Elements](difficulty-based-problem-index/leetcode-easy/leetcode-203-remove-linked-list-elements.md)
     * [Leetcode 204 Count Primes](difficulty-based-problem-index/leetcode-easy/leetcode-204-count-primes.md)
+    * [Leetcode 205 Isomorphic Strings](difficulty-based-problem-index/leetcode-easy/leetcode-205-isomorphic-strings.md)
     * [Leetcode 206 Reverse Linked List](difficulty-based-problem-index/leetcode-easy/leetcode-206-reverse-linked-list.md)
     * [Leetcode 217 Contains Duplicate](difficulty-based-problem-index/leetcode-easy/leetcode-217-contains-duplicate.md)
     * [Leetcode 234 Palindrome Linked List](difficulty-based-problem-index/leetcode-easy/leetcode-234-palindrome-linked-list.md)

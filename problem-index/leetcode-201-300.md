@@ -11,6 +11,7 @@ description: Leetcode Problems from 201 to 300
 | 202 | Easy | [Happy Number](../difficulty-based-problem-index/leetcode-easy/leetcode-202-happy-number.md) |
 | 203 | Easy | [Remove Linked List Elements](../difficulty-based-problem-index/leetcode-easy/leetcode-203-remove-linked-list-elements.md) |
 | 204 | Easy | [Count Primes](../difficulty-based-problem-index/leetcode-easy/leetcode-204-count-primes.md) |
+| 205 | Easy | [Isomorphic Strings](../difficulty-based-problem-index/leetcode-easy/leetcode-205-isomorphic-strings.md) |
 | 206 | Easy | [Reverse Linked List](../difficulty-based-problem-index/leetcode-easy/leetcode-206-reverse-linked-list.md) |
 | 207 | Medium | [Course Schedule](../difficulty-based-problem-index/leetcode-medium/leetcode-207-course-schedule.md) |
 | 210 | Medium | [Course Schedule II](../difficulty-based-problem-index/leetcode-medium/leetcode-210-course-schedule-ii.md) |
