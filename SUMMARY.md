@@ -150,6 +150,7 @@
     * [Leetcode 792  Number of Matching Subsequences](difficulty-based-problem-index/leetcode-medium/leetcode-792-number-of-matching-subsequences.md)
     * [Leetcode 795 Number of Subarrays with Bounded Maximum](difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md)
     * [Leetcode 797 All Paths From Source to Target](difficulty-based-problem-index/leetcode-medium/leetcode-797-all-paths-from-source-to-target.md)
+    * [Leetcode 802 Find Eventual Safe States](difficulty-based-problem-index/leetcode-medium/leetcode-802-find-eventual-safe-states.md)
     * [Leetcode 890 Find and Replace Pattern](difficulty-based-problem-index/leetcode-medium/leetcode-890-find-and-replace-pattern.md)
     * [Leetcode 948 Bag of Tokens](difficulty-based-problem-index/leetcode-medium/leetcode-948-bag-of-tokens.md)
     * [Leetcode 970 Powerful Integers](difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md)

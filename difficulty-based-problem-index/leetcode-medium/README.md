@@ -92,6 +92,7 @@ Medium Level Problem Sets for Leetcode
 | 792 | [Number of Matching Subsequences](leetcode-792-number-of-matching-subsequences.md) |
 | 795 | [Number of Subarrays with Bounded Maximum](leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 797 | [All Paths From Source to Target](leetcode-797-all-paths-from-source-to-target.md) |
+| 802 | [Find Eventual Safe States](leetcode-802-find-eventual-safe-states.md) |
 | 890 | [Find and Replace Pattern](leetcode-890-find-and-replace-pattern.md) |
 | 948 | [Bag of Tokens](leetcode-948-bag-of-tokens.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
