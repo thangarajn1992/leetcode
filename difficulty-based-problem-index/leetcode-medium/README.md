@@ -129,4 +129,5 @@ Medium Level Problem Sets for Leetcode
 | 1910 | [Remove All Occurrences of a Substring](leetcode-1910-remove-all-occurrences-of-a-substring.md) |
 | 1914 | [Cyclically Rotating a Grid](leetcode-1914-cyclically-rotating-a-grid.md) |
 | 1926 | [Nearest Exit from Entrance in Maze](leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
+| 1930 | [Unique Length-3 Palindromic Subsequences](leetcode-1930-unique-length-3-palindromic-subsequences.md) |
 
