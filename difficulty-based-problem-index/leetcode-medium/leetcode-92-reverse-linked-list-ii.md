@@ -54,7 +54,7 @@ We can see the first few steps of our iterative solution above. The first step s
 
 This shows us in detail how the links are reversed and how we move forward after reversing the links between two nodes. This step is done multiple times as shown in the following images.  
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image.png)
 
 ![](https://leetcode.com/problems/reverse-linked-list-ii/Figures/92/iterative-4.png)
 
