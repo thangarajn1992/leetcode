@@ -41,5 +41,4 @@
 | 1898 | Medium | [Maximum Number of Removable Characters](../difficulty-based-problem-index/leetcode-medium/leetcode-1898-maximum-number-of-removable-characters.md) |
 | 1903 | Easy | [Largest Odd Number in String](../difficulty-based-problem-index/leetcode-easy/leetcode-1903-largest-odd-number-in-string.md) |
 | 1910 | Medium | [Remove All Occurrences of a Substring](../difficulty-based-problem-index/leetcode-medium/leetcode-1910-remove-all-occurrences-of-a-substring.md) |
-| 1930 | Medium | [Unique Length-3 Palindromic Subsequences](../difficulty-based-problem-index/leetcode-medium/leetcode-1930-unique-length-3-palindromic-subsequences.md) |
 

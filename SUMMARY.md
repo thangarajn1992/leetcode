@@ -145,6 +145,7 @@
     * [Leetcode 743 Network Delay Time](difficulty-based-problem-index/leetcode-medium/leetcode-743-network-delay-time.md)
     * [Leetcode 752 Open the Lock](difficulty-based-problem-index/leetcode-medium/leetcode-752-open-the-lock.md)
     * [Leetcode 785 Is Graph Bipartite?](difficulty-based-problem-index/leetcode-medium/leetcode-785-is-graph-bipartite.md)
+    * [Leetcode 787 Cheapest Flights Within K Stops](difficulty-based-problem-index/leetcode-medium/leetcode-787-cheapest-flights-within-k-stops.md)
     * [Leetcode 792  Number of Matching Subsequences](difficulty-based-problem-index/leetcode-medium/leetcode-792-number-of-matching-subsequences.md)
     * [Leetcode 795 Number of Subarrays with Bounded Maximum](difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md)
     * [Leetcode 890 Find and Replace Pattern](difficulty-based-problem-index/leetcode-medium/leetcode-890-find-and-replace-pattern.md)
