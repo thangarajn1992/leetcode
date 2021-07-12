@@ -88,8 +88,10 @@ Medium Level Problem Sets for Leetcode
 | 743 | [Network Delay Time](leetcode-743-network-delay-time.md) |
 | 752 | [Open the Lock](leetcode-752-open-the-lock.md) |
 | 785 | [Is Graph Bipartite?](leetcode-785-is-graph-bipartite.md) |
+| 787 | [Cheapest Flights Within K Stops](leetcode-787-cheapest-flights-within-k-stops.md) |
 | 792 | [Number of Matching Subsequences](leetcode-792-number-of-matching-subsequences.md) |
 | 795 | [Number of Subarrays with Bounded Maximum](leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
+| 797 | [All Paths From Source to Target](leetcode-797-all-paths-from-source-to-target.md) |
 | 890 | [Find and Replace Pattern](leetcode-890-find-and-replace-pattern.md) |
 | 948 | [Bag of Tokens](leetcode-948-bag-of-tokens.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
@@ -129,4 +131,5 @@ Medium Level Problem Sets for Leetcode
 | 1910 | [Remove All Occurrences of a Substring](leetcode-1910-remove-all-occurrences-of-a-substring.md) |
 | 1914 | [Cyclically Rotating a Grid](leetcode-1914-cyclically-rotating-a-grid.md) |
 | 1926 | [Nearest Exit from Entrance in Maze](leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
+| 1930 | [Unique Length-3 Palindromic Subsequences](leetcode-1930-unique-length-3-palindromic-subsequences.md) |
 
