@@ -107,6 +107,7 @@
     * [Leetcode 133 Clone Graph](difficulty-based-problem-index/leetcode-medium/leetcode-133-clone-graph.md)
     * [Leetcode 142 Linked List Cycle II](difficulty-based-problem-index/leetcode-medium/leetcode-142-linked-list-cycle-ii.md)
     * [Leetcode 150 Evaluate Reverse Polish Notation](difficulty-based-problem-index/leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md)
+    * [Leetcode 162 Find Peak Element](difficulty-based-problem-index/leetcode-medium/leetcode-162-find-peak-element.md)
     * [Leetcode 189 Rotate Array](difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md)
     * [Leetcode 198 House Robber](difficulty-based-problem-index/leetcode-medium/leetcode-198-house-robber.md)
     * [Leetcode 200 Number of Islands](difficulty-based-problem-index/leetcode-medium/leetcode-200-number-of-islands.md)

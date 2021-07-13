@@ -49,6 +49,7 @@ Medium Level Problem Sets for Leetcode
 | 133 | [Clone Graph](leetcode-133-clone-graph.md) |
 | 142 | [Linked List Cycle II](leetcode-142-linked-list-cycle-ii.md) |
 | 150 | [Evaluate Reverse Polish Notation](leetcode-150-evaluate-reverse-polish-notation.md) |
+| 162 | [Find Peak Element](leetcode-162-find-peak-element.md) |
 | 189 | [Rotate Array](leetcode-189-rotate-array.md) |
 | 198 | [House Robber](leetcode-198-house-robber.md) |
 | 200 | [Number of Islands](leetcode-200-number-of-islands.md) |
