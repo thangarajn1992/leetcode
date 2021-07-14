@@ -14,8 +14,8 @@
 | Day 10 | [Decode Ways II](../../difficulty-based-problem-index/leetcode-hard/leetcode-639-decode-ways-ii.md) |
 | Day 11 | [Find Median from Data Stream](../../difficulty-based-problem-index/leetcode-hard/leetcode-295-find-median-from-data-stream.md) |
 | Day 12 | [Isomorphic Strings](../../difficulty-based-problem-index/leetcode-easy/leetcode-205-isomorphic-strings.md) |
-| Day 13 |  |
-| Day 14 |  |
+| Day 13 | [Find Peak Element](../../difficulty-based-problem-index/leetcode-medium/leetcode-162-find-peak-element.md) |
+| Day 14 | [Custom Sort String](../../difficulty-based-problem-index/leetcode-medium/leetcode-791-custom-sort-string.md) |
 | Day 15 |  |
 | Day 16 |  |
 | Day 17 |  |
