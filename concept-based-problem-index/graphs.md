@@ -17,6 +17,7 @@
 | 797 | Medium | [All Paths From Source to Target](../difficulty-based-problem-index/leetcode-medium/leetcode-797-all-paths-from-source-to-target.md) |
 | 802 | Medium | [Find Eventual Safe States](../difficulty-based-problem-index/leetcode-medium/leetcode-802-find-eventual-safe-states.md) |
 | 841 | Medium | [Keys and Rooms](../difficulty-based-problem-index/leetcode-medium/leetcode-841-keys-and-rooms.md) |
+| 851 | Medium | [Loud and Rich](../difficulty-based-problem-index/leetcode-medium/leetcode-851-loud-and-rich.md) |
 | 997 | Easy | [Find the Town Judge](../difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge.md) |
 | 1791 | Easy | [Find Center of Star Graph](../difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph.md) |
 | 1926 | Medium | [Nearest Exit from Entrance in Maze](../difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze.md) |

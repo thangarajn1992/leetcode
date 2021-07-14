@@ -24,7 +24,6 @@ This page contains list of problems that involves arrays
 | 128 | Medium | [Longest Consecutive Sequence](../difficulty-based-problem-index/leetcode-medium/leetcode-128-longest-consecutive-sequence.md) |
 | 136 | Easy | [Single Number](../difficulty-based-problem-index/leetcode-easy/leetcode-136-single-number.md) |
 | 150 | Medium | [Evaluate Reverse Polish Notation](../difficulty-based-problem-index/leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md) |
-| 162 | Medium | [Find Peak Element](../difficulty-based-problem-index/leetcode-medium/leetcode-162-find-peak-element.md) |
 | 169 | Easy | [Majority Element](../difficulty-based-problem-index/leetcode-easy/leetcode-169-majority-element.md) |
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](../difficulty-based-problem-index/leetcode-medium/leetcode-198-house-robber.md) |

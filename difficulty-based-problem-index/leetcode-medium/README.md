@@ -95,6 +95,7 @@ Medium Level Problem Sets for Leetcode
 | 797 | [All Paths From Source to Target](leetcode-797-all-paths-from-source-to-target.md) |
 | 802 | [Find Eventual Safe States](leetcode-802-find-eventual-safe-states.md) |
 | 841 | [Keys and Rooms](leetcode-841-keys-and-rooms.md) |
+| 851 | [Loud and Rich](leetcode-851-loud-and-rich.md) |
 | 890 | [Find and Replace Pattern](leetcode-890-find-and-replace-pattern.md) |
 | 948 | [Bag of Tokens](leetcode-948-bag-of-tokens.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
