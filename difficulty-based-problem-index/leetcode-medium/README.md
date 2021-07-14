@@ -90,6 +90,7 @@ Medium Level Problem Sets for Leetcode
 | 752 | [Open the Lock](leetcode-752-open-the-lock.md) |
 | 785 | [Is Graph Bipartite?](leetcode-785-is-graph-bipartite.md) |
 | 787 | [Cheapest Flights Within K Stops](leetcode-787-cheapest-flights-within-k-stops.md) |
+| 791 | [Custom Sort String](leetcode-791-custom-sort-string.md) |
 | 792 | [Number of Matching Subsequences](leetcode-792-number-of-matching-subsequences.md) |
 | 795 | [Number of Subarrays with Bounded Maximum](leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 797 | [All Paths From Source to Target](leetcode-797-all-paths-from-source-to-target.md) |
