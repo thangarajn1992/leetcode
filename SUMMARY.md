@@ -138,6 +138,7 @@
     * [Leetcode 576 Out of Boundary Paths](difficulty-based-problem-index/leetcode-medium/leetcode-576-out-of-boundary-paths.md)
     * [Leetcode 583 Delete Operation for Two Strings](difficulty-based-problem-index/leetcode-medium/leetcode-583-delete-operation-for-two-strings.md)
     * [Leetcode 609 Find Duplicate File in System](difficulty-based-problem-index/leetcode-medium/leetcode-609-find-duplicate-file-in-system.md)
+    * [Leetcode 611 Valid Triangle Number](difficulty-based-problem-index/leetcode-medium/leetcode-611-valid-triangle-number.md)
     * [Leetcode 658 Find K Closest Elements](difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md)
     * [Leetcode 665 Non-decreasing Array](difficulty-based-problem-index/leetcode-medium/leetcode-665-non-decreasing-array.md)
     * [Leetcode 684 Redundant Connection](difficulty-based-problem-index/leetcode-medium/leetcode-684-redundant-connection.md)
