@@ -21,7 +21,6 @@ This page contains list of problems related to Mathematics
 | 412 | Easy | [Fizz Buzz](../difficulty-based-problem-index/leetcode-easy/leetcode-412-fizz-buzz.md) |
 | 461 | Easy | [Hamming Distance](../difficulty-based-problem-index/leetcode-easy/leetcode-461-hamming-distance.md) |
 | 509 | Easy | [Fibonacci Number](../difficulty-based-problem-index/leetcode-easy/leetcode-509-fibonacci-number.md) |
-| 611 | Medium | [Valid Triangle Number](../difficulty-based-problem-index/leetcode-medium/leetcode-611-valid-triangle-number.md) |
 | 906 | Hard | [Super Palindromes](../difficulty-based-problem-index/leetcode-hard/leetcode-906-super-palindromes.md) |
 | 1304 | Easy | [Find N Unique Integers Sum up to Zero](../difficulty-based-problem-index/leetcode-easy/leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
 | 1486 | Easy | [XOR Operation in an Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1486-xor-operation-in-an-array.md) |

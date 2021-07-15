@@ -9,7 +9,6 @@ description: Leetcode Problems from 601 to 700
 | Leetcode No | Difficulty | Problem Link |
 | :--- | :--- | :--- |
 | 609 | Medium | [Find Duplicate File in System](../difficulty-based-problem-index/leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
-| 611 | Medium | [Valid Triangle Number](../difficulty-based-problem-index/leetcode-medium/leetcode-611-valid-triangle-number.md) |
 | 639 | Hard | [Decode Ways II](../difficulty-based-problem-index/leetcode-hard/leetcode-639-decode-ways-ii.md) |
 | 658 | Medium | [Find K Closest Elements](../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md) |
 | 665 | Medium | [Non-decreasing array](../difficulty-based-problem-index/leetcode-medium/leetcode-665-non-decreasing-array.md) |

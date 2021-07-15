@@ -69,8 +69,8 @@ public:
         
         // Triangles with 2 Same side + 1 different side
         // 3rd side can be any number from 1 to 2*same_side - 1
-        // Combinations : selecting 2 same sides from freq * total numbers from 1 to 2*side-1
-        // Combination : nC2 * total numbers from 1 to 2*side-1
+        // Combinations : selecting 2 same sides from freq * total numbers from 1 to 2*side-1 except that side
+        // Combination : nC2 * total numbers from 1 to 2*side-1 except that side
         // nC2 = (n * (n-1)) / (1 * 2)
         for(side = 1; side <= 1000; side++)
         {
