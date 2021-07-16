@@ -11,6 +11,7 @@ Medium Level Problem Sets for Leetcode
 | 14 | [Longest Common Prefix](leetcode-14-longest-common-prefix.md) |
 | 15 | [3Sum](leetcode-15-3sum.md) |
 | 17 | [Letter Combinations of a Phone Number](leetcode-17-letter-combinations-of-a-phone-number.md) |
+| 18 | [4Sum](leetcode-18-4sum.md) |
 | 19 | [Remove Nth Node From End of List](leetcode-19-remove-nth-node-from-end-of-list.md) |
 | 22 | [Generate Parentheses](leetcode-22-generate-parentheses.md) |
 | 24 | [Swap Nodes in Pairs](leetcode-24-swap-nodes-in-pairs.md) |
@@ -49,6 +50,7 @@ Medium Level Problem Sets for Leetcode
 | 133 | [Clone Graph](leetcode-133-clone-graph.md) |
 | 142 | [Linked List Cycle II](leetcode-142-linked-list-cycle-ii.md) |
 | 150 | [Evaluate Reverse Polish Notation](leetcode-150-evaluate-reverse-polish-notation.md) |
+| 162 | [Find Peak Element](leetcode-162-find-peak-element.md) |
 | 189 | [Rotate Array](leetcode-189-rotate-array.md) |
 | 198 | [House Robber](leetcode-198-house-robber.md) |
 | 200 | [Number of Islands](leetcode-200-number-of-islands.md) |
@@ -79,6 +81,7 @@ Medium Level Problem Sets for Leetcode
 | 576 | [Out of Boundary Paths](leetcode-576-out-of-boundary-paths.md) |
 | 583 | [Delete Operation for Two Strings](leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | [Find Duplicate File in System](leetcode-609-find-duplicate-file-in-system.md) |
+| 611 | [Valid Triangle Number](leetcode-611-valid-triangle-number.md) |
 | 658 | [Find K Closest Elements](leetcode-658-find-k-closest-elements.md) |
 | 665 | [Non-decreasing Array](leetcode-665-non-decreasing-array.md) |
 | 684 | [Redundant Connection](leetcode-684-redundant-connection.md) |
@@ -89,11 +92,14 @@ Medium Level Problem Sets for Leetcode
 | 752 | [Open the Lock](leetcode-752-open-the-lock.md) |
 | 785 | [Is Graph Bipartite?](leetcode-785-is-graph-bipartite.md) |
 | 787 | [Cheapest Flights Within K Stops](leetcode-787-cheapest-flights-within-k-stops.md) |
+| 791 | [Custom Sort String](leetcode-791-custom-sort-string.md) |
 | 792 | [Number of Matching Subsequences](leetcode-792-number-of-matching-subsequences.md) |
 | 795 | [Number of Subarrays with Bounded Maximum](leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 797 | [All Paths From Source to Target](leetcode-797-all-paths-from-source-to-target.md) |
 | 802 | [Find Eventual Safe States](leetcode-802-find-eventual-safe-states.md) |
 | 841 | [Keys and Rooms](leetcode-841-keys-and-rooms.md) |
+| 851 | [Loud and Rich](leetcode-851-loud-and-rich.md) |
+| 886 | [Possible Bipartition](leetcode-886-possible-bipartition.md) |
 | 890 | [Find and Replace Pattern](leetcode-890-find-and-replace-pattern.md) |
 | 948 | [Bag of Tokens](leetcode-948-bag-of-tokens.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
