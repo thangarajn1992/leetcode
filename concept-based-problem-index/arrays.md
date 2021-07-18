@@ -6,7 +6,6 @@ This page contains list of problems that involves arrays
 | :--- | :--- | :--- |
 | 1 | Easy | [Two Sum](../difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md) |
 | 15 | Medium | [3Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-15-3sum.md) |
-| 18 | Medium | [4Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-18-4sum.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](../difficulty-based-problem-index/leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
 | 33 | Medium | [Search in Rotated Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-33-search-in-rotated-sorted-array.md) |
 | 34 | Medium | [Find First and Last Position of Element in Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
@@ -25,7 +24,6 @@ This page contains list of problems that involves arrays
 | 128 | Medium | [Longest Consecutive Sequence](../difficulty-based-problem-index/leetcode-medium/leetcode-128-longest-consecutive-sequence.md) |
 | 136 | Easy | [Single Number](../difficulty-based-problem-index/leetcode-easy/leetcode-136-single-number.md) |
 | 150 | Medium | [Evaluate Reverse Polish Notation](../difficulty-based-problem-index/leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md) |
-| 162 | Medium | [Find Peak Element](../difficulty-based-problem-index/leetcode-medium/leetcode-162-find-peak-element.md) |
 | 169 | Easy | [Majority Element](../difficulty-based-problem-index/leetcode-easy/leetcode-169-majority-element.md) |
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](../difficulty-based-problem-index/leetcode-medium/leetcode-198-house-robber.md) |
@@ -48,7 +46,6 @@ This page contains list of problems that involves arrays
 | 695 | Medium | [Max Area of Island](../difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md) |
 | 718 | Medium | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 795 | Medium | [Number of Subarrays with Bounded Maximum](../difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
-| 927 | Hard | [Three Equal Parts](../difficulty-based-problem-index/leetcode-hard/leetcode-927-three-equal-parts.md) |
 | 970 | Medium | [Powerful Integers](../difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md) |
 | 1306 | Medium | [Jump Game III](../difficulty-based-problem-index/leetcode-medium/leetcode-1306-jump-game-iii.md) |
 | 1338 | Medium | [Reduce Array Size to The Half](../difficulty-based-problem-index/leetcode-medium/leetcode-1338-reduce-array-size-to-the-half.md) |

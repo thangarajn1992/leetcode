@@ -8,7 +8,6 @@ This page contains list of problems involving linked lists
 | 19 | Medium | [Remove Nth Node from End of List](../difficulty-based-problem-index/leetcode-medium/leetcode-19-remove-nth-node-from-end-of-list.md) |
 | 21 | Easy | [Merge Two Sorted Lists](../difficulty-based-problem-index/leetcode-easy/leetcode-21-merge-two-sorted-lists.md) |
 | 24 | Medium | [Swap Nodes in pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-24-swap-nodes-in-pairs.md) |
-| 25 | Hard | [Reverse Nodes in k-Group]() |
 | 61 | Medium | [Rotate List](../difficulty-based-problem-index/leetcode-medium/leetcode-61-rotate-list.md) |
 | 82 | Medium | [Remove Duplicates from Sorted List II](../difficulty-based-problem-index/leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md) |
 | 83 | Easy | [Remove Duplicates from Sorted List](../difficulty-based-problem-index/leetcode-easy/leetcode-83-remove-duplicates-from-sorted-list.md) |

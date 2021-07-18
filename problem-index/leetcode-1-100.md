@@ -66,6 +66,7 @@ description: Leetcode Problem from 1 to 100
 | 66 | Easy | [Plus One](../difficulty-based-problem-index/leetcode-easy/leetcode-66-plus-one.md) |
 | 70 | Easy | [Climbing Stairs](../difficulty-based-problem-index/leetcode-easy/leetcode-70-climbing-stairs.md) |
 | 73 | Medium | [Set Matrix Zeroes](../difficulty-based-problem-index/leetcode-medium/leetcode-73-set-matrix-zeroes.md) |
+| 74 | Medium | [Search a 2D Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-74-search-a-2d-matrix.md) |
 | 78 | Medium | [Subsets](../difficulty-based-problem-index/leetcode-medium/leetcode-78-subsets.md) |
 | 79 | Medium | [Word Search](../difficulty-based-problem-index/leetcode-medium/leetcode-79-word-search.md) |
 | 82 | Medium | [Remove Duplicates From Sorted List II](../difficulty-based-problem-index/leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md) |

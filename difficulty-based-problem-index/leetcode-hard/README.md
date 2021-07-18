@@ -4,7 +4,6 @@ Hard Level Problem Sets for Leetcode
 
 | Leetcode No | Problem Link |
 | :--- | :--- |
-| 25 | [Reverse Nodes in k-Group]() |
 | 51 | [N - Queens](leetcode-51-n-queens.md) |
 | 52 | [N - Queens II](leetcode-52-n-queens-ii.md) |
 | 65 | [Valid Number](leetcode-65-valid-number.md) |
@@ -14,7 +13,6 @@ Hard Level Problem Sets for Leetcode
 | 639 | [Decode Ways II](leetcode-639-decode-ways-ii.md) |
 | 745 | [Prefix and Suffix Search](leetcode-745-prefix-and-suffix-search.md) |
 | 906 | [Super Palindromes](leetcode-906-super-palindromes.md) |
-| 927 | [Three Equal Parts](leetcode-927-three-equal-parts.md) |
 | 968 | [Binary Tree Cameras](leetcode-968-binary-tree-cameras.md) |
 | 1220 | [Count Vowels Permutation](leetcode-1220-count-vowels-permutation.md) |
 | 1354 | [Construct Target Array with Multiple Sums](leetcode-1354-construct-target-array-with-multiple-sums.md) |
@@ -25,6 +23,5 @@ Hard Level Problem Sets for Leetcode
 | 1872 | [Stone Game VIII](leetcode-1872-stone-game-viii.md) |
 | 1879 | [Minimum XOR Sum of Two Arrays](leetcode-1879-minimum-xor-sum-of-two-arrays.md) |
 | 1889 | [Minimum Space Wasted From Packaging](leetcode-1889-minimum-space-wasted-from-packaging.md) |
-| 1928 | [Minimum Cost to Reach Destination in Time](leetcode-1928-minimum-cost-to-reach-destination-in-time.md) |
 | 1932 | [Merge BSTs to Create Single BST](leetcode-1932-merge-bsts-to-create-single-bst.md) |
 

@@ -31,6 +31,7 @@ Medium Level Problem Sets for Leetcode
 | 63 | [Unique Paths II](leetcode-63-unique-paths-ii.md) |
 | 64 | [Minimum Path Sum](leetcode-64-minimum-path-sum.md) |
 | 73 | [Set Matrix Zeroes](leetcode-73-set-matrix-zeroes.md) |
+| 74 | [Search a 2D Matrix](leetcode-74-search-a-2d-matrix.md) |
 | 78 | [Subsets](leetcode-78-subsets.md) |
 | 79 | [Word Search](leetcode-79-word-search.md) |
 | 82 | [Remove Duplicates from Sorted List II](leetcode-82-remove-duplicates-from-sorted-list-ii.md) |
