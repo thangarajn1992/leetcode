@@ -8,6 +8,7 @@
 | 59 | Medium | [Spiral Matrix II](../difficulty-based-problem-index/leetcode-medium/leetcode-59-spiral-matrix-ii.md) |
 | 74 | Medium | [Search a 2D Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-74-search-a-2d-matrix.md) |
 | 79 | Medium | [Word Search](../difficulty-based-problem-index/leetcode-medium/leetcode-79-word-search.md) |
+| 240 | Medium | [Search a 2D Matrix II](../difficulty-based-problem-index/leetcode-medium/leetcode-240-search-a-2d-matrix-ii.md) |
 | 329 | Hard | [Longest Increasing Path in a Matrix](../difficulty-based-problem-index/leetcode-hard/leetcode-329-longest-increasing-path-in-a-matrix.md) |
 | 378 | Medium | [Kth Smallest Element in a Sorted Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-378-kth-smallest-element-in-a-sorted-matrix.md) |
 | 566 | Easy | [Reshape the Matrix](../difficulty-based-problem-index/leetcode-easy/leetcode-566-reshape-the-matrix.md) |

@@ -120,6 +120,7 @@
     * [Leetcode 210 Course Schedule II](difficulty-based-problem-index/leetcode-medium/leetcode-210-course-schedule-ii.md)
     * [Leetcode 230 Kth Smallest Element in a BST](difficulty-based-problem-index/leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md)
     * [Leetcode 236 Lowest Common Ancestor of a Binary Tree](difficulty-based-problem-index/leetcode-medium/leetcode-236-lowest-common-ancestor-of-a-binary-tree.md)
+    * [Leetcode 240 Search a 2D Matrix II](difficulty-based-problem-index/leetcode-medium/leetcode-240-search-a-2d-matrix-ii.md)
     * [Leetcode 264 Ugly Number II](difficulty-based-problem-index/leetcode-medium/leetcode-264-ugly-number-ii.md)
     * [Leetcode 287 Find the Duplicate Number](difficulty-based-problem-index/leetcode-medium/leetcode-287-find-the-duplicate-number.md)
     * [Leetcode 300 Longest Increasing Subsequence](difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md)
