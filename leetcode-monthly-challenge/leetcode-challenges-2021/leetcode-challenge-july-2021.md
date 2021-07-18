@@ -16,10 +16,10 @@
 | Day 12 | [Isomorphic Strings](../../difficulty-based-problem-index/leetcode-easy/leetcode-205-isomorphic-strings.md) |
 | Day 13 | [Find Peak Element](../../difficulty-based-problem-index/leetcode-medium/leetcode-162-find-peak-element.md) |
 | Day 14 | [Custom Sort String](../../difficulty-based-problem-index/leetcode-medium/leetcode-791-custom-sort-string.md) |
-| Day 15 |  |
-| Day 16 |  |
-| Day 17 |  |
-| Day 18 |  |
+| Day 15 | [Valid Triangle Number](../../difficulty-based-problem-index/leetcode-medium/leetcode-611-valid-triangle-number.md) |
+| Day 16 | [4Sum](../../difficulty-based-problem-index/leetcode-medium/leetcode-18-4sum.md) |
+| Day 17 | [Three Equal Parts](../../difficulty-based-problem-index/leetcode-hard/leetcode-927-three-equal-parts.md) |
+| Day 18 | [Reverse Nodes in k-Group]() |
 | Day 19 |  |
 | Day 20 |  |
 | Day 21 |  |

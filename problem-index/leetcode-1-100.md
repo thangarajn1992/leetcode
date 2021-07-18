@@ -30,7 +30,7 @@ description: Leetcode Problem from 1 to 100
 | 22 | Medium | [Generate Parentheses](../difficulty-based-problem-index/leetcode-medium/leetcode-22-generate-parentheses.md) |
 | 23 |  |  |
 | 24 | Medium | [Swap nodes in pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-24-swap-nodes-in-pairs.md) |
-| 25 |  |  |
+| 25 | Hard | [Reverse Nodes in k-Group]() |
 | 26 | Easy | [Remove Duplicates from Sorted Array](../difficulty-based-problem-index/leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
 | 27 |  |  |
 | 28 | Easy | [Implement strStr\(\)](../difficulty-based-problem-index/leetcode-easy/leetcode-28-implement-strstr.md) |
@@ -57,6 +57,7 @@ description: Leetcode Problem from 1 to 100
 | 53 | Easy | [Maximum Sub-array](../difficulty-based-problem-index/leetcode-easy/leetcode-53-maximum-subarray.md) |
 | 54 | Medium | [Spiral Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-54-spiral-matrix.md) |
 | 55 | Medium | [Jump Game](../difficulty-based-problem-index/leetcode-medium/leetcode-55-jump-game.md) |
+| 59 | Medium | [Spiral Matrix II](../difficulty-based-problem-index/leetcode-medium/leetcode-59-spiral-matrix-ii.md) |
 | 61 | Medium | [Rotate List](../difficulty-based-problem-index/leetcode-medium/leetcode-61-rotate-list.md) |
 | 62 | Medium | [Unique Paths](../difficulty-based-problem-index/leetcode-medium/leetcode-62-unique-paths.md) |
 | 63 | Medium | [Unique Paths II](../difficulty-based-problem-index/leetcode-medium/leetcode-63-unique-paths-ii.md) |
