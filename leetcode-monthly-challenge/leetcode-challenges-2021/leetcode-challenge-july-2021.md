@@ -19,8 +19,8 @@
 | Day 15 | [Valid Triangle Number](../../difficulty-based-problem-index/leetcode-medium/leetcode-611-valid-triangle-number.md) |
 | Day 16 | [4Sum](../../difficulty-based-problem-index/leetcode-medium/leetcode-18-4sum.md) |
 | Day 17 | [Three Equal Parts](../../difficulty-based-problem-index/leetcode-hard/leetcode-927-three-equal-parts.md) |
-| Day 18 | [Reverse Nodes in k-Group]() |
-| Day 19 |  |
+| Day 18 | [Reverse Nodes in k-Group](../../difficulty-based-problem-index/leetcode-hard/leetcode-25-reverse-nodes-in-k-group.md) |
+| Day 19 | [Lowest Common Ancestor of a Binary Search Tree](../../difficulty-based-problem-index/leetcode-easy/leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md) |
 | Day 20 |  |
 | Day 21 |  |
 | Day 22 |  |
