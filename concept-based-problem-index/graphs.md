@@ -20,6 +20,7 @@
 | 851 | Medium | [Loud and Rich](../difficulty-based-problem-index/leetcode-medium/leetcode-851-loud-and-rich.md) |
 | 886 | Medium | [Possible Bipartition](../difficulty-based-problem-index/leetcode-medium/leetcode-886-possible-bipartition.md) |
 | 997 | Easy | [Find the Town Judge](../difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge.md) |
+| 1466 | Medium | [Reorder Routes to Make All Paths Lead to the City Zero](../difficulty-based-problem-index/leetcode-medium/leetcode-1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.md) |
 | 1557 | Medium | [Minimum Number of Vertices to Reach All Nodes](../difficulty-based-problem-index/leetcode-medium/leetcode-1557-minimum-number-of-vertices-to-reach-all-nodes.md) |
 | 1791 | Easy | [Find Center of Star Graph](../difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph.md) |
 | 1926 | Medium | [Nearest Exit from Entrance in Maze](../difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
