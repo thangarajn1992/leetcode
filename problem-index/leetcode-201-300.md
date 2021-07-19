@@ -20,7 +20,6 @@ description: Leetcode Problems from 201 to 300
 | 234 | Easy | [Palindrome Linked List](../difficulty-based-problem-index/leetcode-easy/leetcode-234-palindrome-linked-list.md) |
 | 236 | Medium | [Lowest Common Ancestor of a Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-236-lowest-common-ancestor-of-a-binary-tree.md) |
 | 237 | Easy | [Delete Node in a Linked List](../difficulty-based-problem-index/leetcode-easy/leetcode-237-delete-node-in-a-linked-list.md) |
-| 240 | Medium | [Search a 2D Matrix II](../difficulty-based-problem-index/leetcode-medium/leetcode-240-search-a-2d-matrix-ii.md) |
 | 242 | Easy | [Valid Anagram](../difficulty-based-problem-index/leetcode-easy/leetcode-242-valid-anagram.md) |
 | 263 | Easy | [Ugly Number](../difficulty-based-problem-index/leetcode-easy/leetcode-263-ugly-number.md) |
 | 264 | Medium | [Ugly Number II](../difficulty-based-problem-index/leetcode-medium/leetcode-264-ugly-number-ii.md) |
