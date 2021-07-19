@@ -10,6 +10,7 @@ This page contains list of problems that involves arrays
 | 15 | Medium | [3Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-15-3sum.md) |
 | 18 | Medium | [4Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-18-4sum.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](../difficulty-based-problem-index/leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
+| 27 | Easy | [Remove Element](../difficulty-based-problem-index/leetcode-easy/leetcode-27-remove-element.md) |
 | 33 | Medium | [Search in Rotated Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-33-search-in-rotated-sorted-array.md) |
 | 34 | Medium | [Find First and Last Position of Element in Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
 | 36 | Medium | [Valid Sudoku](../difficulty-based-problem-index/leetcode-medium/leetcode-36-valid-sudoku.md) |

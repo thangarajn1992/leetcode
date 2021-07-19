@@ -215,6 +215,7 @@
     * [Leetcode 20 Valid Parentheses](difficulty-based-problem-index/leetcode-easy/leetcode-20-valid-parentheses.md)
     * [Leetcode 21 Merge Two Sorted Lists](difficulty-based-problem-index/leetcode-easy/leetcode-21-merge-two-sorted-lists.md)
     * [Leetcode 26 Remove Duplicates from Sorted Array](difficulty-based-problem-index/leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md)
+    * [Leetcode 27 Remove Element](difficulty-based-problem-index/leetcode-easy/leetcode-27-remove-element.md)
     * [Leetcode 28 Implement strStr\(\)](difficulty-based-problem-index/leetcode-easy/leetcode-28-implement-strstr.md)
     * [Leetcode 53 Maximum Subarray](difficulty-based-problem-index/leetcode-easy/leetcode-53-maximum-subarray.md)
     * [Leetcode 66 Plus One](difficulty-based-problem-index/leetcode-easy/leetcode-66-plus-one.md)

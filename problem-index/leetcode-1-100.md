@@ -32,7 +32,7 @@ description: Leetcode Problem from 1 to 100
 | 24 | Medium | [Swap nodes in pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-24-swap-nodes-in-pairs.md) |
 | 25 | Hard | [Reverse Nodes in k-Group](../difficulty-based-problem-index/leetcode-hard/leetcode-25-reverse-nodes-in-k-group.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](../difficulty-based-problem-index/leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
-| 27 |  |  |
+| 27 | Easy | [Remove Element](../difficulty-based-problem-index/leetcode-easy/leetcode-27-remove-element.md) |
 | 28 | Easy | [Implement strStr\(\)](../difficulty-based-problem-index/leetcode-easy/leetcode-28-implement-strstr.md) |
 | 29 |  |  |
 | 30 |  |  |
