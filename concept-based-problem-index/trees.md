@@ -19,7 +19,6 @@ This page contains problems that involves any type of trees
 | 144 | Easy | [Binary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-144-binary-tree-preorder-traversal.md) |
 | 145 | Easy | [Binary Tree Postorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md) |
 | 230 | Medium | [Kth Smallest Element in a BST](../difficulty-based-problem-index/leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md) |
-| 235 | Easy | [Lowest Common Ancestor of a Binary Search Tree](../difficulty-based-problem-index/leetcode-easy/leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md) |
 | 236 | Medium | [Lowest Common Ancestor of a Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-236-lowest-common-ancestor-of-a-binary-tree.md) |
 | 307 | Medium | [Ranged Sum Query 1D - Mutable](../difficulty-based-problem-index/leetcode-medium/leetcode-307-range-sum-query-mutable.md) |
 | 589 | Easy | [N ary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md) |

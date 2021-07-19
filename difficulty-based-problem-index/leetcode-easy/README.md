@@ -41,7 +41,6 @@ Easy Level Problem Sets for Leetcode
 | 206 | [Reverse Linked List](leetcode-206-reverse-linked-list.md) |
 | 217 | [Contains Duplicate](leetcode-217-contains-duplicate.md) |
 | 234 | [Palindrome Linked List](leetcode-234-palindrome-linked-list.md) |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree](leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md) |
 | 237 | [Deleted Node in a Linked List](leetcode-237-delete-node-in-a-linked-list.md) |
 | 242 | [Valid Anagram](leetcode-242-valid-anagram.md) |
 | 263 | [Ugly Number](leetcode-263-ugly-number.md) |
