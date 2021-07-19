@@ -13,6 +13,7 @@ This page contains list of problems that involves arrays
 | 27 | Easy | [Remove Element](../difficulty-based-problem-index/leetcode-easy/leetcode-27-remove-element.md) |
 | 33 | Medium | [Search in Rotated Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-33-search-in-rotated-sorted-array.md) |
 | 34 | Medium | [Find First and Last Position of Element in Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
+| 35 | Easy | [Search Insert Position](../difficulty-based-problem-index/leetcode-easy/leetcode-35-search-insert-position.md) |
 | 36 | Medium | [Valid Sudoku](../difficulty-based-problem-index/leetcode-medium/leetcode-36-valid-sudoku.md) |
 | 45 | Medium | [Jump Game II](../difficulty-based-problem-index/leetcode-medium/leetcode-45-jump-game-ii.md) |
 | 48 | Medium | [Rotate Image](../difficulty-based-problem-index/leetcode-medium/leetcode-48-rotate-image.md) |

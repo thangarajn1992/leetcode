@@ -12,6 +12,7 @@ Easy Level Problem Sets for Leetcode
 | 26 | [Remove Duplicates from Sorted Array](leetcode-26-remove-duplicates-from-sorted-array.md) |
 | 27 | [Remove Element](leetcode-27-remove-element.md) |
 | 28 | [Implement strStr\(\)](leetcode-28-implement-strstr.md) |
+| 35 | [Search Insert Position](leetcode-35-search-insert-position.md) |
 | 53 | [Maximum Subarray](leetcode-53-maximum-subarray.md) |
 | 66 | [Plus One](leetcode-66-plus-one.md) |
 | 70 | [Climbing Stairs](leetcode-70-climbing-stairs.md) |

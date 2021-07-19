@@ -217,6 +217,7 @@
     * [Leetcode 26 Remove Duplicates from Sorted Array](difficulty-based-problem-index/leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md)
     * [Leetcode 27 Remove Element](difficulty-based-problem-index/leetcode-easy/leetcode-27-remove-element.md)
     * [Leetcode 28 Implement strStr\(\)](difficulty-based-problem-index/leetcode-easy/leetcode-28-implement-strstr.md)
+    * [Leetcode 35 Search Insert Position](difficulty-based-problem-index/leetcode-easy/leetcode-35-search-insert-position.md)
     * [Leetcode 53 Maximum Subarray](difficulty-based-problem-index/leetcode-easy/leetcode-53-maximum-subarray.md)
     * [Leetcode 66 Plus One](difficulty-based-problem-index/leetcode-easy/leetcode-66-plus-one.md)
     * [Leetcode 70 Climbing Stairs](difficulty-based-problem-index/leetcode-easy/leetcode-70-climbing-stairs.md)
