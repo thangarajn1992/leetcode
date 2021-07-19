@@ -5,6 +5,7 @@ This page contains list of problems that involves arrays
 | Leetcode No | Difficulty | Solution Link |
 | :--- | :--- | :--- |
 | 1 | Easy | [Two Sum](../difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md) |
+| 4 | Hard | [Median of Two Sorted Arrays](../difficulty-based-problem-index/leetcode-hard/leetcode-4-median-of-two-sorted-arrays.md) |
 | 11 | Medium | [Container With Most Water](../difficulty-based-problem-index/leetcode-medium/leetcode-11-container-with-most-water.md) |
 | 15 | Medium | [3Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-15-3sum.md) |
 | 18 | Medium | [4Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-18-4sum.md) |

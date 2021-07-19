@@ -9,7 +9,7 @@ description: Leetcode Problem from 1 to 100
 | 1 | Easy | [Two Sum](../difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md) |
 | 2 | Medium | [Add Two Numbers](../difficulty-based-problem-index/leetcode-medium/leetcode-2-add-two-numbers.md) |
 | 3 | Medium | [Longest Substring without Repeating Characters](../difficulty-based-problem-index/leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md) |
-| 4 |  |  |
+| 4 | Hard | [Median of Two Sorted Arrays](../difficulty-based-problem-index/leetcode-hard/leetcode-4-median-of-two-sorted-arrays.md) |
 | 5 | Medium | [Longest Palindromic Substring](../difficulty-based-problem-index/leetcode-medium/leetcode-5-longest-palindromic-substring.md) |
 | 6 |  |  |
 | 7 | Easy | [Reverse Integer](../difficulty-based-problem-index/leetcode-easy/leetcode-7-reverse-integer.md) |

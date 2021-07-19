@@ -15,7 +15,6 @@ For problems specific to one of the particular concept below, please use the app
 * [Math & Bit Manipulation](math.md)
 * [Sorting and Searching](sorting-and-searching.md)
 * [Binary Search Problems](binary-search-problems.md)
-* [Two Pointer Problems](two-pointer-problems.md)
 * [Design](design.md)
 * [Others](others.md)
 

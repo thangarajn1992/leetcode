@@ -41,6 +41,7 @@
   * [Leetcode 1901 - 2000](problem-index/leetcode-1901-2000.md)
 * [Difficulty Based Problem Index](difficulty-based-problem-index/README.md)
   * [LeetCode Hard](difficulty-based-problem-index/leetcode-hard/README.md)
+    * [Leetcode 4 Median of Two Sorted Arrays](difficulty-based-problem-index/leetcode-hard/leetcode-4-median-of-two-sorted-arrays.md)
     * [Leetcode 25 Reverse Nodes in k-Group](difficulty-based-problem-index/leetcode-hard/leetcode-25-reverse-nodes-in-k-group.md)
     * [Leetcode 51 N-Queens](difficulty-based-problem-index/leetcode-hard/leetcode-51-n-queens.md)
     * [Leetcode 52  N-Queens II](difficulty-based-problem-index/leetcode-hard/leetcode-52-n-queens-ii.md)
