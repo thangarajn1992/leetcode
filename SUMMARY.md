@@ -230,6 +230,7 @@
     * [Leetcode 104 Maximum Depth of Binary Tree](difficulty-based-problem-index/leetcode-easy/leetcode-104-maximum-depth-of-binary-tree.md)
     * [Leetcode 108 Convert Sorted Array to Binary Search Tree](difficulty-based-problem-index/leetcode-easy/leetcode-108-convert-sorted-array-to-binary-search-tree.md)
     * [Leetcode 118 Pascal's Triangle](difficulty-based-problem-index/leetcode-easy/leetcode-118-pascals-triangle.md)
+    * [Leetcode 119 Pascal's Triangle II](difficulty-based-problem-index/leetcode-easy/leetcode-119-pascals-triangle-ii.md)
     * [Leetcode 121 Best Time to Buy and Sell Stock](difficulty-based-problem-index/leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md)
     * [Leetcode 122 Best time to buy and sell stock II](difficulty-based-problem-index/leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md)
     * [Leetcode 125 Valid Palindrome](difficulty-based-problem-index/leetcode-easy/leetcode-125-valid-palindrome.md)
