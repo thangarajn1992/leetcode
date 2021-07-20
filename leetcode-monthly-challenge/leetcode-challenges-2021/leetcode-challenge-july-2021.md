@@ -4,7 +4,7 @@
 | :--- | :--- |
 | Day 1 | [Gray Code](../../difficulty-based-problem-index/leetcode-medium/leetcode-89-gray-code.md) |
 | Day 2 | [Find K Closest Elements](../../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md) |
-| Day 3 |  |
+| Day 3 | [Max Sum of Rectangle No Larger Than K](../../difficulty-based-problem-index/leetcode-hard/leetcode-363-max-sum-of-rectangle-no-larger-than-k.md) |
 | Day 4 | [Count Vowels Permutation](../../difficulty-based-problem-index/leetcode-hard/leetcode-1220-count-vowels-permutation.md) |
 | Day 5 | [Reshape the Matrix](../../difficulty-based-problem-index/leetcode-easy/leetcode-566-reshape-the-matrix.md) |
 | Day 6 | [Reduce Array Size to The Half](../../difficulty-based-problem-index/leetcode-medium/leetcode-1338-reduce-array-size-to-the-half.md) |
