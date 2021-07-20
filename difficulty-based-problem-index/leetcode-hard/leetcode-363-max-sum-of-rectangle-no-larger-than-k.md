@@ -49,12 +49,12 @@ public:
         if (cols > rows) {
             // Stores the 1D representation of the matrix row wise.
             vector<int> rowSum(cols);
-            for (int i = 0; i < rows; i++) {
+            for (int start_row = 0; start_row < rows; start_row++) {
                 // Initialize the 1D representation with 0s.
                 fill(rowSum.begin(), rowSum.end(), 0);
 
                 // We convert the matrix between rows i..row inclusive to 1D array
-                for (int row = i; row < rows; row++) {
+                for (int row = start_row; row < rows; row++) {
                     // Add the current row to the previous row.
                     // This converts the matrix between i..j to 1D array
                     for (int col = 0; col < cols; col++)
@@ -71,12 +71,12 @@ public:
         } else {
             // Stores the 1D representation of the matrix column wise.
             vector<int> colSum(rows);
-            for (int i = 0; i < cols; i++) {
+            for (int start_col = 0; start_col < cols; start_col++) {
                 // Initialize the 1D representation with 0s.
                 fill(colSum.begin(), colSum.end(), 0);
 
                 // We convert the matrix between columns i..col inclusive to 1D array
-                for (int col = i; col < cols; col++) {
+                for (int col = start_col; col < cols; col++) {
                     // Add the current column to the previous column.
                     for (int row = 0; row < rows; row++)
                         colSum[row] += matrix[row][col];
