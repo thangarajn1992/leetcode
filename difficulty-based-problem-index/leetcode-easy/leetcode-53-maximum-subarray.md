@@ -35,8 +35,6 @@ Output: 23
 
 ##  Solution
 
-### Kadane's Algorithm
-
 ```cpp
 class Solution {
 public:
@@ -53,40 +51,6 @@ public:
                 maxEnd = 0;
         }
         return maxSoFar;
-    }
-};
-```
-
-### Divide and Conquer
-
-```cpp
-class Solution {
-public:
-    int maxSubArray(vector<int>& nums) {
-        return maxSubArray(nums, 0, nums.size() - 1);
-    }
-private:
-    int maxSubArray(vector<int>& nums, int left, int right) {
-        if (left > right) {
-            return INT_MIN;
-        }
-        int mid = left + (right - left) / 2;
-        
-        // Find max in left and right sub-array
-        int lmax = maxSubArray(nums, left, mid - 1);
-        int rmax = maxSubArray(nums, mid + 1, right);
-        
-        // Find max that combines both left & right sub-array
-        int max_left = 0, max_right = 0;
-        for (int i = mid - 1, sum = 0; i >= left; i--) {
-            sum += nums[i];
-            max_left = max(sum, max_left);
-        }
-        for (int i = mid + 1, sum = 0; i <= right; i++) {
-            sum += nums[i];
-            max_right = max(sum, max_right);
-        }
-        return max(max(lmax, rmax), max_left + max_right + nums[mid]);
     }
 };
 ```

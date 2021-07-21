@@ -26,6 +26,7 @@ Medium Level Problem Sets for Leetcode
 | 49 | [Group Anagrams](leetcode-49-group-anagrams.md) |
 | 54 | [Spiral Matrix](leetcode-54-spiral-matrix.md) |
 | 55 | [Jump Game](leetcode-55-jump-game.md) |
+| 56 | [Merge Intervals](leetcode-56-merge-intervals.md) |
 | 59 | [Spiral Matrix II](leetcode-59-spiral-matrix-ii.md) |
 | 61 | [Rotate List](leetcode-61-rotate-list.md) |
 | 62 | [Unique Paths](leetcode-62-unique-paths.md) |

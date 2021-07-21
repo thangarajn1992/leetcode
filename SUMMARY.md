@@ -89,6 +89,7 @@
     * [Leetcode 49 Group Anagrams](difficulty-based-problem-index/leetcode-medium/leetcode-49-group-anagrams.md)
     * [Leetcode 54 Spiral Matrix](difficulty-based-problem-index/leetcode-medium/leetcode-54-spiral-matrix.md)
     * [Leetcode 55 Jump Game](difficulty-based-problem-index/leetcode-medium/leetcode-55-jump-game.md)
+    * [Leetcode 56 Merge Intervals](difficulty-based-problem-index/leetcode-medium/leetcode-56-merge-intervals.md)
     * [Leetcode 59 Spiral Matrix II](difficulty-based-problem-index/leetcode-medium/leetcode-59-spiral-matrix-ii.md)
     * [Leetcode 61 Rotate List](difficulty-based-problem-index/leetcode-medium/leetcode-61-rotate-list.md)
     * [Leetcode 62 Unique Paths](difficulty-based-problem-index/leetcode-medium/leetcode-62-unique-paths.md)
