@@ -22,7 +22,7 @@
 | Day 18 | [Reverse Nodes in k-Group](../../difficulty-based-problem-index/leetcode-hard/leetcode-25-reverse-nodes-in-k-group.md) |
 | Day 19 | [Lowest Common Ancestor of a Binary Search Tree](../../difficulty-based-problem-index/leetcode-easy/leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md) |
 | Day 20 | [Shuffle an Array](../../difficulty-based-problem-index/leetcode-medium/leetcode-384-shuffle-an-array.md) |
-| Day 21 |  |
+| Day 21 | [Push Dominoes](../../difficulty-based-problem-index/leetcode-medium/leetcode-838-push-dominoes.md) |
 | Day 22 |  |
 | Day 23 |  |
 | Day 24 |  |
