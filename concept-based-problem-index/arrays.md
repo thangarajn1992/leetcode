@@ -5,21 +5,28 @@ This page contains list of problems that involves arrays
 | Leetcode No | Difficulty | Solution Link |
 | :--- | :--- | :--- |
 | 1 | Easy | [Two Sum](../difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md) |
+| 4 | Hard | [Median of Two Sorted Arrays](../difficulty-based-problem-index/leetcode-hard/leetcode-4-median-of-two-sorted-arrays.md) |
+| 11 | Medium | [Container With Most Water](../difficulty-based-problem-index/leetcode-medium/leetcode-11-container-with-most-water.md) |
 | 15 | Medium | [3Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-15-3sum.md) |
 | 18 | Medium | [4Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-18-4sum.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](../difficulty-based-problem-index/leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
+| 27 | Easy | [Remove Element](../difficulty-based-problem-index/leetcode-easy/leetcode-27-remove-element.md) |
 | 33 | Medium | [Search in Rotated Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-33-search-in-rotated-sorted-array.md) |
 | 34 | Medium | [Find First and Last Position of Element in Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
+| 35 | Easy | [Search Insert Position](../difficulty-based-problem-index/leetcode-easy/leetcode-35-search-insert-position.md) |
 | 36 | Medium | [Valid Sudoku](../difficulty-based-problem-index/leetcode-medium/leetcode-36-valid-sudoku.md) |
 | 45 | Medium | [Jump Game II](../difficulty-based-problem-index/leetcode-medium/leetcode-45-jump-game-ii.md) |
 | 48 | Medium | [Rotate Image](../difficulty-based-problem-index/leetcode-medium/leetcode-48-rotate-image.md) |
 | 53 | Easy | [Maximum Sub-array](../difficulty-based-problem-index/leetcode-easy/leetcode-53-maximum-subarray.md) |
 | 55 | Medium | [Jump Game](../difficulty-based-problem-index/leetcode-medium/leetcode-55-jump-game.md) |
+| 56 | Medium | [Merge Intervals](../difficulty-based-problem-index/leetcode-medium/leetcode-56-merge-intervals.md) |
 | 65 | Hard | [Valid Number](../difficulty-based-problem-index/leetcode-hard/leetcode-65-valid-number.md) |
 | 66 | Easy | [Plus One](../difficulty-based-problem-index/leetcode-easy/leetcode-66-plus-one.md) |
 | 73 | Medium | [Set Matrix Zeroes](../difficulty-based-problem-index/leetcode-medium/leetcode-73-set-matrix-zeroes.md) |
 | 88 | Easy | [Merged Sorted Array](../difficulty-based-problem-index/leetcode-easy/leetcode-88-merge-sorted-array.md) |
 | 108 | Easy | [Convert Sorted Array into Binary Search Tree](../difficulty-based-problem-index/leetcode-easy/leetcode-108-convert-sorted-array-to-binary-search-tree.md) |
+| 118 | Easy | [Pascal's Triangle](../difficulty-based-problem-index/leetcode-easy/leetcode-118-pascals-triangle.md) |
+| 119 | Easy | [Pascal's Triangle II](../difficulty-based-problem-index/leetcode-easy/leetcode-119-pascals-triangle-ii.md) |
 | 121 | Easy | [Best Time to Buy and Sell Stock](../difficulty-based-problem-index/leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md) |
 | 122 | Easy | [Best Time to Buy and Sell Stock II](../difficulty-based-problem-index/leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md) |
 | 128 | Medium | [Longest Consecutive Sequence](../difficulty-based-problem-index/leetcode-medium/leetcode-128-longest-consecutive-sequence.md) |
@@ -48,6 +55,7 @@ This page contains list of problems that involves arrays
 | 695 | Medium | [Max Area of Island](../difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md) |
 | 718 | Medium | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 795 | Medium | [Number of Subarrays with Bounded Maximum](../difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
+| 915 | Medium | [Partition Array into Disjoint Intervals](../difficulty-based-problem-index/leetcode-medium/leetcode-915-partition-array-into-disjoint-intervals.md) |
 | 927 | Hard | [Three Equal Parts](../difficulty-based-problem-index/leetcode-hard/leetcode-927-three-equal-parts.md) |
 | 970 | Medium | [Powerful Integers](../difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md) |
 | 1046 | Easy | [Last Stone Weight](../difficulty-based-problem-index/leetcode-easy/leetcode-1046-last-stone-weight.md) |
