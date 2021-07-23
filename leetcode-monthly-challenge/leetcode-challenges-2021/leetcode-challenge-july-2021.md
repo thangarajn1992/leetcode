@@ -24,7 +24,7 @@
 | Day 20 | [Shuffle an Array](../../difficulty-based-problem-index/leetcode-medium/leetcode-384-shuffle-an-array.md) |
 | Day 21 | [Push Dominoes](../../difficulty-based-problem-index/leetcode-medium/leetcode-838-push-dominoes.md) |
 | Day 22 | [Partition Array into Disjoint Intervals](../../difficulty-based-problem-index/leetcode-medium/leetcode-915-partition-array-into-disjoint-intervals.md) |
-| Day 23 |  |
+| Day 23 | [Binary Tree Pruning](../../difficulty-based-problem-index/leetcode-medium/leetcode-814-binary-tree-pruning.md) |
 | Day 24 |  |
 | Day 25 |  |
 | Day 26 |  |

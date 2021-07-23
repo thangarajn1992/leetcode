@@ -166,6 +166,7 @@
     * [Leetcode 795 Number of Subarrays with Bounded Maximum](difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md)
     * [Leetcode 797 All Paths From Source to Target](difficulty-based-problem-index/leetcode-medium/leetcode-797-all-paths-from-source-to-target.md)
     * [Leetcode 802 Find Eventual Safe States](difficulty-based-problem-index/leetcode-medium/leetcode-802-find-eventual-safe-states.md)
+    * [Leetcode 814 Binary Tree Pruning](difficulty-based-problem-index/leetcode-medium/leetcode-814-binary-tree-pruning.md)
     * [Leetcode 838 Push Dominoes](difficulty-based-problem-index/leetcode-medium/leetcode-838-push-dominoes.md)
     * [Leetcode 841 Keys and Rooms](difficulty-based-problem-index/leetcode-medium/leetcode-841-keys-and-rooms.md)
     * [Leetcode 851 Loud and Rich](difficulty-based-problem-index/leetcode-medium/leetcode-851-loud-and-rich.md)
