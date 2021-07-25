@@ -302,6 +302,7 @@
     * [Leetcode 1925 Count Square Sum Triples](difficulty-based-problem-index/leetcode-easy/leetcode-1925-count-square-sum-triples.md)
     * [Leetcode 1929 Concatenation of Array](difficulty-based-problem-index/leetcode-easy/leetcode-1929-concatenation-of-array.md)
     * [Leetcode 1941 Check if All Characters Have Equal Number of Occurrences](difficulty-based-problem-index/leetcode-easy/leetcode-1941-check-if-all-characters-have-equal-number-of-occurrences.md)
+    * [Leetcode 1945 Sum of Digits of String After Convert](difficulty-based-problem-index/leetcode-easy/leetcode-1945-sum-of-digits-of-string-after-convert.md)
 * [Top Interview Questions \(Leetcode\)](top-interview-questions-leetcode/README.md)
   * [Top Interview Questions - Easy \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-easy-leetcode.md)
   * [Top Interview Questions - Medium \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-medium-leetcode.md)

@@ -45,4 +45,5 @@
 | 1910 | Medium | [Remove All Occurrences of a Substring](../difficulty-based-problem-index/leetcode-medium/leetcode-1910-remove-all-occurrences-of-a-substring.md) |
 | 1930 | Medium | [Unique Length-3 Palindromic Subsequences](../difficulty-based-problem-index/leetcode-medium/leetcode-1930-unique-length-3-palindromic-subsequences.md) |
 | 1941 | Easy | [Check if All Characters Have Equal Number of Occurrences](../difficulty-based-problem-index/leetcode-easy/leetcode-1941-check-if-all-characters-have-equal-number-of-occurrences.md) |
+| 1945 | Easy | [Sum of Digits of String After Convert](../difficulty-based-problem-index/leetcode-easy/leetcode-1945-sum-of-digits-of-string-after-convert.md) |
 

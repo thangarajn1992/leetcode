@@ -90,4 +90,5 @@ Easy Level Problem Sets for Leetcode
 | 1925 | [Count Square Sum Triples](leetcode-1925-count-square-sum-triples.md) |
 | 1929 | [Concatenation of Array](leetcode-1929-concatenation-of-array.md) |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](leetcode-1941-check-if-all-characters-have-equal-number-of-occurrences.md) |
+| 1945 | [Sum of Digits of String After Convert](leetcode-1945-sum-of-digits-of-string-after-convert.md) |
 
