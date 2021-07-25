@@ -24,7 +24,9 @@
 | 609 | Medium | [Find Duplicate File in System](../difficulty-based-problem-index/leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
 | 696 | Easy | [Count Binary sub-strings](../difficulty-based-problem-index/leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
 | 709 | Easy | [To Lower case](../difficulty-based-problem-index/leetcode-easy/leetcode-709-to-lower-case.md) |
+| 791 | Medium | [Custom Sort String](../difficulty-based-problem-index/leetcode-medium/leetcode-791-custom-sort-string.md) |
 | 792 | Medium | [Number of Matching Subsequences](../difficulty-based-problem-index/leetcode-medium/leetcode-792-number-of-matching-subsequences.md) |
+| 838 | Medium | [Push Dominoes](../difficulty-based-problem-index/leetcode-medium/leetcode-838-push-dominoes.md) |
 | 890 | Medium | [Find and Replace Pattern](../difficulty-based-problem-index/leetcode-medium/leetcode-890-find-and-replace-pattern.md) |
 | 1047 | Easy | [Remove All Adjacent Duplicates In String](../difficulty-based-problem-index/leetcode-easy/leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
 | 1048 | Medium | [Longest String Chain](../difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md) |
@@ -41,4 +43,6 @@
 | 1898 | Medium | [Maximum Number of Removable Characters](../difficulty-based-problem-index/leetcode-medium/leetcode-1898-maximum-number-of-removable-characters.md) |
 | 1903 | Easy | [Largest Odd Number in String](../difficulty-based-problem-index/leetcode-easy/leetcode-1903-largest-odd-number-in-string.md) |
 | 1910 | Medium | [Remove All Occurrences of a Substring](../difficulty-based-problem-index/leetcode-medium/leetcode-1910-remove-all-occurrences-of-a-substring.md) |
+| 1930 | Medium | [Unique Length-3 Palindromic Subsequences](../difficulty-based-problem-index/leetcode-medium/leetcode-1930-unique-length-3-palindromic-subsequences.md) |
+| 1941 | Easy | [Check if All Characters Have Equal Number of Occurrences](../difficulty-based-problem-index/leetcode-easy/leetcode-1941-check-if-all-characters-have-equal-number-of-occurrences.md) |
 
