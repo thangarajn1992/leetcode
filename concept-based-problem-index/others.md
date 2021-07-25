@@ -15,7 +15,6 @@
 | 1889 | Hard | [Minimum Space Wasted From Packaging](../difficulty-based-problem-index/leetcode-hard/leetcode-1889-minimum-space-wasted-from-packaging.md) |
 | 1894 | Medium | [Find the Student that Will Replace the Chalk](../difficulty-based-problem-index/leetcode-medium/leetcode-1894-find-the-student-that-will-replace-the-chalk.md) |
 | 1904 | Medium | [The Number of Full Rounds You Have Played](../difficulty-based-problem-index/leetcode-medium/leetcode-1904-the-number-of-full-rounds-you-have-played.md) |
-| 1942 | Medium | [The Number of the Smallest Unoccupied Chair](../difficulty-based-problem-index/leetcode-medium/leetcode-1942-the-number-of-the-smallest-unoccupied-chair.md) |
 
 
 
