@@ -215,6 +215,7 @@
     * [Leetcode 1914 Cyclically Rotating a Grid](difficulty-based-problem-index/leetcode-medium/leetcode-1914-cyclically-rotating-a-grid.md)
     * [Leetcode 1926 Nearest Exit from Entrance in Maze](difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze.md)
     * [Leetcode 1930 Unique Length-3 Palindromic Subsequences](difficulty-based-problem-index/leetcode-medium/leetcode-1930-unique-length-3-palindromic-subsequences.md)
+    * [Leetcode 1942 The Number of the Smallest Unoccupied Chair](difficulty-based-problem-index/leetcode-medium/leetcode-1942-the-number-of-the-smallest-unoccupied-chair.md)
   * [LeetCode Easy](difficulty-based-problem-index/leetcode-easy/README.md)
     * [Leetcode 1 Two Sum](difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md)
     * [Leetcode 7 Reverse Integer](difficulty-based-problem-index/leetcode-easy/leetcode-7-reverse-integer.md)

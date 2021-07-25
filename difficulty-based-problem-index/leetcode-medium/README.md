@@ -103,6 +103,7 @@ Medium Level Problem Sets for Leetcode
 | 795 | [Number of Subarrays with Bounded Maximum](leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 797 | [All Paths From Source to Target](leetcode-797-all-paths-from-source-to-target.md) |
 | 802 | [Find Eventual Safe States](leetcode-802-find-eventual-safe-states.md) |
+| 814 | [Binary Tree Pruning](leetcode-814-binary-tree-pruning.md) |
 | 838 | [Push Dominoes](leetcode-838-push-dominoes.md) |
 | 841 | [Keys and Rooms](leetcode-841-keys-and-rooms.md) |
 | 851 | [Loud and Rich](leetcode-851-loud-and-rich.md) |
@@ -151,4 +152,5 @@ Medium Level Problem Sets for Leetcode
 | 1914 | [Cyclically Rotating a Grid](leetcode-1914-cyclically-rotating-a-grid.md) |
 | 1926 | [Nearest Exit from Entrance in Maze](leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
 | 1930 | [Unique Length-3 Palindromic Subsequences](leetcode-1930-unique-length-3-palindromic-subsequences.md) |
+| 1942 | [The Number of the Smallest Unoccupied Chair](leetcode-1942-the-number-of-the-smallest-unoccupied-chair.md) |
 
