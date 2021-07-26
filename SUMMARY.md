@@ -218,6 +218,7 @@
     * [Leetcode 1942 The Number of the Smallest Unoccupied Chair](difficulty-based-problem-index/leetcode-medium/leetcode-1942-the-number-of-the-smallest-unoccupied-chair.md)
     * [Leetcode 1943 Describe the Painting](difficulty-based-problem-index/leetcode-medium/leetcode-1943-describe-the-painting.md)
     * [Leetcode 1946 Largest Number After Mutating Substring](difficulty-based-problem-index/leetcode-medium/leetcode-1946-largest-number-after-mutating-substring.md)
+    * [Leetcode 1947 Maximum Compatibility Score Sum](difficulty-based-problem-index/leetcode-medium/leetcode-1947-maximum-compatibility-score-sum.md)
   * [LeetCode Easy](difficulty-based-problem-index/leetcode-easy/README.md)
     * [Leetcode 1 Two Sum](difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md)
     * [Leetcode 7 Reverse Integer](difficulty-based-problem-index/leetcode-easy/leetcode-7-reverse-integer.md)

@@ -155,4 +155,5 @@ Medium Level Problem Sets for Leetcode
 | 1942 | [The Number of the Smallest Unoccupied Chair](leetcode-1942-the-number-of-the-smallest-unoccupied-chair.md) |
 | 1943 | [Describe the Painting](leetcode-1943-describe-the-painting.md) |
 | 1946 | [Largest Number After Mutating Substring](leetcode-1946-largest-number-after-mutating-substring.md) |
+| 1947 | [Maximum Compatibility Score Sum](leetcode-1947-maximum-compatibility-score-sum.md) |
 
