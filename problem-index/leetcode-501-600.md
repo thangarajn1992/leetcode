@@ -16,4 +16,5 @@ description: Leetcode Problems from 501 to 600
 | 576 | Medium | [Out of Boundary Paths](../difficulty-based-problem-index/leetcode-medium/leetcode-576-out-of-boundary-paths.md) |
 | 583 | Medium | [Delete Operation for two strings](../difficulty-based-problem-index/leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
 | 589 | Easy | [N Ary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md) |
+| 600 | Hard | [Non-negative Integers without Consecutive Ones](../difficulty-based-problem-index/leetcode-hard/leetcode-600-non-negative-integers-without-consecutive-ones.md) |
 

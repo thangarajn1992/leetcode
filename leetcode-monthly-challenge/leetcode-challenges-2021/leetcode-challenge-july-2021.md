@@ -26,7 +26,7 @@
 | Day 22 | [Partition Array into Disjoint Intervals](../../difficulty-based-problem-index/leetcode-medium/leetcode-915-partition-array-into-disjoint-intervals.md) |
 | Day 23 | [Binary Tree Pruning](../../difficulty-based-problem-index/leetcode-medium/leetcode-814-binary-tree-pruning.md) |
 | Day 24 | [Word Ladder II](../../difficulty-based-problem-index/leetcode-hard/leetcode-126-word-ladder-ii.md) |
-| Day 25 |  |
+| Day 25 | [Non-negative Integers without Consecutive Ones](../../difficulty-based-problem-index/leetcode-hard/leetcode-600-non-negative-integers-without-consecutive-ones.md) |
 | Day 26 |  |
 | Day 27 |  |
 | Day 28 |  |

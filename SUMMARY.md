@@ -51,6 +51,7 @@
     * [Leetcode 329 Longest Increasing Path in a Matrix](difficulty-based-problem-index/leetcode-hard/leetcode-329-longest-increasing-path-in-a-matrix.md)
     * [Leetcode 336 Palindrome Pairs](difficulty-based-problem-index/leetcode-hard/leetcode-336-palindrome-pairs.md)
     * [Leetcode 363 Max Sum of Rectangle No Larger Than K](difficulty-based-problem-index/leetcode-hard/leetcode-363-max-sum-of-rectangle-no-larger-than-k.md)
+    * [Leetcode 600 Non-negative Integers without Consecutive Ones](difficulty-based-problem-index/leetcode-hard/leetcode-600-non-negative-integers-without-consecutive-ones.md)
     * [Leetcode 639 Decode Ways II](difficulty-based-problem-index/leetcode-hard/leetcode-639-decode-ways-ii.md)
     * [Leetcode 745 Prefix and Suffix Search](difficulty-based-problem-index/leetcode-hard/leetcode-745-prefix-and-suffix-search.md)
     * [Leetcode 906 Super Palindromes](difficulty-based-problem-index/leetcode-hard/leetcode-906-super-palindromes.md)

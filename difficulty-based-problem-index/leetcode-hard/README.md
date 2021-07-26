@@ -14,6 +14,7 @@ Hard Level Problem Sets for Leetcode
 | 329 | [Longest Increasing Path in a Matrix](leetcode-329-longest-increasing-path-in-a-matrix.md) |
 | 336 | [Palindrome Pairs](leetcode-336-palindrome-pairs.md) |
 | 363 | [Max Sum of Rectangle No Larger Than K](leetcode-363-max-sum-of-rectangle-no-larger-than-k.md) |
+| 600 | [Non-negative Integers without Consecutive Ones](leetcode-600-non-negative-integers-without-consecutive-ones.md) |
 | 639 | [Decode Ways II](leetcode-639-decode-ways-ii.md) |
 | 745 | [Prefix and Suffix Search](leetcode-745-prefix-and-suffix-search.md) |
 | 906 | [Super Palindromes](leetcode-906-super-palindromes.md) |
