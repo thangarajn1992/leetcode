@@ -20,10 +20,12 @@ description: Leetcode Problems from 101 to 200
 | 114 | Medium | [Flatten Binary Tree to Linked List](../difficulty-based-problem-index/leetcode-medium/leetcode-114-flatten-binary-tree-to-linked-list.md) |
 | 116 | Medium | [Populating Next Right Pointers in Each Node](../difficulty-based-problem-index/leetcode-medium/leetcode-116-populating-next-right-pointers-in-each-node.md) |
 | 118 | Easy | [Pascal's Triangle](../difficulty-based-problem-index/leetcode-easy/leetcode-118-pascals-triangle.md) |
+| 119 | Easy | [Pascal's Triangle II](../difficulty-based-problem-index/leetcode-easy/leetcode-119-pascals-triangle-ii.md) |
 | 120 | Medium | [Triangle](../difficulty-based-problem-index/leetcode-medium/leetcode-120-triangle.md) |
 | 121 | Easy | [Best Time to Buy and Sell Stock](../difficulty-based-problem-index/leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md) |
 | 122 | Easy | [Best Time to Buy and Sell Stock II](../difficulty-based-problem-index/leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md) |
 | 125 | Easy | [Valid Palindrome](../difficulty-based-problem-index/leetcode-easy/leetcode-125-valid-palindrome.md) |
+| 126 | Hard | [Word Ladder II](../difficulty-based-problem-index/leetcode-hard/leetcode-126-word-ladder-ii.md) |
 | 128 | Medium | [Longest consecutive Sequence](../difficulty-based-problem-index/leetcode-medium/leetcode-128-longest-consecutive-sequence.md) |
 | 133 | Medium | [Clone Graph](../difficulty-based-problem-index/leetcode-medium/leetcode-133-clone-graph.md) |
 | 136 | Easy | [Single Number](../difficulty-based-problem-index/leetcode-easy/leetcode-136-single-number.md) |
@@ -33,6 +35,7 @@ description: Leetcode Problems from 101 to 200
 | 145 | Easy | [Binary Tree Postorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md) |
 | 150 | Medium | [Evaluate Reverse Polish Notation](../difficulty-based-problem-index/leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md) |
 | 160 | Easy | [Intersection of two linked lists](../difficulty-based-problem-index/leetcode-easy/leetcode-160-intersection-of-two-linked-lists.md) |
+| 162 | Medium | [Find Peak Element](../difficulty-based-problem-index/leetcode-medium/leetcode-162-find-peak-element.md) |
 | 169 | Easy | [Majority Element](../difficulty-based-problem-index/leetcode-easy/leetcode-169-majority-element.md) |
 | 171 | Easy | [Excel Sheet Column Number](../difficulty-based-problem-index/leetcode-easy/leetcode-171-excel-sheet-column-number.md) |
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
