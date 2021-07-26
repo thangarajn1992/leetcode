@@ -16,6 +16,7 @@
   * [Sorting and Searching](concept-based-problem-index/sorting-and-searching.md)
   * [Binary Search Problems](concept-based-problem-index/binary-search-problems.md)
   * [Two Pointer Problems](concept-based-problem-index/two-pointer-problems.md)
+  * [Monotonic Stack Problems](concept-based-problem-index/monotonic-stack-problems.md)
   * [Design](concept-based-problem-index/design.md)
   * [Others](concept-based-problem-index/others.md)
 * [Leetcode Number Based Problem Index](problem-index/README.md)
