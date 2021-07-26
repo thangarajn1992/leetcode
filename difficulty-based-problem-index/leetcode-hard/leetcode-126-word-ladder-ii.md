@@ -55,7 +55,8 @@ public:
     vector<string> currPath;
     vector<vector<string>> shortestPaths;
     
-    vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList)     {
+    vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList)     
+    {
         // copying the words into the set for efficient deletion in BFS
         unordered_set<string> copiedWordList(wordList.begin(), wordList.end());
         
@@ -63,7 +64,7 @@ public:
             return shortestPaths;
         
         // build the DAG using BFS
-        bfs(beginWord, copiedWordList);
+        bfs(beginWord, endWord, copiedWordList);
         
         // every path will start from the beginWord
         currPath = {beginWord};
@@ -73,7 +74,7 @@ public:
         return shortestPaths;
     }
 
-    void bfs(string beginWord, unordered_set<string> wordList) {
+    void bfs(string beginWord, string endWord, unordered_set<string> wordList) {
         queue<string> q;
         q.push(beginWord);
         
@@ -129,7 +130,8 @@ public:
             
             // replace the i-th character with all letters from a to z 
             // except the original character
-            for (char c = 'a'; c <= 'z'; c++) {
+            for (char c = 'a'; c <= 'z'; c++) 
+            {
                 if(c != oldChar)
                 {
                     word[i] = c;
