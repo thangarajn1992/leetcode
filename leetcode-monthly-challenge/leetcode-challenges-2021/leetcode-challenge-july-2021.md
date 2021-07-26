@@ -27,7 +27,7 @@
 | Day 23 | [Binary Tree Pruning](../../difficulty-based-problem-index/leetcode-medium/leetcode-814-binary-tree-pruning.md) |
 | Day 24 | [Word Ladder II](../../difficulty-based-problem-index/leetcode-hard/leetcode-126-word-ladder-ii.md) |
 | Day 25 | [Non-negative Integers without Consecutive Ones](../../difficulty-based-problem-index/leetcode-hard/leetcode-600-non-negative-integers-without-consecutive-ones.md) |
-| Day 26 |  |
+| Day 26 | [Convert Sorted Array to Binary Search Tree](../../difficulty-based-problem-index/leetcode-easy/leetcode-108-convert-sorted-array-to-binary-search-tree.md) |
 | Day 27 |  |
 | Day 28 |  |
 | Day 29 |  |
