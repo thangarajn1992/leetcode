@@ -82,8 +82,6 @@ This page contains list of problems that involves arrays
 | 1909 | Easy | [Remove One Element to Make the Array Strictly Increasing](../difficulty-based-problem-index/leetcode-easy/leetcode-1909-remove-one-element-to-make-the-array-strictly-increasing.md) |
 | 1913 | Easy | [Maximum Product Difference Between Two Pairs](../difficulty-based-problem-index/leetcode-easy/leetcode-1913-maximum-product-difference-between-two-pairs.md) |
 | 1929 | Easy | [Concatenation of Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1929-concatenation-of-array.md) |
-| 1943 | Medium | [Describe the Painting](../difficulty-based-problem-index/leetcode-medium/leetcode-1943-describe-the-painting.md) |
-| 1944 | Hard | [Number of Visible People in a Queue](../difficulty-based-problem-index/leetcode-hard/leetcode-1944-number-of-visible-people-in-a-queue.md) |
 
 
 

@@ -71,6 +71,7 @@
     * [Leetcode 1928 Minimum Cost to Reach Destination in Time](difficulty-based-problem-index/leetcode-hard/leetcode-1928-minimum-cost-to-reach-destination-in-time.md)
     * [Leetcode 1932 Merge BSTs to Create Single BST](difficulty-based-problem-index/leetcode-hard/leetcode-1932-merge-bsts-to-create-single-bst.md)
     * [Leetcode 1944 Number of Visible People in a Queue](difficulty-based-problem-index/leetcode-hard/leetcode-1944-number-of-visible-people-in-a-queue.md)
+    * [Leetcode 1948 Delete Duplicate Folders in System](difficulty-based-problem-index/leetcode-hard/leetcode-1948-delete-duplicate-folders-in-system.md)
   * [LeetCode Medium](difficulty-based-problem-index/leetcode-medium/README.md)
     * [Leetcode 2 Add Two Numbers](difficulty-based-problem-index/leetcode-medium/leetcode-2-add-two-numbers.md)
     * [Leetcode 3 Longest Substring Without Repeating Characters](difficulty-based-problem-index/leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md)
