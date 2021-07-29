@@ -10,10 +10,12 @@ Hard Level Problem Sets for Leetcode
 | 52 | [N - Queens II](leetcode-52-n-queens-ii.md) |
 | 65 | [Valid Number](leetcode-65-valid-number.md) |
 | 126 | [Word Ladder II](leetcode-126-word-ladder-ii.md) |
+| 127 | [Word Ladder](leetcode-127-word-ladder.md) |
 | 295 | [Find Median from Data Stream](leetcode-295-find-median-from-data-stream.md) |
 | 329 | [Longest Increasing Path in a Matrix](leetcode-329-longest-increasing-path-in-a-matrix.md) |
 | 336 | [Palindrome Pairs](leetcode-336-palindrome-pairs.md) |
 | 363 | [Max Sum of Rectangle No Larger Than K](leetcode-363-max-sum-of-rectangle-no-larger-than-k.md) |
+| 600 | [Non-negative Integers without Consecutive Ones](leetcode-600-non-negative-integers-without-consecutive-ones.md) |
 | 639 | [Decode Ways II](leetcode-639-decode-ways-ii.md) |
 | 745 | [Prefix and Suffix Search](leetcode-745-prefix-and-suffix-search.md) |
 | 906 | [Super Palindromes](leetcode-906-super-palindromes.md) |
@@ -30,4 +32,6 @@ Hard Level Problem Sets for Leetcode
 | 1889 | [Minimum Space Wasted From Packaging](leetcode-1889-minimum-space-wasted-from-packaging.md) |
 | 1928 | [Minimum Cost to Reach Destination in Time](leetcode-1928-minimum-cost-to-reach-destination-in-time.md) |
 | 1932 | [Merge BSTs to Create Single BST](leetcode-1932-merge-bsts-to-create-single-bst.md) |
+| 1944 | [Number of Visible People in a Queue](leetcode-1944-number-of-visible-people-in-a-queue.md) |
+| 1948 | [Delete Duplicate Folders in System](leetcode-1948-delete-duplicate-folders-in-system.md) |
 
