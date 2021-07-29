@@ -8,6 +8,7 @@ This page contains list of problems that involves arrays
 | 4 | Hard | [Median of Two Sorted Arrays](../difficulty-based-problem-index/leetcode-hard/leetcode-4-median-of-two-sorted-arrays.md) |
 | 11 | Medium | [Container With Most Water](../difficulty-based-problem-index/leetcode-medium/leetcode-11-container-with-most-water.md) |
 | 15 | Medium | [3Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-15-3sum.md) |
+| 16 | Medium | [3Sum Closest](../difficulty-based-problem-index/leetcode-medium/leetcode-16-3sum-closest.md) |
 | 18 | Medium | [4Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-18-4sum.md) |
 | 26 | Easy | [Remove Duplicates from Sorted Array](../difficulty-based-problem-index/leetcode-easy/leetcode-26-remove-duplicates-from-sorted-array.md) |
 | 27 | Easy | [Remove Element](../difficulty-based-problem-index/leetcode-easy/leetcode-27-remove-element.md) |
@@ -82,6 +83,8 @@ This page contains list of problems that involves arrays
 | 1909 | Easy | [Remove One Element to Make the Array Strictly Increasing](../difficulty-based-problem-index/leetcode-easy/leetcode-1909-remove-one-element-to-make-the-array-strictly-increasing.md) |
 | 1913 | Easy | [Maximum Product Difference Between Two Pairs](../difficulty-based-problem-index/leetcode-easy/leetcode-1913-maximum-product-difference-between-two-pairs.md) |
 | 1929 | Easy | [Concatenation of Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1929-concatenation-of-array.md) |
+| 1943 | Medium | [Describe the Painting](../difficulty-based-problem-index/leetcode-medium/leetcode-1943-describe-the-painting.md) |
+| 1944 | Hard | [Number of Visible People in a Queue](../difficulty-based-problem-index/leetcode-hard/leetcode-1944-number-of-visible-people-in-a-queue.md) |
 
 
 
