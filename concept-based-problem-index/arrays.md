@@ -58,6 +58,7 @@ This page contains list of problems that involves arrays
 | 795 | Medium | [Number of Subarrays with Bounded Maximum](../difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 915 | Medium | [Partition Array into Disjoint Intervals](../difficulty-based-problem-index/leetcode-medium/leetcode-915-partition-array-into-disjoint-intervals.md) |
 | 927 | Hard | [Three Equal Parts](../difficulty-based-problem-index/leetcode-hard/leetcode-927-three-equal-parts.md) |
+| 932 | Medium | [Beautiful Array](../difficulty-based-problem-index/leetcode-medium/leetcode-932-beautiful-array.md) |
 | 970 | Medium | [Powerful Integers](../difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md) |
 | 1046 | Easy | [Last Stone Weight](../difficulty-based-problem-index/leetcode-easy/leetcode-1046-last-stone-weight.md) |
 | 1306 | Medium | [Jump Game III](../difficulty-based-problem-index/leetcode-medium/leetcode-1306-jump-game-iii.md) |

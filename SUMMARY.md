@@ -181,6 +181,7 @@
     * [Leetcode 886 Possible Bipartition](difficulty-based-problem-index/leetcode-medium/leetcode-886-possible-bipartition.md)
     * [Leetcode 890 Find and Replace Pattern](difficulty-based-problem-index/leetcode-medium/leetcode-890-find-and-replace-pattern.md)
     * [Leetcode 915 Partition Array into Disjoint Intervals](difficulty-based-problem-index/leetcode-medium/leetcode-915-partition-array-into-disjoint-intervals.md)
+    * [Leetcode 932 Beautiful Array](difficulty-based-problem-index/leetcode-medium/leetcode-932-beautiful-array.md)
     * [Leetcode 948 Bag of Tokens](difficulty-based-problem-index/leetcode-medium/leetcode-948-bag-of-tokens.md)
     * [Leetcode 970 Powerful Integers](difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md)
     * [Leetcode 1048 Longest String Chain](difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md)
