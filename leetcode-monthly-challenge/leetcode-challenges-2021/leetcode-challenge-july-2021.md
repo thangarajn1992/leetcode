@@ -30,7 +30,7 @@
 | Day 26 | [Convert Sorted Array to Binary Search Tree](../../difficulty-based-problem-index/leetcode-easy/leetcode-108-convert-sorted-array-to-binary-search-tree.md) |
 | Day 27 | [3Sum Closest](../../difficulty-based-problem-index/leetcode-medium/leetcode-16-3sum-closest.md) |
 | Day 28 | [Beautiful Array](../../difficulty-based-problem-index/leetcode-medium/leetcode-932-beautiful-array.md) |
-| Day 29 |  |
+| Day 29 | [01 Matrix](../../difficulty-based-problem-index/leetcode-medium/leetcode-542-01-matrix.md) |
 | Day 30 |  |
 | Day 31 |  |
 
