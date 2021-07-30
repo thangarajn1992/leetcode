@@ -23,7 +23,6 @@ This page contains problems that involves any type of trees
 | 236 | Medium | [Lowest Common Ancestor of a Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-236-lowest-common-ancestor-of-a-binary-tree.md) |
 | 307 | Medium | [Ranged Sum Query 1D - Mutable](../difficulty-based-problem-index/leetcode-medium/leetcode-307-range-sum-query-mutable.md) |
 | 589 | Easy | [N ary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md) |
-| 677 | Medium | [Map Sum Pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-677-map-sum-pairs.md) |
 | 745 | Hard | [Prefix and Suffix Search](../difficulty-based-problem-index/leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
 | 814 | Medium | [Binary Tree Pruning](../difficulty-based-problem-index/leetcode-medium/leetcode-814-binary-tree-pruning.md) |
 | 968 | Hard | [Binary Tree Cameras](../difficulty-based-problem-index/leetcode-hard/leetcode-968-binary-tree-cameras.md) |

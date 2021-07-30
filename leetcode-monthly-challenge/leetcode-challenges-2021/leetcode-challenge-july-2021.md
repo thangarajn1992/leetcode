@@ -31,6 +31,6 @@
 | Day 27 | [3Sum Closest](../../difficulty-based-problem-index/leetcode-medium/leetcode-16-3sum-closest.md) |
 | Day 28 | [Beautiful Array](../../difficulty-based-problem-index/leetcode-medium/leetcode-932-beautiful-array.md) |
 | Day 29 | [01 Matrix](../../difficulty-based-problem-index/leetcode-medium/leetcode-542-01-matrix.md) |
-| Day 30 |  |
+| Day 30 | [Map Sum Pairs](../../difficulty-based-problem-index/leetcode-medium/leetcode-677-map-sum-pairs.md) |
 | Day 31 |  |
 
