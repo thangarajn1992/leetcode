@@ -55,3 +55,33 @@ public:
 };
 ```
 
+```cpp
+class Solution {
+public:
+    void setZeroes(vector<vector<int>>& matrix) {    
+    set<int> reset_rows;
+    set<int> reset_cols;
+
+    for(int row = 0; row < matrix.size(); row++)
+    {
+        for(int col = 0; col < matrix[0].size(); col++)
+        {
+            if(matrix[row][col] == 0)
+            {
+                reset_rows.insert(row);
+                reset_cols.insert(col);
+            }
+        }
+    }
+
+    for(int row = 0; row < matrix.size(); row++)
+    {
+        for(int col = 0; col < matrix[0].size(); col++)
+        {  
+            if(reset_rows.count(row) || reset_cols.count(col))
+                matrix[row][col] = 0;
+        }
+    } 
+};
+```
+
