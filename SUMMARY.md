@@ -44,6 +44,7 @@
   * [LeetCode Hard](difficulty-based-problem-index/leetcode-hard/README.md)
     * [Leetcode 4 Median of Two Sorted Arrays](difficulty-based-problem-index/leetcode-hard/leetcode-4-median-of-two-sorted-arrays.md)
     * [Leetcode 25 Reverse Nodes in k-Group](difficulty-based-problem-index/leetcode-hard/leetcode-25-reverse-nodes-in-k-group.md)
+    * [Leetcode 42 Trapping Rain Water](difficulty-based-problem-index/leetcode-hard/leetcode-42-trapping-rain-water.md)
     * [Leetcode 51 N-Queens](difficulty-based-problem-index/leetcode-hard/leetcode-51-n-queens.md)
     * [Leetcode 52  N-Queens II](difficulty-based-problem-index/leetcode-hard/leetcode-52-n-queens-ii.md)
     * [Leetcode 65 Valid Number](difficulty-based-problem-index/leetcode-hard/leetcode-65-valid-number.md)
