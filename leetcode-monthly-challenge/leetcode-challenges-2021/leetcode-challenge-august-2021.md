@@ -7,7 +7,7 @@
 | Day No | Problem & Solution Link |
 | :--- | :--- |
 | Day 1 |  |
-| Day 2 |  |
+| Day 2 | [Two Sum](../../difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md) |
 | Day 3 |  |
 | Day 4 |  |
 | Day 5 |  |
