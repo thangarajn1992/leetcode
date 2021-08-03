@@ -40,6 +40,7 @@ Medium Level Problem Sets for Leetcode
 | 82 | [Remove Duplicates from Sorted List II](leetcode-82-remove-duplicates-from-sorted-list-ii.md) |
 | 86 | [Partition List](leetcode-86-partition-list.md) |
 | 89 | [Gray Code](leetcode-89-gray-code.md) |
+| 90 | [Subsets II](leetcode-90-subsets-ii.md) |
 | 92 | [Reverse Linked List II](leetcode-92-reverse-linked-list-ii.md) |
 | 97 | [Interleaving Strings](leetcode-97-interleaving-string.md) |
 | 98 | [Validate Binary Search Tree](leetcode-98-validate-binary-search-tree.md) |
@@ -92,6 +93,7 @@ Medium Level Problem Sets for Leetcode
 | 611 | [Valid Triangle Number](leetcode-611-valid-triangle-number.md) |
 | 658 | [Find K Closest Elements](leetcode-658-find-k-closest-elements.md) |
 | 665 | [Non-decreasing Array](leetcode-665-non-decreasing-array.md) |
+| 677 | [Map Sum Pairs](leetcode-677-map-sum-pairs.md) |
 | 684 | [Redundant Connection](leetcode-684-redundant-connection.md) |
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |
 | 718 | [Maximum Length of Repeated Subarray](leetcode-718-maximum-length-of-repeated-subarray.md) |
