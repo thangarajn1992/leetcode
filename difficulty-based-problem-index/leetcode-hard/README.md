@@ -6,6 +6,7 @@ Hard Level Problem Sets for Leetcode
 | :--- | :--- |
 | 4 | [Median of Two Sorted Arrays](leetcode-4-median-of-two-sorted-arrays.md) |
 | 25 | [Reverse Nodes in k-Group](leetcode-25-reverse-nodes-in-k-group.md) |
+| 42 | [Trapping Rain Water](leetcode-42-trapping-rain-water.md) |
 | 51 | [N - Queens](leetcode-51-n-queens.md) |
 | 52 | [N - Queens II](leetcode-52-n-queens-ii.md) |
 | 65 | [Valid Number](leetcode-65-valid-number.md) |
@@ -18,6 +19,7 @@ Hard Level Problem Sets for Leetcode
 | 600 | [Non-negative Integers without Consecutive Ones](leetcode-600-non-negative-integers-without-consecutive-ones.md) |
 | 639 | [Decode Ways II](leetcode-639-decode-ways-ii.md) |
 | 745 | [Prefix and Suffix Search](leetcode-745-prefix-and-suffix-search.md) |
+| 827 | [Making A Large Island](leetcode-827-making-a-large-island.md) |
 | 906 | [Super Palindromes](leetcode-906-super-palindromes.md) |
 | 927 | [Three Equal Parts](leetcode-927-three-equal-parts.md) |
 | 968 | [Binary Tree Cameras](leetcode-968-binary-tree-cameras.md) |

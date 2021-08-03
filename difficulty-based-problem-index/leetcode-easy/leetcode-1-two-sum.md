@@ -45,13 +45,13 @@ Output: [0,1]
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        map<int, int> needed_value;
+        map<int,int> m;
         for(int i = 0; i < nums.size(); i++)
         {
-            if(needed_value.count(nums[i]))
-                return {needed_value[nums[i]], i};
-        
-            needed_value[target - nums[i]] = i;
+            if(m.size())
+                if(m.count(nums[i]))
+                    return {m[nums[i]], i};     
+            m[target-nums[i]] = i;
         }
         return {};
     }
