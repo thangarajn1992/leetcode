@@ -9,7 +9,7 @@
 | Day 1 | [Making A Large Island](../../difficulty-based-problem-index/leetcode-hard/leetcode-827-making-a-large-island.md) |
 | Day 2 | [Two Sum](../../difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md) |
 | Day 3 | [Subsets II](../../difficulty-based-problem-index/leetcode-medium/leetcode-90-subsets-ii.md) |
-| Day 4 |  |
+| Day 4 | [Path Sum II](../../difficulty-based-problem-index/leetcode-medium/leetcode-113-path-sum-ii.md) |
 | Day 5 |  |
 | Day 6 |  |
 | Day 7 |  |
