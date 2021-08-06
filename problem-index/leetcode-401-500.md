@@ -9,6 +9,7 @@ description: Leetcode Problems from 401 to 500
 | Leetcode No | Difficulty | Problem Link |
 | :--- | :--- | :--- |
 | 412 | Easy | [Fizz Buzz](../difficulty-based-problem-index/leetcode-easy/leetcode-412-fizz-buzz.md) |
+| 429 | Medium | [N-ary Tree Level Order Traversal](../difficulty-based-problem-index/leetcode-medium/leetcode-429-n-ary-tree-level-order-traversal.md) |
 | 453 | Easy | [Minimum Moves to Equal Array Elements](../difficulty-based-problem-index/leetcode-easy/leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 461 | Easy | [Hamming Distance](../difficulty-based-problem-index/leetcode-easy/leetcode-461-hamming-distance.md) |
 | 462 | Medium | [Minimum Moves to Equal Array Elements II](../difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |

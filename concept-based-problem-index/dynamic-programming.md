@@ -21,6 +21,7 @@ This page contains list of problems that are solved using dynamic programming.
 | 639 | Hard | [Decode Ways II](../difficulty-based-problem-index/leetcode-hard/leetcode-639-decode-ways-ii.md) |
 | 718 | Medium | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 746 | Easy | [Min Cost Climbing Stairs](../difficulty-based-problem-index/leetcode-easy/leetcode-746-min-cost-climbing-stairs.md) |
+| 877 | Medium | [Stone Game](../difficulty-based-problem-index/leetcode-medium/leetcode-877-stone-game.md) |
 | 1048 | Medium | [Longest String Chain](../difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md) |
 | 1220 | Hard | [Count Vowels Permutation](../difficulty-based-problem-index/leetcode-hard/leetcode-1220-count-vowels-permutation.md) |
 | 1239  | Medium | [Maximum Length of a Concatenated String with Unique Characters](../difficulty-based-problem-index/leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |

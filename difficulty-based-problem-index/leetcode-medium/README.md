@@ -82,6 +82,7 @@ Medium Level Problem Sets for Leetcode
 | 378 | [Kth Smallest Element in a Sorted Matrix](leetcode-378-kth-smallest-element-in-a-sorted-matrix.md) |
 | 384 | [Shuffle an Array](leetcode-384-shuffle-an-array.md) |
 | 399 | [Evaluate Division](leetcode-399-evaluate-division.md) |
+| 429 | [N-ary Tree Level Order Traversal](leetcode-429-n-ary-tree-level-order-traversal.md) |
 | 462 | [Minimum Moves to Equal Array Elements II](leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
 | 473 | [Matchsticks to Square](leetcode-473-matchsticks-to-square.md) |
 | 474 | [Ones and Zeroes](leetcode-474-ones-and-zeroes.md) |
@@ -112,6 +113,7 @@ Medium Level Problem Sets for Leetcode
 | 838 | [Push Dominoes](leetcode-838-push-dominoes.md) |
 | 841 | [Keys and Rooms](leetcode-841-keys-and-rooms.md) |
 | 851 | [Loud and Rich](leetcode-851-loud-and-rich.md) |
+| 877 | [Stone Game](leetcode-877-stone-game.md) |
 | 885 | [Spiral Matrix III](leetcode-885-spiral-matrix-iii.md) |
 | 886 | [Possible Bipartition](leetcode-886-possible-bipartition.md) |
 | 890 | [Find and Replace Pattern](leetcode-890-find-and-replace-pattern.md) |
