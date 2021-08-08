@@ -235,6 +235,7 @@
     * [Leetcode 1943 Describe the Painting](difficulty-based-problem-index/leetcode-medium/leetcode-1943-describe-the-painting.md)
     * [Leetcode 1946 Largest Number After Mutating Substring](difficulty-based-problem-index/leetcode-medium/leetcode-1946-largest-number-after-mutating-substring.md)
     * [Leetcode 1947 Maximum Compatibility Score Sum](difficulty-based-problem-index/leetcode-medium/leetcode-1947-maximum-compatibility-score-sum.md)
+    * [Leetcode 1962 Remove Stones to Minimize the Total](difficulty-based-problem-index/leetcode-medium/leetcode-1962-remove-stones-to-minimize-the-total.md)
   * [LeetCode Easy](difficulty-based-problem-index/leetcode-easy/README.md)
     * [Leetcode 1 Two Sum](difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md)
     * [Leetcode 7 Reverse Integer](difficulty-based-problem-index/leetcode-easy/leetcode-7-reverse-integer.md)
