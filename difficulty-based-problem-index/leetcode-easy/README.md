@@ -10,7 +10,9 @@ Easy Level Problem Sets for Leetcode
 | 20 | [Valid Parentheses](leetcode-20-valid-parentheses.md) |
 | 21 | [Merge Two Sorted Lists](leetcode-21-merge-two-sorted-lists.md) |
 | 26 | [Remove Duplicates from Sorted Array](leetcode-26-remove-duplicates-from-sorted-array.md) |
+| 27 | [Remove Element](leetcode-27-remove-element.md) |
 | 28 | [Implement strStr\(\)](leetcode-28-implement-strstr.md) |
+| 35 | [Search Insert Position](leetcode-35-search-insert-position.md) |
 | 53 | [Maximum Subarray](leetcode-53-maximum-subarray.md) |
 | 66 | [Plus One](leetcode-66-plus-one.md) |
 | 70 | [Climbing Stairs](leetcode-70-climbing-stairs.md) |
@@ -21,6 +23,7 @@ Easy Level Problem Sets for Leetcode
 | 104 | [Maximum Depth of Binary Tree](leetcode-104-maximum-depth-of-binary-tree.md) |
 | 108 | [Convert Sorted Array to Binary Search Tree](leetcode-108-convert-sorted-array-to-binary-search-tree.md) |
 | 118 | [Pascal's Triangle](leetcode-118-pascals-triangle.md) |
+| 119 | [Pascal's Triangle II](leetcode-119-pascals-triangle-ii.md) |
 | 121 | [Best Time to Buy and Sell Stock](leetcode-121-best-time-to-buy-and-sell-stock.md) |
 | 122 | [Best Time to Buy and Sell Stock II](leetcode-122-best-time-to-buy-and-sell-stock-ii.md) |
 | 125 | [Valid Palindrome](leetcode-125-valid-palindrome.md) |
@@ -41,6 +44,7 @@ Easy Level Problem Sets for Leetcode
 | 206 | [Reverse Linked List](leetcode-206-reverse-linked-list.md) |
 | 217 | [Contains Duplicate](leetcode-217-contains-duplicate.md) |
 | 234 | [Palindrome Linked List](leetcode-234-palindrome-linked-list.md) |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md) |
 | 237 | [Deleted Node in a Linked List](leetcode-237-delete-node-in-a-linked-list.md) |
 | 242 | [Valid Anagram](leetcode-242-valid-anagram.md) |
 | 263 | [Ugly Number](leetcode-263-ugly-number.md) |
@@ -85,4 +89,8 @@ Easy Level Problem Sets for Leetcode
 | 1913 | [Maximum Product Difference Between Two Pairs](leetcode-1913-maximum-product-difference-between-two-pairs.md) |
 | 1925 | [Count Square Sum Triples](leetcode-1925-count-square-sum-triples.md) |
 | 1929 | [Concatenation of Array](leetcode-1929-concatenation-of-array.md) |
+| 1941 | [Check if All Characters Have Equal Number of Occurrences](leetcode-1941-check-if-all-characters-have-equal-number-of-occurrences.md) |
+| 1945 | [Sum of Digits of String After Convert](leetcode-1945-sum-of-digits-of-string-after-convert.md) |
+| 1957 | [Delete Characters to Make Fancy String](leetcode-1957-delete-characters-to-make-fancy-string.md) |
+| 1961 | [Check If String Is a Prefix of Array](leetcode-1961-check-if-string-is-a-prefix-of-array.md) |
 

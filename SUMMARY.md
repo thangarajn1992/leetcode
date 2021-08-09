@@ -324,6 +324,7 @@
     * [Leetcode 1929 Concatenation of Array](difficulty-based-problem-index/leetcode-easy/leetcode-1929-concatenation-of-array.md)
     * [Leetcode 1941 Check if All Characters Have Equal Number of Occurrences](difficulty-based-problem-index/leetcode-easy/leetcode-1941-check-if-all-characters-have-equal-number-of-occurrences.md)
     * [Leetcode 1945 Sum of Digits of String After Convert](difficulty-based-problem-index/leetcode-easy/leetcode-1945-sum-of-digits-of-string-after-convert.md)
+    * [Leetcode 1957 Delete Characters to Make Fancy String](difficulty-based-problem-index/leetcode-easy/leetcode-1957-delete-characters-to-make-fancy-string.md)
     * [Leetcode 1961 Check If String Is a Prefix of Array](difficulty-based-problem-index/leetcode-easy/leetcode-1961-check-if-string-is-a-prefix-of-array.md)
 * [Top Interview Questions \(Leetcode\)](top-interview-questions-leetcode/README.md)
   * [Top Interview Questions - Easy \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-easy-leetcode.md)
