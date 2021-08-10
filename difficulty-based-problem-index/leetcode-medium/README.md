@@ -118,6 +118,7 @@ Medium Level Problem Sets for Leetcode
 | 886 | [Possible Bipartition](leetcode-886-possible-bipartition.md) |
 | 890 | [Find and Replace Pattern](leetcode-890-find-and-replace-pattern.md) |
 | 915 | [Partition Array into Disjoint Intervals](leetcode-915-partition-array-into-disjoint-intervals.md) |
+| 926 | [Flip String to Monotone Increasing](leetcode-926-flip-string-to-monotone-increasing.md) |
 | 932 | [Beautiful Array](leetcode-932-beautiful-array.md) |
 | 948 | [Bag of Tokens](leetcode-948-bag-of-tokens.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
