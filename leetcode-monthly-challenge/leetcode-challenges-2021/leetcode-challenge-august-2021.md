@@ -10,11 +10,11 @@
 | Day 2 | [Two Sum](../../difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md) |
 | Day 3 | [Subsets II](../../difficulty-based-problem-index/leetcode-medium/leetcode-90-subsets-ii.md) |
 | Day 4 | [Path Sum II](../../difficulty-based-problem-index/leetcode-medium/leetcode-113-path-sum-ii.md) |
-| Day 5 |  |
-| Day 6 |  |
+| Day 5 | [Stone Game](../../difficulty-based-problem-index/leetcode-medium/leetcode-877-stone-game.md) |
+| Day 6 | [N-ary Tree Level Order Traversal](../../difficulty-based-problem-index/leetcode-medium/leetcode-429-n-ary-tree-level-order-traversal.md) |
 | Day 7 |  |
 | Day 8 |  |
-| Day 9 |  |
+| Day 9 | [Add Strings](../../difficulty-based-problem-index/leetcode-easy/leetcode-415-add-strings.md) |
 | Day 10 |  |
 | Day 11 |  |
 | Day 12 |  |
