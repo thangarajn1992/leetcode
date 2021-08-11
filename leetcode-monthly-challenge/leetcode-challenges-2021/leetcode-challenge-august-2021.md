@@ -16,7 +16,7 @@
 | Day 8 |  |
 | Day 9 | [Add Strings](../../difficulty-based-problem-index/leetcode-easy/leetcode-415-add-strings.md) |
 | Day 10 | [Flip String to Monotone Increasing](../../difficulty-based-problem-index/leetcode-medium/leetcode-926-flip-string-to-monotone-increasing.md) |
-| Day 11 |  |
+| Day 11 | [Array of Doubled Pairs](../../difficulty-based-problem-index/leetcode-medium/leetcode-954-array-of-doubled-pairs.md) |
 | Day 12 |  |
 | Day 13 |  |
 | Day 14 |  |
