@@ -16,6 +16,7 @@ This page contains list of problems that involves arrays
 | 34 | Medium | [Find First and Last Position of Element in Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
 | 35 | Easy | [Search Insert Position](../difficulty-based-problem-index/leetcode-easy/leetcode-35-search-insert-position.md) |
 | 36 | Medium | [Valid Sudoku](../difficulty-based-problem-index/leetcode-medium/leetcode-36-valid-sudoku.md) |
+| 39 | Medium | [Combination Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-39-combination-sum.md) |
 | 42 | Hard  | [Trapping Rain Water](../difficulty-based-problem-index/leetcode-hard/leetcode-42-trapping-rain-water.md) |
 | 45 | Medium | [Jump Game II](../difficulty-based-problem-index/leetcode-medium/leetcode-45-jump-game-ii.md) |
 | 48 | Medium | [Rotate Image](../difficulty-based-problem-index/leetcode-medium/leetcode-48-rotate-image.md) |
@@ -88,6 +89,7 @@ This page contains list of problems that involves arrays
 | 1929 | Easy | [Concatenation of Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1929-concatenation-of-array.md) |
 | 1943 | Medium | [Describe the Painting](../difficulty-based-problem-index/leetcode-medium/leetcode-1943-describe-the-painting.md) |
 | 1944 | Hard | [Number of Visible People in a Queue](../difficulty-based-problem-index/leetcode-hard/leetcode-1944-number-of-visible-people-in-a-queue.md) |
+| 1962 | Medium | [Remove Stones to Minimize the Total](../difficulty-based-problem-index/leetcode-medium/leetcode-1962-remove-stones-to-minimize-the-total.md) |
 
 
 

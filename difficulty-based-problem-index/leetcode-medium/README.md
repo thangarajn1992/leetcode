@@ -21,6 +21,7 @@ Medium Level Problem Sets for Leetcode
 | 34 | [Find First and Last Position of Element in Sorted Array](leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
 | 36 | [Valid Sudoku](leetcode-36-valid-sudoku.md) |
 | 38 | [Count and Say](leetcode-38-count-and-say.md) |
+| 39 | [Combination Sum](leetcode-39-combination-sum.md) |
 | 45 | [Jump Game II](leetcode-45-jump-game-ii.md) |
 | 46 | [Permutations](leetcode-46-permutations.md) |
 | 48 | [Rotate Image](leetcode-48-rotate-image.md) |
