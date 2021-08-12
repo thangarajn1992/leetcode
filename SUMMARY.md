@@ -204,6 +204,7 @@
     * [Leetcode 1423 Maximum Points You Can Obtain from Cards](difficulty-based-problem-index/leetcode-medium/leetcode-1423-maximum-points-you-can-obtain-from-cards.md)
     * [Leetcode 1465 Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](difficulty-based-problem-index/leetcode-medium/leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md)
     * [Leetcode 1466 Reorder Routes to Make All Paths Lead to the City Zero](difficulty-based-problem-index/leetcode-medium/leetcode-1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.md)
+    * [Leetcode 1525 Number of Good Ways to Split a String](difficulty-based-problem-index/leetcode-medium/leetcode-1525-number-of-good-ways-to-split-a-string.md)
     * [Leetcode 1557 Minimum Number of Vertices to Reach All Nodes](difficulty-based-problem-index/leetcode-medium/leetcode-1557-minimum-number-of-vertices-to-reach-all-nodes.md)
     * [Leetcode 1642  Furthest Building You Can Reach](difficulty-based-problem-index/leetcode-medium/leetcode-1642-furthest-building-you-can-reach.md)
     * [Leetcode 1647 Minimum Deletions to Make Character Frequencies Unique](difficulty-based-problem-index/leetcode-medium/leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md)
