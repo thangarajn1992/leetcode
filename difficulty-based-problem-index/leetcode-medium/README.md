@@ -133,7 +133,6 @@ Medium Level Problem Sets for Leetcode
 | 1423 | [Maximum Points You Can Obtain from Cards](leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](leetcode-1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.md) |
-| 1525 | [Number of Good Ways to Split a String](leetcode-1525-number-of-good-ways-to-split-a-string.md) |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](leetcode-1557-minimum-number-of-vertices-to-reach-all-nodes.md) |
 | 1642 | [Furthest Building You Can Reach](leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
