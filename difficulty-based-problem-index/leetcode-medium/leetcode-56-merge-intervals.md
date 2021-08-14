@@ -50,48 +50,6 @@ public:
 };
 ```
 
-### Map Approach
-
-```cpp
-class Solution {
-public:
-    vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        map<int,int> inter;
-        for(vector<int> & interval : intervals)
-        {
-            inter[interval[0]]++;
-            inter[interval[1]]--;
-        }
-        
-        vector<vector<int>> merged_intervals;
-        vector<int> cur_interval(2);
-        bool interval_started = false;
-        int interval_count = 0;
-        for(auto &[time, value] : inter)
-        {
-            interval_count += value;
-            if(interval_started == false)
-            {
-                cur_interval[0] = time;
-                interval_started = true;
-            }
-            if(interval_count == 0)
-            {
-                cur_interval[1] = time;
-                merged_intervals.push_back(cur_interval);
-                interval_started = false;
-            }
-        }
-        if(interval_started)
-        {
-            cur_interval[1] = inter.end()->second;
-            merged_intervals.push_back(cur_interval);
-        }
-        return merged_intervals;
-    }
-};
-```
-
 ### Graph Approach \( Times out for bigger input \)
 
 ```cpp

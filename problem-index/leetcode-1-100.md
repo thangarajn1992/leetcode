@@ -58,7 +58,6 @@ description: Leetcode Problem from 1 to 100
 | 54 | Medium | [Spiral Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-54-spiral-matrix.md) |
 | 55 | Medium | [Jump Game](../difficulty-based-problem-index/leetcode-medium/leetcode-55-jump-game.md) |
 | 56 | Medium | [Merge Intervals](../difficulty-based-problem-index/leetcode-medium/leetcode-56-merge-intervals.md) |
-| 57 | Medium | [Insert Interval](../difficulty-based-problem-index/leetcode-medium/leetcode-57-insert-interval.md) |
 | 59 | Medium | [Spiral Matrix II](../difficulty-based-problem-index/leetcode-medium/leetcode-59-spiral-matrix-ii.md) |
 | 61 | Medium | [Rotate List](../difficulty-based-problem-index/leetcode-medium/leetcode-61-rotate-list.md) |
 | 62 | Medium | [Unique Paths](../difficulty-based-problem-index/leetcode-medium/leetcode-62-unique-paths.md) |

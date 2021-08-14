@@ -196,6 +196,7 @@
     * [Leetcode 948 Bag of Tokens](difficulty-based-problem-index/leetcode-medium/leetcode-948-bag-of-tokens.md)
     * [Leetcode 954 Array of Doubled Pairs](difficulty-based-problem-index/leetcode-medium/leetcode-954-array-of-doubled-pairs.md)
     * [Leetcode 970 Powerful Integers](difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md)
+    * [Leetcode 986 Interval List Intersections](difficulty-based-problem-index/leetcode-medium/leetcode-986-interval-list-intersections.md)
     * [Leetcode 1048 Longest String Chain](difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md)
     * [Leetcode 1239 Maximum Length of a Concatenated String with Unique Characters](difficulty-based-problem-index/leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md)
     * [Leetcode 1268 Search Suggestions System](difficulty-based-problem-index/leetcode-medium/leetcode-1268-search-suggestions-system.md)
