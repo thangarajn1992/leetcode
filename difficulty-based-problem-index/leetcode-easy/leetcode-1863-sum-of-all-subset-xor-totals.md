@@ -62,6 +62,8 @@ The sum of all XOR totals for every subset is 480.
 
 ## Explanation
 
+
+
 The idea is
 
 ```text
