@@ -244,6 +244,7 @@
     * [Leetcode 1947 Maximum Compatibility Score Sum](difficulty-based-problem-index/leetcode-medium/leetcode-1947-maximum-compatibility-score-sum.md)
     * [Leetcode 1958 Check if Move is Legal](difficulty-based-problem-index/leetcode-medium/leetcode-1958-check-if-move-is-legal.md)
     * [Leetcode 1962 Remove Stones to Minimize the Total](difficulty-based-problem-index/leetcode-medium/leetcode-1962-remove-stones-to-minimize-the-total.md)
+    * [Leetcode 1968 Array With Elements Not Equal to Average of Neighbors](difficulty-based-problem-index/leetcode-medium/leetcode-1968-array-with-elements-not-equal-to-average-of-neighbors.md)
   * [LeetCode Easy](difficulty-based-problem-index/leetcode-easy/README.md)
     * [Leetcode 1 Two Sum](difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md)
     * [Leetcode 7 Reverse Integer](difficulty-based-problem-index/leetcode-easy/leetcode-7-reverse-integer.md)
