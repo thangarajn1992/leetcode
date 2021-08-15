@@ -3,6 +3,7 @@
 | Leetcode No | Difficulty | Problem Link |
 | :--- | :--- | :--- |
 | 126 | Hard | [Word Ladder II](../difficulty-based-problem-index/leetcode-hard/leetcode-126-word-ladder-ii.md) |
+| 127 | Hard | [Word Ladder](../difficulty-based-problem-index/leetcode-hard/leetcode-127-word-ladder.md) |
 | 133 | Medium | [Clone Graph](../difficulty-based-problem-index/leetcode-medium/leetcode-133-clone-graph.md) |
 | 207 | Medium | [Course Schedule](../difficulty-based-problem-index/leetcode-medium/leetcode-207-course-schedule.md) |
 | 210 | Medium | [Course Schedule II](../difficulty-based-problem-index/leetcode-medium/leetcode-210-course-schedule-ii.md) |
@@ -26,4 +27,5 @@
 | 1791 | Easy | [Find Center of Star Graph](../difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph.md) |
 | 1926 | Medium | [Nearest Exit from Entrance in Maze](../difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
 | 1928 | Hard | [Minimum Cost to Reach Destination in Time](../difficulty-based-problem-index/leetcode-hard/leetcode-1928-minimum-cost-to-reach-destination-in-time.md) |
+| 1970 | Hard | [Last Day Where You Can Still Cross](../difficulty-based-problem-index/leetcode-hard/leetcode-1970-last-day-where-you-can-still-cross.md) |
 

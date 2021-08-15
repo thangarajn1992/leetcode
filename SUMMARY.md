@@ -74,6 +74,7 @@
     * [Leetcode 1932 Merge BSTs to Create Single BST](difficulty-based-problem-index/leetcode-hard/leetcode-1932-merge-bsts-to-create-single-bst.md)
     * [Leetcode 1944 Number of Visible People in a Queue](difficulty-based-problem-index/leetcode-hard/leetcode-1944-number-of-visible-people-in-a-queue.md)
     * [Leetcode 1948 Delete Duplicate Folders in System](difficulty-based-problem-index/leetcode-hard/leetcode-1948-delete-duplicate-folders-in-system.md)
+    * [Leetcode 1970 Last Day Where You Can Still Cross](difficulty-based-problem-index/leetcode-hard/leetcode-1970-last-day-where-you-can-still-cross.md)
   * [LeetCode Medium](difficulty-based-problem-index/leetcode-medium/README.md)
     * [Leetcode 2 Add Two Numbers](difficulty-based-problem-index/leetcode-medium/leetcode-2-add-two-numbers.md)
     * [Leetcode 3 Longest Substring Without Repeating Characters](difficulty-based-problem-index/leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md)
