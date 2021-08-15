@@ -334,6 +334,7 @@
     * [Leetcode 1945 Sum of Digits of String After Convert](difficulty-based-problem-index/leetcode-easy/leetcode-1945-sum-of-digits-of-string-after-convert.md)
     * [Leetcode 1957 Delete Characters to Make Fancy String](difficulty-based-problem-index/leetcode-easy/leetcode-1957-delete-characters-to-make-fancy-string.md)
     * [Leetcode 1961 Check If String Is a Prefix of Array](difficulty-based-problem-index/leetcode-easy/leetcode-1961-check-if-string-is-a-prefix-of-array.md)
+    * [Leetcode 1967 Number of Strings That Appear as Substrings in Word](difficulty-based-problem-index/leetcode-easy/leetcode-1967-number-of-strings-that-appear-as-substrings-in-word.md)
 * [Top Interview Questions \(Leetcode\)](top-interview-questions-leetcode/README.md)
   * [Top Interview Questions - Easy \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-easy-leetcode.md)
   * [Top Interview Questions - Medium \(Leetcode\)](top-interview-questions-leetcode/top-interview-questions-medium-leetcode.md)

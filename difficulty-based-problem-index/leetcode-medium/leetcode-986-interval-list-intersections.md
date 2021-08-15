@@ -55,6 +55,7 @@ Output: [[3,7]]
 ## Solution
 
 ```cpp
+class Solution {
 public:
     vector<vector<int>> intervalIntersection(vector<vector<int>>& firstList, 
                                              vector<vector<int>>& secondList) {
