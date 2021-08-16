@@ -17,11 +17,11 @@
 | Day 9 | [Add Strings](../../difficulty-based-problem-index/leetcode-easy/leetcode-415-add-strings.md) |
 | Day 10 | [Flip String to Monotone Increasing](../../difficulty-based-problem-index/leetcode-medium/leetcode-926-flip-string-to-monotone-increasing.md) |
 | Day 11 | [Array of Doubled Pairs](../../difficulty-based-problem-index/leetcode-medium/leetcode-954-array-of-doubled-pairs.md) |
-| Day 12 |  |
+| Day 12 | [Group Anagrams](../../difficulty-based-problem-index/leetcode-medium/leetcode-49-group-anagrams.md) |
 | Day 13 |  |
 | Day 14 |  |
-| Day 15 |  |
-| Day 16 |  |
+| Day 15 | [Minimum Window Substring](../../difficulty-based-problem-index/leetcode-hard/leetcode-76-minimum-window-substring.md) |
+| Day 16 | [Ranged Sum Query - Immutable](../../difficulty-based-problem-index/leetcode-easy/leetcode-303-range-sum-query-immutable.md) |
 | Day 17 |  |
 | Day 18 |  |
 | Day 19 |  |

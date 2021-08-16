@@ -13,7 +13,6 @@
 | 28 | Easy | [Implement strStr\(\)](../difficulty-based-problem-index/leetcode-easy/leetcode-28-implement-strstr.md) |
 | 38 | Medium | [Count and Say](../difficulty-based-problem-index/leetcode-medium/leetcode-38-count-and-say.md) |
 | 49 | Medium | [Group Anagrams](../difficulty-based-problem-index/leetcode-medium/leetcode-49-group-anagrams.md) |
-| 76 | Hard | [Minimum Window Substring](../difficulty-based-problem-index/leetcode-hard/leetcode-76-minimum-window-substring.md) |
 | 97 | Medium | [Interleaving Strings](../difficulty-based-problem-index/leetcode-medium/leetcode-97-interleaving-string.md) |
 | 125 | Easy | [Valid Palindrome](../difficulty-based-problem-index/leetcode-easy/leetcode-125-valid-palindrome.md) |
 | 126 | Hard | [Word Ladder II](../difficulty-based-problem-index/leetcode-hard/leetcode-126-word-ladder-ii.md) |
@@ -36,7 +35,6 @@
 | 1047 | Easy | [Remove All Adjacent Duplicates In String](../difficulty-based-problem-index/leetcode-easy/leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
 | 1048 | Medium | [Longest String Chain](../difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md) |
 | 1239 | Medium | [Maximum length of a Concatenated String with Unique Characters](../difficulty-based-problem-index/leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
-| 1525 | Medium | [Number of Good Ways to Split a String](../difficulty-based-problem-index/leetcode-medium/leetcode-1525-number-of-good-ways-to-split-a-string.md) |
 | 1647 | Medium | [Minimum deletions to make character frequencies unique](../difficulty-based-problem-index/leetcode-medium/leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
 | 1844 | Easy | [Replace all digits with characters](../difficulty-based-problem-index/leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |
 | 1859 | Easy | [Sorting the sequence](../difficulty-based-problem-index/leetcode-easy/leetcode-1859-sorting-the-sentence.md) |
@@ -55,5 +53,4 @@
 | 1946 | Medium | [Largest Number After Mutating Substring](../difficulty-based-problem-index/leetcode-medium/leetcode-1946-largest-number-after-mutating-substring.md) |
 | 1957 | Easy | [Delete Characters to Make Fancy String](../difficulty-based-problem-index/leetcode-easy/leetcode-1957-delete-characters-to-make-fancy-string.md) |
 | 1961 | Easy | [Check If String Is a Prefix of Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1961-check-if-string-is-a-prefix-of-array.md) |
-| 1967 | Easy | [Number of Strings That Appear as Substrings in Word](../difficulty-based-problem-index/leetcode-easy/leetcode-1967-number-of-strings-that-appear-as-substrings-in-word.md) |
 
