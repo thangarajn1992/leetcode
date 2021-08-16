@@ -29,7 +29,6 @@ Medium Level Problem Sets for Leetcode
 | 54 | [Spiral Matrix](leetcode-54-spiral-matrix.md) |
 | 55 | [Jump Game](leetcode-55-jump-game.md) |
 | 56 | [Merge Intervals](leetcode-56-merge-intervals.md) |
-| 57 | [Insert Interval](leetcode-57-insert-interval.md) |
 | 59 | [Spiral Matrix II](leetcode-59-spiral-matrix-ii.md) |
 | 61 | [Rotate List](leetcode-61-rotate-list.md) |
 | 62 | [Unique Paths](leetcode-62-unique-paths.md) |
@@ -125,7 +124,6 @@ Medium Level Problem Sets for Leetcode
 | 948 | [Bag of Tokens](leetcode-948-bag-of-tokens.md) |
 | 954 | [Array of Doubled Pairs](leetcode-954-array-of-doubled-pairs.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
-| 986 | [Interval List Intersections](leetcode-986-interval-list-intersections.md) |
 | 1048 | [Longest String Chain](leetcode-1048-longest-string-chain.md) |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
 | 1268 | [Search Suggestions System](leetcode-1268-search-suggestions-system.md) |
@@ -135,7 +133,6 @@ Medium Level Problem Sets for Leetcode
 | 1423 | [Maximum Points You Can Obtain from Cards](leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](leetcode-1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.md) |
-| 1525 | [Number of Good Ways to Split a String](leetcode-1525-number-of-good-ways-to-split-a-string.md) |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](leetcode-1557-minimum-number-of-vertices-to-reach-all-nodes.md) |
 | 1642 | [Furthest Building You Can Reach](leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
@@ -172,5 +169,4 @@ Medium Level Problem Sets for Leetcode
 | 1947 | [Maximum Compatibility Score Sum](leetcode-1947-maximum-compatibility-score-sum.md) |
 | 1958 | [Check if Move is Legal](leetcode-1958-check-if-move-is-legal.md) |
 | 1962 | [Remove Stones to Minimize the Total](leetcode-1962-remove-stones-to-minimize-the-total.md) |
-| 1968 | [Array With Elements Not Equal to Average of Neighbors](leetcode-1968-array-with-elements-not-equal-to-average-of-neighbors.md) |
 

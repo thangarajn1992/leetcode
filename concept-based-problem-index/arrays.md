@@ -91,7 +91,6 @@ This page contains list of problems that involves arrays
 | 1943 | Medium | [Describe the Painting](../difficulty-based-problem-index/leetcode-medium/leetcode-1943-describe-the-painting.md) |
 | 1944 | Hard | [Number of Visible People in a Queue](../difficulty-based-problem-index/leetcode-hard/leetcode-1944-number-of-visible-people-in-a-queue.md) |
 | 1962 | Medium | [Remove Stones to Minimize the Total](../difficulty-based-problem-index/leetcode-medium/leetcode-1962-remove-stones-to-minimize-the-total.md) |
-| 1968 | Medium | [Array With Elements Not Equal to Average of Neighbors](../difficulty-based-problem-index/leetcode-medium/leetcode-1968-array-with-elements-not-equal-to-average-of-neighbors.md) |
 
 
 
