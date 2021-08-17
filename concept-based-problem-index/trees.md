@@ -23,6 +23,7 @@ This page contains problems that involves any type of trees
 | 235 | Easy | [Lowest Common Ancestor of a Binary Search Tree](../difficulty-based-problem-index/leetcode-easy/leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md) |
 | 236 | Medium | [Lowest Common Ancestor of a Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-236-lowest-common-ancestor-of-a-binary-tree.md) |
 | 307 | Medium | [Ranged Sum Query 1D - Mutable](../difficulty-based-problem-index/leetcode-medium/leetcode-307-range-sum-query-mutable.md) |
+| 429 | Medium | [N-ary Tree Level Order Traversal](../difficulty-based-problem-index/leetcode-medium/leetcode-429-n-ary-tree-level-order-traversal.md) |
 | 589 | Easy | [N ary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md) |
 | 677 | Medium | [Map Sum Pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-677-map-sum-pairs.md) |
 | 745 | Hard | [Prefix and Suffix Search](../difficulty-based-problem-index/leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
@@ -30,6 +31,7 @@ This page contains problems that involves any type of trees
 | 968 | Hard | [Binary Tree Cameras](../difficulty-based-problem-index/leetcode-hard/leetcode-968-binary-tree-cameras.md) |
 | 1268 | Medium | [Search Suggestions System](../difficulty-based-problem-index/leetcode-medium/leetcode-1268-search-suggestions-system.md) |
 | 1302 | Medium | [Deepest Leaves Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-1302-deepest-leaves-sum.md) |
+| 1448 | Medium | [Count Good Nodes in Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-1448-count-good-nodes-in-binary-tree.md) |
 | 1932 | Hard | [Merge BSTs to Create Single BST](../difficulty-based-problem-index/leetcode-hard/leetcode-1932-merge-bsts-to-create-single-bst.md) |
 | 1948 | Hard | [Delete Duplicate Folders in System](../difficulty-based-problem-index/leetcode-hard/leetcode-1948-delete-duplicate-folders-in-system.md) |
 
