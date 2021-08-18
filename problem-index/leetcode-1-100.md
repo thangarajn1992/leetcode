@@ -58,6 +58,7 @@ description: Leetcode Problem from 1 to 100
 | 54 | Medium | [Spiral Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-54-spiral-matrix.md) |
 | 55 | Medium | [Jump Game](../difficulty-based-problem-index/leetcode-medium/leetcode-55-jump-game.md) |
 | 56 | Medium | [Merge Intervals](../difficulty-based-problem-index/leetcode-medium/leetcode-56-merge-intervals.md) |
+| 57 | Medium | [Insert Interval](../difficulty-based-problem-index/leetcode-medium/leetcode-57-insert-interval.md) |
 | 59 | Medium | [Spiral Matrix II](../difficulty-based-problem-index/leetcode-medium/leetcode-59-spiral-matrix-ii.md) |
 | 61 | Medium | [Rotate List](../difficulty-based-problem-index/leetcode-medium/leetcode-61-rotate-list.md) |
 | 62 | Medium | [Unique Paths](../difficulty-based-problem-index/leetcode-medium/leetcode-62-unique-paths.md) |
@@ -68,6 +69,7 @@ description: Leetcode Problem from 1 to 100
 | 70 | Easy | [Climbing Stairs](../difficulty-based-problem-index/leetcode-easy/leetcode-70-climbing-stairs.md) |
 | 73 | Medium | [Set Matrix Zeroes](../difficulty-based-problem-index/leetcode-medium/leetcode-73-set-matrix-zeroes.md) |
 | 74 | Medium | [Search a 2D Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-74-search-a-2d-matrix.md) |
+| 76 | Hard | [Minimum Window Substring](../difficulty-based-problem-index/leetcode-hard/leetcode-76-minimum-window-substring.md) |
 | 78 | Medium | [Subsets](../difficulty-based-problem-index/leetcode-medium/leetcode-78-subsets.md) |
 | 79 | Medium | [Word Search](../difficulty-based-problem-index/leetcode-medium/leetcode-79-word-search.md) |
 | 82 | Medium | [Remove Duplicates From Sorted List II](../difficulty-based-problem-index/leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md) |
@@ -76,6 +78,7 @@ description: Leetcode Problem from 1 to 100
 | 88 | Medium | [Merge Sorted Array](../difficulty-based-problem-index/leetcode-easy/leetcode-88-merge-sorted-array.md) |
 | 89 | Medium | [Gray Code](../difficulty-based-problem-index/leetcode-medium/leetcode-89-gray-code.md) |
 | 90 | Medium | [Subsets II](../difficulty-based-problem-index/leetcode-medium/leetcode-90-subsets-ii.md) |
+| 91 | Medium | [Decode Ways](../difficulty-based-problem-index/leetcode-medium/leetcode-91-decode-ways.md) |
 | 92 | Medium | [Reverse Linked List II](../difficulty-based-problem-index/leetcode-medium/leetcode-92-reverse-linked-list-ii.md) |
 | 94 | Easy | [Binary Tree Inorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-94-binary-tree-inorder-traversal.md) |
 | 98 | Medium | [Validate BST \(Binary Search Tree\)](../difficulty-based-problem-index/leetcode-medium/leetcode-98-validate-binary-search-tree.md) |

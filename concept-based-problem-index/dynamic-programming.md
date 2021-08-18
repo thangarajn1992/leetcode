@@ -8,6 +8,7 @@ This page contains list of problems that are solved using dynamic programming.
 | 62 | Medium | [Unique Paths](../difficulty-based-problem-index/leetcode-medium/leetcode-62-unique-paths.md) |
 | 64 | Medium | [Minimum Path Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-64-minimum-path-sum.md) |
 | 70 | Easy | [Climbing Stairs](../difficulty-based-problem-index/leetcode-easy/leetcode-70-climbing-stairs.md) |
+| 91 | Medium | [Decode Ways](../difficulty-based-problem-index/leetcode-medium/leetcode-91-decode-ways.md) |
 | 120 | Medium | [Triangle](../difficulty-based-problem-index/leetcode-medium/leetcode-120-triangle.md) |
 | 198 | Medium | [House Robber](../difficulty-based-problem-index/leetcode-medium/leetcode-198-house-robber.md) |
 | 303 | Easy | [Range Sum Query](../difficulty-based-problem-index/leetcode-easy/leetcode-303-range-sum-query-immutable.md) |
@@ -21,6 +22,7 @@ This page contains list of problems that are solved using dynamic programming.
 | 639 | Hard | [Decode Ways II](../difficulty-based-problem-index/leetcode-hard/leetcode-639-decode-ways-ii.md) |
 | 718 | Medium | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 746 | Easy | [Min Cost Climbing Stairs](../difficulty-based-problem-index/leetcode-easy/leetcode-746-min-cost-climbing-stairs.md) |
+| 877 | Medium | [Stone Game](../difficulty-based-problem-index/leetcode-medium/leetcode-877-stone-game.md) |
 | 1048 | Medium | [Longest String Chain](../difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md) |
 | 1220 | Hard | [Count Vowels Permutation](../difficulty-based-problem-index/leetcode-hard/leetcode-1220-count-vowels-permutation.md) |
 | 1239  | Medium | [Maximum Length of a Concatenated String with Unique Characters](../difficulty-based-problem-index/leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |

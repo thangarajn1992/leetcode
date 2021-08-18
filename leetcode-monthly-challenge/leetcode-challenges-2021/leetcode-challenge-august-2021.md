@@ -23,7 +23,7 @@
 | Day 15 | [Minimum Window Substring](../../difficulty-based-problem-index/leetcode-hard/leetcode-76-minimum-window-substring.md) |
 | Day 16 | [Ranged Sum Query - Immutable](../../difficulty-based-problem-index/leetcode-easy/leetcode-303-range-sum-query-immutable.md) |
 | Day 17 | [Count Good Nodes in Binary Tree](../../difficulty-based-problem-index/leetcode-medium/leetcode-1448-count-good-nodes-in-binary-tree.md) |
-| Day 18 |  |
+| Day 18 | [Decode Ways](../../difficulty-based-problem-index/leetcode-medium/leetcode-91-decode-ways.md) |
 | Day 19 |  |
 | Day 20 |  |
 | Day 21 |  |
