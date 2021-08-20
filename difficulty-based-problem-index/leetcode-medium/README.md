@@ -134,7 +134,6 @@ Medium Level Problem Sets for Leetcode
 | 1302 | [Deepest Leaves Sum](leetcode-1302-deepest-leaves-sum.md) |
 | 1306 | [Jump Game III](leetcode-1306-jump-game-iii.md) |
 | 1338 | [Reduce Array Size to The Half](leetcode-1338-reduce-array-size-to-the-half.md) |
-| 1339 | [Maximum Product of Splitted Binary Tree](leetcode-1339-maximum-product-of-splitted-binary-tree.md) |
 | 1423 | [Maximum Points You Can Obtain from Cards](leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
 | 1448 | [Count Good Nodes in Binary Tree](leetcode-1448-count-good-nodes-in-binary-tree.md) |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |

@@ -45,7 +45,6 @@ Output: "a"
 ```cpp
 class Solution {
 public:
-
     string longestPalindrome(string s) {
         if(s.size() <= 1)
             return s;

@@ -31,7 +31,6 @@ This page contains problems that involves any type of trees
 | 968 | Hard | [Binary Tree Cameras](../difficulty-based-problem-index/leetcode-hard/leetcode-968-binary-tree-cameras.md) |
 | 1268 | Medium | [Search Suggestions System](../difficulty-based-problem-index/leetcode-medium/leetcode-1268-search-suggestions-system.md) |
 | 1302 | Medium | [Deepest Leaves Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-1302-deepest-leaves-sum.md) |
-| 1339 | Medium | [Maximum Product of Splitted Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-1339-maximum-product-of-splitted-binary-tree.md) |
 | 1448 | Medium | [Count Good Nodes in Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-1448-count-good-nodes-in-binary-tree.md) |
 | 1932 | Hard | [Merge BSTs to Create Single BST](../difficulty-based-problem-index/leetcode-hard/leetcode-1932-merge-bsts-to-create-single-bst.md) |
 | 1948 | Hard | [Delete Duplicate Folders in System](../difficulty-based-problem-index/leetcode-hard/leetcode-1948-delete-duplicate-folders-in-system.md) |
