@@ -58,21 +58,24 @@ to 8. Since there are two 8's in the top left 3x3 sub-box, it is invalid.
 
 ## Solution
 
-### Using bool array \( 98% faster, 94% less memory\)
+### Using bool array
 
 ```cpp
+#define BOARD_SIZE 9
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        bool row[9][9] = {false}, col[9][9] = {false}, cub[9][9] = {false};
-        for(int i = 0; i < board.size(); i++)
-            for(int j = 0; j < board[i].size(); j++)
-                if(board[i][j] != '.') {  
-                    int num = board[i][j] - '1';  
-                    int k = (i / 3) * 3 + j / 3;
-                    if(row[i][num] || col[j][num] || cub[k][num]) 
+        bool rows[BOARD_SIZE][BOARD_SIZE] = {false};
+        bool cols[BOARD_SIZE][BOARD_SIZE] = {false};
+        bool boxs[BOARD_SIZE][BOARD_SIZE] = {false};
+        for(int row = 0; row < BOARD_SIZE; row++)
+            for(int col = 0; col < BOARD_SIZE; col++)
+                if(board[row][col] != '.') {  
+                    int num = board[row][col] - '1';  
+                    int box = (row / 3) * 3 + col / 3;
+                    if(rows[row][num] || cols[col][num] || boxs[box][num]) 
                         return false;
-                    row[i][num] = col[j][num] = cub[k][num] = true;
+                    rows[row][num] = cols[col][num] = boxs[box][num] = true;
                 }
         return true;
     }

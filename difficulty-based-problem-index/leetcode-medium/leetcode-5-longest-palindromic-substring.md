@@ -45,27 +45,30 @@ Output: "a"
 ```cpp
 class Solution {
 public:
-    int maxPalindromeStart = -1, maxPalindromeLen = 0;
-    string longestPalindrome(string s){
+
+    string longestPalindrome(string s) {
+        if(s.size() <= 1)
+            return s;
+        int start = 0, end = 0;
         for(int i = 0; i < s.size(); i++)
         {
-            expandAroundCenter(s, i, i);
-            if(i < s.size() - 1 && s[i] == s[i+1])
-                expandAroundCenter(s, i, i+1);
+            int len = (s[i] == s[i+1]) ? 
+                       max(expandAroundCenter(s, i, i), expandAroundCenter(s, i, i+1)):
+                       expandAroundCenter(s, i, i);
+            if(len > end - start)
+            {
+                start = i - (len - 1)/2;
+                end = i + len/2;
+            }
         }
-        return s.substr(maxPalindromeStart, maxPalindromeLen);    
+        return s.substr(start, end - start + 1);
     }
     
-    void expandAroundCenter(const string &s, int left, int right)
+    int expandAroundCenter(const string &s, int left, int right) const
     {
         while(left >= 0 && right < s.size() && s[left] == s[right])
             left--, right++;
-            
-        if(maxPalindromeLen < right - left - 1)
-        {
-            maxPalindromeLen = right - left -1;
-            maxPalindromeStart = left+1;
-        }
+        return right - left - 1;
     }
 };
 ```
