@@ -26,7 +26,7 @@
 | Day 18 | [Decode Ways](../../difficulty-based-problem-index/leetcode-medium/leetcode-91-decode-ways.md) |
 | Day 19 | [Maximum Product of Splitted Binary Tree](../../difficulty-based-problem-index/leetcode-medium/leetcode-1339-maximum-product-of-splitted-binary-tree.md) |
 | Day 20 | [Valid Sudoku](../../difficulty-based-problem-index/leetcode-medium/leetcode-36-valid-sudoku.md) |
-| Day 21 |  |
+| Day 21 | [Sudoku Solver](../../difficulty-based-problem-index/leetcode-hard/leetcode-37-sudoku-solver.md) |
 | Day 22 |  |
 | Day 23 |  |
 | Day 24 |  |

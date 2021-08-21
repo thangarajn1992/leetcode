@@ -42,7 +42,7 @@ description: Leetcode Problem from 1 to 100
 | 34 | Medium | [First and Last Position of Element in Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-34-find-first-and-last-position-of-element-in-sorted-array.md) |
 | 35 | Easy | [Search Insert Position](../difficulty-based-problem-index/leetcode-easy/leetcode-35-search-insert-position.md) |
 | 36 | Medium | [Valid Sudoku](../difficulty-based-problem-index/leetcode-medium/leetcode-36-valid-sudoku.md) |
-| 37 |  |  |
+| 37 | Hard | [Sudoku Solver](../difficulty-based-problem-index/leetcode-hard/leetcode-37-sudoku-solver.md) |
 | 38 | Medium | [Count and Say](../difficulty-based-problem-index/leetcode-medium/leetcode-38-count-and-say.md) |
 | 39 | Medium | [Combination Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-39-combination-sum.md) |
 | 40 |  |  |

@@ -54,50 +54,42 @@ public:
     bool p_found = false;
     bool q_found = false;
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        find_p_q(root, p->val, q->val);
+        find_p_q(root, p, q);
         int i;
         
+        int path_size = min(p_path.size(), q_path.size());
+        
         // Find the node at which their path differs
-        for(i = 0; i < min(p_path.size(), q_path.size()) && p_path[i] == q_path[i]; i++);
+        for(i = 0; i < path_size && p_path[i] == q_path[i]; i++);
 
         return p_path[i-1];
     }
-    void find_p_q(TreeNode* root, int p, int q)
+    void find_p_q(TreeNode* root, TreeNode* p, TreeNode* q)
     {
-        if(!root)
-            return;
-        if(root->val == p)
-        {
-            p_found = true;
-            p_path.push_back(root);
-        }
-        else if(root->val == q)
-        {
-            q_found = true;
-            q_path.push_back(root);
-        }
-        if(!p_found || !q_found)
-        {
-            bool old_p_found = p_found, old_q_found = q_found;
-            if(!p_found)  p_path.push_back(root);
-            if(!q_found)  q_path.push_back(root);
+        bool old_p_found = p_found, old_q_found = q_found;
+
+        if(!p_found)  p_path.push_back(root);
+        
+        if(!q_found)  q_path.push_back(root);
+        
+        if(root == p) p_found = true;
+    
+        if(root == q) q_found = true;
+        
+        if(p_found && q_found) return;
+
+        if(root->left)  find_p_q(root->left, p, q);
+        
+        if(p_found && q_found) return;
             
-            // Search Left sub-tree
-            find_p_q(root->left, p, q);
+        // Search right sub-tree if still p and q are not found
+        if(root->right)  find_p_q(root->right, p, q);
             
-            // Search right sub-tree if still p and q are not found
-            if(!p_found || !q_found) 
-                find_p_q(root->right, p, q);
+        // In this path P doesnt exists, remove this node from path to P
+        if(old_p_found == false && p_found == false) p_path.pop_back();
             
-            // In this path P doesn't exists, remove this node from path to P
-            if(old_p_found == false && p_found == false)
-                p_path.pop_back();
-            
-            // In this path Q doesn't exists, remove this node from path to Q
-            if(old_q_found == false && q_found == false)
-                q_path.pop_back();
-        }
-        return;
+        // In this path Q doesnt exists, remove this node from path to Q
+        if(old_q_found == false && q_found == false) q_path.pop_back();       
     }
 };
 ```
