@@ -250,6 +250,7 @@
     * [Leetcode 1958 Check if Move is Legal](difficulty-based-problem-index/leetcode-medium/leetcode-1958-check-if-move-is-legal.md)
     * [Leetcode 1962 Remove Stones to Minimize the Total](difficulty-based-problem-index/leetcode-medium/leetcode-1962-remove-stones-to-minimize-the-total.md)
     * [Leetcode 1968 Array With Elements Not Equal to Average of Neighbors](difficulty-based-problem-index/leetcode-medium/leetcode-1968-array-with-elements-not-equal-to-average-of-neighbors.md)
+    * [Leetcode 1976 Number of Ways to Arrive at Destination](difficulty-based-problem-index/leetcode-medium/leetcode-1976-number-of-ways-to-arrive-at-destination.md)
     * [Leetcode 1980 Find Unique Binary String](difficulty-based-problem-index/leetcode-medium/leetcode-1980-find-unique-binary-string.md)
   * [LeetCode Easy](difficulty-based-problem-index/leetcode-easy/README.md)
     * [Leetcode 1 Two Sum](difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md)

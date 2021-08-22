@@ -57,6 +57,4 @@
 | 1957 | Easy | [Delete Characters to Make Fancy String](../difficulty-based-problem-index/leetcode-easy/leetcode-1957-delete-characters-to-make-fancy-string.md) |
 | 1961 | Easy | [Check If String Is a Prefix of Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1961-check-if-string-is-a-prefix-of-array.md) |
 | 1967 | Easy | [Number of Strings That Appear as Substrings in Word](../difficulty-based-problem-index/leetcode-easy/leetcode-1967-number-of-strings-that-appear-as-substrings-in-word.md) |
-| 1974 | Easy | [Minimum Time to Type Word Using Special Typewriter](../difficulty-based-problem-index/leetcode-easy/leetcode-1974-minimum-time-to-type-word-using-special-typewriter.md) |
-| 1980 | Medium | [Find Unique Binary String](../difficulty-based-problem-index/leetcode-medium/leetcode-1980-find-unique-binary-string.md) |
 
