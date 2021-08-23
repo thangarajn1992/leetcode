@@ -65,6 +65,7 @@ Easy Level Problem Sets for Leetcode
 | 566 | [Reshape the Matrix](leetcode-566-reshape-the-matrix.md) |
 | 575 | [Distribute Candies](leetcode-575-distribute-candies.md) |
 | 589 | [N-ary Tree Preorder Traversal](leetcode-589-n-ary-tree-preorder-traversal.md) |
+| 653 | [Two Sum IV - Input is a BST](leetcode-653-two-sum-iv-input-is-a-bst.md) |
 | 696 | [Count Binary Sub-strings](leetcode-696-count-binary-sub-strings.md) |
 | 709 | [To Lower Case](leetcode-709-to-lower-case.md) |
 | 746 | [Min Cost Climbing Stairs](leetcode-746-min-cost-climbing-stairs.md) |
@@ -95,4 +96,6 @@ Easy Level Problem Sets for Leetcode
 | 1957 | [Delete Characters to Make Fancy String](leetcode-1957-delete-characters-to-make-fancy-string.md) |
 | 1961 | [Check If String Is a Prefix of Array](leetcode-1961-check-if-string-is-a-prefix-of-array.md) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](leetcode-1967-number-of-strings-that-appear-as-substrings-in-word.md) |
+| 1974 | [Minimum Time to Type Word Using Special Typewriter](leetcode-1974-minimum-time-to-type-word-using-special-typewriter.md) |
+| 1979 | [Find Greatest Common Divisor of Array](leetcode-1979-find-greatest-common-divisor-of-array.md) |
 

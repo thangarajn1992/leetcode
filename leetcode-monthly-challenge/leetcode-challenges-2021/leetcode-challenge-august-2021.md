@@ -28,7 +28,7 @@
 | Day 20 | [Valid Sudoku](../../difficulty-based-problem-index/leetcode-medium/leetcode-36-valid-sudoku.md) |
 | Day 21 | [Sudoku Solver](../../difficulty-based-problem-index/leetcode-hard/leetcode-37-sudoku-solver.md) |
 | Day 22 |  |
-| Day 23 |  |
+| Day 23 | [Two Sum IV - Input is a BST](../../difficulty-based-problem-index/leetcode-easy/leetcode-653-two-sum-iv-input-is-a-bst.md) |
 | Day 24 |  |
 | Day 25 |  |
 | Day 26 |  |
