@@ -38,6 +38,7 @@ description: Leetcode Problems from 101 to 200
 | 150 | Medium | [Evaluate Reverse Polish Notation](../difficulty-based-problem-index/leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md) |
 | 160 | Easy | [Intersection of two linked lists](../difficulty-based-problem-index/leetcode-easy/leetcode-160-intersection-of-two-linked-lists.md) |
 | 162 | Medium | [Find Peak Element](../difficulty-based-problem-index/leetcode-medium/leetcode-162-find-peak-element.md) |
+| 167 | Easy | [Two Sum II - Input array is sorted](../difficulty-based-problem-index/leetcode-easy/leetcode-167-two-sum-ii-input-array-is-sorted.md) |
 | 169 | Easy | [Majority Element](../difficulty-based-problem-index/leetcode-easy/leetcode-169-majority-element.md) |
 | 171 | Easy | [Excel Sheet Column Number](../difficulty-based-problem-index/leetcode-easy/leetcode-171-excel-sheet-column-number.md) |
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |

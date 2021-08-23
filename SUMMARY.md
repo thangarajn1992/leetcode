@@ -282,6 +282,7 @@
     * [Leetcode 145 Binary Tree Postorder Traversal](difficulty-based-problem-index/leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md)
     * [Leetcode 155 Min Stack](difficulty-based-problem-index/leetcode-easy/leetcode-155-min-stack.md)
     * [Leetcode 160 Intersection of Two Linked Lists](difficulty-based-problem-index/leetcode-easy/leetcode-160-intersection-of-two-linked-lists.md)
+    * [Leetcode 167 Two Sum II - Input array is sorted](difficulty-based-problem-index/leetcode-easy/leetcode-167-two-sum-ii-input-array-is-sorted.md)
     * [Leetcode 169 Majority Element](difficulty-based-problem-index/leetcode-easy/leetcode-169-majority-element.md)
     * [Leetcode 171 Excel Sheet Column Number](difficulty-based-problem-index/leetcode-easy/leetcode-171-excel-sheet-column-number.md)
     * [Leetcode 190  Reverse Bits](difficulty-based-problem-index/leetcode-easy/leetcode-190-reverse-bits.md)

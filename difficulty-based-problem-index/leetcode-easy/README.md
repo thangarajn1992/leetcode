@@ -33,6 +33,7 @@ Easy Level Problem Sets for Leetcode
 | 145 | [Binary Tree Postorder Traversal](leetcode-145-binary-tree-postorder-traversal.md) |
 | 155 | [Min Stack](leetcode-155-min-stack.md) |
 | 160 | [Intersection of Two Linked Lists](leetcode-160-intersection-of-two-linked-lists.md) |
+| 167 | [Two Sum II - Input array is sorted](leetcode-167-two-sum-ii-input-array-is-sorted.md) |
 | 169 | [Majority Element](leetcode-169-majority-element.md) |
 | 171 | [Excel Sheet Column Number](leetcode-171-excel-sheet-column-number.md) |
 | 190 | [Reverse Bits](leetcode-190-reverse-bits.md) |

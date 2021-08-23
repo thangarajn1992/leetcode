@@ -25,7 +25,6 @@ This page contains problems that involves any type of trees
 | 307 | Medium | [Ranged Sum Query 1D - Mutable](../difficulty-based-problem-index/leetcode-medium/leetcode-307-range-sum-query-mutable.md) |
 | 429 | Medium | [N-ary Tree Level Order Traversal](../difficulty-based-problem-index/leetcode-medium/leetcode-429-n-ary-tree-level-order-traversal.md) |
 | 589 | Easy | [N ary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md) |
-| 653 | Easy | [Two Sum IV - Input is a BST](../difficulty-based-problem-index/leetcode-easy/leetcode-653-two-sum-iv-input-is-a-bst.md) |
 | 677 | Medium | [Map Sum Pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-677-map-sum-pairs.md) |
 | 745 | Hard | [Prefix and Suffix Search](../difficulty-based-problem-index/leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
 | 814 | Medium | [Binary Tree Pruning](../difficulty-based-problem-index/leetcode-medium/leetcode-814-binary-tree-pruning.md) |
