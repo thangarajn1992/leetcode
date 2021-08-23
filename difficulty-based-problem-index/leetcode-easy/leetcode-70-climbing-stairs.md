@@ -40,21 +40,20 @@ There are three ways to climb to the top.
 ```cpp
 class Solution {
 public:
-    int climbStairsiter(int n, int cur, vector<int>& possibilities)
+    int climbStairsiter(int n, int cur, vector<int>& memo)
     {
         if(cur == n)
             return 1;
         if(cur > n)
             return 0;
-        if(possibilities[cur])
-            return possibilities[cur];
-        possibilities[cur] += climbStairsiter(n, cur+1, possibilities);
-        possibilities[cur] += climbStairsiter(n, cur+2, possibilities);
-        return possibilities[cur];
+        if(memo[cur])
+            return memo[cur];
+        memo[cur] = climbStairsiter(n, cur+1, memo) + climbStairsiter(n, cur+2, memo);
+        return memo[cur];
     }
     int climbStairs(int n) {
-        vector<int> possibilities(n, 0);
-        return climbStairsiter(n, 0, possibilities);
+        vector<int> memo(n+1, 0);
+        return climbStairsiter(n, 0, memo);
     }
 };
 ```
