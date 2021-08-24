@@ -90,6 +90,7 @@ Medium Level Problem Sets for Leetcode
 | 462 | [Minimum Moves to Equal Array Elements II](leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
 | 473 | [Matchsticks to Square](leetcode-473-matchsticks-to-square.md) |
 | 474 | [Ones and Zeroes](leetcode-474-ones-and-zeroes.md) |
+| 537 | [Complex Number Multiplication](leetcode-537-complex-number-multiplication.md) |
 | 542 | [01 Matrix](leetcode-542-01-matrix.md) |
 | 547 | [Number of Provinces](leetcode-547-number-of-provinces.md) |
 | 554 | [Brick Wall](leetcode-554-brick-wall.md) |
@@ -177,4 +178,6 @@ Medium Level Problem Sets for Leetcode
 | 1958 | [Check if Move is Legal](leetcode-1958-check-if-move-is-legal.md) |
 | 1962 | [Remove Stones to Minimize the Total](leetcode-1962-remove-stones-to-minimize-the-total.md) |
 | 1968 | [Array With Elements Not Equal to Average of Neighbors](leetcode-1968-array-with-elements-not-equal-to-average-of-neighbors.md) |
+| 1976 | [Number of Ways to Arrive at Destination](leetcode-1976-number-of-ways-to-arrive-at-destination.md) |
+| 1980 | [Find Unique Binary String](leetcode-1980-find-unique-binary-string.md) |
 
