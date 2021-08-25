@@ -17,6 +17,7 @@ This page contains list of problems that involves arrays
 | 35 | Easy | [Search Insert Position](../difficulty-based-problem-index/leetcode-easy/leetcode-35-search-insert-position.md) |
 | 36 | Medium | [Valid Sudoku](../difficulty-based-problem-index/leetcode-medium/leetcode-36-valid-sudoku.md) |
 | 39 | Medium | [Combination Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-39-combination-sum.md) |
+| 40 | Medium | [Combination Sum II](../difficulty-based-problem-index/leetcode-medium/leetcode-40-combination-sum-ii.md) |
 | 42 | Hard  | [Trapping Rain Water](../difficulty-based-problem-index/leetcode-hard/leetcode-42-trapping-rain-water.md) |
 | 45 | Medium | [Jump Game II](../difficulty-based-problem-index/leetcode-medium/leetcode-45-jump-game-ii.md) |
 | 48 | Medium | [Rotate Image](../difficulty-based-problem-index/leetcode-medium/leetcode-48-rotate-image.md) |
@@ -37,6 +38,7 @@ This page contains list of problems that involves arrays
 | 136 | Easy | [Single Number](../difficulty-based-problem-index/leetcode-easy/leetcode-136-single-number.md) |
 | 150 | Medium | [Evaluate Reverse Polish Notation](../difficulty-based-problem-index/leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md) |
 | 162 | Medium | [Find Peak Element](../difficulty-based-problem-index/leetcode-medium/leetcode-162-find-peak-element.md) |
+| 167 | Easy | [Two Sum II - Input array is sorted](../difficulty-based-problem-index/leetcode-easy/leetcode-167-two-sum-ii-input-array-is-sorted.md) |
 | 169 | Easy | [Majority Element](../difficulty-based-problem-index/leetcode-easy/leetcode-169-majority-element.md) |
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](../difficulty-based-problem-index/leetcode-medium/leetcode-198-house-robber.md) |

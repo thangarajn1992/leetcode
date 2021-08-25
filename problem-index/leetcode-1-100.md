@@ -45,7 +45,7 @@ description: Leetcode Problem from 1 to 100
 | 37 | Hard | [Sudoku Solver](../difficulty-based-problem-index/leetcode-hard/leetcode-37-sudoku-solver.md) |
 | 38 | Medium | [Count and Say](../difficulty-based-problem-index/leetcode-medium/leetcode-38-count-and-say.md) |
 | 39 | Medium | [Combination Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-39-combination-sum.md) |
-| 40 |  |  |
+| 40 | Medium | [Combination Sum II](../difficulty-based-problem-index/leetcode-medium/leetcode-40-combination-sum-ii.md) |
 | 41 |  |  |
 | 42 | Hard | [Trapping Rain Water](../difficulty-based-problem-index/leetcode-hard/leetcode-42-trapping-rain-water.md) |
 | 45 | Medium | [Jump Game II](../difficulty-based-problem-index/leetcode-medium/leetcode-45-jump-game-ii.md) |
