@@ -43,6 +43,7 @@ This page contains list of problems that involves arrays
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](../difficulty-based-problem-index/leetcode-medium/leetcode-198-house-robber.md) |
 | 200 | Medium | [Number of Islands](../difficulty-based-problem-index/leetcode-medium/leetcode-200-number-of-islands.md) |
+| 216 | Medium | [Combination Sum III](../difficulty-based-problem-index/leetcode-medium/leetcode-216-combination-sum-iii.md) |
 | 217 | Easy | [Contains Duplicate](../difficulty-based-problem-index/leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 278 | Easy | [First Bad Version](../difficulty-based-problem-index/leetcode-easy/leetcode-278-first-bad-version.md) |
 | 283 | Easy | [Move Zeroes](../difficulty-based-problem-index/leetcode-easy/leetcode-283-move-zeroes.md) |

@@ -142,6 +142,7 @@
     * [Leetcode 200 Number of Islands](difficulty-based-problem-index/leetcode-medium/leetcode-200-number-of-islands.md)
     * [Leetcode 207 Course Schedule](difficulty-based-problem-index/leetcode-medium/leetcode-207-course-schedule.md)
     * [Leetcode 210 Course Schedule II](difficulty-based-problem-index/leetcode-medium/leetcode-210-course-schedule-ii.md)
+    * [Leetcode 216 Combination Sum III](difficulty-based-problem-index/leetcode-medium/leetcode-216-combination-sum-iii.md)
     * [Leetcode 230 Kth Smallest Element in a BST](difficulty-based-problem-index/leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md)
     * [Leetcode 236 Lowest Common Ancestor of a Binary Tree](difficulty-based-problem-index/leetcode-medium/leetcode-236-lowest-common-ancestor-of-a-binary-tree.md)
     * [Leetcode 240 Search a 2D Matrix II](difficulty-based-problem-index/leetcode-medium/leetcode-240-search-a-2d-matrix-ii.md)
