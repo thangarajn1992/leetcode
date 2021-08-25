@@ -25,7 +25,6 @@
 | 344 | Easy | [Reverse String](../difficulty-based-problem-index/leetcode-easy/leetcode-344-reverse-string.md) |
 | 387 | Easy | [First Unique Character in a string](../difficulty-based-problem-index/leetcode-easy/leetcode-387-first-unique-character-in-a-string.md) |
 | 415 | Easy | [Add Strings](../difficulty-based-problem-index/leetcode-easy/leetcode-415-add-strings.md) |
-| 537 | Medium | [Complex Number Multiplication](../difficulty-based-problem-index/leetcode-medium/leetcode-537-complex-number-multiplication.md) |
 | 583 | Medium | [Delete Operation for Two Strings](../difficulty-based-problem-index/leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | Medium | [Find Duplicate File in System](../difficulty-based-problem-index/leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
 | 696 | Easy | [Count Binary sub-strings](../difficulty-based-problem-index/leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
@@ -58,6 +57,4 @@
 | 1957 | Easy | [Delete Characters to Make Fancy String](../difficulty-based-problem-index/leetcode-easy/leetcode-1957-delete-characters-to-make-fancy-string.md) |
 | 1961 | Easy | [Check If String Is a Prefix of Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1961-check-if-string-is-a-prefix-of-array.md) |
 | 1967 | Easy | [Number of Strings That Appear as Substrings in Word](../difficulty-based-problem-index/leetcode-easy/leetcode-1967-number-of-strings-that-appear-as-substrings-in-word.md) |
-| 1974 | Easy | [Minimum Time to Type Word Using Special Typewriter](../difficulty-based-problem-index/leetcode-easy/leetcode-1974-minimum-time-to-type-word-using-special-typewriter.md) |
-| 1980 | Medium | [Find Unique Binary String](../difficulty-based-problem-index/leetcode-medium/leetcode-1980-find-unique-binary-string.md) |
 

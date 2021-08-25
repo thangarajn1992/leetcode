@@ -24,6 +24,7 @@ This page contains list of problems related to Mathematics
 | 537 | Medium | [Complex Number Multiplication](../difficulty-based-problem-index/leetcode-medium/leetcode-537-complex-number-multiplication.md) |
 | 600 | Hard | [Non-negative Integers without Consecutive Ones](../difficulty-based-problem-index/leetcode-hard/leetcode-600-non-negative-integers-without-consecutive-ones.md) |
 | 611 | Medium | [Valid Triangle Number](../difficulty-based-problem-index/leetcode-medium/leetcode-611-valid-triangle-number.md) |
+| 633 | Medium | [Sum of Square Numbers](../difficulty-based-problem-index/leetcode-medium/leetcode-633-sum-of-square-numbers.md) |
 | 906 | Hard | [Super Palindromes](../difficulty-based-problem-index/leetcode-hard/leetcode-906-super-palindromes.md) |
 | 1304 | Easy | [Find N Unique Integers Sum up to Zero](../difficulty-based-problem-index/leetcode-easy/leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
 | 1486 | Easy | [XOR Operation in an Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1486-xor-operation-in-an-array.md) |

@@ -9,7 +9,6 @@ description: Leetcode Problems from 501 to 600
 | Leetcode No | Difficulty | Problem Link |
 | :--- | :--- | :--- |
 | 509 | Easy | [Fibonacci Number](../difficulty-based-problem-index/leetcode-easy/leetcode-509-fibonacci-number.md) |
-| 537 | Medium | [Complex Number Multiplication](../difficulty-based-problem-index/leetcode-medium/leetcode-537-complex-number-multiplication.md) |
 | 542 | Medium | [01 Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-542-01-matrix.md) |
 | 547 | Medium | [Number of Provinces](../difficulty-based-problem-index/leetcode-medium/leetcode-547-number-of-provinces.md) |
 | 554 | Medium | [Brick Wall](../difficulty-based-problem-index/leetcode-medium/leetcode-554-brick-wall.md) |

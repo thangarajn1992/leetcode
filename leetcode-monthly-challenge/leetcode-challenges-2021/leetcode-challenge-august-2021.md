@@ -30,7 +30,7 @@
 | Day 22 |  |
 | Day 23 | [Two Sum IV - Input is a BST](../../difficulty-based-problem-index/leetcode-easy/leetcode-653-two-sum-iv-input-is-a-bst.md) |
 | Day 24 | [Complex Number Multiplication](../../difficulty-based-problem-index/leetcode-medium/leetcode-537-complex-number-multiplication.md) |
-| Day 25 |  |
+| Day 25 | [Sum of Square Numbers](../../difficulty-based-problem-index/leetcode-medium/leetcode-633-sum-of-square-numbers.md) |
 | Day 26 |  |
 | Day 27 |  |
 | Day 28 |  |
