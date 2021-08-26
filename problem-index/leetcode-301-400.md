@@ -16,7 +16,6 @@ description: Leetcode Problems from 301 to 400
 | 326 | Easy | [Power of Three](../difficulty-based-problem-index/leetcode-easy/leetcode-326-power-of-three.md) |
 | 328 | Medium | [Odd Even Linked List](../difficulty-based-problem-index/leetcode-medium/leetcode-328-odd-even-linked-list.md) |
 | 329 | Hard | [Longest Increasing Path in a Matrix](../difficulty-based-problem-index/leetcode-hard/leetcode-329-longest-increasing-path-in-a-matrix.md) |
-| 331 | Medium | [Verify Preorder Serialization of a Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-331-verify-preorder-serialization-of-a-binary-tree.md) |
 | 332 | Medium | [Reconstruct Itinerary](../difficulty-based-problem-index/leetcode-medium/leetcode-332-reconstruct-itinerary.md) |
 | 334 | Medium | [Increasing Triplet Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-334-increasing-triplet-subsequence.md) |
 | 336 | Hard | [Palindrome Pairs](../difficulty-based-problem-index/leetcode-hard/leetcode-336-palindrome-pairs.md) |

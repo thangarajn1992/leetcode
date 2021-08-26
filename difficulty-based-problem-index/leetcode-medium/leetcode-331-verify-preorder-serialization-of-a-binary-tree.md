@@ -46,6 +46,46 @@ Output: false
 
 ## Solution
 
+### My Iterative Solution
+
+```cpp
+class Solution {
+public:
+    bool isValidSerialization(string preorder) {
+        // If first node is NULL, then that must be the only node
+        if(preorder[0] == '#')
+            return preorder.size() == 1;
+        
+        int index = 0;
+        // Non-null first node, process and move to next node
+        while(index < preorder.size() && preorder[index] != ',')
+           index++;
+        index++;
+        
+        int needed_nodes = 2;
+
+        while(index < preorder.size())
+        {
+            // If there are extra nodes, when we dont need them, return false
+            if(needed_nodes == 0)
+                return false;
+            
+            // We have visited new node, reduce needed_nodes by 1
+            needed_nodes--;
+            
+            if(preorder[index] != '#')
+                needed_nodes += 2;
+            
+            // Move to next node in serialization
+            while(index < preorder.size() && preorder[index] != ',')
+                    index++;
+            index++;
+        }
+        return needed_nodes == 0;
+    }
+};
+```
+
 ### My Recursive Solution
 
 ```cpp
