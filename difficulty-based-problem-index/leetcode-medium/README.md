@@ -81,6 +81,7 @@ Medium Level Problem Sets for Leetcode
 | 310 | [Minimum Height Trees](leetcode-310-minimum-height-trees.md) |
 | 318 | [Maximum Product of Word Lengths](leetcode-318-maximum-product-of-word-lengths.md) |
 | 328 | [Odd Even Linked List](leetcode-328-odd-even-linked-list.md) |
+| 331 | [Verify Preorder Serialization of a Binary Tree](leetcode-331-verify-preorder-serialization-of-a-binary-tree.md) |
 | 332 | [Reconstruct Itinerary](leetcode-332-reconstruct-itinerary.md) |
 | 334 | [Increasing Triplet Subsequence](leetcode-334-increasing-triplet-subsequence.md) |
 | 341 | [Flatten Nested List Iterator](leetcode-341-flatten-nested-list-iterator.md) |

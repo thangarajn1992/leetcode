@@ -154,6 +154,7 @@
     * [Leetcode 310 Minimum Height Trees](difficulty-based-problem-index/leetcode-medium/leetcode-310-minimum-height-trees.md)
     * [Leetcode 318 Maximum Product of Word Lengths](difficulty-based-problem-index/leetcode-medium/leetcode-318-maximum-product-of-word-lengths.md)
     * [Leetcode 328 Odd Even Linked List](difficulty-based-problem-index/leetcode-medium/leetcode-328-odd-even-linked-list.md)
+    * [Leetcode 331 Verify Preorder Serialization of a Binary Tree](difficulty-based-problem-index/leetcode-medium/leetcode-331-verify-preorder-serialization-of-a-binary-tree.md)
     * [Leetcode 332 - Reconstruct Itinerary](difficulty-based-problem-index/leetcode-medium/leetcode-332-reconstruct-itinerary.md)
     * [Leetcode 334 Increasing Triplet Subsequence](difficulty-based-problem-index/leetcode-medium/leetcode-334-increasing-triplet-subsequence.md)
     * [Leetcode 341 Flatten Nested List Iterator](difficulty-based-problem-index/leetcode-medium/leetcode-341-flatten-nested-list-iterator.md)
