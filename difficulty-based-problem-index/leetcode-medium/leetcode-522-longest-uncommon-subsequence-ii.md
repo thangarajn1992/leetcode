@@ -35,9 +35,9 @@ Output: -1
 ## Solution
 
 1. Sort the strings descending order of size
-2. Check each string whether it is a subsquence of any other string.
-3. If a string is not a subsequence of any other string, its size is uncommon subsequence.
-4. If all strings are subsequence of other string,  return -1.
+2. Check each string whether it is a sub-sequence of any other string.
+3. If a string is not a sub-sequence of any other string, its size is uncommon sub-sequence.
+4. If all strings are sub-sequence of other string,  return -1.
 
 ```cpp
 class Solution {
