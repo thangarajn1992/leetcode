@@ -22,6 +22,7 @@ Medium Level Problem Sets for Leetcode
 | 36 | [Valid Sudoku](leetcode-36-valid-sudoku.md) |
 | 38 | [Count and Say](leetcode-38-count-and-say.md) |
 | 39 | [Combination Sum](leetcode-39-combination-sum.md) |
+| 40 | [Combination Sum II](leetcode-40-combination-sum-ii.md) |
 | 45 | [Jump Game II](leetcode-45-jump-game-ii.md) |
 | 46 | [Permutations](leetcode-46-permutations.md) |
 | 48 | [Rotate Image](leetcode-48-rotate-image.md) |
@@ -68,6 +69,7 @@ Medium Level Problem Sets for Leetcode
 | 200 | [Number of Islands](leetcode-200-number-of-islands.md) |
 | 207 | [Course Schedule](leetcode-207-course-schedule.md) |
 | 210 | [Course Schedule II](leetcode-210-course-schedule-ii.md) |
+| 216 | [Combination Sum III](leetcode-216-combination-sum-iii.md) |
 | 230 | [Kth Smallest Element in a BST](leetcode-230-kth-smallest-element-in-a-bst.md) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](leetcode-236-lowest-common-ancestor-of-a-binary-tree.md) |
 | 240 | [Search a 2D Matrix II](leetcode-240-search-a-2d-matrix-ii.md) |
@@ -79,6 +81,7 @@ Medium Level Problem Sets for Leetcode
 | 310 | [Minimum Height Trees](leetcode-310-minimum-height-trees.md) |
 | 318 | [Maximum Product of Word Lengths](leetcode-318-maximum-product-of-word-lengths.md) |
 | 328 | [Odd Even Linked List](leetcode-328-odd-even-linked-list.md) |
+| 331 | [Verify Preorder Serialization of a Binary Tree](leetcode-331-verify-preorder-serialization-of-a-binary-tree.md) |
 | 332 | [Reconstruct Itinerary](leetcode-332-reconstruct-itinerary.md) |
 | 334 | [Increasing Triplet Subsequence](leetcode-334-increasing-triplet-subsequence.md) |
 | 341 | [Flatten Nested List Iterator](leetcode-341-flatten-nested-list-iterator.md) |
@@ -90,6 +93,8 @@ Medium Level Problem Sets for Leetcode
 | 462 | [Minimum Moves to Equal Array Elements II](leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
 | 473 | [Matchsticks to Square](leetcode-473-matchsticks-to-square.md) |
 | 474 | [Ones and Zeroes](leetcode-474-ones-and-zeroes.md) |
+| 522 | [Longest Uncommon Subsequence II](leetcode-522-longest-uncommon-subsequence-ii.md) |
+| 537 | [Complex Number Multiplication](leetcode-537-complex-number-multiplication.md) |
 | 542 | [01 Matrix](leetcode-542-01-matrix.md) |
 | 547 | [Number of Provinces](leetcode-547-number-of-provinces.md) |
 | 554 | [Brick Wall](leetcode-554-brick-wall.md) |
@@ -97,6 +102,7 @@ Medium Level Problem Sets for Leetcode
 | 583 | [Delete Operation for Two Strings](leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | [Find Duplicate File in System](leetcode-609-find-duplicate-file-in-system.md) |
 | 611 | [Valid Triangle Number](leetcode-611-valid-triangle-number.md) |
+| 633 | [Sum of Square Numbers](leetcode-633-sum-of-square-numbers.md) |
 | 658 | [Find K Closest Elements](leetcode-658-find-k-closest-elements.md) |
 | 665 | [Non-decreasing Array](leetcode-665-non-decreasing-array.md) |
 | 677 | [Map Sum Pairs](leetcode-677-map-sum-pairs.md) |
@@ -177,4 +183,6 @@ Medium Level Problem Sets for Leetcode
 | 1958 | [Check if Move is Legal](leetcode-1958-check-if-move-is-legal.md) |
 | 1962 | [Remove Stones to Minimize the Total](leetcode-1962-remove-stones-to-minimize-the-total.md) |
 | 1968 | [Array With Elements Not Equal to Average of Neighbors](leetcode-1968-array-with-elements-not-equal-to-average-of-neighbors.md) |
+| 1976 | [Number of Ways to Arrive at Destination](leetcode-1976-number-of-ways-to-arrive-at-destination.md) |
+| 1980 | [Find Unique Binary String](leetcode-1980-find-unique-binary-string.md) |
 

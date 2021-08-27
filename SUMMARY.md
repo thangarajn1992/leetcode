@@ -166,6 +166,7 @@
     * [Leetcode 462 Minimum Moves to Equal Array Elements II](difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md)
     * [Leetcode 473 Matchsticks to Square](difficulty-based-problem-index/leetcode-medium/leetcode-473-matchsticks-to-square.md)
     * [Leetcode 474 Ones and Zeroes](difficulty-based-problem-index/leetcode-medium/leetcode-474-ones-and-zeroes.md)
+    * [Leetcode 522 Longest Uncommon Subsequence II](difficulty-based-problem-index/leetcode-medium/leetcode-522-longest-uncommon-subsequence-ii.md)
     * [Leetcode 537 Complex Number Multiplication](difficulty-based-problem-index/leetcode-medium/leetcode-537-complex-number-multiplication.md)
     * [Leetcode 542 01 Matrix](difficulty-based-problem-index/leetcode-medium/leetcode-542-01-matrix.md)
     * [Leetcode 547 Number of Provinces](difficulty-based-problem-index/leetcode-medium/leetcode-547-number-of-provinces.md)

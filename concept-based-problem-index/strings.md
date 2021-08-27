@@ -26,6 +26,7 @@
 | 387 | Easy | [First Unique Character in a string](../difficulty-based-problem-index/leetcode-easy/leetcode-387-first-unique-character-in-a-string.md) |
 | 415 | Easy | [Add Strings](../difficulty-based-problem-index/leetcode-easy/leetcode-415-add-strings.md) |
 | 521 | Easy | [Longest Uncommon Subsequence I](../difficulty-based-problem-index/leetcode-easy/leetcode-521-longest-uncommon-subsequence-i.md) |
+| 522 | Medium | [Longest Uncommon Subsequence II](../difficulty-based-problem-index/leetcode-medium/leetcode-522-longest-uncommon-subsequence-ii.md) |
 | 537 | Medium | [Complex Number Multiplication](../difficulty-based-problem-index/leetcode-medium/leetcode-537-complex-number-multiplication.md) |
 | 583 | Medium | [Delete Operation for Two Strings](../difficulty-based-problem-index/leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | Medium | [Find Duplicate File in System](../difficulty-based-problem-index/leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
