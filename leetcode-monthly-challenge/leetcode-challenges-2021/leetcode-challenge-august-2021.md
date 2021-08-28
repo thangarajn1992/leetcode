@@ -28,12 +28,12 @@
 | Day 20 | [Valid Sudoku](../../difficulty-based-problem-index/leetcode-medium/leetcode-36-valid-sudoku.md) |
 | Day 21 | [Sudoku Solver](../../difficulty-based-problem-index/leetcode-hard/leetcode-37-sudoku-solver.md) |
 | Day 22 |  |
-| Day 23 |  |
-| Day 24 |  |
-| Day 25 |  |
-| Day 26 |  |
-| Day 27 |  |
-| Day 28 |  |
+| Day 23 | [Two Sum IV - Input is a BST](../../difficulty-based-problem-index/leetcode-easy/leetcode-653-two-sum-iv-input-is-a-bst.md) |
+| Day 24 | [Complex Number Multiplication](../../difficulty-based-problem-index/leetcode-medium/leetcode-537-complex-number-multiplication.md) |
+| Day 25 | [Sum of Square Numbers](../../difficulty-based-problem-index/leetcode-medium/leetcode-633-sum-of-square-numbers.md) |
+| Day 26 | [Verify Preorder Serialization of a Binary Tree](../../difficulty-based-problem-index/leetcode-medium/leetcode-331-verify-preorder-serialization-of-a-binary-tree.md) |
+| Day 27 | [Longest Uncommon Subsequence II](../../difficulty-based-problem-index/leetcode-medium/leetcode-522-longest-uncommon-subsequence-ii.md) |
+| Day 28 | [Maximum Profit in Job Scheduling](../../difficulty-based-problem-index/leetcode-hard/leetcode-1235-maximum-profit-in-job-scheduling.md) |
 | Day 29 |  |
 | Day 30 |  |
 | Day 31 |  |

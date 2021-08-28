@@ -64,6 +64,7 @@
     * [Leetcode 927 Three Equal Parts](difficulty-based-problem-index/leetcode-hard/leetcode-927-three-equal-parts.md)
     * [Leetcode 968 Binary Tree Cameras](difficulty-based-problem-index/leetcode-hard/leetcode-968-binary-tree-cameras.md)
     * [Leetcode 1220 Count Vowels Permutation](difficulty-based-problem-index/leetcode-hard/leetcode-1220-count-vowels-permutation.md)
+    * [Leetcode 1235 Maximum Profit in Job Scheduling](difficulty-based-problem-index/leetcode-hard/leetcode-1235-maximum-profit-in-job-scheduling.md)
     * [Leetcode 1354 Construct Target Array With Multiple Sums](difficulty-based-problem-index/leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md)
     * [Leetcode 1383 Maximum Performance of a Team](difficulty-based-problem-index/leetcode-hard/leetcode-1383-maximum-performance-of-a-team.md)
     * [Leetcode 1862 Sum of Floored Pairs](difficulty-based-problem-index/leetcode-hard/leetcode-1862-sum-of-floored-pairs.md)
