@@ -186,4 +186,5 @@ Medium Level Problem Sets for Leetcode
 | 1976 | [Number of Ways to Arrive at Destination](leetcode-1976-number-of-ways-to-arrive-at-destination.md) |
 | 1980 | [Find Unique Binary String](leetcode-1980-find-unique-binary-string.md) |
 | 1985 | [Find the Kth Largest Integer in the Array](leetcode-1985-find-the-kth-largest-integer-in-the-array.md) |
+| 1986 | [Minimum Number of Work Sessions to Finish the Tasks](leetcode-1986-minimum-number-of-work-sessions-to-finish-the-tasks.md) |
 
