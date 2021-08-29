@@ -26,7 +26,6 @@ Hard Level Problem Sets for Leetcode
 | 927 | [Three Equal Parts](leetcode-927-three-equal-parts.md) |
 | 968 | [Binary Tree Cameras](leetcode-968-binary-tree-cameras.md) |
 | 1220 | [Count Vowels Permutation](leetcode-1220-count-vowels-permutation.md) |
-| 1235 | [Maximum Profit in Job Scheduling](leetcode-1235-maximum-profit-in-job-scheduling.md) |
 | 1354 | [Construct Target Array with Multiple Sums](leetcode-1354-construct-target-array-with-multiple-sums.md) |
 | 1383 | [Maximum Performance of a Team](leetcode-1383-maximum-performance-of-a-team.md) |
 | 1862 | [Sum of Floored Pairs](leetcode-1862-sum-of-floored-pairs.md) |
