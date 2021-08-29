@@ -227,6 +227,7 @@
     * [Leetcode 1689 Partitioning Into Minimum Number Of Deci-Binary Numbers](difficulty-based-problem-index/leetcode-medium/leetcode-1689-partitioning-into-minimum-number-of-deci-binary-numbers.md)
     * [Leetcode 1695 Maximum Erasure Value](difficulty-based-problem-index/leetcode-medium/leetcode-1695-maximum-erasure-value.md)
     * [Leetcode 1696 Jump Game VI](difficulty-based-problem-index/leetcode-medium/leetcode-1696-jump-game-vi.md)
+    * [Leetcode 1798 Maximum Number of Consecutive Values You Can Make](difficulty-based-problem-index/leetcode-medium/leetcode-1798-maximum-number-of-consecutive-values-you-can-make.md)
     * [Leetcode 1845  Seat Reservation Manager](difficulty-based-problem-index/leetcode-medium/leetcode-1845-seat-reservation-manager.md)
     * [Leetcode 1846 Maximum Element After Decreasing and Rearranging](difficulty-based-problem-index/leetcode-medium/leetcode-1846-maximum-element-after-decreasing-and-rearranging.md)
     * [Leetcode 1860 Incremental Memory Leak](difficulty-based-problem-index/leetcode-medium/leetcode-1860-incremental-memory-leak.md)
