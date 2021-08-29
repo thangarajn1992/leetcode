@@ -16,6 +16,7 @@ Hard Level Problem Sets for Leetcode
 | 127 | [Word Ladder](leetcode-127-word-ladder.md) |
 | 295 | [Find Median from Data Stream](leetcode-295-find-median-from-data-stream.md) |
 | 329 | [Longest Increasing Path in a Matrix](leetcode-329-longest-increasing-path-in-a-matrix.md) |
+| 330 | [Patching Array](leetcode-330-patching-array.md) |
 | 336 | [Palindrome Pairs](leetcode-336-palindrome-pairs.md) |
 | 363 | [Max Sum of Rectangle No Larger Than K](leetcode-363-max-sum-of-rectangle-no-larger-than-k.md) |
 | 600 | [Non-negative Integers without Consecutive Ones](leetcode-600-non-negative-integers-without-consecutive-ones.md) |
@@ -26,6 +27,7 @@ Hard Level Problem Sets for Leetcode
 | 927 | [Three Equal Parts](leetcode-927-three-equal-parts.md) |
 | 968 | [Binary Tree Cameras](leetcode-968-binary-tree-cameras.md) |
 | 1220 | [Count Vowels Permutation](leetcode-1220-count-vowels-permutation.md) |
+| 1235 | [Maximum Profit in Job Scheduling](leetcode-1235-maximum-profit-in-job-scheduling.md) |
 | 1354 | [Construct Target Array with Multiple Sums](leetcode-1354-construct-target-array-with-multiple-sums.md) |
 | 1383 | [Maximum Performance of a Team](leetcode-1383-maximum-performance-of-a-team.md) |
 | 1862 | [Sum of Floored Pairs](leetcode-1862-sum-of-floored-pairs.md) |

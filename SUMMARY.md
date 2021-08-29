@@ -54,6 +54,7 @@
     * [Leetcode 127 Word Ladder](difficulty-based-problem-index/leetcode-hard/leetcode-127-word-ladder.md)
     * [Leetcode 295 Find Median from Data Stream](difficulty-based-problem-index/leetcode-hard/leetcode-295-find-median-from-data-stream.md)
     * [Leetcode 329 Longest Increasing Path in a Matrix](difficulty-based-problem-index/leetcode-hard/leetcode-329-longest-increasing-path-in-a-matrix.md)
+    * [Leetcode 330 Patching Array](difficulty-based-problem-index/leetcode-hard/leetcode-330-patching-array.md)
     * [Leetcode 336 Palindrome Pairs](difficulty-based-problem-index/leetcode-hard/leetcode-336-palindrome-pairs.md)
     * [Leetcode 363 Max Sum of Rectangle No Larger Than K](difficulty-based-problem-index/leetcode-hard/leetcode-363-max-sum-of-rectangle-no-larger-than-k.md)
     * [Leetcode 600 Non-negative Integers without Consecutive Ones](difficulty-based-problem-index/leetcode-hard/leetcode-600-non-negative-integers-without-consecutive-ones.md)
