@@ -327,6 +327,7 @@
     * [Leetcode 566 Reshape the Matrix](difficulty-based-problem-index/leetcode-easy/leetcode-566-reshape-the-matrix.md)
     * [Leetcode 575 Distribute Candies](difficulty-based-problem-index/leetcode-easy/leetcode-575-distribute-candies.md)
     * [Leetcode 589  N-ary Tree Preorder Traversal](difficulty-based-problem-index/leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md)
+    * [Leetcode 598 Range Addition II](difficulty-based-problem-index/leetcode-easy/leetcode-598-range-addition-ii.md)
     * [Leetcode 653 Two Sum IV - Input is a BST](difficulty-based-problem-index/leetcode-easy/leetcode-653-two-sum-iv-input-is-a-bst.md)
     * [Leetcode 696 Count Binary Sub-strings](difficulty-based-problem-index/leetcode-easy/leetcode-696-count-binary-sub-strings.md)
     * [Leetcode 709 To Lower Case](difficulty-based-problem-index/leetcode-easy/leetcode-709-to-lower-case.md)

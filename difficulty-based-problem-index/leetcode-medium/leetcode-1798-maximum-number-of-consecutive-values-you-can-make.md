@@ -63,7 +63,7 @@ class Solution {
 public:
     int getMaximumConsecutive(vector<int>& coins) {
         sort(coins.begin(), coins.end());
-        int maxConsecutiveValue = 1;
+        int maxConsecutiveValue = 1; // we can always make 0 with empty subset
         for(int coin = 0; coin < coins.size(); coin++)
         {
             if(coins[coin] <= maxConsecutiveValue)

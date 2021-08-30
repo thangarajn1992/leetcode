@@ -18,6 +18,7 @@
 | 542 | Medium | [01 Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-542-01-matrix.md) |
 | 566 | Easy | [Reshape the Matrix](../difficulty-based-problem-index/leetcode-easy/leetcode-566-reshape-the-matrix.md) |
 | 576 | Medium | [Out of Boundary Paths](../difficulty-based-problem-index/leetcode-medium/leetcode-576-out-of-boundary-paths.md) |
+| 598 | Easy | [Range Addition II](../difficulty-based-problem-index/leetcode-easy/leetcode-598-range-addition-ii.md) |
 | 986 | Medium | [Interval List Intersections](../difficulty-based-problem-index/leetcode-medium/leetcode-986-interval-list-intersections.md) |
 | 827 | Hard | [Making A Large Island](../difficulty-based-problem-index/leetcode-hard/leetcode-827-making-a-large-island.md) |
 | 885 | Medium | [Spiral Matrix III](../difficulty-based-problem-index/leetcode-medium/leetcode-885-spiral-matrix-iii.md) |
