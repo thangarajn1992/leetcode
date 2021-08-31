@@ -36,5 +36,5 @@
 | Day 28 | [Maximum Profit in Job Scheduling](../../difficulty-based-problem-index/leetcode-hard/leetcode-1235-maximum-profit-in-job-scheduling.md) |
 | Day 29 | [Patching Array](../../difficulty-based-problem-index/leetcode-hard/leetcode-330-patching-array.md) |
 | Day 30 | [Range Addition II](../../difficulty-based-problem-index/leetcode-easy/leetcode-598-range-addition-ii.md) |
-| Day 31 |  |
+| Day 31 | [Find Minimum in Rotated Sorted Array](../../difficulty-based-problem-index/leetcode-medium/leetcode-153-find-minimum-in-rotated-sorted-array.md) |
 
