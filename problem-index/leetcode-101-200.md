@@ -36,8 +36,11 @@ description: Leetcode Problems from 101 to 200
 | 144 | Easy | [Binary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-144-binary-tree-preorder-traversal.md) |
 | 145 | Easy | [Binary Tree Postorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md) |
 | 150 | Medium | [Evaluate Reverse Polish Notation](../difficulty-based-problem-index/leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md) |
+| 153 | Medium | [Find Minimum in Rotated Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-153-find-minimum-in-rotated-sorted-array.md) |
+| 154 | Hard | [Find Minimum in Rotated Sorted Array II](../difficulty-based-problem-index/leetcode-hard/leetcode-154-find-minimum-in-rotated-sorted-array-ii.md) |
 | 160 | Easy | [Intersection of two linked lists](../difficulty-based-problem-index/leetcode-easy/leetcode-160-intersection-of-two-linked-lists.md) |
 | 162 | Medium | [Find Peak Element](../difficulty-based-problem-index/leetcode-medium/leetcode-162-find-peak-element.md) |
+| 167 | Easy | [Two Sum II - Input array is sorted](../difficulty-based-problem-index/leetcode-easy/leetcode-167-two-sum-ii-input-array-is-sorted.md) |
 | 169 | Easy | [Majority Element](../difficulty-based-problem-index/leetcode-easy/leetcode-169-majority-element.md) |
 | 171 | Easy | [Excel Sheet Column Number](../difficulty-based-problem-index/leetcode-easy/leetcode-171-excel-sheet-column-number.md) |
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
