@@ -5,6 +5,7 @@ This page contains problems that involves any type of trees
 | Leetcode No | Difficulty | Solution Link |
 | :--- | :--- | :--- |
 | 94 | Easy | [Binary Tree Inorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-94-binary-tree-inorder-traversal.md) |
+| 95 | Medium | [Unique Binary Search Trees II](../difficulty-based-problem-index/leetcode-medium/leetcode-95-unique-binary-search-trees-ii.md) |
 | 98 | Medium | [Validate BST \( Binary Search Tree \)](../difficulty-based-problem-index/leetcode-medium/leetcode-98-validate-binary-search-tree.md) |
 | 101 | Easy | [Symmetric Tree](../difficulty-based-problem-index/leetcode-easy/leetcode-101-symmetric-tree.md) |
 | 102 | Medium | [Binary Tree Level Order Traversal](../difficulty-based-problem-index/leetcode-medium/leetcode-102-binary-tree-level-order-traversal.md) |
@@ -23,8 +24,10 @@ This page contains problems that involves any type of trees
 | 235 | Easy | [Lowest Common Ancestor of a Binary Search Tree](../difficulty-based-problem-index/leetcode-easy/leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md) |
 | 236 | Medium | [Lowest Common Ancestor of a Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-236-lowest-common-ancestor-of-a-binary-tree.md) |
 | 307 | Medium | [Ranged Sum Query 1D - Mutable](../difficulty-based-problem-index/leetcode-medium/leetcode-307-range-sum-query-mutable.md) |
+| 331 | Medium | [Verify Preorder Serialization of a Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-331-verify-preorder-serialization-of-a-binary-tree.md) |
 | 429 | Medium | [N-ary Tree Level Order Traversal](../difficulty-based-problem-index/leetcode-medium/leetcode-429-n-ary-tree-level-order-traversal.md) |
 | 589 | Easy | [N ary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md) |
+| 653 | Easy | [Two Sum IV - Input is a BST](../difficulty-based-problem-index/leetcode-easy/leetcode-653-two-sum-iv-input-is-a-bst.md) |
 | 677 | Medium | [Map Sum Pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-677-map-sum-pairs.md) |
 | 745 | Hard | [Prefix and Suffix Search](../difficulty-based-problem-index/leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
 | 814 | Medium | [Binary Tree Pruning](../difficulty-based-problem-index/leetcode-medium/leetcode-814-binary-tree-pruning.md) |

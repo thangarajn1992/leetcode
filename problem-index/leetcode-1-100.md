@@ -45,7 +45,7 @@ description: Leetcode Problem from 1 to 100
 | 37 | Hard | [Sudoku Solver](../difficulty-based-problem-index/leetcode-hard/leetcode-37-sudoku-solver.md) |
 | 38 | Medium | [Count and Say](../difficulty-based-problem-index/leetcode-medium/leetcode-38-count-and-say.md) |
 | 39 | Medium | [Combination Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-39-combination-sum.md) |
-| 40 |  |  |
+| 40 | Medium | [Combination Sum II](../difficulty-based-problem-index/leetcode-medium/leetcode-40-combination-sum-ii.md) |
 | 41 |  |  |
 | 42 | Hard | [Trapping Rain Water](../difficulty-based-problem-index/leetcode-hard/leetcode-42-trapping-rain-water.md) |
 | 45 | Medium | [Jump Game II](../difficulty-based-problem-index/leetcode-medium/leetcode-45-jump-game-ii.md) |
@@ -81,5 +81,7 @@ description: Leetcode Problem from 1 to 100
 | 91 | Medium | [Decode Ways](../difficulty-based-problem-index/leetcode-medium/leetcode-91-decode-ways.md) |
 | 92 | Medium | [Reverse Linked List II](../difficulty-based-problem-index/leetcode-medium/leetcode-92-reverse-linked-list-ii.md) |
 | 94 | Easy | [Binary Tree Inorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-94-binary-tree-inorder-traversal.md) |
+| 95 | Medium | [Unique Binary Search Trees II](../difficulty-based-problem-index/leetcode-medium/leetcode-95-unique-binary-search-trees-ii.md) |
+| 97 | Medium | [Interleaving String](../difficulty-based-problem-index/leetcode-medium/leetcode-97-interleaving-string.md) |
 | 98 | Medium | [Validate BST \(Binary Search Tree\)](../difficulty-based-problem-index/leetcode-medium/leetcode-98-validate-binary-search-tree.md) |
 

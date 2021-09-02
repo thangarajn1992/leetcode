@@ -3,7 +3,7 @@
 | Day No | Problem & Solution Link |
 | :--- | :--- |
 | Day 1 | [Array Nesting](../../difficulty-based-problem-index/leetcode-medium/leetcode-565-array-nesting.md) |
-| Day 2 |  |
+| Day 2 | [Unique Binary Search Trees II](../../difficulty-based-problem-index/leetcode-medium/leetcode-95-unique-binary-search-trees-ii.md) |
 | Day 3 |  |
 | Day 4 |  |
 | Day 5 |  |

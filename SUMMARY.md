@@ -124,6 +124,7 @@
     * [Leetcode 90 Subsets II](difficulty-based-problem-index/leetcode-medium/leetcode-90-subsets-ii.md)
     * [Leetcode 91 Decode Ways](difficulty-based-problem-index/leetcode-medium/leetcode-91-decode-ways.md)
     * [Leetcode 92 Reverse Linked List II](difficulty-based-problem-index/leetcode-medium/leetcode-92-reverse-linked-list-ii.md)
+    * [Leetcode 95 Unique Binary Search Trees II](difficulty-based-problem-index/leetcode-medium/leetcode-95-unique-binary-search-trees-ii.md)
     * [Leetcode 97 Interleaving String](difficulty-based-problem-index/leetcode-medium/leetcode-97-interleaving-string.md)
     * [LeetCode 98 Validate Binary Search Tree](difficulty-based-problem-index/leetcode-medium/leetcode-98-validate-binary-search-tree.md)
     * [Leetcode 102 Binary Tree Level Order Traversal](difficulty-based-problem-index/leetcode-medium/leetcode-102-binary-tree-level-order-traversal.md)
