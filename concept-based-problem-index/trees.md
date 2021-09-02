@@ -6,6 +6,7 @@ This page contains problems that involves any type of trees
 | :--- | :--- | :--- |
 | 94 | Easy | [Binary Tree Inorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-94-binary-tree-inorder-traversal.md) |
 | 95 | Medium | [Unique Binary Search Trees II](../difficulty-based-problem-index/leetcode-medium/leetcode-95-unique-binary-search-trees-ii.md) |
+| 96 | Medium | [Unique Binary Search Trees](../difficulty-based-problem-index/leetcode-medium/leetcode-96-unique-binary-search-trees.md) |
 | 98 | Medium | [Validate BST \( Binary Search Tree \)](../difficulty-based-problem-index/leetcode-medium/leetcode-98-validate-binary-search-tree.md) |
 | 101 | Easy | [Symmetric Tree](../difficulty-based-problem-index/leetcode-easy/leetcode-101-symmetric-tree.md) |
 | 102 | Medium | [Binary Tree Level Order Traversal](../difficulty-based-problem-index/leetcode-medium/leetcode-102-binary-tree-level-order-traversal.md) |

@@ -48,6 +48,7 @@ Medium Level Problem Sets for Leetcode
 | 91 | [Decode Ways](leetcode-91-decode-ways.md) |
 | 92 | [Reverse Linked List II](leetcode-92-reverse-linked-list-ii.md) |
 | 95 | [Unique Binary Search Trees II](leetcode-95-unique-binary-search-trees-ii.md) |
+| 96 | [Unique Binary Search Trees](leetcode-96-unique-binary-search-trees.md) |
 | 97 | [Interleaving Strings](leetcode-97-interleaving-string.md) |
 | 98 | [Validate Binary Search Tree](leetcode-98-validate-binary-search-tree.md) |
 | 102 | [Binary Tree Level Order Traversal](leetcode-102-binary-tree-level-order-traversal.md) |

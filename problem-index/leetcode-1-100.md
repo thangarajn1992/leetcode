@@ -82,6 +82,7 @@ description: Leetcode Problem from 1 to 100
 | 92 | Medium | [Reverse Linked List II](../difficulty-based-problem-index/leetcode-medium/leetcode-92-reverse-linked-list-ii.md) |
 | 94 | Easy | [Binary Tree Inorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-94-binary-tree-inorder-traversal.md) |
 | 95 | Medium | [Unique Binary Search Trees II](../difficulty-based-problem-index/leetcode-medium/leetcode-95-unique-binary-search-trees-ii.md) |
+| 96 | Medium | [Unique Binary Search Trees](../difficulty-based-problem-index/leetcode-medium/leetcode-96-unique-binary-search-trees.md) |
 | 97 | Medium | [Interleaving String](../difficulty-based-problem-index/leetcode-medium/leetcode-97-interleaving-string.md) |
 | 98 | Medium | [Validate BST \(Binary Search Tree\)](../difficulty-based-problem-index/leetcode-medium/leetcode-98-validate-binary-search-tree.md) |
 
