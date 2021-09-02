@@ -24,6 +24,7 @@ Hard Level Problem Sets for Leetcode
 | 639 | [Decode Ways II](leetcode-639-decode-ways-ii.md) |
 | 745 | [Prefix and Suffix Search](leetcode-745-prefix-and-suffix-search.md) |
 | 827 | [Making A Large Island](leetcode-827-making-a-large-island.md) |
+| 829 | [Consecutive Numbers Sum](leetcode-829-consecutive-numbers-sum.md) |
 | 906 | [Super Palindromes](leetcode-906-super-palindromes.md) |
 | 927 | [Three Equal Parts](leetcode-927-three-equal-parts.md) |
 | 968 | [Binary Tree Cameras](leetcode-968-binary-tree-cameras.md) |

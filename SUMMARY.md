@@ -62,6 +62,7 @@
     * [Leetcode 639 Decode Ways II](difficulty-based-problem-index/leetcode-hard/leetcode-639-decode-ways-ii.md)
     * [Leetcode 745 Prefix and Suffix Search](difficulty-based-problem-index/leetcode-hard/leetcode-745-prefix-and-suffix-search.md)
     * [Leetcode 827 Making A Large Island](difficulty-based-problem-index/leetcode-hard/leetcode-827-making-a-large-island.md)
+    * [Leetcode 829 Consecutive Numbers Sum](difficulty-based-problem-index/leetcode-hard/leetcode-829-consecutive-numbers-sum.md)
     * [Leetcode 906 Super Palindromes](difficulty-based-problem-index/leetcode-hard/leetcode-906-super-palindromes.md)
     * [Leetcode 927 Three Equal Parts](difficulty-based-problem-index/leetcode-hard/leetcode-927-three-equal-parts.md)
     * [Leetcode 968 Binary Tree Cameras](difficulty-based-problem-index/leetcode-hard/leetcode-968-binary-tree-cameras.md)
