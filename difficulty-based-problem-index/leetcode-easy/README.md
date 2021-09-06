@@ -33,7 +33,6 @@ Easy Level Problem Sets for Leetcode
 | 145 | [Binary Tree Postorder Traversal](leetcode-145-binary-tree-postorder-traversal.md) |
 | 155 | [Min Stack](leetcode-155-min-stack.md) |
 | 160 | [Intersection of Two Linked Lists](leetcode-160-intersection-of-two-linked-lists.md) |
-| 167 | [Two Sum II - Input array is sorted](leetcode-167-two-sum-ii-input-array-is-sorted.md) |
 | 169 | [Majority Element](leetcode-169-majority-element.md) |
 | 171 | [Excel Sheet Column Number](leetcode-171-excel-sheet-column-number.md) |
 | 190 | [Reverse Bits](leetcode-190-reverse-bits.md) |
@@ -63,12 +62,9 @@ Easy Level Problem Sets for Leetcode
 | 453 | [Minimum Moves to Equal Array Elements](leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 461 | [Hamming Distance](leetcode-461-hamming-distance.md) |
 | 509 | [Fibonacci Number](leetcode-509-fibonacci-number.md) |
-| 521 | [Longest Uncommon Subsequence I](leetcode-521-longest-uncommon-subsequence-i.md) |
 | 566 | [Reshape the Matrix](leetcode-566-reshape-the-matrix.md) |
 | 575 | [Distribute Candies](leetcode-575-distribute-candies.md) |
 | 589 | [N-ary Tree Preorder Traversal](leetcode-589-n-ary-tree-preorder-traversal.md) |
-| 598 | [Range Addition II](leetcode-598-range-addition-ii.md) |
-| 653 | [Two Sum IV - Input is a BST](leetcode-653-two-sum-iv-input-is-a-bst.md) |
 | 696 | [Count Binary Sub-strings](leetcode-696-count-binary-sub-strings.md) |
 | 709 | [To Lower Case](leetcode-709-to-lower-case.md) |
 | 746 | [Min Cost Climbing Stairs](leetcode-746-min-cost-climbing-stairs.md) |
@@ -99,8 +95,4 @@ Easy Level Problem Sets for Leetcode
 | 1957 | [Delete Characters to Make Fancy String](leetcode-1957-delete-characters-to-make-fancy-string.md) |
 | 1961 | [Check If String Is a Prefix of Array](leetcode-1961-check-if-string-is-a-prefix-of-array.md) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](leetcode-1967-number-of-strings-that-appear-as-substrings-in-word.md) |
-| 1974 | [Minimum Time to Type Word Using Special Typewriter](leetcode-1974-minimum-time-to-type-word-using-special-typewriter.md) |
-| 1979 | [Find Greatest Common Divisor of Array](leetcode-1979-find-greatest-common-divisor-of-array.md) |
-| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](leetcode-1984-minimum-difference-between-highest-and-lowest-of-k-scores.md) |
-| 1991 | [Find the Middle Index in Array](leetcode-1991-find-the-middle-index-in-array.md) |
 

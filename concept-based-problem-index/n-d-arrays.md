@@ -18,6 +18,7 @@
 | 542 | Medium | [01 Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-542-01-matrix.md) |
 | 566 | Easy | [Reshape the Matrix](../difficulty-based-problem-index/leetcode-easy/leetcode-566-reshape-the-matrix.md) |
 | 576 | Medium | [Out of Boundary Paths](../difficulty-based-problem-index/leetcode-medium/leetcode-576-out-of-boundary-paths.md) |
+| 598 | Easy | [Range Addition II](../difficulty-based-problem-index/leetcode-easy/leetcode-598-range-addition-ii.md) |
 | 986 | Medium | [Interval List Intersections](../difficulty-based-problem-index/leetcode-medium/leetcode-986-interval-list-intersections.md) |
 | 827 | Hard | [Making A Large Island](../difficulty-based-problem-index/leetcode-hard/leetcode-827-making-a-large-island.md) |
 | 885 | Medium | [Spiral Matrix III](../difficulty-based-problem-index/leetcode-medium/leetcode-885-spiral-matrix-iii.md) |
@@ -29,4 +30,5 @@
 | 1926 | Medium | [Nearest Exit from Entrance in Maze](../difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
 | 1958 | Medium | [Check if Move is Legal](../difficulty-based-problem-index/leetcode-medium/leetcode-1958-check-if-move-is-legal.md) |
 | 1970 | Hard | [Last Day Where You Can Still Cross](../difficulty-based-problem-index/leetcode-hard/leetcode-1970-last-day-where-you-can-still-cross.md) |
+| 1992 | Medium | [Find All Groups of Farmland](../difficulty-based-problem-index/leetcode-medium/leetcode-1992-find-all-groups-of-farmland.md) |
 
