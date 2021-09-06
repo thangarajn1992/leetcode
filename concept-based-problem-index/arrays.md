@@ -58,6 +58,7 @@ This page contains list of problems that involves arrays
 | 350 | Easy | [Intersection of Two Array II](../difficulty-based-problem-index/leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |
 | 453 | Easy | [Minimum Moves to Equal Array Elements](../difficulty-based-problem-index/leetcode-easy/leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 462 | Medium | [Minimum Moves to Equal Array Elements II](../difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
+| 565 | Medium | [Array Nesting](../difficulty-based-problem-index/leetcode-medium/leetcode-565-array-nesting.md) |
 | 575 | Easy | [Distribute Candies](../difficulty-based-problem-index/leetcode-easy/leetcode-575-distribute-candies.md) |
 | 658 | Medium | [Find K Closest Elements](../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md) |
 | 665 | Medium | [Non-decreasing array](../difficulty-based-problem-index/leetcode-medium/leetcode-665-non-decreasing-array.md) |
@@ -100,6 +101,7 @@ This page contains list of problems that involves arrays
 | 1968 | Medium | [Array With Elements Not Equal to Average of Neighbors](../difficulty-based-problem-index/leetcode-medium/leetcode-1968-array-with-elements-not-equal-to-average-of-neighbors.md) |
 | 1984 | Easy | [Minimum Difference Between Highest and Lowest of K Scores](../difficulty-based-problem-index/leetcode-easy/leetcode-1984-minimum-difference-between-highest-and-lowest-of-k-scores.md) |
 | 1986 | Medium | [Minimum Number of Work Sessions to Finish the Tasks](../difficulty-based-problem-index/leetcode-medium/leetcode-1986-minimum-number-of-work-sessions-to-finish-the-tasks.md) |
+| 1991 | Easy | [Find the Middle Index in Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1991-find-the-middle-index-in-array.md) |
 
 
 
