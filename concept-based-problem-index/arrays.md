@@ -43,6 +43,7 @@ This page contains list of problems that involves arrays
 | 162 | Medium | [Find Peak Element](../difficulty-based-problem-index/leetcode-medium/leetcode-162-find-peak-element.md) |
 | 167 | Easy | [Two Sum II - Input array is sorted](../difficulty-based-problem-index/leetcode-easy/leetcode-167-two-sum-ii-input-array-is-sorted.md) |
 | 169 | Easy | [Majority Element](../difficulty-based-problem-index/leetcode-easy/leetcode-169-majority-element.md) |
+| 188 | Hard | [Best Time to Buy and Sell Stock IV](../difficulty-based-problem-index/leetcode-hard/leetcode-188-best-time-to-buy-and-sell-stock-iv.md) |
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](../difficulty-based-problem-index/leetcode-medium/leetcode-198-house-robber.md) |
 | 200 | Medium | [Number of Islands](../difficulty-based-problem-index/leetcode-medium/leetcode-200-number-of-islands.md) |
