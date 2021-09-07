@@ -81,6 +81,7 @@ This page contains list of problems that involves arrays
 | 1423 | Medium | [Maximum Points You Can Obtain from Cards](../difficulty-based-problem-index/leetcode-medium/leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
 | 1465 | Medium | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](../difficulty-based-problem-index/leetcode-medium/leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |
 | 1480 | Easy | [Running Sum of 1d Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
+| 1629 | Easy | [Slowest Key](../difficulty-based-problem-index/leetcode-easy/leetcode-1629-slowest-key.md) |
 | 1689 | Medium | [Partitioning Into Minimum Number Of Deci-Binary Numbers](../difficulty-based-problem-index/leetcode-medium/leetcode-1689-partitioning-into-minimum-number-of-deci-binary-numbers.md) |
 | 1695 | Medium | [Maximum Erasure Value](../difficulty-based-problem-index/leetcode-medium/leetcode-1695-maximum-erasure-value.md) |
 | 1696 | Medium | [Jump Game VI](../difficulty-based-problem-index/leetcode-medium/leetcode-1696-jump-game-vi.md) |

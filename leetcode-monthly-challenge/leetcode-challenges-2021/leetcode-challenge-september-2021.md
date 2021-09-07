@@ -7,7 +7,7 @@
 | Day 3 |  |
 | Day 4 |  |
 | Day 5 |  |
-| Day 6 |  |
+| Day 6 | [Slowest Key](../../difficulty-based-problem-index/leetcode-easy/leetcode-1629-slowest-key.md) |
 | Day 7 |  |
 | Day 8 |  |
 | Day 9 |  |

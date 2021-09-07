@@ -350,6 +350,7 @@
     * [Leetcode 1480 Running Sum of 1d Array](difficulty-based-problem-index/leetcode-easy/leetcode-1480-running-sum-of-1d-array.md)
     * [Leetcode 1486 XOR Operation in an Array](difficulty-based-problem-index/leetcode-easy/leetcode-1486-xor-operation-in-an-array.md)
     * [Leetcode 1582 Special Positions in a Binary Matrix](difficulty-based-problem-index/leetcode-easy/leetcode-1582-special-positions-in-a-binary-matrix.md)
+    * [Leetcode 1629 Slowest Key](difficulty-based-problem-index/leetcode-easy/leetcode-1629-slowest-key.md)
     * [Leetcode 1844 Replace All Digits with Characters](difficulty-based-problem-index/leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md)
     * [Leetcode 1710 Maximum Units on a Truck](difficulty-based-problem-index/leetcode-easy/leetcode-1710-maximum-units-on-a-truck.md)
     * [Leetcode 1791 Find Center of Star Graph](difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph.md)
