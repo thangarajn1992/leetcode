@@ -11,11 +11,14 @@ description: Leetcode Problems from 301 to 400
 | 303 | Easy | [Range Sum Query](../difficulty-based-problem-index/leetcode-easy/leetcode-303-range-sum-query-immutable.md) |
 | 304 | Medium | [Range Sum Query 2D - Immutable](../difficulty-based-problem-index/leetcode-medium/leetcode-304-range-sum-query-2d-immutable.md) |
 | 307 | Medium | [Range Sum Query 1D - Mutable](../difficulty-based-problem-index/leetcode-medium/leetcode-307-range-sum-query-mutable.md) |
+| 309 | Medium | [Best Time to Buy and Sell Stock with Cooldown](../difficulty-based-problem-index/leetcode-medium/leetcode-309-best-time-to-buy-and-sell-stock-with-cooldown.md) |
 | 310 | Medium | [Minimum Height Trees](../difficulty-based-problem-index/leetcode-medium/leetcode-310-minimum-height-trees.md) |
 | 318 | Medium | [Maximum Product of Word Lengths](../difficulty-based-problem-index/leetcode-medium/leetcode-318-maximum-product-of-word-lengths.md) |
 | 326 | Easy | [Power of Three](../difficulty-based-problem-index/leetcode-easy/leetcode-326-power-of-three.md) |
 | 328 | Medium | [Odd Even Linked List](../difficulty-based-problem-index/leetcode-medium/leetcode-328-odd-even-linked-list.md) |
 | 329 | Hard | [Longest Increasing Path in a Matrix](../difficulty-based-problem-index/leetcode-hard/leetcode-329-longest-increasing-path-in-a-matrix.md) |
+| 330 | Hard | [Patching Array](../difficulty-based-problem-index/leetcode-hard/leetcode-330-patching-array.md) |
+| 331 | Medium | [Verify Preorder Serialization of a Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-331-verify-preorder-serialization-of-a-binary-tree.md) |
 | 332 | Medium | [Reconstruct Itinerary](../difficulty-based-problem-index/leetcode-medium/leetcode-332-reconstruct-itinerary.md) |
 | 334 | Medium | [Increasing Triplet Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-334-increasing-triplet-subsequence.md) |
 | 336 | Hard | [Palindrome Pairs](../difficulty-based-problem-index/leetcode-hard/leetcode-336-palindrome-pairs.md) |

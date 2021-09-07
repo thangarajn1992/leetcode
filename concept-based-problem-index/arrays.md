@@ -53,6 +53,7 @@ This page contains list of problems that involves arrays
 | 283 | Easy | [Move Zeroes](../difficulty-based-problem-index/leetcode-easy/leetcode-283-move-zeroes.md) |
 | 287 | Medium | [Find the duplicate number](../difficulty-based-problem-index/leetcode-medium/leetcode-287-find-the-duplicate-number.md) |
 | 300 | Medium | [Longest Increasing Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md) |
+| 309 | Medium | [Best Time to Buy and Sell Stock with Cooldown](../difficulty-based-problem-index/leetcode-medium/leetcode-309-best-time-to-buy-and-sell-stock-with-cooldown.md) |
 | 318 | Medium | [Maximum Product of Word Lengths](../difficulty-based-problem-index/leetcode-medium/leetcode-318-maximum-product-of-word-lengths.md) |
 | 334 | Medium | [Increasing Triplet Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-334-increasing-triplet-subsequence.md) |
 | 341 | Medium | [Flatten Nested List Iterator](../difficulty-based-problem-index/leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |

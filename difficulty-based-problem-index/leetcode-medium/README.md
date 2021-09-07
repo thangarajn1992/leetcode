@@ -81,6 +81,7 @@ Medium Level Problem Sets for Leetcode
 | 300 | [Longest Increasing Subsequence](leetcode-300-longest-increasing-subsequence.md) |
 | 304 | [Range Sum Query 2D - Immutable](leetcode-304-range-sum-query-2d-immutable.md) |
 | 307 | [Range Sum Query - Mutable](leetcode-307-range-sum-query-mutable.md) |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](leetcode-309-best-time-to-buy-and-sell-stock-with-cooldown.md) |
 | 310 | [Minimum Height Trees](leetcode-310-minimum-height-trees.md) |
 | 318 | [Maximum Product of Word Lengths](leetcode-318-maximum-product-of-word-lengths.md) |
 | 328 | [Odd Even Linked List](leetcode-328-odd-even-linked-list.md) |
@@ -192,4 +193,6 @@ Medium Level Problem Sets for Leetcode
 | 1980 | [Find Unique Binary String](leetcode-1980-find-unique-binary-string.md) |
 | 1985 | [Find the Kth Largest Integer in the Array](leetcode-1985-find-the-kth-largest-integer-in-the-array.md) |
 | 1986 | [Minimum Number of Work Sessions to Finish the Tasks](leetcode-1986-minimum-number-of-work-sessions-to-finish-the-tasks.md) |
+| 1992 | [Find All Groups of Farmland](leetcode-1992-find-all-groups-of-farmland.md) |
+| 1993 | [Operations on Tree](leetcode-1993-operations-on-tree.md) |
 

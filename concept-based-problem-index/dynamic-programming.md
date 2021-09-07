@@ -25,6 +25,7 @@ This page contains list of problems that are solved using dynamic programming.
 | 877 | Medium | [Stone Game](../difficulty-based-problem-index/leetcode-medium/leetcode-877-stone-game.md) |
 | 1048 | Medium | [Longest String Chain](../difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md) |
 | 1220 | Hard | [Count Vowels Permutation](../difficulty-based-problem-index/leetcode-hard/leetcode-1220-count-vowels-permutation.md) |
+| 1235 | Hard | [Maximum Profit in Job Scheduling](../difficulty-based-problem-index/leetcode-hard/leetcode-1235-maximum-profit-in-job-scheduling.md) |
 | 1239  | Medium | [Maximum Length of a Concatenated String with Unique Characters](../difficulty-based-problem-index/leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
 | 1866 | Hard | [Number of Ways to Rearrange Sticks With K Sticks Visible](../difficulty-based-problem-index/leetcode-hard/leetcode-1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.md) |
 | 1871 | Medium | [Jump Game VII](../difficulty-based-problem-index/leetcode-medium/leetcode-1871-jump-game-vii.md) |

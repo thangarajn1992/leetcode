@@ -39,11 +39,14 @@ Cheapest is: start on cost[0], and only step on 1s, skipping cost[3].
 class Solution {
 public:
     int minCostClimbingStairs(vector<int>& cost) {
-        int dp[cost.size()+1];
-        dp[0] = dp[1] = 0;
-        for(int i=2; i<=cost.size(); ++i)
-            dp[i] = min(dp[i-2]+cost[i-2], dp[i-1]+cost[i-1]);
-        return dp[cost.size()];
+        int two_step = 0, one_step = 0;
+        for(int stair = cost.size()-1; stair >= 0; stair--)
+        {
+            int cur_step  = min(two_step, one_step) + cost[stair];
+            two_step = one_step;
+            one_step = cur_step;
+        }        
+        return min(two_step, one_step);
     }
 };
 ```

@@ -15,6 +15,7 @@ description: Leetcode Problems from 201 to 300
 | 206 | Easy | [Reverse Linked List](../difficulty-based-problem-index/leetcode-easy/leetcode-206-reverse-linked-list.md) |
 | 207 | Medium | [Course Schedule](../difficulty-based-problem-index/leetcode-medium/leetcode-207-course-schedule.md) |
 | 210 | Medium | [Course Schedule II](../difficulty-based-problem-index/leetcode-medium/leetcode-210-course-schedule-ii.md) |
+| 216 | Medium | [Combination Sum III](../difficulty-based-problem-index/leetcode-medium/leetcode-216-combination-sum-iii.md) |
 | 217 | Easy | [Contains Duplicate](../difficulty-based-problem-index/leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 230 | Medium | [Kth Smallest Element in a BST](../difficulty-based-problem-index/leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md) |
 | 234 | Easy | [Palindrome Linked List](../difficulty-based-problem-index/leetcode-easy/leetcode-234-palindrome-linked-list.md) |
