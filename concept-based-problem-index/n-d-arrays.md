@@ -8,12 +8,9 @@
 | 37 | Hard | [Sudoku Solver](../difficulty-based-problem-index/leetcode-hard/leetcode-37-sudoku-solver.md) |
 | 54 | Medium | [Spiral Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-54-spiral-matrix.md) |
 | 57 | Medium | [Insert Interval](../difficulty-based-problem-index/leetcode-medium/leetcode-57-insert-interval.md) |
-| 73 | Medium | [Set Matrix Zeroes](../difficulty-based-problem-index/leetcode-medium/leetcode-73-set-matrix-zeroes.md) |
 | 59 | Medium | [Spiral Matrix II](../difficulty-based-problem-index/leetcode-medium/leetcode-59-spiral-matrix-ii.md) |
 | 74 | Medium | [Search a 2D Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-74-search-a-2d-matrix.md) |
 | 79 | Medium | [Word Search](../difficulty-based-problem-index/leetcode-medium/leetcode-79-word-search.md) |
-| 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
-| 200 | Medium | [Number of Islands](../difficulty-based-problem-index/leetcode-medium/leetcode-200-number-of-islands.md) |
 | 240 | Medium | [Search a 2D Matrix II](../difficulty-based-problem-index/leetcode-medium/leetcode-240-search-a-2d-matrix-ii.md) |
 | 329 | Hard | [Longest Increasing Path in a Matrix](../difficulty-based-problem-index/leetcode-hard/leetcode-329-longest-increasing-path-in-a-matrix.md) |
 | 363 | Hard | [Max Sum of Rectangle No Larger Than K](../difficulty-based-problem-index/leetcode-hard/leetcode-363-max-sum-of-rectangle-no-larger-than-k.md) |
@@ -21,8 +18,6 @@
 | 542 | Medium | [01 Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-542-01-matrix.md) |
 | 566 | Easy | [Reshape the Matrix](../difficulty-based-problem-index/leetcode-easy/leetcode-566-reshape-the-matrix.md) |
 | 576 | Medium | [Out of Boundary Paths](../difficulty-based-problem-index/leetcode-medium/leetcode-576-out-of-boundary-paths.md) |
-| 598 | Easy | [Range Addition II](../difficulty-based-problem-index/leetcode-easy/leetcode-598-range-addition-ii.md) |
-| 695 | Medium | [Max Area of Island](../difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md) |
 | 986 | Medium | [Interval List Intersections](../difficulty-based-problem-index/leetcode-medium/leetcode-986-interval-list-intersections.md) |
 | 827 | Hard | [Making A Large Island](../difficulty-based-problem-index/leetcode-hard/leetcode-827-making-a-large-island.md) |
 | 885 | Medium | [Spiral Matrix III](../difficulty-based-problem-index/leetcode-medium/leetcode-885-spiral-matrix-iii.md) |
@@ -34,5 +29,4 @@
 | 1926 | Medium | [Nearest Exit from Entrance in Maze](../difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
 | 1958 | Medium | [Check if Move is Legal](../difficulty-based-problem-index/leetcode-medium/leetcode-1958-check-if-move-is-legal.md) |
 | 1970 | Hard | [Last Day Where You Can Still Cross](../difficulty-based-problem-index/leetcode-hard/leetcode-1970-last-day-where-you-can-still-cross.md) |
-| 1992 | Medium | [Find All Groups of Farmland](../difficulty-based-problem-index/leetcode-medium/leetcode-1992-find-all-groups-of-farmland.md) |
 
