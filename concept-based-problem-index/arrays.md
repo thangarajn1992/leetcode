@@ -34,7 +34,6 @@ This page contains list of problems that involves arrays
 | 119 | Easy | [Pascal's Triangle II](../difficulty-based-problem-index/leetcode-easy/leetcode-119-pascals-triangle-ii.md) |
 | 121 | Easy | [Best Time to Buy and Sell Stock](../difficulty-based-problem-index/leetcode-easy/leetcode-121-best-time-to-buy-and-sell-stock.md) |
 | 122 | Easy | [Best Time to Buy and Sell Stock II](../difficulty-based-problem-index/leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md) |
-| 123 | Hard | [Best Time to Buy and Sell Stock III](../difficulty-based-problem-index/leetcode-hard/leetcode-123-best-time-to-buy-and-sell-stock-iii.md) |
 | 128 | Medium | [Longest Consecutive Sequence](../difficulty-based-problem-index/leetcode-medium/leetcode-128-longest-consecutive-sequence.md) |
 | 136 | Easy | [Single Number](../difficulty-based-problem-index/leetcode-easy/leetcode-136-single-number.md) |
 | 150 | Medium | [Evaluate Reverse Polish Notation](../difficulty-based-problem-index/leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md) |
@@ -43,7 +42,6 @@ This page contains list of problems that involves arrays
 | 162 | Medium | [Find Peak Element](../difficulty-based-problem-index/leetcode-medium/leetcode-162-find-peak-element.md) |
 | 167 | Easy | [Two Sum II - Input array is sorted](../difficulty-based-problem-index/leetcode-easy/leetcode-167-two-sum-ii-input-array-is-sorted.md) |
 | 169 | Easy | [Majority Element](../difficulty-based-problem-index/leetcode-easy/leetcode-169-majority-element.md) |
-| 188 | Hard | [Best Time to Buy and Sell Stock IV](../difficulty-based-problem-index/leetcode-hard/leetcode-188-best-time-to-buy-and-sell-stock-iv.md) |
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
 | 198 | Medium | [House Robber](../difficulty-based-problem-index/leetcode-medium/leetcode-198-house-robber.md) |
 | 200 | Medium | [Number of Islands](../difficulty-based-problem-index/leetcode-medium/leetcode-200-number-of-islands.md) |
@@ -53,7 +51,6 @@ This page contains list of problems that involves arrays
 | 283 | Easy | [Move Zeroes](../difficulty-based-problem-index/leetcode-easy/leetcode-283-move-zeroes.md) |
 | 287 | Medium | [Find the duplicate number](../difficulty-based-problem-index/leetcode-medium/leetcode-287-find-the-duplicate-number.md) |
 | 300 | Medium | [Longest Increasing Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md) |
-| 309 | Medium | [Best Time to Buy and Sell Stock with Cooldown](../difficulty-based-problem-index/leetcode-medium/leetcode-309-best-time-to-buy-and-sell-stock-with-cooldown.md) |
 | 318 | Medium | [Maximum Product of Word Lengths](../difficulty-based-problem-index/leetcode-medium/leetcode-318-maximum-product-of-word-lengths.md) |
 | 334 | Medium | [Increasing Triplet Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-334-increasing-triplet-subsequence.md) |
 | 341 | Medium | [Flatten Nested List Iterator](../difficulty-based-problem-index/leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
@@ -61,12 +58,10 @@ This page contains list of problems that involves arrays
 | 350 | Easy | [Intersection of Two Array II](../difficulty-based-problem-index/leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |
 | 453 | Easy | [Minimum Moves to Equal Array Elements](../difficulty-based-problem-index/leetcode-easy/leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 462 | Medium | [Minimum Moves to Equal Array Elements II](../difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
-| 565 | Medium | [Array Nesting](../difficulty-based-problem-index/leetcode-medium/leetcode-565-array-nesting.md) |
 | 575 | Easy | [Distribute Candies](../difficulty-based-problem-index/leetcode-easy/leetcode-575-distribute-candies.md) |
 | 658 | Medium | [Find K Closest Elements](../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md) |
 | 665 | Medium | [Non-decreasing array](../difficulty-based-problem-index/leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 695 | Medium | [Max Area of Island](../difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md) |
-| 714 | Medium | [Best Time to Buy and Sell Stock with Transaction Fee](../difficulty-based-problem-index/leetcode-medium/leetcode-714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) |
 | 718 | Medium | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 795 | Medium | [Number of Subarrays with Bounded Maximum](../difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 915 | Medium | [Partition Array into Disjoint Intervals](../difficulty-based-problem-index/leetcode-medium/leetcode-915-partition-array-into-disjoint-intervals.md) |
@@ -82,7 +77,6 @@ This page contains list of problems that involves arrays
 | 1423 | Medium | [Maximum Points You Can Obtain from Cards](../difficulty-based-problem-index/leetcode-medium/leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
 | 1465 | Medium | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](../difficulty-based-problem-index/leetcode-medium/leetcode-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.md) |
 | 1480 | Easy | [Running Sum of 1d Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1480-running-sum-of-1d-array.md) |
-| 1629 | Easy | [Slowest Key](../difficulty-based-problem-index/leetcode-easy/leetcode-1629-slowest-key.md) |
 | 1689 | Medium | [Partitioning Into Minimum Number Of Deci-Binary Numbers](../difficulty-based-problem-index/leetcode-medium/leetcode-1689-partitioning-into-minimum-number-of-deci-binary-numbers.md) |
 | 1695 | Medium | [Maximum Erasure Value](../difficulty-based-problem-index/leetcode-medium/leetcode-1695-maximum-erasure-value.md) |
 | 1696 | Medium | [Jump Game VI](../difficulty-based-problem-index/leetcode-medium/leetcode-1696-jump-game-vi.md) |
@@ -106,7 +100,6 @@ This page contains list of problems that involves arrays
 | 1968 | Medium | [Array With Elements Not Equal to Average of Neighbors](../difficulty-based-problem-index/leetcode-medium/leetcode-1968-array-with-elements-not-equal-to-average-of-neighbors.md) |
 | 1984 | Easy | [Minimum Difference Between Highest and Lowest of K Scores](../difficulty-based-problem-index/leetcode-easy/leetcode-1984-minimum-difference-between-highest-and-lowest-of-k-scores.md) |
 | 1986 | Medium | [Minimum Number of Work Sessions to Finish the Tasks](../difficulty-based-problem-index/leetcode-medium/leetcode-1986-minimum-number-of-work-sessions-to-finish-the-tasks.md) |
-| 1991 | Easy | [Find the Middle Index in Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1991-find-the-middle-index-in-array.md) |
 
 
 

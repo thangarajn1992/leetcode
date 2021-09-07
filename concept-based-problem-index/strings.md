@@ -21,6 +21,7 @@
 | 127 | Hard | [Word Ladder](../difficulty-based-problem-index/leetcode-hard/leetcode-127-word-ladder.md) |
 | 205 | Easy | [Isomorphic Strings](../difficulty-based-problem-index/leetcode-easy/leetcode-205-isomorphic-strings.md) |
 | 242 | Easy | [Valid Anagram](../difficulty-based-problem-index/leetcode-easy/leetcode-242-valid-anagram.md) |
+| 318 | Medium | [Maximum Product of Word Lengths](../difficulty-based-problem-index/leetcode-medium/leetcode-318-maximum-product-of-word-lengths.md) |
 | 336 | Hard | [Palindrome Pairs](../difficulty-based-problem-index/leetcode-hard/leetcode-336-palindrome-pairs.md) |
 | 344 | Easy | [Reverse String](../difficulty-based-problem-index/leetcode-easy/leetcode-344-reverse-string.md) |
 | 387 | Easy | [First Unique Character in a string](../difficulty-based-problem-index/leetcode-easy/leetcode-387-first-unique-character-in-a-string.md) |
