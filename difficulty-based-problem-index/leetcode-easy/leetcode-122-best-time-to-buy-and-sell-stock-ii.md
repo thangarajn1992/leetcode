@@ -50,18 +50,15 @@ In this case, no transaction is done, i.e., max profit = 0.
 ## `Solution`
 
 ```cpp
-class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-        int profit = 0;
-        int days = prices.size();
-        for(int day = 0; day < days-1; day++)
-        {
-            if(prices[day+1] > prices[day])
-                profit += prices[day+1] - prices[day];
-        }
-        return profit;
+int maxProfit(vector<int>& prices) {
+    int profit = 0;
+    for(int i = 1; i < prices.size(); i++)
+    {
+        int d = prices[i] - prices[i-1];
+        if(d > 0)
+            profit += d;
     }
-};
+    return profit;
+}
 ```
 

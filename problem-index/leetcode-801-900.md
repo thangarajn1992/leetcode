@@ -12,6 +12,7 @@ description: Leetcode Problem from 801 to 900
 | 814 | Medium | [Binary Tree Pruning](../difficulty-based-problem-index/leetcode-medium/leetcode-814-binary-tree-pruning.md) |
 | 827 | Hard | [Making A Large Island](../difficulty-based-problem-index/leetcode-hard/leetcode-827-making-a-large-island.md) |
 | 829 | Hard  | [Consecutive Numbers Sum](../difficulty-based-problem-index/leetcode-hard/leetcode-829-consecutive-numbers-sum.md) |
+| 834 | Hard | [Sum of Distances in Tree](../difficulty-based-problem-index/leetcode-hard/leetcode-834-sum-of-distances-in-tree.md) |
 | 838 | Medium | [Push Dominoes](../difficulty-based-problem-index/leetcode-medium/leetcode-838-push-dominoes.md) |
 | 841 | Medium | [Keys and Rooms](../difficulty-based-problem-index/leetcode-medium/leetcode-841-keys-and-rooms.md) |
 | 851 | Medium | [Loud and Rich](../difficulty-based-problem-index/leetcode-medium/leetcode-851-loud-and-rich.md) |

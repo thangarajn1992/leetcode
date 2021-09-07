@@ -28,5 +28,4 @@
 | 1926 | Medium | [Nearest Exit from Entrance in Maze](../difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze.md) |
 | 1928 | Hard | [Minimum Cost to Reach Destination in Time](../difficulty-based-problem-index/leetcode-hard/leetcode-1928-minimum-cost-to-reach-destination-in-time.md) |
 | 1970 | Hard | [Last Day Where You Can Still Cross](../difficulty-based-problem-index/leetcode-hard/leetcode-1970-last-day-where-you-can-still-cross.md) |
-| 1976 | Medium | [Number of Ways to Arrive at Destination](../difficulty-based-problem-index/leetcode-medium/leetcode-1976-number-of-ways-to-arrive-at-destination.md) |
 
