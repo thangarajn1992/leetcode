@@ -113,6 +113,7 @@ Medium Level Problem Sets for Leetcode
 | 677 | [Map Sum Pairs](leetcode-677-map-sum-pairs.md) |
 | 684 | [Redundant Connection](leetcode-684-redundant-connection.md) |
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |
+| 714 | [Best Time to Buy and Sell Stock with Transaction Fee](leetcode-714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) |
 | 718 | [Maximum Length of Repeated Subarray](leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 729 | [My Calendar I](leetcode-729-my-calendar-i.md) |
 | 743 | [Network Delay Time](leetcode-743-network-delay-time.md) |

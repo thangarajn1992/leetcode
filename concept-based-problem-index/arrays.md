@@ -66,6 +66,7 @@ This page contains list of problems that involves arrays
 | 658 | Medium | [Find K Closest Elements](../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md) |
 | 665 | Medium | [Non-decreasing array](../difficulty-based-problem-index/leetcode-medium/leetcode-665-non-decreasing-array.md) |
 | 695 | Medium | [Max Area of Island](../difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md) |
+| 714 | Medium | [Best Time to Buy and Sell Stock with Transaction Fee](../difficulty-based-problem-index/leetcode-medium/leetcode-714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) |
 | 718 | Medium | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 795 | Medium | [Number of Subarrays with Bounded Maximum](../difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 915 | Medium | [Partition Array into Disjoint Intervals](../difficulty-based-problem-index/leetcode-medium/leetcode-915-partition-array-into-disjoint-intervals.md) |

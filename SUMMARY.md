@@ -192,6 +192,7 @@
     * [Leetcode 677 Map Sum Pairs](difficulty-based-problem-index/leetcode-medium/leetcode-677-map-sum-pairs.md)
     * [Leetcode 684 Redundant Connection](difficulty-based-problem-index/leetcode-medium/leetcode-684-redundant-connection.md)
     * [Leetcode 695 Max Area of Island](difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md)
+    * [Leetcode 714 Best Time to Buy and Sell Stock with Transaction Fee](difficulty-based-problem-index/leetcode-medium/leetcode-714-best-time-to-buy-and-sell-stock-with-transaction-fee.md)
     * [Leetcode 718 Maximum Length of Repeated Subarray](difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md)
     * [Leetcode 729 My Calendar I](difficulty-based-problem-index/leetcode-medium/leetcode-729-my-calendar-i.md)
     * [Leetcode 743 Network Delay Time](difficulty-based-problem-index/leetcode-medium/leetcode-743-network-delay-time.md)
