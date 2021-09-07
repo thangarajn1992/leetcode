@@ -38,18 +38,15 @@ Output: []
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(head == nullptr)
-            return head;
-        ListNode *prev = nullptr, *curr = head, *next = head->next;
-        while(next)
+        ListNode *prev = nullptr, *curr = head, *next = nullptr;
+        while(curr)
         {
+            next = curr->next;
             curr->next = prev;
             prev = curr;
             curr = next;
-            next = curr->next;
         }
-        curr->next = prev;
-        return curr;
+        return prev;
     }
 };
 ```

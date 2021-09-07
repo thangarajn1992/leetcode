@@ -13,4 +13,5 @@
 | 79 | Medium | [Word Search](../difficulty-based-problem-index/leetcode-medium/leetcode-79-word-search.md) |
 | 473 | Medium | [Matchsticks to Square](../difficulty-based-problem-index/leetcode-medium/leetcode-473-matchsticks-to-square.md) |
 | 1947 | Medium | [Maximum Compatibility Score Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-1947-maximum-compatibility-score-sum.md) |
+| 1986 | Medium | [Minimum Number of Work Sessions to Finish the Tasks](../difficulty-based-problem-index/leetcode-medium/leetcode-1986-minimum-number-of-work-sessions-to-finish-the-tasks.md) |
 
