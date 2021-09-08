@@ -6,9 +6,7 @@ description: Leetcode Problems from 701 to 800
 
 | Leetcode No | Difficulty | Problem Link |
 | :--- | :--- | :--- |
-| 707 | Medium | [Design Linked List](../difficulty-based-problem-index/leetcode-medium/leetcode-707-design-linked-list.md) |
 | 709 | Easy | [To Lower case](../difficulty-based-problem-index/leetcode-easy/leetcode-709-to-lower-case.md) |
-| 714 | Medium | [Best Time to Buy and Sell Stock with Transaction Fee](../difficulty-based-problem-index/leetcode-medium/leetcode-714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) |
 | 718 | Medium | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 729 | Medium | [My Calendar I](../difficulty-based-problem-index/leetcode-medium/leetcode-729-my-calendar-i.md) |
 | 743 | Medium | [Network Delay Time](../difficulty-based-problem-index/leetcode-medium/leetcode-743-network-delay-time.md) |
