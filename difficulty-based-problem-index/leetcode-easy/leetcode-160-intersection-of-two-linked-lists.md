@@ -54,6 +54,29 @@ Explanation: The two lists do not intersect, so return null.
 
 ## Solution
 
+### Two pointer Approach
+
+```cpp
+class Solution {
+public:
+    // curA starts from headA and once it reaches its end,then moves to headB
+    // curB starts from headB and once it reaches its end,then moves to headA
+    // If there is an intersection, they will meet at that node otherwise
+    // they both endup traversing both lists once and meet at end (null).
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        ListNode *curA = headA, *curB = headB;
+        while(curA != curB)
+        {
+            curA = curA ? curA->next : headB;
+            curB = curB ? curB->next : headA;
+        }
+        return curA;
+    }
+};
+```
+
+### Calculate length of lists approach
+
 ```cpp
 class Solution {
 public:

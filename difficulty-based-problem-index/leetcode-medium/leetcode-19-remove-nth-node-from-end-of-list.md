@@ -44,15 +44,16 @@ public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         ListNode dummy = ListNode(0);
         dummy.next = head;
-        ListNode *first = &dummy, *second = &dummy;
+        
+        ListNode *fast = &dummy, *slow = &dummy;
         for(int i = 0; i <= n; i++) {
-            first = first->next;
+            fast = fast->next;
         }
-        while(first) {
-            first = first->next;
-            second = second->next;
+        while(fast != nullptr) {
+            fast = fast->next;
+            slow = slow->next;
         }
-        second->next = second->next->next;
+        slow->next = slow->next->next;
         return dummy.next;
     }
 };
