@@ -8,7 +8,9 @@ Given the `head` of a linked list, remove the `nth` node from the end of the lis
 
 **Follow up:** Could you do this in one pass?
 
-**Example 1:** ![](https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg)
+**Example 1:** 
+
+![](https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg)
 
 ```text
 Input: head = [1,2,3,4,5], n = 2
