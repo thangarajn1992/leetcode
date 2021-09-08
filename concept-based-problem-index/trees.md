@@ -32,16 +32,13 @@ This page contains problems that involves any type of trees
 | 677 | Medium | [Map Sum Pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-677-map-sum-pairs.md) |
 | 745 | Hard | [Prefix and Suffix Search](../difficulty-based-problem-index/leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
 | 814 | Medium | [Binary Tree Pruning](../difficulty-based-problem-index/leetcode-medium/leetcode-814-binary-tree-pruning.md) |
-| 834 | Hard | [Sum of Distances in Tree](../difficulty-based-problem-index/leetcode-hard/leetcode-834-sum-of-distances-in-tree.md) |
 | 968 | Hard | [Binary Tree Cameras](../difficulty-based-problem-index/leetcode-hard/leetcode-968-binary-tree-cameras.md) |
-| 979 | Medium | [Distribute Coins in Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-979-distribute-coins-in-binary-tree.md) |
 | 1268 | Medium | [Search Suggestions System](../difficulty-based-problem-index/leetcode-medium/leetcode-1268-search-suggestions-system.md) |
 | 1302 | Medium | [Deepest Leaves Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-1302-deepest-leaves-sum.md) |
 | 1339 | Medium | [Maximum Product of Splitted Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-1339-maximum-product-of-splitted-binary-tree.md) |
 | 1448 | Medium | [Count Good Nodes in Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-1448-count-good-nodes-in-binary-tree.md) |
 | 1932 | Hard | [Merge BSTs to Create Single BST](../difficulty-based-problem-index/leetcode-hard/leetcode-1932-merge-bsts-to-create-single-bst.md) |
 | 1948 | Hard | [Delete Duplicate Folders in System](../difficulty-based-problem-index/leetcode-hard/leetcode-1948-delete-duplicate-folders-in-system.md) |
-| 1993 | Medium | [Operations on Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-1993-operations-on-tree.md) |
 
 
 
