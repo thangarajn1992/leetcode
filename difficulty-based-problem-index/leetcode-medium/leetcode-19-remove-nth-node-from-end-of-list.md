@@ -8,9 +8,7 @@ Given the `head` of a linked list, remove the `nth` node from the end of the lis
 
 **Follow up:** Could you do this in one pass?
 
-**Example 1:** 
-
-![](https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg)
+**Example 1:** ![](https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg)
 
 ```text
 Input: head = [1,2,3,4,5], n = 2
@@ -46,16 +44,15 @@ public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         ListNode dummy = ListNode(0);
         dummy.next = head;
-        
-        ListNode *fast = &dummy, *slow = &dummy;
+        ListNode *first = &dummy, *second = &dummy;
         for(int i = 0; i <= n; i++) {
-            fast = fast->next;
+            first = first->next;
         }
-        while(fast != nullptr) {
-            fast = fast->next;
-            slow = slow->next;
+        while(first) {
+            first = first->next;
+            second = second->next;
         }
-        slow->next = slow->next->next;
+        second->next = second->next->next;
         return dummy.next;
     }
 };
