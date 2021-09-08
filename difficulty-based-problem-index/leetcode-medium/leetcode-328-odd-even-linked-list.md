@@ -37,15 +37,15 @@ public:
     ListNode* oddEvenList(ListNode* head) {
         if(head == nullptr)
             return head;
-        ListNode *curOdd = head, *curEven = head->next, *evenHead = head->next;
-        while(curEven && curEven->next)
+        ListNode *odd = head, *even = head->next, *first_even = head->next;
+        while(even && even->next)
         {
-            curOdd->next = curEven->next;
-            curOdd = curOdd->next;
-            curEven->next = curOdd->next;
-            curEven = curEven->next;
+            odd->next = even->next;
+            odd = odd->next;
+            even->next = odd->next;
+            even = even->next;
         }
-        curOdd->next = evenHead;
+        odd->next = first_even;
         return head;
     }
 };
