@@ -46,29 +46,24 @@ also have finished course 1. So it is impossible.
 ```cpp
 class Solution {
 public:
-    int V;
-    vector<int> *dependents;  // courses that depends on this course to be completed
+    vector<vector<int>> dependents;   // courses that depends on this course to be completed
     vector<int> depended_on; // No. of courses this course depends on
     
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        V = numCourses;
-        dependents = new vector<int>[numCourses];
+        dependents.resize(numCourses, vector<int>());
         depended_on.resize(numCourses,0);
         
-        for(int i = 0; i < prerequisites.size(); i++)
+        for(vector<int>& prerequisite : prerequisites)
         {
-            dependents[prerequisites[i][1]].push_back(prerequisites[i][0]);
-            depended_on[prerequisites[i][0]]++;
+            dependents[prerequisite[1]].push_back(prerequisite[0]);
+            depended_on[prerequisite[0]]++;
         }
         
-
+        // Find a nodes with no pre-requisite and complete as many courses as possible
         int courses_completed = 0;
         vector<bool> visited(numCourses, false);
+        bool valid_loop = true; // To avoid infinite loop when we can't complete any more course
         
-        // To avoid infinite loop when we can't complete any more course
-        bool valid_loop = true; 
-        
-        // Find a nodes with no pre-requisite and complete as many courses as possible
         while(courses_completed < numCourses && valid_loop)
         {
             int old_courses_completed = courses_completed;
@@ -88,19 +83,15 @@ public:
         courses_completed++;
         
         // Reduce dependency count for all dependents of this course
-        for(int dependent = 0; dependent < dependents[course].size(); dependent++)
+        for(int &dependent :dependents[course])
+            if(visited[dependent] == false)
+                depended_on[dependent]--;
+    
+        // If any course dependency became 0, schedule it
+        for(int &dependent :dependents[course])
         {
-            if(visited[dependents[course][dependent]] == false)
-                depended_on[dependents[course][dependent]]--;
-        }
-        
-        // If any dependent course's dependency cnt bec
-        for(int dependent = 0; dependent < dependents[course].size(); dependent++)
-        {
-            if(depended_on[dependents[course][dependent]] == 0 && 
-               visited[dependents[course][dependent]] == false)
-                
-                DFS(dependents[course][dependent], visited, courses_completed);
+            if(depended_on[dependent] == 0 && visited[dependent] == false)    
+                DFS(dependent, visited, courses_completed);
         }   
     }
 };
