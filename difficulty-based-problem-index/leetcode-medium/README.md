@@ -63,6 +63,7 @@ Medium Level Problem Sets for Leetcode
 | 120 | [Triangle](leetcode-120-triangle.md) |
 | 128 | [Longest Consecutive Sequence](leetcode-128-longest-consecutive-sequence.md) |
 | 133 | [Clone Graph](leetcode-133-clone-graph.md) |
+| 138 | [Copy List with Random Pointer](leetcode-138-copy-list-with-random-pointer.md) |
 | 142 | [Linked List Cycle II](leetcode-142-linked-list-cycle-ii.md) |
 | 150 | [Evaluate Reverse Polish Notation](leetcode-150-evaluate-reverse-polish-notation.md) |
 | 153 | [Find Minimum in Rotated Sorted Array](leetcode-153-find-minimum-in-rotated-sorted-array.md) |

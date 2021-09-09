@@ -16,6 +16,7 @@ This page contains list of problems involving linked lists
 | 92 | Medium | [Reverse Linked List II](../difficulty-based-problem-index/leetcode-medium/leetcode-92-reverse-linked-list-ii.md) |
 | 109 | Medium | [Convert Sorted List to Binary Search Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-109-convert-sorted-list-to-binary-search-tree.md) |
 | 114 | Medium | [Flatten Binary Tree to Linked List](../difficulty-based-problem-index/leetcode-medium/leetcode-114-flatten-binary-tree-to-linked-list.md) |
+| 138 | Medium | [Copy List with Random Pointer](../difficulty-based-problem-index/leetcode-medium/leetcode-138-copy-list-with-random-pointer.md) |
 | 141 | Easy | [Linked List Cycle](../difficulty-based-problem-index/leetcode-easy/leetcode-141-linked-list-cycle.md) |
 | 142 | Medium | [Linked List Cycle II](../difficulty-based-problem-index/leetcode-medium/leetcode-142-linked-list-cycle-ii.md) |
 | 160 | Easy | [Intersection of two Linked Lists](../difficulty-based-problem-index/leetcode-easy/leetcode-160-intersection-of-two-linked-lists.md) |

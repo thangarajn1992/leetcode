@@ -32,6 +32,7 @@ description: Leetcode Problems from 101 to 200
 | 128 | Medium | [Longest consecutive Sequence](../difficulty-based-problem-index/leetcode-medium/leetcode-128-longest-consecutive-sequence.md) |
 | 133 | Medium | [Clone Graph](../difficulty-based-problem-index/leetcode-medium/leetcode-133-clone-graph.md) |
 | 136 | Easy | [Single Number](../difficulty-based-problem-index/leetcode-easy/leetcode-136-single-number.md) |
+| 138 | Medium | [Copy List with Random Pointer](../difficulty-based-problem-index/leetcode-medium/leetcode-138-copy-list-with-random-pointer.md) |
 | 141 | Easy | [Linked List Cycle](../difficulty-based-problem-index/leetcode-easy/leetcode-141-linked-list-cycle.md) |
 | 142 | Medium | [Linked List Cycle II](../difficulty-based-problem-index/leetcode-medium/leetcode-142-linked-list-cycle-ii.md) |
 | 144 | Easy | [Binary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-144-binary-tree-preorder-traversal.md) |

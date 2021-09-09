@@ -144,6 +144,7 @@
     * [Leetcode 120 Triangle](difficulty-based-problem-index/leetcode-medium/leetcode-120-triangle.md)
     * [Leetcode 128 Longest Consecutive Sequence](difficulty-based-problem-index/leetcode-medium/leetcode-128-longest-consecutive-sequence.md)
     * [Leetcode 133 Clone Graph](difficulty-based-problem-index/leetcode-medium/leetcode-133-clone-graph.md)
+    * [Leetcode 138 Copy List with Random Pointer](difficulty-based-problem-index/leetcode-medium/leetcode-138-copy-list-with-random-pointer.md)
     * [Leetcode 142 Linked List Cycle II](difficulty-based-problem-index/leetcode-medium/leetcode-142-linked-list-cycle-ii.md)
     * [Leetcode 150 Evaluate Reverse Polish Notation](difficulty-based-problem-index/leetcode-medium/leetcode-150-evaluate-reverse-polish-notation.md)
     * [Leetcode 153 Find Minimum in Rotated Sorted Array](difficulty-based-problem-index/leetcode-medium/leetcode-153-find-minimum-in-rotated-sorted-array.md)
