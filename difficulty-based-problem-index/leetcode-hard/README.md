@@ -12,9 +12,11 @@ Hard Level Problem Sets for Leetcode
 | 52 | [N - Queens II](leetcode-52-n-queens-ii.md) |
 | 65 | [Valid Number](leetcode-65-valid-number.md) |
 | 76 | [Minimum Window Substring](leetcode-76-minimum-window-substring.md) |
+| 123 | [Best Time to Buy and Sell Stock III](leetcode-123-best-time-to-buy-and-sell-stock-iii.md) |
 | 126 | [Word Ladder II](leetcode-126-word-ladder-ii.md) |
 | 127 | [Word Ladder](leetcode-127-word-ladder.md) |
 | 154 | [Find Minimum in Rotated Sorted Array II](leetcode-154-find-minimum-in-rotated-sorted-array-ii.md) |
+| 188 | [Best Time to Buy and Sell Stock IV](leetcode-188-best-time-to-buy-and-sell-stock-iv.md) |
 | 295 | [Find Median from Data Stream](leetcode-295-find-median-from-data-stream.md) |
 | 329 | [Longest Increasing Path in a Matrix](leetcode-329-longest-increasing-path-in-a-matrix.md) |
 | 330 | [Patching Array](leetcode-330-patching-array.md) |
@@ -24,6 +26,9 @@ Hard Level Problem Sets for Leetcode
 | 639 | [Decode Ways II](leetcode-639-decode-ways-ii.md) |
 | 745 | [Prefix and Suffix Search](leetcode-745-prefix-and-suffix-search.md) |
 | 827 | [Making A Large Island](leetcode-827-making-a-large-island.md) |
+| 829 | [Consecutive Numbers Sum](leetcode-829-consecutive-numbers-sum.md) |
+| 834 | [Sum of Distances in Tree](leetcode-834-sum-of-distances-in-tree.md) |
+| 899 | [Orderly Queue](leetcode-899-orderly-queue.md) |
 | 906 | [Super Palindromes](leetcode-906-super-palindromes.md) |
 | 927 | [Three Equal Parts](leetcode-927-three-equal-parts.md) |
 | 968 | [Binary Tree Cameras](leetcode-968-binary-tree-cameras.md) |

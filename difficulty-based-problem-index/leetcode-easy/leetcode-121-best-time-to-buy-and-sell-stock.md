@@ -40,14 +40,17 @@ Explanation: In this case, no transactions are done and the max profit = 0.
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int buy = INT_MAX;
-        int sell = 0;
-        for(int price : prices)
+        int costPrice = INT_MAX;
+        int profit = 0;
+        for(int &price : prices)
         {
-            buy = min(buy, price);
-            sell = max(sell, price - buy);
+            if(price < costPrice)
+                costPrice = price;
+            int curProfit = price - costPrice;
+            if(curProfit > profit)
+                profit = curProfit;
         }
-        return sell;
+        return profit;
     }
 };
 ```
