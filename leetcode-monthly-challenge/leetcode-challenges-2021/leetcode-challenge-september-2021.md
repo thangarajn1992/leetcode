@@ -10,7 +10,7 @@
 | Day 6 | [Slowest Key](../../difficulty-based-problem-index/leetcode-easy/leetcode-1629-slowest-key.md) |
 | Day 7 | [Reverse Linked List](../../difficulty-based-problem-index/leetcode-easy/leetcode-206-reverse-linked-list.md) |
 | Day 8 | [Shifting Letters](../../difficulty-based-problem-index/leetcode-medium/leetcode-848-shifting-letters.md) |
-| Day 9 |  |
+| Day 9 | [Largest Plus Sign](../../difficulty-based-problem-index/leetcode-medium/leetcode-764-largest-plus-sign.md) |
 | Day 10 |  |
 | Day 11 |  |
 | Day 12 |  |

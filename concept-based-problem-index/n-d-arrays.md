@@ -23,6 +23,7 @@
 | 576 | Medium | [Out of Boundary Paths](../difficulty-based-problem-index/leetcode-medium/leetcode-576-out-of-boundary-paths.md) |
 | 598 | Easy | [Range Addition II](../difficulty-based-problem-index/leetcode-easy/leetcode-598-range-addition-ii.md) |
 | 695 | Medium | [Max Area of Island](../difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md) |
+| 764 | Medium | [Largest Plus Sign](../difficulty-based-problem-index/leetcode-medium/leetcode-764-largest-plus-sign.md) |
 | 986 | Medium | [Interval List Intersections](../difficulty-based-problem-index/leetcode-medium/leetcode-986-interval-list-intersections.md) |
 | 827 | Hard | [Making A Large Island](../difficulty-based-problem-index/leetcode-hard/leetcode-827-making-a-large-island.md) |
 | 885 | Medium | [Spiral Matrix III](../difficulty-based-problem-index/leetcode-medium/leetcode-885-spiral-matrix-iii.md) |

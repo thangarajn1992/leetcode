@@ -15,6 +15,7 @@ description: Leetcode Problems from 701 to 800
 | 745 | Hard | [Prefix and Suffix Search](../difficulty-based-problem-index/leetcode-hard/leetcode-745-prefix-and-suffix-search.md) |
 | 746 | Easy | [Min Cost Climbing Stairs](../difficulty-based-problem-index/leetcode-easy/leetcode-746-min-cost-climbing-stairs.md) |
 | 752 | Medium | [Open the Lock](../difficulty-based-problem-index/leetcode-medium/leetcode-752-open-the-lock.md) |
+| 764 | Medium | [Largest Plus Sign](../difficulty-based-problem-index/leetcode-medium/leetcode-764-largest-plus-sign.md) |
 | 785 | Medium | [Is Graph Bipartite?](../difficulty-based-problem-index/leetcode-medium/leetcode-785-is-graph-bipartite.md) |
 | 787 | Medium | [Cheapest Flights Within K Stops](../difficulty-based-problem-index/leetcode-medium/leetcode-787-cheapest-flights-within-k-stops.md) |
 | 791 | Medium | [Custom Sort String](../difficulty-based-problem-index/leetcode-medium/leetcode-791-custom-sort-string.md) |

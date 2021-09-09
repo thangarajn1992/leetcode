@@ -120,6 +120,7 @@ Medium Level Problem Sets for Leetcode
 | 729 | [My Calendar I](leetcode-729-my-calendar-i.md) |
 | 743 | [Network Delay Time](leetcode-743-network-delay-time.md) |
 | 752 | [Open the Lock](leetcode-752-open-the-lock.md) |
+| 764 | [Largest Plus Sign](leetcode-764-largest-plus-sign.md) |
 | 785 | [Is Graph Bipartite?](leetcode-785-is-graph-bipartite.md) |
 | 787 | [Cheapest Flights Within K Stops](leetcode-787-cheapest-flights-within-k-stops.md) |
 | 791 | [Custom Sort String](leetcode-791-custom-sort-string.md) |
