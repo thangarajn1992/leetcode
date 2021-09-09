@@ -210,6 +210,7 @@
     * [Leetcode 814 Binary Tree Pruning](difficulty-based-problem-index/leetcode-medium/leetcode-814-binary-tree-pruning.md)
     * [Leetcode 838 Push Dominoes](difficulty-based-problem-index/leetcode-medium/leetcode-838-push-dominoes.md)
     * [Leetcode 841 Keys and Rooms](difficulty-based-problem-index/leetcode-medium/leetcode-841-keys-and-rooms.md)
+    * [Leetcode 848 Shifting Letters](difficulty-based-problem-index/leetcode-medium/leetcode-848-shifting-letters.md)
     * [Leetcode 851 Loud and Rich](difficulty-based-problem-index/leetcode-medium/leetcode-851-loud-and-rich.md)
     * [Leetcode 877 Stone Game](difficulty-based-problem-index/leetcode-medium/leetcode-877-stone-game.md)
     * [Leetcode 885 Spiral Matrix III](difficulty-based-problem-index/leetcode-medium/leetcode-885-spiral-matrix-iii.md)

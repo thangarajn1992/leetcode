@@ -5,11 +5,11 @@
 | Day 1 | [Array Nesting](../../difficulty-based-problem-index/leetcode-medium/leetcode-565-array-nesting.md) |
 | Day 2 | [Unique Binary Search Trees II](../../difficulty-based-problem-index/leetcode-medium/leetcode-95-unique-binary-search-trees-ii.md) |
 | Day 3 |  |
-| Day 4 |  |
-| Day 5 |  |
-| Day 6 |  |
-| Day 7 |  |
-| Day 8 |  |
+| Day 4 | [Sum of Distances in Tree](../../difficulty-based-problem-index/leetcode-hard/leetcode-834-sum-of-distances-in-tree.md) |
+| Day 5 | [Orderly Queue](../../difficulty-based-problem-index/leetcode-hard/leetcode-899-orderly-queue.md) |
+| Day 6 | [Slowest Key](../../difficulty-based-problem-index/leetcode-easy/leetcode-1629-slowest-key.md) |
+| Day 7 | [Reverse Linked List](../../difficulty-based-problem-index/leetcode-easy/leetcode-206-reverse-linked-list.md) |
+| Day 8 | [Shifting Letters](../../difficulty-based-problem-index/leetcode-medium/leetcode-848-shifting-letters.md) |
 | Day 9 |  |
 | Day 10 |  |
 | Day 11 |  |

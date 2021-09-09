@@ -21,10 +21,14 @@
 | 127 | Hard | [Word Ladder](../difficulty-based-problem-index/leetcode-hard/leetcode-127-word-ladder.md) |
 | 205 | Easy | [Isomorphic Strings](../difficulty-based-problem-index/leetcode-easy/leetcode-205-isomorphic-strings.md) |
 | 242 | Easy | [Valid Anagram](../difficulty-based-problem-index/leetcode-easy/leetcode-242-valid-anagram.md) |
+| 318 | Medium | [Maximum Product of Word Lengths](../difficulty-based-problem-index/leetcode-medium/leetcode-318-maximum-product-of-word-lengths.md) |
 | 336 | Hard | [Palindrome Pairs](../difficulty-based-problem-index/leetcode-hard/leetcode-336-palindrome-pairs.md) |
 | 344 | Easy | [Reverse String](../difficulty-based-problem-index/leetcode-easy/leetcode-344-reverse-string.md) |
 | 387 | Easy | [First Unique Character in a string](../difficulty-based-problem-index/leetcode-easy/leetcode-387-first-unique-character-in-a-string.md) |
 | 415 | Easy | [Add Strings](../difficulty-based-problem-index/leetcode-easy/leetcode-415-add-strings.md) |
+| 521 | Easy | [Longest Uncommon Subsequence I](../difficulty-based-problem-index/leetcode-easy/leetcode-521-longest-uncommon-subsequence-i.md) |
+| 522 | Medium | [Longest Uncommon Subsequence II](../difficulty-based-problem-index/leetcode-medium/leetcode-522-longest-uncommon-subsequence-ii.md) |
+| 537 | Medium | [Complex Number Multiplication](../difficulty-based-problem-index/leetcode-medium/leetcode-537-complex-number-multiplication.md) |
 | 583 | Medium | [Delete Operation for Two Strings](../difficulty-based-problem-index/leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | Medium | [Find Duplicate File in System](../difficulty-based-problem-index/leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
 | 696 | Easy | [Count Binary sub-strings](../difficulty-based-problem-index/leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
@@ -32,7 +36,9 @@
 | 791 | Medium | [Custom Sort String](../difficulty-based-problem-index/leetcode-medium/leetcode-791-custom-sort-string.md) |
 | 792 | Medium | [Number of Matching Subsequences](../difficulty-based-problem-index/leetcode-medium/leetcode-792-number-of-matching-subsequences.md) |
 | 838 | Medium | [Push Dominoes](../difficulty-based-problem-index/leetcode-medium/leetcode-838-push-dominoes.md) |
+| 848 | Medium | [Shifting Letters](../difficulty-based-problem-index/leetcode-medium/leetcode-848-shifting-letters.md) |
 | 890 | Medium | [Find and Replace Pattern](../difficulty-based-problem-index/leetcode-medium/leetcode-890-find-and-replace-pattern.md) |
+| 899 | Hard | [Orderly Queue](../difficulty-based-problem-index/leetcode-hard/leetcode-899-orderly-queue.md) |
 | 926 | Medium | [Flip String to Monotone Increasing](../difficulty-based-problem-index/leetcode-medium/leetcode-926-flip-string-to-monotone-increasing.md) |
 | 1047 | Easy | [Remove All Adjacent Duplicates In String](../difficulty-based-problem-index/leetcode-easy/leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
 | 1048 | Medium | [Longest String Chain](../difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md) |
@@ -57,4 +63,7 @@
 | 1957 | Easy | [Delete Characters to Make Fancy String](../difficulty-based-problem-index/leetcode-easy/leetcode-1957-delete-characters-to-make-fancy-string.md) |
 | 1961 | Easy | [Check If String Is a Prefix of Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1961-check-if-string-is-a-prefix-of-array.md) |
 | 1967 | Easy | [Number of Strings That Appear as Substrings in Word](../difficulty-based-problem-index/leetcode-easy/leetcode-1967-number-of-strings-that-appear-as-substrings-in-word.md) |
+| 1974 | Easy | [Minimum Time to Type Word Using Special Typewriter](../difficulty-based-problem-index/leetcode-easy/leetcode-1974-minimum-time-to-type-word-using-special-typewriter.md) |
+| 1980 | Medium | [Find Unique Binary String](../difficulty-based-problem-index/leetcode-medium/leetcode-1980-find-unique-binary-string.md) |
+| 1985 | Medium | [Find the Kth Largest Integer in the Array](../difficulty-based-problem-index/leetcode-medium/leetcode-1985-find-the-kth-largest-integer-in-the-array.md) |
 

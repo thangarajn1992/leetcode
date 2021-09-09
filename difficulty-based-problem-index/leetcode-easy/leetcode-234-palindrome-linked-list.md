@@ -27,56 +27,7 @@ Output: false
 
   **Follow up:** Could you do it in `O(n)` time and `O(1)` space?
 
-## Solution:
-
-### Find Mid, Reverse Second Half and Compare
-
-```cpp
-class Solution {
-public:
-    /* 1. Find the mid element using slow and fast pointers
-     * 2. Reverse the second half of linked list starting from mid node
-     * 3. Compare first half and second half 
-     */
-    bool isPalindrome(ListNode* head) {
-        if(head == nullptr || head->next == nullptr) 
-            return true;
-        ListNode* mid = findMid(head);
-        ListNode* secondHalfHead = reverseList(mid);
-        return compareList(head, secondHalfHead);
-    }
-    
-    ListNode* findMid(ListNode* head){
-        ListNode* slow = head, *fast = head;
-        while(fast != nullptr && fast->next != nullptr){
-            slow = slow->next;
-            fast = fast->next->next;;
-        }
-        return slow;
-    }
-    ListNode* reverseList(ListNode* head){
-        ListNode* prev = nullptr, *curr = head, *temp = nullptr;
-        while(curr != NULL){
-            temp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = temp;
-        } 
-        return prev;
-    }
-    bool compareList(ListNode* head1, ListNode* head2){
-        while(head1 != nullptr && head2 != nullptr){
-            if(head1->val != head2->val) 
-                return false;
-            head1 = head1->next;
-            head2 = head2->next;
-        }
-        return true;
-    }
-};
-```
-
-### Recursive Approach
+## Solution: 0\(n\) time and 0\(1\) space complexity
 
 ```cpp
 class Solution {
