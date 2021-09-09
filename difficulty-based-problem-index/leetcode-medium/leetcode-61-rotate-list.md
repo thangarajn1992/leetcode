@@ -32,25 +32,35 @@ Output: [2,0,1]
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if(!head || !k) return head;
-        int total_nodes = 0;
-        ListNode *temp  = head;
-        for(; temp; temp = temp->next)
-            total_nodes++;
-        k = k % total_nodes;
-        for(int i = 0; i < k; i++)
+        if(!head || !k) 
+            return head;
+        
+        // Find totalNodes and pointer to lastnode 
+        // so that we can link it back to head
+        int totalNodes = 1;
+        ListNode *lastNode  = head;
+        while(lastNode->next != nullptr)
         {
-            ListNode* prev = head;
-            temp = head->next;
-            while(temp->next!=NULL)
-            {
-                prev = prev->next;
-                temp = temp->next;
-            }
-            prev->next = NULL;
-            temp->next = head;
-            head = temp;
+            totalNodes++;
+            lastNode = lastNode->next;
         }
+        k = k % totalNodes;
+        if(k == 0)
+            return head;
+        
+        int newHeadDistance = totalNodes - k; // New head distance from head
+        
+        //pin tail to head 
+        lastNode->next = head;
+        
+        // Find Node prev to newHead
+        ListNode *curr = head;
+        for(int i = 1; i < newHeadDistance; i++)
+            curr = curr->next;
+        
+        head = curr->next;
+        curr->next = nullptr;
+        
         return head;        
     }
 };
