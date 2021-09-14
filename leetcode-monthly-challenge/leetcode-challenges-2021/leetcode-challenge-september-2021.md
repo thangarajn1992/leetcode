@@ -15,7 +15,7 @@
 | Day 11 |  |
 | Day 12 |  |
 | Day 13 |  |
-| Day 14 |  |
+| Day 14 | [Reverse Only Letters](../../difficulty-based-problem-index/leetcode-easy/leetcode-917-reverse-only-letters.md) |
 | Day 15 |  |
 | Day 16 |  |
 | Day 17 |  |
