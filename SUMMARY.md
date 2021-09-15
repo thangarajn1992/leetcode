@@ -225,6 +225,7 @@
     * [Leetcode 948 Bag of Tokens](difficulty-based-problem-index/leetcode-medium/leetcode-948-bag-of-tokens.md)
     * [Leetcode 954 Array of Doubled Pairs](difficulty-based-problem-index/leetcode-medium/leetcode-954-array-of-doubled-pairs.md)
     * [Leetcode 970 Powerful Integers](difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md)
+    * [Leetcode 978 Longest Turbulent Subarray](difficulty-based-problem-index/leetcode-medium/leetcode-978-longest-turbulent-subarray.md)
     * [Leetcode 979 Distribute Coins in Binary Tree](difficulty-based-problem-index/leetcode-medium/leetcode-979-distribute-coins-in-binary-tree.md)
     * [Leetcode 986 Interval List Intersections](difficulty-based-problem-index/leetcode-medium/leetcode-986-interval-list-intersections.md)
     * [Leetcode 1048 Longest String Chain](difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md)

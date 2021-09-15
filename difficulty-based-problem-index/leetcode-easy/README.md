@@ -72,7 +72,6 @@ Easy Level Problem Sets for Leetcode
 | 696 | [Count Binary Sub-strings](leetcode-696-count-binary-sub-strings.md) |
 | 709 | [To Lower Case](leetcode-709-to-lower-case.md) |
 | 746 | [Min Cost Climbing Stairs](leetcode-746-min-cost-climbing-stairs.md) |
-| 917 | [Reverse Only Letters](leetcode-917-reverse-only-letters.md) |
 | 997 | [Find the Town Judge](leetcode-997-find-the-town-judge.md) |
 | 1046 | [Last Stone Weight](leetcode-1046-last-stone-weight.md) |
 | 1047 | [Remove All Adjacent Duplicates In String](leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
