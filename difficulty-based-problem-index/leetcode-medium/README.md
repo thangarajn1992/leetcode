@@ -144,7 +144,6 @@ Medium Level Problem Sets for Leetcode
 | 948 | [Bag of Tokens](leetcode-948-bag-of-tokens.md) |
 | 954 | [Array of Doubled Pairs](leetcode-954-array-of-doubled-pairs.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
-| 978 | [Longest Turbulent Subarray](leetcode-978-longest-turbulent-subarray.md) |
 | 979 | [Distribute Coins in Binary Tree](leetcode-979-distribute-coins-in-binary-tree.md) |
 | 986 | [Interval List Intersections](leetcode-986-interval-list-intersections.md) |
 | 1048 | [Longest String Chain](leetcode-1048-longest-string-chain.md) |
