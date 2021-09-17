@@ -35,30 +35,30 @@ public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int rows = matrix.size();
         int cols = matrix[0].size();
-        vector<int> spiralOrderResult;
+        vector<int> spiral_order;
         vector<vector<int>> dir = {{0,1}, {1, 0}, {0,-1}, {-1,0}};
         int count = rows * cols;
-        int curRow = 0, curCol = 0, curDir = 0;
+        int cur_r = 0, cur_c = 0, cur_dir = 0;
         vector<vector<bool>> visited(rows, vector<bool>(cols,false));
         while(count > 0)
         {
-            spiralOrderResult.push_back(matrix[curRow][curCol]);
-            visited[curRow][curCol] = true;
-            int nextRow = curRow + dir[curDir][0];
-            int nextCol = curCol + dir[curDir][1];
-            if(nextRow < 0 || nextRow >= rows ||
-               nextCol < 0 || nextCol >= cols ||
-               visited[nextRow][nextCol] == true) // change the direction
+            spiral_order.push_back(matrix[cur_r][cur_c]);
+            visited[cur_r][cur_c] = true;
+            int next_r = cur_r + dir[cur_dir][0];
+            int next_c = cur_c + dir[cur_dir][1];
+            if(next_r < 0 || next_r >= rows ||
+               next_c < 0 || next_c >= cols ||
+               visited[next_r][next_c] == true) // change the direction
             {
-                curDir = (curDir + 1) % 4;
-                nextRow = curRow + dir[curDir][0];
-                nextCol = curCol + dir[curDir][1];
+                cur_dir = (cur_dir + 1) % 4;
+                next_r = cur_r + dir[cur_dir][0];
+                next_c = cur_c + dir[cur_dir][1];
             }
-            curRow = nextRow;
-            curCol = nextCol; 
+            cur_r = next_r;
+            cur_c = next_c; 
             count--;
         }
-        return spiralOrderResult;        
+        return spiral_order;        
     }
 };
 ```
