@@ -23,7 +23,7 @@
 | Day 19 |  |
 | Day 20 |  |
 | Day 21 |  |
-| Day 22 |  |
+| Day 22 | [Maximum Length of a Concatenated String with Unique Characters](../../difficulty-based-problem-index/leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
 | Day 23 |  |
 | Day 24 |  |
 | Day 25 |  |
