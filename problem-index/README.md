@@ -11,7 +11,8 @@ Problem Number Range based link
 | [901 - 1000](leetcode-901-1000.md) | [1001 - 1100](leetcode-1001-1100.md) | [1101 - 1200](leetcode-1101-1200.md) |
 | [1201 - 1300](leetcode-1201-1300.md) | [1301 - 1400](leetcode-1301-1400.md) | [1401 - 1500](leetcode-1401-1500.md) |
 | [1501 - 1600](leetcode-1501-1600.md) | [1601 - 1700](leetcode-1601-1700.md) | [1701 - 1800](leetcode-1701-1800.md) |
-| [1801 - 1900](leetcode-1801-1900.md) | [1901 - 2000](leetcode-1901-2000.md) |  |
+| [1801 - 1900](leetcode-1801-1900.md) | [1901 - 2000](leetcode-1901-2000.md) | 2000 - 2100 |
+|  |  |  |
 
 
 

@@ -38,4 +38,5 @@
 | 1958 | Medium | [Check if Move is Legal](../difficulty-based-problem-index/leetcode-medium/leetcode-1958-check-if-move-is-legal.md) |
 | 1970 | Hard | [Last Day Where You Can Still Cross](../difficulty-based-problem-index/leetcode-hard/leetcode-1970-last-day-where-you-can-still-cross.md) |
 | 1992 | Medium | [Find All Groups of Farmland](../difficulty-based-problem-index/leetcode-medium/leetcode-1992-find-all-groups-of-farmland.md) |
+| 2008 | Medium | [Maximum Earnings From Taxi](../difficulty-based-problem-index/leetcode-medium/leetcode-2008-maximum-earnings-from-taxi.md) |
 

@@ -144,6 +144,7 @@ Medium Level Problem Sets for Leetcode
 | 948 | [Bag of Tokens](leetcode-948-bag-of-tokens.md) |
 | 954 | [Array of Doubled Pairs](leetcode-954-array-of-doubled-pairs.md) |
 | 970 | [Powerful Integers](leetcode-970-powerful-integers.md) |
+| 978 | [Longest Turbulent Subarray](leetcode-978-longest-turbulent-subarray.md) |
 | 979 | [Distribute Coins in Binary Tree](leetcode-979-distribute-coins-in-binary-tree.md) |
 | 986 | [Interval List Intersections](leetcode-986-interval-list-intersections.md) |
 | 1048 | [Longest String Chain](leetcode-1048-longest-string-chain.md) |
@@ -202,4 +203,5 @@ Medium Level Problem Sets for Leetcode
 | 1986 | [Minimum Number of Work Sessions to Finish the Tasks](leetcode-1986-minimum-number-of-work-sessions-to-finish-the-tasks.md) |
 | 1992 | [Find All Groups of Farmland](leetcode-1992-find-all-groups-of-farmland.md) |
 | 1993 | [Operations on Tree](leetcode-1993-operations-on-tree.md) |
+| 2008 | [Maximum Earnings From Taxi](leetcode-2008-maximum-earnings-from-taxi.md) |
 

@@ -21,9 +21,9 @@
 | Day 17 | [Intersection of Two Arrays II](../../difficulty-based-problem-index/leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |
 | Day 18 |  |
 | Day 19 |  |
-| Day 20 | [Find Winner on a Tic Tac Toe Game](../../difficulty-based-problem-index/leetcode-easy/leetcode-1275-find-winner-on-a-tic-tac-toe-game.md) |
-| Day 21 | [Max Consecutive Ones](../../difficulty-based-problem-index/leetcode-easy/leetcode-485-max-consecutive-ones.md) |
-| Day 22 | [Maximum Length of a Concatenated String with Unique Characters](../../difficulty-based-problem-index/leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
+| Day 20 |  |
+| Day 21 |  |
+| Day 22 |  |
 | Day 23 |  |
 | Day 24 |  |
 | Day 25 |  |
