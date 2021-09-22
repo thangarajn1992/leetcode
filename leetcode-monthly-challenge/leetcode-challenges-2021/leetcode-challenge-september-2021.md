@@ -22,7 +22,7 @@
 | Day 18 |  |
 | Day 19 |  |
 | Day 20 |  |
-| Day 21 |  |
+| Day 21 | [Max Consecutive Ones](../../difficulty-based-problem-index/leetcode-easy/leetcode-485-max-consecutive-ones.md) |
 | Day 22 | [Maximum Length of a Concatenated String with Unique Characters](../../difficulty-based-problem-index/leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
 | Day 23 |  |
 | Day 24 |  |

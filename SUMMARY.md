@@ -343,6 +343,7 @@
     * [Leetcode 415 Add Strings](difficulty-based-problem-index/leetcode-easy/leetcode-415-add-strings.md)
     * [Leetcode 453 Minimum Moves to Equal Array Elements](difficulty-based-problem-index/leetcode-easy/leetcode-453-minimum-moves-to-equal-array-elements.md)
     * [Leetcode 461 Hamming Distance](difficulty-based-problem-index/leetcode-easy/leetcode-461-hamming-distance.md)
+    * [Leetcode 485 Max Consecutive Ones](difficulty-based-problem-index/leetcode-easy/leetcode-485-max-consecutive-ones.md)
     * [Leetcode 509 Fibonacci Number](difficulty-based-problem-index/leetcode-easy/leetcode-509-fibonacci-number.md)
     * [Leetcode 521 Longest Uncommon Subsequence I](difficulty-based-problem-index/leetcode-easy/leetcode-521-longest-uncommon-subsequence-i.md)
     * [Leetcode 566 Reshape the Matrix](difficulty-based-problem-index/leetcode-easy/leetcode-566-reshape-the-matrix.md)

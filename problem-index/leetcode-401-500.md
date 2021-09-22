@@ -17,4 +17,5 @@ description: Leetcode Problems from 401 to 500
 | 462 | Medium | [Minimum Moves to Equal Array Elements II](../difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
 | 473 | Medium | [Matchsticks to Square](../difficulty-based-problem-index/leetcode-medium/leetcode-473-matchsticks-to-square.md) |
 | 474 | Medium | [Ones and Zeroes](../difficulty-based-problem-index/leetcode-medium/leetcode-474-ones-and-zeroes.md) |
+| 485 | Easy | [Max Consecutive Ones](../difficulty-based-problem-index/leetcode-easy/leetcode-485-max-consecutive-ones.md) |
 

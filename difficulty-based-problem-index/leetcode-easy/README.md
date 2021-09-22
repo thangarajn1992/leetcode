@@ -62,6 +62,7 @@ Easy Level Problem Sets for Leetcode
 | 415 | [Add Strings](leetcode-415-add-strings.md) |
 | 453 | [Minimum Moves to Equal Array Elements](leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 461 | [Hamming Distance](leetcode-461-hamming-distance.md) |
+| 485 | [Max Consecutive Ones](leetcode-485-max-consecutive-ones.md) |
 | 509 | [Fibonacci Number](leetcode-509-fibonacci-number.md) |
 | 521 | [Longest Uncommon Subsequence I](leetcode-521-longest-uncommon-subsequence-i.md) |
 | 566 | [Reshape the Matrix](leetcode-566-reshape-the-matrix.md) |
@@ -72,6 +73,7 @@ Easy Level Problem Sets for Leetcode
 | 696 | [Count Binary Sub-strings](leetcode-696-count-binary-sub-strings.md) |
 | 709 | [To Lower Case](leetcode-709-to-lower-case.md) |
 | 746 | [Min Cost Climbing Stairs](leetcode-746-min-cost-climbing-stairs.md) |
+| 917 | [Reverse Only Letters](leetcode-917-reverse-only-letters.md) |
 | 997 | [Find the Town Judge](leetcode-997-find-the-town-judge.md) |
 | 1046 | [Last Stone Weight](leetcode-1046-last-stone-weight.md) |
 | 1047 | [Remove All Adjacent Duplicates In String](leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
