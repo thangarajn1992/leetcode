@@ -58,7 +58,6 @@ This page contains list of problems that involves arrays
 | 350 | Easy | [Intersection of Two Array II](../difficulty-based-problem-index/leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |
 | 453 | Easy | [Minimum Moves to Equal Array Elements](../difficulty-based-problem-index/leetcode-easy/leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 462 | Medium | [Minimum Moves to Equal Array Elements II](../difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
-| 485 | Easy | [Max Consecutive Ones](../difficulty-based-problem-index/leetcode-easy/leetcode-485-max-consecutive-ones.md) |
 | 565 | Medium | [Array Nesting](../difficulty-based-problem-index/leetcode-medium/leetcode-565-array-nesting.md) |
 | 575 | Easy | [Distribute Candies](../difficulty-based-problem-index/leetcode-easy/leetcode-575-distribute-candies.md) |
 | 658 | Medium | [Find K Closest Elements](../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md) |
@@ -71,7 +70,6 @@ This page contains list of problems that involves arrays
 | 932 | Medium | [Beautiful Array](../difficulty-based-problem-index/leetcode-medium/leetcode-932-beautiful-array.md) |
 | 954 | Medium | [Array of Doubled Pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-954-array-of-doubled-pairs.md) |
 | 970 | Medium | [Powerful Integers](../difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md) |
-| 978 | Medium | [Longest Turbulent Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-978-longest-turbulent-subarray.md) |
 | 1046 | Easy | [Last Stone Weight](../difficulty-based-problem-index/leetcode-easy/leetcode-1046-last-stone-weight.md) |
 | 1235 | Hard | [Maximum Profit in Job Scheduling](../difficulty-based-problem-index/leetcode-hard/leetcode-1235-maximum-profit-in-job-scheduling.md) |
 | 1306 | Medium | [Jump Game III](../difficulty-based-problem-index/leetcode-medium/leetcode-1306-jump-game-iii.md) |

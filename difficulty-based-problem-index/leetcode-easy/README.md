@@ -77,6 +77,7 @@ Easy Level Problem Sets for Leetcode
 | 997 | [Find the Town Judge](leetcode-997-find-the-town-judge.md) |
 | 1046 | [Last Stone Weight](leetcode-1046-last-stone-weight.md) |
 | 1047 | [Remove All Adjacent Duplicates In String](leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
+| 1275 | [Find Winner on a Tic Tac Toe Game](leetcode-1275-find-winner-on-a-tic-tac-toe-game.md) |
 | 1304 | [Find N Unique Integers Sum up to Zero](leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
 | 1480 | [Running Sum of 1D Array](leetcode-1480-running-sum-of-1d-array.md) |
 | 1486 | [XOR Operation in an Array](leetcode-1486-xor-operation-in-an-array.md) |

@@ -27,6 +27,7 @@
 | 986 | Medium | [Interval List Intersections](../difficulty-based-problem-index/leetcode-medium/leetcode-986-interval-list-intersections.md) |
 | 827 | Hard | [Making A Large Island](../difficulty-based-problem-index/leetcode-hard/leetcode-827-making-a-large-island.md) |
 | 885 | Medium | [Spiral Matrix III](../difficulty-based-problem-index/leetcode-medium/leetcode-885-spiral-matrix-iii.md) |
+| 1275 | Easy | [Find Winner on a Tic Tac Toe Game](../difficulty-based-problem-index/leetcode-easy/leetcode-1275-find-winner-on-a-tic-tac-toe-game.md) |
 | 1582 | Easy | [Special Positions in a Binary Matrix](../difficulty-based-problem-index/leetcode-easy/leetcode-1582-special-positions-in-a-binary-matrix.md) |
 | 1861 | Medium | [Rotating the Box](../difficulty-based-problem-index/leetcode-medium/leetcode-1861-rotating-the-box.md) |
 | 1886 | Easy | [Determine Whether Matrix Can Be Obtained By Rotation](../difficulty-based-problem-index/leetcode-easy/leetcode-1886-determine-whether-matrix-can-be-obtained-by-rotation.md) |
