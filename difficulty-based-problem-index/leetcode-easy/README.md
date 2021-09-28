@@ -62,7 +62,6 @@ Easy Level Problem Sets for Leetcode
 | 415 | [Add Strings](leetcode-415-add-strings.md) |
 | 453 | [Minimum Moves to Equal Array Elements](leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 461 | [Hamming Distance](leetcode-461-hamming-distance.md) |
-| 485 | [Max Consecutive Ones](leetcode-485-max-consecutive-ones.md) |
 | 509 | [Fibonacci Number](leetcode-509-fibonacci-number.md) |
 | 521 | [Longest Uncommon Subsequence I](leetcode-521-longest-uncommon-subsequence-i.md) |
 | 566 | [Reshape the Matrix](leetcode-566-reshape-the-matrix.md) |
@@ -73,14 +72,9 @@ Easy Level Problem Sets for Leetcode
 | 696 | [Count Binary Sub-strings](leetcode-696-count-binary-sub-strings.md) |
 | 709 | [To Lower Case](leetcode-709-to-lower-case.md) |
 | 746 | [Min Cost Climbing Stairs](leetcode-746-min-cost-climbing-stairs.md) |
-| 917 | [Reverse Only Letters](leetcode-917-reverse-only-letters.md) |
-| 922 | [Sort Array By Parity II](leetcode-922-sort-array-by-parity-ii.md) |
-| 929 | [Unique Email Addresses](leetcode-929-unique-email-addresses.md) |
 | 997 | [Find the Town Judge](leetcode-997-find-the-town-judge.md) |
 | 1046 | [Last Stone Weight](leetcode-1046-last-stone-weight.md) |
 | 1047 | [Remove All Adjacent Duplicates In String](leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
-| 1137 | [N-th Tribonacci Number](leetcode-1137-n-th-tribonacci-number.md) |
-| 1275 | [Find Winner on a Tic Tac Toe Game](leetcode-1275-find-winner-on-a-tic-tac-toe-game.md) |
 | 1304 | [Find N Unique Integers Sum up to Zero](leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
 | 1480 | [Running Sum of 1D Array](leetcode-1480-running-sum-of-1d-array.md) |
 | 1486 | [XOR Operation in an Array](leetcode-1486-xor-operation-in-an-array.md) |

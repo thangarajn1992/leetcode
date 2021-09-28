@@ -152,6 +152,7 @@ Medium Level Problem Sets for Leetcode
 | 1268 | [Search Suggestions System](leetcode-1268-search-suggestions-system.md) |
 | 1302 | [Deepest Leaves Sum](leetcode-1302-deepest-leaves-sum.md) |
 | 1306 | [Jump Game III](leetcode-1306-jump-game-iii.md) |
+| 1328 | [Break a Palindrome](leetcode-1328-break-a-palindrome.md) |
 | 1338 | [Reduce Array Size to The Half](leetcode-1338-reduce-array-size-to-the-half.md) |
 | 1339 | [Maximum Product of Splitted Binary Tree](leetcode-1339-maximum-product-of-splitted-binary-tree.md) |
 | 1423 | [Maximum Points You Can Obtain from Cards](leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |

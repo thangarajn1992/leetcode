@@ -24,7 +24,7 @@
 | Day 20 | [Find Winner on a Tic Tac Toe Game](../../difficulty-based-problem-index/leetcode-easy/leetcode-1275-find-winner-on-a-tic-tac-toe-game.md) |
 | Day 21 | [Max Consecutive Ones](../../difficulty-based-problem-index/leetcode-easy/leetcode-485-max-consecutive-ones.md) |
 | Day 22 | [Maximum Length of a Concatenated String with Unique Characters](../../difficulty-based-problem-index/leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
-| Day 23 |  |
+| Day 23 | [Break a Palindrome](../../difficulty-based-problem-index/leetcode-medium/leetcode-1328-break-a-palindrome.md) |
 | Day 24 | [N-th Tribonacci Number](../../difficulty-based-problem-index/leetcode-easy/leetcode-1137-n-th-tribonacci-number.md) |
 | Day 25 |  |
 | Day 26 |  |

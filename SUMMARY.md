@@ -234,6 +234,7 @@
     * [Leetcode 1268 Search Suggestions System](difficulty-based-problem-index/leetcode-medium/leetcode-1268-search-suggestions-system.md)
     * [Leetcode 1302 Deepest Leaves Sum](difficulty-based-problem-index/leetcode-medium/leetcode-1302-deepest-leaves-sum.md)
     * [Leetcode 1306 Jump Game III](difficulty-based-problem-index/leetcode-medium/leetcode-1306-jump-game-iii.md)
+    * [Leetcode 1328 Break a Palindrome](difficulty-based-problem-index/leetcode-medium/leetcode-1328-break-a-palindrome.md)
     * [Leetcode 1338 Reduce Array Size to The Half](difficulty-based-problem-index/leetcode-medium/leetcode-1338-reduce-array-size-to-the-half.md)
     * [Leetcode 1339  Maximum Product of Splitted Binary Tree](difficulty-based-problem-index/leetcode-medium/leetcode-1339-maximum-product-of-splitted-binary-tree.md)
     * [Leetcode 1423 Maximum Points You Can Obtain from Cards](difficulty-based-problem-index/leetcode-medium/leetcode-1423-maximum-points-you-can-obtain-from-cards.md)
