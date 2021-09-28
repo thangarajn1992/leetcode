@@ -28,7 +28,7 @@
 | Day 24 |  |
 | Day 25 |  |
 | Day 26 |  |
-| Day 27 |  |
+| Day 27 | [Unique Email Addresses](../../difficulty-based-problem-index/leetcode-easy/leetcode-929-unique-email-addresses.md) |
 | Day 28 | [Sort Array By Parity II](../../difficulty-based-problem-index/leetcode-easy/leetcode-922-sort-array-by-parity-ii.md) |
 | Day 29 |  |
 | Day 30 |  |
