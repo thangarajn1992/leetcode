@@ -28,6 +28,7 @@ This page contains list of problems related to Mathematics
 | 633 | Medium | [Sum of Square Numbers](../difficulty-based-problem-index/leetcode-medium/leetcode-633-sum-of-square-numbers.md) |
 | 829 | Hard | [Consecutive Numbers Sum](../difficulty-based-problem-index/leetcode-hard/leetcode-829-consecutive-numbers-sum.md) |
 | 906 | Hard | [Super Palindromes](../difficulty-based-problem-index/leetcode-hard/leetcode-906-super-palindromes.md) |
+| 1137 | Easy | [N-th Tribonacci Number](../difficulty-based-problem-index/leetcode-easy/leetcode-1137-n-th-tribonacci-number.md) |
 | 1304 | Easy | [Find N Unique Integers Sum up to Zero](../difficulty-based-problem-index/leetcode-easy/leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
 | 1486 | Easy | [XOR Operation in an Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1486-xor-operation-in-an-array.md) |
 | 1798 | Medium | [Maximum Number of Consecutive Values You Can Make](../difficulty-based-problem-index/leetcode-medium/leetcode-1798-maximum-number-of-consecutive-values-you-can-make.md) |

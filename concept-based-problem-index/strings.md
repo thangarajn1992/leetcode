@@ -39,9 +39,7 @@
 | 848 | Medium | [Shifting Letters](../difficulty-based-problem-index/leetcode-medium/leetcode-848-shifting-letters.md) |
 | 890 | Medium | [Find and Replace Pattern](../difficulty-based-problem-index/leetcode-medium/leetcode-890-find-and-replace-pattern.md) |
 | 899 | Hard | [Orderly Queue](../difficulty-based-problem-index/leetcode-hard/leetcode-899-orderly-queue.md) |
-| 917 | Easy | [Reverse Only Letters](../difficulty-based-problem-index/leetcode-easy/leetcode-917-reverse-only-letters.md) |
 | 926 | Medium | [Flip String to Monotone Increasing](../difficulty-based-problem-index/leetcode-medium/leetcode-926-flip-string-to-monotone-increasing.md) |
-| 929 | Easy | [Unique Email Addresses](../difficulty-based-problem-index/leetcode-easy/leetcode-929-unique-email-addresses.md) |
 | 1047 | Easy | [Remove All Adjacent Duplicates In String](../difficulty-based-problem-index/leetcode-easy/leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
 | 1048 | Medium | [Longest String Chain](../difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md) |
 | 1239 | Medium | [Maximum length of a Concatenated String with Unique Characters](../difficulty-based-problem-index/leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
