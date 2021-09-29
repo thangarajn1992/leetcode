@@ -200,6 +200,7 @@
     * [Leetcode 707 Design Linked List](difficulty-based-problem-index/leetcode-medium/leetcode-707-design-linked-list.md)
     * [Leetcode 714 Best Time to Buy and Sell Stock with Transaction Fee](difficulty-based-problem-index/leetcode-medium/leetcode-714-best-time-to-buy-and-sell-stock-with-transaction-fee.md)
     * [Leetcode 718 Maximum Length of Repeated Subarray](difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md)
+    * [Leetcode 725 Split Linked List in Parts](difficulty-based-problem-index/leetcode-medium/leetcode-725-split-linked-list-in-parts.md)
     * [Leetcode 729 My Calendar I](difficulty-based-problem-index/leetcode-medium/leetcode-729-my-calendar-i.md)
     * [Leetcode 743 Network Delay Time](difficulty-based-problem-index/leetcode-medium/leetcode-743-network-delay-time.md)
     * [Leetcode 752 Open the Lock](difficulty-based-problem-index/leetcode-medium/leetcode-752-open-the-lock.md)
