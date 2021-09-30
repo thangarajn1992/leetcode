@@ -31,5 +31,5 @@
 | Day 27 | [Unique Email Addresses](../../difficulty-based-problem-index/leetcode-easy/leetcode-929-unique-email-addresses.md) |
 | Day 28 | [Sort Array By Parity II](../../difficulty-based-problem-index/leetcode-easy/leetcode-922-sort-array-by-parity-ii.md) |
 | Day 29 | [Split Linked List in Parts](../../difficulty-based-problem-index/leetcode-medium/leetcode-725-split-linked-list-in-parts.md) |
-| Day 30 |  |
+| Day 30 | [Partition to K Equal Sum Subsets](../../difficulty-based-problem-index/leetcode-medium/leetcode-698-partition-to-k-equal-sum-subsets.md) |
 

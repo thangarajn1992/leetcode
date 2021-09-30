@@ -27,7 +27,6 @@ This page contains list of problems involving linked lists
 | 328 | Medium | [Odd Even Linked List](../difficulty-based-problem-index/leetcode-medium/leetcode-328-odd-even-linked-list.md) |
 | 430 | Medium | [Flatten a Multilevel Doubly Linked List](../difficulty-based-problem-index/leetcode-medium/leetcode-430-flatten-a-multilevel-doubly-linked-list.md) |
 | 707 | Medium | [Design Linked List](../difficulty-based-problem-index/leetcode-medium/leetcode-707-design-linked-list.md) |
-| 725 | Medium | [Split Linked List in Parts](../difficulty-based-problem-index/leetcode-medium/leetcode-725-split-linked-list-in-parts.md) |
 
 
 
