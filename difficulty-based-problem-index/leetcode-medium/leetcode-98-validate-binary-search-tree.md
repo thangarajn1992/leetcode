@@ -37,18 +37,21 @@ Explanation: The root node's value is 5 but its right child's value is 4.
 ```cpp
 class Solution {
 public:
-    bool isValidBSTUtil(TreeNode* root, TreeNode *left, TreeNode *right)
-    {
-        if(!root)
-            return 1;
-        if( (left && left->val >= root->val) || (right && right->val <= root->val))
-            return 0;
-        return isValidBSTUtil(root->left, left, root) &&
-                isValidBSTUtil(root->right, root, right);
-
-    }
     bool isValidBST(TreeNode* root) {
-        return isValidBSTUtil(root, NULL, NULL);
+        return isValidBSTUtil(root, LONG_MIN, LONG_MAX);
+    }
+    
+    bool isValidBSTUtil(TreeNode* root, long min, long max)
+    {
+        if(root == nullptr)
+            return true;
+        
+        if(root->val <= min || root->val >= max)
+            return false;
+        
+        return isValidBSTUtil(root->left, min, root->val) &&
+                isValidBSTUtil(root->right, root->val, max);
+
     }
 };
 ```
