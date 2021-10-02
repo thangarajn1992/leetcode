@@ -368,6 +368,7 @@
     * [Leetcode 997 Find the Town Judge](difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge.md)
     * [Leetcode 1046 Last Stone Weight](difficulty-based-problem-index/leetcode-easy/leetcode-1046-last-stone-weight.md)
     * [Leetcode 1047 Remove All Adjacent Duplicates In String](difficulty-based-problem-index/leetcode-easy/leetcode-1047-remove-all-adjacent-duplicates-in-string.md)
+    * [Leetcode 1089 Duplicate Zeros](difficulty-based-problem-index/leetcode-easy/leetcode-1089-duplicate-zeros.md)
     * [Leetcode 1137 N-th Tribonacci Number](difficulty-based-problem-index/leetcode-easy/leetcode-1137-n-th-tribonacci-number.md)
     * [Leetcode 1275 Find Winner on a Tic Tac Toe Game](difficulty-based-problem-index/leetcode-easy/leetcode-1275-find-winner-on-a-tic-tac-toe-game.md)
     * [Leetcode 1295 Find Numbers with Even Number of Digits](difficulty-based-problem-index/leetcode-easy/leetcode-1295-find-numbers-with-even-number-of-digits.md)

@@ -80,6 +80,7 @@ Easy Level Problem Sets for Leetcode
 | 997 | [Find the Town Judge](leetcode-997-find-the-town-judge.md) |
 | 1046 | [Last Stone Weight](leetcode-1046-last-stone-weight.md) |
 | 1047 | [Remove All Adjacent Duplicates In String](leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
+| 1089 | [Duplicate Zeros](leetcode-1089-duplicate-zeros.md) |
 | 1137 | [N-th Tribonacci Number](leetcode-1137-n-th-tribonacci-number.md) |
 | 1275 | [Find Winner on a Tic Tac Toe Game](leetcode-1275-find-winner-on-a-tic-tac-toe-game.md) |
 | 1295 | [Find Numbers with Even Number of Digits](leetcode-1295-find-numbers-with-even-number-of-digits.md) |

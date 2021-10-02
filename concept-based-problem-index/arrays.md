@@ -76,6 +76,7 @@ This page contains list of problems that involves arrays
 | 977 | Easy | [Squares of a Sorted Array](../difficulty-based-problem-index/leetcode-easy/leetcode-977-squares-of-a-sorted-array.md) |
 | 978 | Medium | [Longest Turbulent Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-978-longest-turbulent-subarray.md) |
 | 1046 | Easy | [Last Stone Weight](../difficulty-based-problem-index/leetcode-easy/leetcode-1046-last-stone-weight.md) |
+| 1089 | Easy | [Duplicate Zeros](../difficulty-based-problem-index/leetcode-easy/leetcode-1089-duplicate-zeros.md) |
 | 1235 | Hard | [Maximum Profit in Job Scheduling](../difficulty-based-problem-index/leetcode-hard/leetcode-1235-maximum-profit-in-job-scheduling.md) |
 | 1295 | Easy | [Find Numbers with Even Number of Digits](../difficulty-based-problem-index/leetcode-easy/leetcode-1295-find-numbers-with-even-number-of-digits.md) |
 | 1306 | Medium | [Jump Game III](../difficulty-based-problem-index/leetcode-medium/leetcode-1306-jump-game-iii.md) |
