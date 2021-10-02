@@ -369,6 +369,7 @@
     * [Leetcode 1047 Remove All Adjacent Duplicates In String](difficulty-based-problem-index/leetcode-easy/leetcode-1047-remove-all-adjacent-duplicates-in-string.md)
     * [Leetcode 1137 N-th Tribonacci Number](difficulty-based-problem-index/leetcode-easy/leetcode-1137-n-th-tribonacci-number.md)
     * [Leetcode 1275 Find Winner on a Tic Tac Toe Game](difficulty-based-problem-index/leetcode-easy/leetcode-1275-find-winner-on-a-tic-tac-toe-game.md)
+    * [Leetcode 1295 Find Numbers with Even Number of Digits](difficulty-based-problem-index/leetcode-easy/leetcode-1295-find-numbers-with-even-number-of-digits.md)
     * [Leetcode 1304 Find N Unique Integers Sum up to Zero](difficulty-based-problem-index/leetcode-easy/leetcode-1304-find-n-unique-integers-sum-up-to-zero.md)
     * [Leetcode 1480 Running Sum of 1d Array](difficulty-based-problem-index/leetcode-easy/leetcode-1480-running-sum-of-1d-array.md)
     * [Leetcode 1486 XOR Operation in an Array](difficulty-based-problem-index/leetcode-easy/leetcode-1486-xor-operation-in-an-array.md)

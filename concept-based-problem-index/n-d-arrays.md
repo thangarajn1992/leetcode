@@ -12,7 +12,6 @@
 | 59 | Medium | [Spiral Matrix II](../difficulty-based-problem-index/leetcode-medium/leetcode-59-spiral-matrix-ii.md) |
 | 74 | Medium | [Search a 2D Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-74-search-a-2d-matrix.md) |
 | 79 | Medium | [Word Search](../difficulty-based-problem-index/leetcode-medium/leetcode-79-word-search.md) |
-| 174 | Hard | [Dungeon Game](../difficulty-based-problem-index/leetcode-hard/leetcode-174-dungeon-game.md) |
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
 | 200 | Medium | [Number of Islands](../difficulty-based-problem-index/leetcode-medium/leetcode-200-number-of-islands.md) |
 | 240 | Medium | [Search a 2D Matrix II](../difficulty-based-problem-index/leetcode-medium/leetcode-240-search-a-2d-matrix-ii.md) |

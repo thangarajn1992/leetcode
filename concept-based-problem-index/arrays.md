@@ -58,20 +58,25 @@ This page contains list of problems that involves arrays
 | 350 | Easy | [Intersection of Two Array II](../difficulty-based-problem-index/leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |
 | 453 | Easy | [Minimum Moves to Equal Array Elements](../difficulty-based-problem-index/leetcode-easy/leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 462 | Medium | [Minimum Moves to Equal Array Elements II](../difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
+| 485 | Easy | [Max Consecutive Ones](../difficulty-based-problem-index/leetcode-easy/leetcode-485-max-consecutive-ones.md) |
 | 565 | Medium | [Array Nesting](../difficulty-based-problem-index/leetcode-medium/leetcode-565-array-nesting.md) |
 | 575 | Easy | [Distribute Candies](../difficulty-based-problem-index/leetcode-easy/leetcode-575-distribute-candies.md) |
 | 658 | Medium | [Find K Closest Elements](../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md) |
 | 665 | Medium | [Non-decreasing array](../difficulty-based-problem-index/leetcode-medium/leetcode-665-non-decreasing-array.md) |
+| 698 | Medium | [Partition to K Equal Sum Subsets](../difficulty-based-problem-index/leetcode-medium/leetcode-698-partition-to-k-equal-sum-subsets.md) |
 | 714 | Medium | [Best Time to Buy and Sell Stock with Transaction Fee](../difficulty-based-problem-index/leetcode-medium/leetcode-714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) |
 | 718 | Medium | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 795 | Medium | [Number of Subarrays with Bounded Maximum](../difficulty-based-problem-index/leetcode-medium/leetcode-795-number-of-subarrays-with-bounded-maximum.md) |
 | 915 | Medium | [Partition Array into Disjoint Intervals](../difficulty-based-problem-index/leetcode-medium/leetcode-915-partition-array-into-disjoint-intervals.md) |
+| 922 | Easy | [Sort Array By Parity II](../difficulty-based-problem-index/leetcode-easy/leetcode-922-sort-array-by-parity-ii.md) |
 | 927 | Hard | [Three Equal Parts](../difficulty-based-problem-index/leetcode-hard/leetcode-927-three-equal-parts.md) |
 | 932 | Medium | [Beautiful Array](../difficulty-based-problem-index/leetcode-medium/leetcode-932-beautiful-array.md) |
 | 954 | Medium | [Array of Doubled Pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-954-array-of-doubled-pairs.md) |
 | 970 | Medium | [Powerful Integers](../difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md) |
+| 978 | Medium | [Longest Turbulent Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-978-longest-turbulent-subarray.md) |
 | 1046 | Easy | [Last Stone Weight](../difficulty-based-problem-index/leetcode-easy/leetcode-1046-last-stone-weight.md) |
 | 1235 | Hard | [Maximum Profit in Job Scheduling](../difficulty-based-problem-index/leetcode-hard/leetcode-1235-maximum-profit-in-job-scheduling.md) |
+| 1295 | Easy | [Find Numbers with Even Number of Digits](../difficulty-based-problem-index/leetcode-easy/leetcode-1295-find-numbers-with-even-number-of-digits.md) |
 | 1306 | Medium | [Jump Game III](../difficulty-based-problem-index/leetcode-medium/leetcode-1306-jump-game-iii.md) |
 | 1338 | Medium | [Reduce Array Size to The Half](../difficulty-based-problem-index/leetcode-medium/leetcode-1338-reduce-array-size-to-the-half.md) |
 | 1354 | Hard  | [Construct Target Array With Multiple Sums](../difficulty-based-problem-index/leetcode-hard/leetcode-1354-construct-target-array-with-multiple-sums.md) |
