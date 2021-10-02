@@ -71,6 +71,7 @@ This page contains list of problems that involves arrays
 | 922 | Easy | [Sort Array By Parity II](../difficulty-based-problem-index/leetcode-easy/leetcode-922-sort-array-by-parity-ii.md) |
 | 927 | Hard | [Three Equal Parts](../difficulty-based-problem-index/leetcode-hard/leetcode-927-three-equal-parts.md) |
 | 932 | Medium | [Beautiful Array](../difficulty-based-problem-index/leetcode-medium/leetcode-932-beautiful-array.md) |
+| 941 | Easy | [Valid Mountain Array](../difficulty-based-problem-index/leetcode-easy/leetcode-941-valid-mountain-array.md) |
 | 954 | Medium | [Array of Doubled Pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-954-array-of-doubled-pairs.md) |
 | 970 | Medium | [Powerful Integers](../difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md) |
 | 977 | Easy | [Squares of a Sorted Array](../difficulty-based-problem-index/leetcode-easy/leetcode-977-squares-of-a-sorted-array.md) |
