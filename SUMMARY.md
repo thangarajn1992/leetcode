@@ -364,6 +364,7 @@
     * [Leetcode 917 Reverse Only Letters](difficulty-based-problem-index/leetcode-easy/leetcode-917-reverse-only-letters.md)
     * [Leetcode 922 Sort Array By Parity II](difficulty-based-problem-index/leetcode-easy/leetcode-922-sort-array-by-parity-ii.md)
     * [Leetcode 929 Unique Email Addresses](difficulty-based-problem-index/leetcode-easy/leetcode-929-unique-email-addresses.md)
+    * [Leetcode 977 Squares of a Sorted Array](difficulty-based-problem-index/leetcode-easy/leetcode-977-squares-of-a-sorted-array.md)
     * [Leetcode 997 Find the Town Judge](difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge.md)
     * [Leetcode 1046 Last Stone Weight](difficulty-based-problem-index/leetcode-easy/leetcode-1046-last-stone-weight.md)
     * [Leetcode 1047 Remove All Adjacent Duplicates In String](difficulty-based-problem-index/leetcode-easy/leetcode-1047-remove-all-adjacent-duplicates-in-string.md)

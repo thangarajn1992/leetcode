@@ -73,6 +73,7 @@ This page contains list of problems that involves arrays
 | 932 | Medium | [Beautiful Array](../difficulty-based-problem-index/leetcode-medium/leetcode-932-beautiful-array.md) |
 | 954 | Medium | [Array of Doubled Pairs](../difficulty-based-problem-index/leetcode-medium/leetcode-954-array-of-doubled-pairs.md) |
 | 970 | Medium | [Powerful Integers](../difficulty-based-problem-index/leetcode-medium/leetcode-970-powerful-integers.md) |
+| 977 | Easy | [Squares of a Sorted Array](../difficulty-based-problem-index/leetcode-easy/leetcode-977-squares-of-a-sorted-array.md) |
 | 978 | Medium | [Longest Turbulent Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-978-longest-turbulent-subarray.md) |
 | 1046 | Easy | [Last Stone Weight](../difficulty-based-problem-index/leetcode-easy/leetcode-1046-last-stone-weight.md) |
 | 1235 | Hard | [Maximum Profit in Job Scheduling](../difficulty-based-problem-index/leetcode-hard/leetcode-1235-maximum-profit-in-job-scheduling.md) |
