@@ -47,10 +47,10 @@ It doesn't matter what values are set beyond the returned length.
 ```cpp
 int removeDuplicates(vector<int>& nums) {
     int unique = 0;
-    for(int i = 1; i < nums.size() ; i++)
+    for(int index = 1; index < nums.size() ; index++)
     {
-        if(nums[i] != nums[unique])
-            nums[++unique] = nums[i];
+        if(nums[index] != nums[unique])
+            nums[++unique] = nums[index];
     }
     return nums.size() ? unique+1 : 0;
 }
