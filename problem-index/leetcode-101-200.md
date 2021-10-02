@@ -45,6 +45,7 @@ description: Leetcode Problems from 101 to 200
 | 167 | Easy | [Two Sum II - Input array is sorted](../difficulty-based-problem-index/leetcode-easy/leetcode-167-two-sum-ii-input-array-is-sorted.md) |
 | 169 | Easy | [Majority Element](../difficulty-based-problem-index/leetcode-easy/leetcode-169-majority-element.md) |
 | 171 | Easy | [Excel Sheet Column Number](../difficulty-based-problem-index/leetcode-easy/leetcode-171-excel-sheet-column-number.md) |
+| 174 | Hard | [Dungeon Game](../difficulty-based-problem-index/leetcode-hard/leetcode-174-dungeon-game.md) |
 | 188 | Hard | [Best Time to Buy and Sell Stock IV](../difficulty-based-problem-index/leetcode-hard/leetcode-188-best-time-to-buy-and-sell-stock-iv.md) |
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
 | 190 | Easy | [Reverse Bits](../difficulty-based-problem-index/leetcode-easy/leetcode-190-reverse-bits.md) |
