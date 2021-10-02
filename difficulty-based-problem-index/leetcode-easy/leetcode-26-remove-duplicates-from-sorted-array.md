@@ -45,19 +45,14 @@ It doesn't matter what values are set beyond the returned length.
 ## Solution
 
 ```cpp
-class Solution {
-public:
-    int removeDuplicates(vector<int>& nums) {
-        int size = nums.size();
-        if(size == 0)
-            return size;
-        int unique = 0;
-        for(int index = 1; index < nums.size() ; index++)
-            if(nums[index] != nums[unique])
-                nums[++unique] = nums[index];
-        
-        return unique+1;
+int removeDuplicates(vector<int>& nums) {
+    int unique = 0;
+    for(int i = 1; i < nums.size() ; i++)
+    {
+        if(nums[i] != nums[unique])
+            nums[++unique] = nums[i];
     }
-};
+    return nums.size() ? unique+1 : 0;
+}
 ```
 
