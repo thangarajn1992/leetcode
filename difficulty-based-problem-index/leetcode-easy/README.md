@@ -73,6 +73,7 @@ Easy Level Problem Sets for Leetcode
 | 598 | [Range Addition II](leetcode-598-range-addition-ii.md) |
 | 653 | [Two Sum IV - Input is a BST](leetcode-653-two-sum-iv-input-is-a-bst.md) |
 | 696 | [Count Binary Sub-strings](leetcode-696-count-binary-sub-strings.md) |
+| 704 | [Binary Search](leetcode-704-binary-search.md) |
 | 709 | [To Lower Case](leetcode-709-to-lower-case.md) |
 | 746 | [Min Cost Climbing Stairs](leetcode-746-min-cost-climbing-stairs.md) |
 | 917 | [Reverse Only Letters](leetcode-917-reverse-only-letters.md) |
