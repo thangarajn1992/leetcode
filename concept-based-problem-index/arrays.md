@@ -80,7 +80,6 @@ This page contains list of problems that involves arrays
 | 1089 | Easy | [Duplicate Zeros](../difficulty-based-problem-index/leetcode-easy/leetcode-1089-duplicate-zeros.md) |
 | 1235 | Hard | [Maximum Profit in Job Scheduling](../difficulty-based-problem-index/leetcode-hard/leetcode-1235-maximum-profit-in-job-scheduling.md) |
 | 1295 | Easy | [Find Numbers with Even Number of Digits](../difficulty-based-problem-index/leetcode-easy/leetcode-1295-find-numbers-with-even-number-of-digits.md) |
-| 1299 | Easy | [Replace Elements with Greatest Element on Right Side](../difficulty-based-problem-index/leetcode-easy/leetcode-1299-replace-elements-with-greatest-element-on-right-side.md) |
 | 1306 | Medium | [Jump Game III](../difficulty-based-problem-index/leetcode-medium/leetcode-1306-jump-game-iii.md) |
 | 1338 | Medium | [Reduce Array Size to The Half](../difficulty-based-problem-index/leetcode-medium/leetcode-1338-reduce-array-size-to-the-half.md) |
 | 1346 | Easy | [Check If N and Its Double Exist](../difficulty-based-problem-index/leetcode-easy/leetcode-1346-check-if-n-and-its-double-exist.md) |

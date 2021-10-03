@@ -33,10 +33,14 @@ Output: [0]
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int i, nz = 0;
-        for(int i = 0; i < nums.size(); i++)
-            if(nums[i])
-                swap(nums[nz++], nums[i]);
+        for(int index = 0, nonZeroIndex = 0; index < nums.size(); index++)
+        {
+            if(nums[index] != 0)
+            {
+                swap(nums[nonZeroIndex], nums[index]);
+                nonZeroIndex++;
+            }
+        }
     }
 };
 ```
