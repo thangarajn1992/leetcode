@@ -15,6 +15,7 @@ Easy Level Problem Sets for Leetcode
 | 35 | [Search Insert Position](leetcode-35-search-insert-position.md) |
 | 53 | [Maximum Subarray](leetcode-53-maximum-subarray.md) |
 | 66 | [Plus One](leetcode-66-plus-one.md) |
+| 69 | [Sqrt\(x\)](leetcode-69-sqrt-x.md) |
 | 70 | [Climbing Stairs](leetcode-70-climbing-stairs.md) |
 | 83 | [Remove Duplicates from Sorted List](leetcode-83-remove-duplicates-from-sorted-list.md) |
 | 88 | [Merge Sorted Array](leetcode-88-merge-sorted-array.md) |

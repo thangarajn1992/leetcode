@@ -303,6 +303,7 @@
     * [Leetcode 35 Search Insert Position](difficulty-based-problem-index/leetcode-easy/leetcode-35-search-insert-position.md)
     * [Leetcode 53 Maximum Subarray](difficulty-based-problem-index/leetcode-easy/leetcode-53-maximum-subarray.md)
     * [Leetcode 66 Plus One](difficulty-based-problem-index/leetcode-easy/leetcode-66-plus-one.md)
+    * [Leetcode 69 Sqrt\(x\)](difficulty-based-problem-index/leetcode-easy/leetcode-69-sqrt-x.md)
     * [Leetcode 70 Climbing Stairs](difficulty-based-problem-index/leetcode-easy/leetcode-70-climbing-stairs.md)
     * [Leetcode 83 Remove Duplicates from Sorted List](difficulty-based-problem-index/leetcode-easy/leetcode-83-remove-duplicates-from-sorted-list.md)
     * [Leetcode 88 Merge Sorted Array](difficulty-based-problem-index/leetcode-easy/leetcode-88-merge-sorted-array.md)

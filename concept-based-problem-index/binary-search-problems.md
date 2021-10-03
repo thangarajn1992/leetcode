@@ -5,6 +5,7 @@
 | Leetcode No | Difficulty | Problem Link |
 | :--- | :--- | :--- |
 | 35 | Easy | [Search Insert Position](../difficulty-based-problem-index/leetcode-easy/leetcode-35-search-insert-position.md) |
+| 69 | Easy | [Sqrt\(x\)](../difficulty-based-problem-index/leetcode-easy/leetcode-69-sqrt-x.md) |
 | 74 | Medium | [Search a 2D Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-74-search-a-2d-matrix.md) |
 | 153 | Medium | [Find Minimum in Rotated Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-153-find-minimum-in-rotated-sorted-array.md) |
 | 154 | Hard | [Find Minimum in Rotated Sorted Array II](../difficulty-based-problem-index/leetcode-hard/leetcode-154-find-minimum-in-rotated-sorted-array-ii.md) |
