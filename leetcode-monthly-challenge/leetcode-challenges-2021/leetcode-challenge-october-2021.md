@@ -6,7 +6,7 @@
 | :--- | :--- |
 | Day 1 | [Longest Common Subsequence](../../difficulty-based-problem-index/leetcode-medium/leetcode-1143-longest-common-subsequence.md) |
 | Day 2 | [Dungeon Game](../../difficulty-based-problem-index/leetcode-hard/leetcode-174-dungeon-game.md) |
-| Day 3 | [Jump Game](../../difficulty-based-problem-index/leetcode-medium/leetcode-55-jump-game.md) |
+| Day 3 |  |
 | Day 4 |  |
 | Day 5 |  |
 | Day 6 |  |

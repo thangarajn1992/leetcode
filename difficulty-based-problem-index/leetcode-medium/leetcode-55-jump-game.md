@@ -38,13 +38,12 @@ Its maximum jump length is 0, which makes it impossible to reach the last index.
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        int reachableIndex = 0, len = nums.size();
-        for(int index = 0; index < len ; index++){
-            if(reachableIndex < index) 
-                return 0;
-            reachableIndex = max(reachableIndex, index+nums[index]) ;
+        int max_so_far = 0, len = nums.size();
+        for(int i = 0; i < len ; i++){
+            if(max_so_far < i) return 0;
+            max_so_far = max(max_so_far, i+nums[i]) ;
         }
-        return reachableIndex >= len-1 ;
+        return max_so_far >= len-1 ;
     }
 };
 ```

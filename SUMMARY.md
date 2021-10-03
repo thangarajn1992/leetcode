@@ -366,6 +366,7 @@
     * [Leetcode 696 Count Binary Sub-strings](difficulty-based-problem-index/leetcode-easy/leetcode-696-count-binary-sub-strings.md)
     * [Leetcode 704 Binary Search](difficulty-based-problem-index/leetcode-easy/leetcode-704-binary-search.md)
     * [Leetcode 709 To Lower Case](difficulty-based-problem-index/leetcode-easy/leetcode-709-to-lower-case.md)
+    * [Leetcode 744 Find Smallest Letter Greater Than Target](difficulty-based-problem-index/leetcode-easy/leetcode-744-find-smallest-letter-greater-than-target.md)
     * [Leetcode 746 Min Cost Climbing Stairs](difficulty-based-problem-index/leetcode-easy/leetcode-746-min-cost-climbing-stairs.md)
     * [Leetcode 905 Sort Array By Parity](difficulty-based-problem-index/leetcode-easy/leetcode-905-sort-array-by-parity.md)
     * [Leetcode 917 Reverse Only Letters](difficulty-based-problem-index/leetcode-easy/leetcode-917-reverse-only-letters.md)
