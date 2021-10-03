@@ -8,7 +8,6 @@ description: Leetcode Problems from 901 to 1000
 
 | Leetcode No | Difficulty | Problem Link |
 | :--- | :--- | :--- |
-| 905 | Easy | [Sort Array By Parity](../difficulty-based-problem-index/leetcode-easy/leetcode-905-sort-array-by-parity.md) |
 | 906 | Hard | [Super Palindromes](../difficulty-based-problem-index/leetcode-hard/leetcode-906-super-palindromes.md) |
 | 915 | Medium | [Partition Array into Disjoint Intervals](../difficulty-based-problem-index/leetcode-medium/leetcode-915-partition-array-into-disjoint-intervals.md) |
 | 917 | Easy | [Reverse Only Letters](../difficulty-based-problem-index/leetcode-easy/leetcode-917-reverse-only-letters.md) |
