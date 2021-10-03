@@ -39,16 +39,22 @@ Output: 1
 class Solution {
 public:
     int firstBadVersion(int n) {
-        int left = 1, right = n, result = n;
-        while(left < right)
+        int start = 1, end = n, result = n;
+        while(start < end)
         {
-            int mid = left + (right - left)/2;
+            int mid = start + (end - start)/2;
             if(isBadVersion(mid))
-                right = mid;
+            {
+                end = mid;
+                result = min(result, mid);
+            }
             else
-                left = mid + 1;
+            {
+                start = mid + 1;
+                result = max(result, mid);
+            }
         }
-        return left;
+        return result;
     }
 };
 ```
