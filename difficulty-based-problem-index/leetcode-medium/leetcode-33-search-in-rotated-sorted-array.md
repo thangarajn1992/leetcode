@@ -46,34 +46,48 @@ Output: -1
 ```cpp
 class Solution {
 public:
-    int search(vector<int>&A ,int target) {
-        int n = A.size();
-        int left = 0, right = n-1;
-        // find the index of the smallest value using binary search.
-        // Loop will terminate since mid < hi, and lo or hi will shrink by at least 1.
-        // Proof by contradiction that mid < hi: if mid==hi, then lo==hi and loop would have been terminated.
-        while(left < right){
-            int mid = left + (right - left)/2;
-            if(A[mid] > A[right]) 
-                left = mid+1;
+    int bs(vector<int>& A, int low, int high, int x)
+    {
+        while(low <= high)
+        {
+            int mid = (low + high )/2 ;
+            
+            if(A[mid] == x)
+                return mid;
+           
+            else if (A[mid] > x)
+                    high = mid - 1;
             else 
-                right = mid;
-        }
-        // lo == hi is the index of the smallest value and also the number of places rotated.
-        int rotatedBy = left;
-        left = 0; right = n-1;
-        // The usual binary search and accounting for rotation.
-        while(left <= right){
-            int mid = left + (right - left)/2;
-            int realmid = (mid + rotatedBy) % n;
-            if(A[realmid] == target)
-                return realmid;
-            if(A[realmid] < target)
-                left = mid+1;
-            else 
-                right = mid-1;
-        }
+                low = mid + 1;   
+        } 
         return -1;
+    }
+    
+    int pivot (vector<int> nums,int n)
+    {
+        int l = 0, r = nums.size()-1, mid = 0;
+            
+		// Modified binary search to find pivot (k)
+        while(r > l){
+            mid = l + (r-l)/2;
+            
+            if(nums[mid] > nums[r])
+                l= mid+1;
+            
+            else
+                r = mid;
+        }
+        return l-1;  
+    }
+    
+    int search(vector<int>& nums, int target) {
+       
+        int n = nums.size();
+        int p = pivot(nums,n);    
+        if(nums[0] <= target && p >= 0)
+            return bs(nums, 0, p, target);
+        else
+            return bs(nums, p+1, n-1, target);      
     }
 };
 ```
