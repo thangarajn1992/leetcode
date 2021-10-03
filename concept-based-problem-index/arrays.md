@@ -56,6 +56,7 @@ This page contains list of problems that involves arrays
 | 341 | Medium | [Flatten Nested List Iterator](../difficulty-based-problem-index/leetcode-medium/leetcode-341-flatten-nested-list-iterator.md) |
 | 349 | Easy | [Intersection of Two Array](../difficulty-based-problem-index/leetcode-easy/leetcode-349-intersection-of-two-arrays.md) |
 | 350 | Easy | [Intersection of Two Array II](../difficulty-based-problem-index/leetcode-easy/leetcode-350-intersection-of-two-array-ii.md) |
+| 414 | Easy | [Third Maximum Number](../difficulty-based-problem-index/leetcode-easy/leetcode-414-third-maximum-number.md) |
 | 453 | Easy | [Minimum Moves to Equal Array Elements](../difficulty-based-problem-index/leetcode-easy/leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 462 | Medium | [Minimum Moves to Equal Array Elements II](../difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md) |
 | 485 | Easy | [Max Consecutive Ones](../difficulty-based-problem-index/leetcode-easy/leetcode-485-max-consecutive-ones.md) |

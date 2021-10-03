@@ -59,6 +59,7 @@ Easy Level Problem Sets for Leetcode
 | 350 | [Intersection of Two Arrays II](leetcode-350-intersection-of-two-array-ii.md) |
 | 387 | [First Unique Character in a String](leetcode-387-first-unique-character-in-a-string.md) |
 | 412 | [Fizz Buzz](leetcode-412-fizz-buzz.md) |
+| 414 | [Third Maximum Number](leetcode-414-third-maximum-number.md) |
 | 415 | [Add Strings](leetcode-415-add-strings.md) |
 | 453 | [Minimum Moves to Equal Array Elements](leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 461 | [Hamming Distance](leetcode-461-hamming-distance.md) |
