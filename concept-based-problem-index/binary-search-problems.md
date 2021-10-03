@@ -4,6 +4,7 @@
 
 | Leetcode No | Difficulty | Problem Link |
 | :--- | :--- | :--- |
+| 33 | Medium | [Search in Rotated Sorted Array](../difficulty-based-problem-index/leetcode-medium/leetcode-33-search-in-rotated-sorted-array.md) |
 | 35 | Easy | [Search Insert Position](../difficulty-based-problem-index/leetcode-easy/leetcode-35-search-insert-position.md) |
 | 69 | Easy | [Sqrt\(x\)](../difficulty-based-problem-index/leetcode-easy/leetcode-69-sqrt-x.md) |
 | 74 | Medium | [Search a 2D Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-74-search-a-2d-matrix.md) |
