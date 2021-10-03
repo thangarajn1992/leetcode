@@ -361,6 +361,7 @@
     * [Leetcode 696 Count Binary Sub-strings](difficulty-based-problem-index/leetcode-easy/leetcode-696-count-binary-sub-strings.md)
     * [Leetcode 709 To Lower Case](difficulty-based-problem-index/leetcode-easy/leetcode-709-to-lower-case.md)
     * [Leetcode 746 Min Cost Climbing Stairs](difficulty-based-problem-index/leetcode-easy/leetcode-746-min-cost-climbing-stairs.md)
+    * [Leetcode 905 Sort Array By Parity](difficulty-based-problem-index/leetcode-easy/leetcode-905-sort-array-by-parity.md)
     * [Leetcode 917 Reverse Only Letters](difficulty-based-problem-index/leetcode-easy/leetcode-917-reverse-only-letters.md)
     * [Leetcode 922 Sort Array By Parity II](difficulty-based-problem-index/leetcode-easy/leetcode-922-sort-array-by-parity-ii.md)
     * [Leetcode 929 Unique Email Addresses](difficulty-based-problem-index/leetcode-easy/leetcode-929-unique-email-addresses.md)

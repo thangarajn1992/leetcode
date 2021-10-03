@@ -74,6 +74,7 @@ Easy Level Problem Sets for Leetcode
 | 709 | [To Lower Case](leetcode-709-to-lower-case.md) |
 | 746 | [Min Cost Climbing Stairs](leetcode-746-min-cost-climbing-stairs.md) |
 | 917 | [Reverse Only Letters](leetcode-917-reverse-only-letters.md) |
+| 905 | [Sort Array By Parity](leetcode-905-sort-array-by-parity.md) |
 | 922 | [Sort Array By Parity II](leetcode-922-sort-array-by-parity-ii.md) |
 | 929 | [Unique Email Addresses](leetcode-929-unique-email-addresses.md) |
 | 941 | [Valid Mountain Array](leetcode-941-valid-mountain-array.md) |
@@ -85,6 +86,7 @@ Easy Level Problem Sets for Leetcode
 | 1137 | [N-th Tribonacci Number](leetcode-1137-n-th-tribonacci-number.md) |
 | 1275 | [Find Winner on a Tic Tac Toe Game](leetcode-1275-find-winner-on-a-tic-tac-toe-game.md) |
 | 1295 | [Find Numbers with Even Number of Digits](leetcode-1295-find-numbers-with-even-number-of-digits.md) |
+| 1299 | [Replace Elements with Greatest Element on Right Side](leetcode-1299-replace-elements-with-greatest-element-on-right-side.md) |
 | 1304 | [Find N Unique Integers Sum up to Zero](leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
 | 1346 | [Check If N and Its Double Exist](leetcode-1346-check-if-n-and-its-double-exist.md) |
 | 1480 | [Running Sum of 1D Array](leetcode-1480-running-sum-of-1d-array.md) |
