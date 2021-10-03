@@ -66,7 +66,6 @@ description: Leetcode Problem from 1 to 100
 | 64 | Medium | [Minimum Path Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-64-minimum-path-sum.md) |
 | 65 | Hard | [Valid Number](../difficulty-based-problem-index/leetcode-hard/leetcode-65-valid-number.md) |
 | 66 | Easy | [Plus One](../difficulty-based-problem-index/leetcode-easy/leetcode-66-plus-one.md) |
-| 69 | Easy | [Sqrt\(x\)](../difficulty-based-problem-index/leetcode-easy/leetcode-69-sqrt-x.md) |
 | 70 | Easy | [Climbing Stairs](../difficulty-based-problem-index/leetcode-easy/leetcode-70-climbing-stairs.md) |
 | 73 | Medium | [Set Matrix Zeroes](../difficulty-based-problem-index/leetcode-medium/leetcode-73-set-matrix-zeroes.md) |
 | 74 | Medium | [Search a 2D Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-74-search-a-2d-matrix.md) |
