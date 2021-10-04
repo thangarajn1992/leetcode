@@ -32,27 +32,79 @@ Output: [-1]
 
 ## Solution
 
+### Iterative Approach
+
 ```cpp
 class Solution {
 public:
-    int preorder_index;
-    map<int,int> inorder_map;
+    /* Iterative Approach */
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+         int preIndex = 0;
+         int inIndex = 0;
+         bool rightSubTree = false;
+         TreeNode *prev = new TreeNode(preorder[preIndex]);
+         TreeNode *root = prev;
+         preIndex++;
+         
+         stack<TreeNode*> s;
+         s.push(root);
+         
+         while(preIndex < preorder.size())
+         {
+             if(s.empty() == false && inorder[inIndex] == s.top()->val)
+             {
+                 prev = s.top(); s.pop();
+                 inIndex++;
+                 rightSubTree = true;
+             }
+             else
+             {
+                 TreeNode *node = new TreeNode(preorder[preIndex]);
+                 preIndex++;
+                 s.push(node);
+                 if(rightSubTree == true)
+                 {
+                     prev->right = node;
+                     prev = prev->right;
+                     rightSubTree = false;
+                 }
+                 else
+                 {
+                     prev->left = node;
+                     prev = prev->left;
+                 } 
+             }
+         }
+         return root;
+     } 
+ };
+```
+
+### Recursive Approach
+
+```cpp
+class Solution {
+public:
+    int preorderIndex;
+    map<int,int> inorderIndices;
     
-    TreeNode* make_tree(vector<int>& preorder, int left, int right){
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        preorderIndex = 0;
+        for(int i = 0; i < inorder.size(); i++)
+            inorderIndices[inorder[i]] = i;
+        
+        return makeTree(preorder, 0, preorder.size()-1);
+    }  
+     
+    TreeNode* makeTree(vector<int>& preorder, int left, int right){
         if(left > right)
             return nullptr;
-        TreeNode *root = new TreeNode(preorder[preorder_index++]);
-        root->left = make_tree(preorder, left, inorder_map[root->val]-1);
-        root->right = make_tree(preorder, inorder_map[root->val]+1, right);
+        TreeNode *root = new TreeNode(preorder[preorderIndex++]);
+        root->left = makeTree(preorder, left, inorderIndices[root->val]-1);
+        root->right = makeTree(preorder, inorderIndices[root->val]+1, right);
         return root;
     }
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        preorder_index = 0;
-        for(int i = 0; i < inorder.size(); i++)
-            inorder_map[inorder[i]] = i;
-        
-        return make_tree(preorder, 0, preorder.size()-1);
-    }
+
 };
 ```
 
