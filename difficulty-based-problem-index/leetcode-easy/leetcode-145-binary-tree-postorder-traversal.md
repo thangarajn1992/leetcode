@@ -76,53 +76,30 @@ public:
 ```cpp
 class Solution {
 public:
+    /* Iterative Approach */
     vector<int> postorderTraversal(TreeNode* root) {
-        if(!root)
-            return {};
         vector<int> result;
-        stack<TreeNode *> s;
-        unordered_map<TreeNode *, int> m;
-        s.push(root);
-        while(!s.empty())
+        if(root == nullptr)
+            return result;
+        stack<TreeNode *> s1, s2;
+        s1.push(root);
+        while(s1.empty() == false)
         {
-            TreeNode *curr = s.top();
-            s.pop();
-            while(curr)
-            {
-                if(!m[curr])
-                {
-                    m[curr] = 1;
-                    if(curr->left == nullptr)
-                    {
-                        if(curr->right == nullptr)
-                            result.push_back(curr->val);
-                        else
-                            s.push(curr);
-                        
-                        curr = curr->right;
-                    }
-                    else
-                    {
-                        s.push(curr);
-                        curr = curr->left;
-                    }
-                }
-                else
-                {
-                    if(curr->right == NULL || m[curr->right])
-                    {
-                        result.push_back(curr->val);
-                        break;
-                    }
-                    else
-                    {
-                        s.push(curr);
-                        curr = curr->right;
-                    }
-                }
-            }   
+            TreeNode *curr = s1.top(); s1.pop();
+            s2.push(curr);
+            if(curr->left != nullptr)
+                s1.push(curr->left);
+            if(curr->right != nullptr)
+                s1.push(curr->right);
+        }
+        
+        while(s2.empty() == false)
+        {
+            result.push_back(s2.top()->val);
+            s2.pop();
         }
         return result;
     }
+};
 ```
 
