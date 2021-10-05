@@ -19,6 +19,7 @@ This page contains problems that involves any type of trees
 | 109 | Medium | [Convert Sorted List to Binary Search Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-109-convert-sorted-list-to-binary-search-tree.md) |
 | 113 | Medium | [Path Sum II](../difficulty-based-problem-index/leetcode-medium/leetcode-113-path-sum-ii.md) |
 | 116 | Medium | [Populating Next Right Pointers in Each Node](../difficulty-based-problem-index/leetcode-medium/leetcode-116-populating-next-right-pointers-in-each-node.md) |
+| 117 | Medium | [Populating Next Right Pointers in Each Node II](../difficulty-based-problem-index/leetcode-medium/leetcode-117-populating-next-right-pointers-in-each-node-ii.md) |
 | 144 | Easy | [Binary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-144-binary-tree-preorder-traversal.md) |
 | 145 | Easy | [Binary Tree Postorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md) |
 | 230 | Medium | [Kth Smallest Element in a BST](../difficulty-based-problem-index/leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md) |
