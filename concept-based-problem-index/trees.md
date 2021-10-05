@@ -19,11 +19,13 @@ This page contains problems that involves any type of trees
 | 109 | Medium | [Convert Sorted List to Binary Search Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-109-convert-sorted-list-to-binary-search-tree.md) |
 | 113 | Medium | [Path Sum II](../difficulty-based-problem-index/leetcode-medium/leetcode-113-path-sum-ii.md) |
 | 116 | Medium | [Populating Next Right Pointers in Each Node](../difficulty-based-problem-index/leetcode-medium/leetcode-116-populating-next-right-pointers-in-each-node.md) |
+| 117 | Medium | [Populating Next Right Pointers in Each Node II](../difficulty-based-problem-index/leetcode-medium/leetcode-117-populating-next-right-pointers-in-each-node-ii.md) |
 | 144 | Easy | [Binary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-144-binary-tree-preorder-traversal.md) |
 | 145 | Easy | [Binary Tree Postorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-145-binary-tree-postorder-traversal.md) |
 | 230 | Medium | [Kth Smallest Element in a BST](../difficulty-based-problem-index/leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md) |
 | 235 | Easy | [Lowest Common Ancestor of a Binary Search Tree](../difficulty-based-problem-index/leetcode-easy/leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md) |
 | 236 | Medium | [Lowest Common Ancestor of a Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-236-lowest-common-ancestor-of-a-binary-tree.md) |
+| 297 | Hard | [Serialize and Deserialize Binary Tree](../difficulty-based-problem-index/leetcode-hard/leetcode-297-serialize-and-deserialize-binary-tree.md) |
 | 307 | Medium | [Ranged Sum Query 1D - Mutable](../difficulty-based-problem-index/leetcode-medium/leetcode-307-range-sum-query-mutable.md) |
 | 331 | Medium | [Verify Preorder Serialization of a Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-331-verify-preorder-serialization-of-a-binary-tree.md) |
 | 429 | Medium | [N-ary Tree Level Order Traversal](../difficulty-based-problem-index/leetcode-medium/leetcode-429-n-ary-tree-level-order-traversal.md) |
