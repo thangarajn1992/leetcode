@@ -20,7 +20,6 @@ description: Leetcode Problems from 101 to 200
 | 113 | Medium | [Path Sum II](../difficulty-based-problem-index/leetcode-medium/leetcode-113-path-sum-ii.md) |
 | 114 | Medium | [Flatten Binary Tree to Linked List](../difficulty-based-problem-index/leetcode-medium/leetcode-114-flatten-binary-tree-to-linked-list.md) |
 | 116 | Medium | [Populating Next Right Pointers in Each Node](../difficulty-based-problem-index/leetcode-medium/leetcode-116-populating-next-right-pointers-in-each-node.md) |
-| 117 | Medium | [Populating Next Right Pointers in Each Node II](../difficulty-based-problem-index/leetcode-medium/leetcode-117-populating-next-right-pointers-in-each-node-ii.md) |
 | 118 | Easy | [Pascal's Triangle](../difficulty-based-problem-index/leetcode-easy/leetcode-118-pascals-triangle.md) |
 | 119 | Easy | [Pascal's Triangle II](../difficulty-based-problem-index/leetcode-easy/leetcode-119-pascals-triangle-ii.md) |
 | 120 | Medium | [Triangle](../difficulty-based-problem-index/leetcode-medium/leetcode-120-triangle.md) |
@@ -46,7 +45,6 @@ description: Leetcode Problems from 101 to 200
 | 167 | Easy | [Two Sum II - Input array is sorted](../difficulty-based-problem-index/leetcode-easy/leetcode-167-two-sum-ii-input-array-is-sorted.md) |
 | 169 | Easy | [Majority Element](../difficulty-based-problem-index/leetcode-easy/leetcode-169-majority-element.md) |
 | 171 | Easy | [Excel Sheet Column Number](../difficulty-based-problem-index/leetcode-easy/leetcode-171-excel-sheet-column-number.md) |
-| 174 | Hard | [Dungeon Game](../difficulty-based-problem-index/leetcode-hard/leetcode-174-dungeon-game.md) |
 | 188 | Hard | [Best Time to Buy and Sell Stock IV](../difficulty-based-problem-index/leetcode-hard/leetcode-188-best-time-to-buy-and-sell-stock-iv.md) |
 | 189 | Medium | [Rotate Array](../difficulty-based-problem-index/leetcode-medium/leetcode-189-rotate-array.md) |
 | 190 | Easy | [Reverse Bits](../difficulty-based-problem-index/leetcode-easy/leetcode-190-reverse-bits.md) |

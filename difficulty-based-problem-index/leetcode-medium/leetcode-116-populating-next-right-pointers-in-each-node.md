@@ -49,28 +49,22 @@ with '#' signifying the end of each level.
 class Solution {
 public:
     Node* connect(Node* root) {
-        Node* head = root;
-        while(head != nullptr) 
+        if(!root)
+            return nullptr;
+        Node* pre = root, *cur = NULL;
+        while(pre->left)
         {
-            Node *dummy = new Node();
-            Node *temp = dummy;
-            while(head != nullptr)
+            cur = pre;
+            while(cur)
             {
-                if(head->left != nullptr)
-                {
-                    temp->next = head->left;
-                    temp = temp->next;
-                }
-                if(head->right != nullptr)
-                {
-                    temp->next = head->right;
-                    temp = temp->next;
-                }
-                head = head->next;
+                cur->left->next = cur->right;
+                if(cur->next) 
+                    cur->right->next = cur->next->left;
+                cur = cur->next;
             }
-            head = dummy->next;
+            pre = pre->left;
         }
-       return root;
+        return root;
     }
 };
 ```

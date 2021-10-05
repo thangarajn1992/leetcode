@@ -27,7 +27,6 @@ Medium Level Problem Sets for Leetcode
 | 46 | [Permutations](leetcode-46-permutations.md) |
 | 48 | [Rotate Image](leetcode-48-rotate-image.md) |
 | 49 | [Group Anagrams](leetcode-49-group-anagrams.md) |
-| 50 | [Pow\(x, n\)](leetcode-50-pow-x-n.md) |
 | 54 | [Spiral Matrix](leetcode-54-spiral-matrix.md) |
 | 55 | [Jump Game](leetcode-55-jump-game.md) |
 | 56 | [Merge Intervals](leetcode-56-merge-intervals.md) |
@@ -61,7 +60,6 @@ Medium Level Problem Sets for Leetcode
 | 113 | [Path Sum II](leetcode-113-path-sum-ii.md) |
 | 114 | [Flatten Binary Tree to Linked List](leetcode-114-flatten-binary-tree-to-linked-list.md) |
 | 116 | [Populating Next Right Pointers in Each Node](leetcode-116-populating-next-right-pointers-in-each-node.md) |
-| 117 | [Populating Next Right Pointers in Each Node II](leetcode-117-populating-next-right-pointers-in-each-node-ii.md) |
 | 120 | [Triangle](leetcode-120-triangle.md) |
 | 128 | [Longest Consecutive Sequence](leetcode-128-longest-consecutive-sequence.md) |
 | 133 | [Clone Graph](leetcode-133-clone-graph.md) |
@@ -117,11 +115,9 @@ Medium Level Problem Sets for Leetcode
 | 677 | [Map Sum Pairs](leetcode-677-map-sum-pairs.md) |
 | 684 | [Redundant Connection](leetcode-684-redundant-connection.md) |
 | 695 | [Max Area of Island](leetcode-695-max-area-of-island.md) |
-| 698 | [Partition to K Equal Sum Subsets](leetcode-698-partition-to-k-equal-sum-subsets.md) |
 | 707 | [Design Linked List](leetcode-707-design-linked-list.md) |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](leetcode-714-best-time-to-buy-and-sell-stock-with-transaction-fee.md) |
 | 718 | [Maximum Length of Repeated Subarray](leetcode-718-maximum-length-of-repeated-subarray.md) |
-| 725 | [Split Linked List in Parts](leetcode-725-split-linked-list-in-parts.md) |
 | 729 | [My Calendar I](leetcode-729-my-calendar-i.md) |
 | 743 | [Network Delay Time](leetcode-743-network-delay-time.md) |
 | 752 | [Open the Lock](leetcode-752-open-the-lock.md) |
@@ -152,12 +148,10 @@ Medium Level Problem Sets for Leetcode
 | 979 | [Distribute Coins in Binary Tree](leetcode-979-distribute-coins-in-binary-tree.md) |
 | 986 | [Interval List Intersections](leetcode-986-interval-list-intersections.md) |
 | 1048 | [Longest String Chain](leetcode-1048-longest-string-chain.md) |
-| 1143 | [Longest Common Subsequence](leetcode-1143-longest-common-subsequence.md) |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
 | 1268 | [Search Suggestions System](leetcode-1268-search-suggestions-system.md) |
 | 1302 | [Deepest Leaves Sum](leetcode-1302-deepest-leaves-sum.md) |
 | 1306 | [Jump Game III](leetcode-1306-jump-game-iii.md) |
-| 1328 | [Break a Palindrome](leetcode-1328-break-a-palindrome.md) |
 | 1338 | [Reduce Array Size to The Half](leetcode-1338-reduce-array-size-to-the-half.md) |
 | 1339 | [Maximum Product of Splitted Binary Tree](leetcode-1339-maximum-product-of-splitted-binary-tree.md) |
 | 1423 | [Maximum Points You Can Obtain from Cards](leetcode-1423-maximum-points-you-can-obtain-from-cards.md) |
