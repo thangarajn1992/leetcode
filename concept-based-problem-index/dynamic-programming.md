@@ -11,6 +11,7 @@ This page contains list of problems that are solved using dynamic programming.
 | 91 | Medium | [Decode Ways](../difficulty-based-problem-index/leetcode-medium/leetcode-91-decode-ways.md) |
 | 120 | Medium | [Triangle](../difficulty-based-problem-index/leetcode-medium/leetcode-120-triangle.md) |
 | 198 | Medium | [House Robber](../difficulty-based-problem-index/leetcode-medium/leetcode-198-house-robber.md) |
+| 213 | Medium | [House Robber II](../difficulty-based-problem-index/leetcode-medium/leetcode-213-house-robber-ii.md) |
 | 303 | Easy | [Range Sum Query](../difficulty-based-problem-index/leetcode-easy/leetcode-303-range-sum-query-immutable.md) |
 | 304 | Medium | [Range Sum Query 2D - Immutable](../difficulty-based-problem-index/leetcode-medium/leetcode-304-range-sum-query-2d-immutable.md) |
 | 329 | Hard | [Longest Increasing Path in a Matrix](../difficulty-based-problem-index/leetcode-hard/leetcode-329-longest-increasing-path-in-a-matrix.md) |
@@ -20,6 +21,7 @@ This page contains list of problems that are solved using dynamic programming.
 | 576 | Medium | [Out of Boundary Paths](../difficulty-based-problem-index/leetcode-medium/leetcode-576-out-of-boundary-paths.md) |
 | 583 | Medium | [Delete Operation for Two Strings](../difficulty-based-problem-index/leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
 | 639 | Hard | [Decode Ways II](../difficulty-based-problem-index/leetcode-hard/leetcode-639-decode-ways-ii.md) |
+| 698 | Medium | [Partition to K Equal Sum Subsets](../difficulty-based-problem-index/leetcode-medium/leetcode-698-partition-to-k-equal-sum-subsets.md) |
 | 718 | Medium | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
 | 746 | Easy | [Min Cost Climbing Stairs](../difficulty-based-problem-index/leetcode-easy/leetcode-746-min-cost-climbing-stairs.md) |
 | 877 | Medium | [Stone Game](../difficulty-based-problem-index/leetcode-medium/leetcode-877-stone-game.md) |

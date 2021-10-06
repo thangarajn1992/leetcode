@@ -15,6 +15,7 @@ description: Leetcode Problems from 201 to 300
 | 206 | Easy | [Reverse Linked List](../difficulty-based-problem-index/leetcode-easy/leetcode-206-reverse-linked-list.md) |
 | 207 | Medium | [Course Schedule](../difficulty-based-problem-index/leetcode-medium/leetcode-207-course-schedule.md) |
 | 210 | Medium | [Course Schedule II](../difficulty-based-problem-index/leetcode-medium/leetcode-210-course-schedule-ii.md) |
+| 213 | Medium | [House Robber II](../difficulty-based-problem-index/leetcode-medium/leetcode-213-house-robber-ii.md) |
 | 216 | Medium | [Combination Sum III](../difficulty-based-problem-index/leetcode-medium/leetcode-216-combination-sum-iii.md) |
 | 217 | Easy | [Contains Duplicate](../difficulty-based-problem-index/leetcode-easy/leetcode-217-contains-duplicate.md) |
 | 230 | Medium | [Kth Smallest Element in a BST](../difficulty-based-problem-index/leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md) |
@@ -31,5 +32,6 @@ description: Leetcode Problems from 201 to 300
 | 283 | Easy | [Move Zeroes](../difficulty-based-problem-index/leetcode-easy/leetcode-283-move-zeroes.md) |
 | 287 | Medium | [Find the Duplicate Number](../difficulty-based-problem-index/leetcode-medium/leetcode-287-find-the-duplicate-number.md) |
 | 295 | Hard | [Find Median from Data Stream](../difficulty-based-problem-index/leetcode-hard/leetcode-295-find-median-from-data-stream.md) |
+| 297 | Hard | [Serialize and Deserialize Binary Tree](../difficulty-based-problem-index/leetcode-hard/leetcode-297-serialize-and-deserialize-binary-tree.md) |
 | 300 | Medium | [Longest Increasing Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md) |
 
