@@ -23,6 +23,7 @@ This page contains list of problems that are solved using dynamic programming.
 | 639 | Hard | [Decode Ways II](../difficulty-based-problem-index/leetcode-hard/leetcode-639-decode-ways-ii.md) |
 | 698 | Medium | [Partition to K Equal Sum Subsets](../difficulty-based-problem-index/leetcode-medium/leetcode-698-partition-to-k-equal-sum-subsets.md) |
 | 718 | Medium | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md) |
+| 740 | Medium | [Delete and Earn](../difficulty-based-problem-index/leetcode-medium/leetcode-740-delete-and-earn.md) |
 | 746 | Easy | [Min Cost Climbing Stairs](../difficulty-based-problem-index/leetcode-easy/leetcode-746-min-cost-climbing-stairs.md) |
 | 877 | Medium | [Stone Game](../difficulty-based-problem-index/leetcode-medium/leetcode-877-stone-game.md) |
 | 1048 | Medium | [Longest String Chain](../difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md) |
