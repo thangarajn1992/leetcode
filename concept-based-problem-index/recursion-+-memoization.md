@@ -1,4 +1,4 @@
-# Stacks
+# Recursion + Memoization
 
 | Leetcode No | Difficulty | Solution Link |
 | :--- | :--- | :--- |

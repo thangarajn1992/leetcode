@@ -10,6 +10,7 @@
   * [Stacks](concept-based-problem-index/stacks.md)
   * [Queues](concept-based-problem-index/queues.md)
   * [Graphs](concept-based-problem-index/graphs.md)
+  * [Recursion + Memoization](concept-based-problem-index/recursion-+-memoization.md)
   * [Dynamic Programming](concept-based-problem-index/dynamic-programming.md)
   * [Greedy Algorithm](concept-based-problem-index/greedy-algorithm.md)
   * [Backtracking](concept-based-problem-index/backtracking.md)
