@@ -42,15 +42,12 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int size = nums.size();
-        if(size == 0)
-            return 0;
-        int incl = nums[0];
-        int excl = 0;        
-        for(int i = 1; i < size; i++)
+        int incl = 0, excl = 0;
+        for(int i = 0; i < size; i++)
         {
-            int new_excl = max(incl,excl);
-            incl = nums[i] + excl;
-            excl = new_excl;
+            int res = max(excl + nums[i], incl);
+            excl = incl;
+            incl = res;
         }
         return max(incl, excl);
     }
