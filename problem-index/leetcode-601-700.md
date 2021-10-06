@@ -10,6 +10,7 @@ description: Leetcode Problems from 601 to 700
 | :--- | :--- | :--- |
 | 609 | Medium | [Find Duplicate File in System](../difficulty-based-problem-index/leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
 | 611 | Medium | [Valid Triangle Number](../difficulty-based-problem-index/leetcode-medium/leetcode-611-valid-triangle-number.md) |
+| 622 | Medium | [Design Circular Queue](../difficulty-based-problem-index/leetcode-medium/leetcode-622-design-circular-queue.md) |
 | 633 | Medium | [Sum of Square Numbers](../difficulty-based-problem-index/leetcode-medium/leetcode-633-sum-of-square-numbers.md) |
 | 639 | Hard | [Decode Ways II](../difficulty-based-problem-index/leetcode-hard/leetcode-639-decode-ways-ii.md) |
 | 653 | Easy | [Two Sum IV - Input is a BST](../difficulty-based-problem-index/leetcode-easy/leetcode-653-two-sum-iv-input-is-a-bst.md) |
