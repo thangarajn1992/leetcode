@@ -183,6 +183,7 @@
     * [Leetcode 399 Evaluate Division](difficulty-based-problem-index/leetcode-medium/leetcode-399-evaluate-division.md)
     * [Leetcode 429 N-ary Tree Level Order Traversal](difficulty-based-problem-index/leetcode-medium/leetcode-429-n-ary-tree-level-order-traversal.md)
     * [Leetcode 430 Flatten a Multilevel Doubly Linked List](difficulty-based-problem-index/leetcode-medium/leetcode-430-flatten-a-multilevel-doubly-linked-list.md)
+    * [Leetcode 442 Find All Duplicates in an Array](difficulty-based-problem-index/leetcode-medium/leetcode-442-find-all-duplicates-in-an-array.md)
     * [Leetcode 462 Minimum Moves to Equal Array Elements II](difficulty-based-problem-index/leetcode-medium/leetcode-462-minimum-moves-to-equal-array-elements-ii.md)
     * [Leetcode 473 Matchsticks to Square](difficulty-based-problem-index/leetcode-medium/leetcode-473-matchsticks-to-square.md)
     * [Leetcode 474 Ones and Zeroes](difficulty-based-problem-index/leetcode-medium/leetcode-474-ones-and-zeroes.md)

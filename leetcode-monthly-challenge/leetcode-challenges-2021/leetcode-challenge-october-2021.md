@@ -6,10 +6,10 @@
 | :--- | :--- |
 | Day 1 | [Longest Common Subsequence](../../difficulty-based-problem-index/leetcode-medium/leetcode-1143-longest-common-subsequence.md) |
 | Day 2 | [Dungeon Game](../../difficulty-based-problem-index/leetcode-hard/leetcode-174-dungeon-game.md) |
-| Day 3 |  |
-| Day 4 |  |
-| Day 5 |  |
-| Day 6 |  |
+| Day 3 | [Jump Game](../../difficulty-based-problem-index/leetcode-medium/leetcode-55-jump-game.md) |
+| Day 4 | [Island Perimeter](../../difficulty-based-problem-index/leetcode-easy/leetcode-463-island-perimeter.md) |
+| Day 5 | [Climbing Stairs](../../difficulty-based-problem-index/leetcode-easy/leetcode-70-climbing-stairs.md) |
+| Day 6 | [Find All Duplicates in an Array](../../difficulty-based-problem-index/leetcode-medium/leetcode-442-find-all-duplicates-in-an-array.md) |
 | Day 7 |  |
 | Day 8 |  |
 | Day 9 |  |
