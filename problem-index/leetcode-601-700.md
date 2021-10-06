@@ -19,4 +19,6 @@ description: Leetcode Problems from 601 to 700
 | 684 | Medium | [Redundant Connection](../difficulty-based-problem-index/leetcode-medium/leetcode-684-redundant-connection.md) |
 | 695 | Medium | [Max Area of Island](../difficulty-based-problem-index/leetcode-medium/leetcode-695-max-area-of-island.md) |
 | 696 | Easy | [Count Binary Sub-strings](../difficulty-based-problem-index/leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
+| 698 | Medium | [Partition to K Equal Sum Subsets](../difficulty-based-problem-index/leetcode-medium/leetcode-698-partition-to-k-equal-sum-subsets.md) |
+| 700 | Easy | [Search in a Binary Search Tree](../difficulty-based-problem-index/leetcode-easy/leetcode-700-search-in-a-binary-search-tree.md) |
 

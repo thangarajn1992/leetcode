@@ -370,6 +370,7 @@
     * [Leetcode 598 Range Addition II](difficulty-based-problem-index/leetcode-easy/leetcode-598-range-addition-ii.md)
     * [Leetcode 653 Two Sum IV - Input is a BST](difficulty-based-problem-index/leetcode-easy/leetcode-653-two-sum-iv-input-is-a-bst.md)
     * [Leetcode 696 Count Binary Sub-strings](difficulty-based-problem-index/leetcode-easy/leetcode-696-count-binary-sub-strings.md)
+    * [Leetcode 700 Search in a Binary Search Tree](difficulty-based-problem-index/leetcode-easy/leetcode-700-search-in-a-binary-search-tree.md)
     * [Leetcode 704 Binary Search](difficulty-based-problem-index/leetcode-easy/leetcode-704-binary-search.md)
     * [Leetcode 709 To Lower Case](difficulty-based-problem-index/leetcode-easy/leetcode-709-to-lower-case.md)
     * [Leetcode 744 Find Smallest Letter Greater Than Target](difficulty-based-problem-index/leetcode-easy/leetcode-744-find-smallest-letter-greater-than-target.md)
