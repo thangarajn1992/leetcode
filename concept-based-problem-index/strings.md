@@ -29,6 +29,7 @@
 | 521 | Easy | [Longest Uncommon Subsequence I](../difficulty-based-problem-index/leetcode-easy/leetcode-521-longest-uncommon-subsequence-i.md) |
 | 522 | Medium | [Longest Uncommon Subsequence II](../difficulty-based-problem-index/leetcode-medium/leetcode-522-longest-uncommon-subsequence-ii.md) |
 | 537 | Medium | [Complex Number Multiplication](../difficulty-based-problem-index/leetcode-medium/leetcode-537-complex-number-multiplication.md) |
+| 557 | Easy | [Reverse Words in a String III](../difficulty-based-problem-index/leetcode-easy/leetcode-557-reverse-words-in-a-string-iii.md) |
 | 583 | Medium | [Delete Operation for Two Strings](../difficulty-based-problem-index/leetcode-medium/leetcode-583-delete-operation-for-two-strings.md) |
 | 609 | Medium | [Find Duplicate File in System](../difficulty-based-problem-index/leetcode-medium/leetcode-609-find-duplicate-file-in-system.md) |
 | 696 | Easy | [Count Binary sub-strings](../difficulty-based-problem-index/leetcode-easy/leetcode-696-count-binary-sub-strings.md) |
@@ -39,10 +40,14 @@
 | 848 | Medium | [Shifting Letters](../difficulty-based-problem-index/leetcode-medium/leetcode-848-shifting-letters.md) |
 | 890 | Medium | [Find and Replace Pattern](../difficulty-based-problem-index/leetcode-medium/leetcode-890-find-and-replace-pattern.md) |
 | 899 | Hard | [Orderly Queue](../difficulty-based-problem-index/leetcode-hard/leetcode-899-orderly-queue.md) |
+| 917 | Easy | [Reverse Only Letters](../difficulty-based-problem-index/leetcode-easy/leetcode-917-reverse-only-letters.md) |
 | 926 | Medium | [Flip String to Monotone Increasing](../difficulty-based-problem-index/leetcode-medium/leetcode-926-flip-string-to-monotone-increasing.md) |
+| 929 | Easy | [Unique Email Addresses](../difficulty-based-problem-index/leetcode-easy/leetcode-929-unique-email-addresses.md) |
 | 1047 | Easy | [Remove All Adjacent Duplicates In String](../difficulty-based-problem-index/leetcode-easy/leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
 | 1048 | Medium | [Longest String Chain](../difficulty-based-problem-index/leetcode-medium/leetcode-1048-longest-string-chain.md) |
+| 1143 | Medium | [Longest Common Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-1143-longest-common-subsequence.md) |
 | 1239 | Medium | [Maximum length of a Concatenated String with Unique Characters](../difficulty-based-problem-index/leetcode-medium/leetcode-1239-maximum-length-of-a-concatenated-string-with-unique-characters.md) |
+| 1328 | Medium | [Break a Palindrome](../difficulty-based-problem-index/leetcode-medium/leetcode-1328-break-a-palindrome.md) |
 | 1525 | Medium | [Number of Good Ways to Split a String](../difficulty-based-problem-index/leetcode-medium/leetcode-1525-number-of-good-ways-to-split-a-string.md) |
 | 1647 | Medium | [Minimum deletions to make character frequencies unique](../difficulty-based-problem-index/leetcode-medium/leetcode-1647-minimum-deletions-to-make-character-frequencies-unique.md) |
 | 1844 | Easy | [Replace all digits with characters](../difficulty-based-problem-index/leetcode-easy/leetcode-1844-replace-all-digits-with-characters.md) |

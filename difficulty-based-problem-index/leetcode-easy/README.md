@@ -15,6 +15,7 @@ Easy Level Problem Sets for Leetcode
 | 35 | [Search Insert Position](leetcode-35-search-insert-position.md) |
 | 53 | [Maximum Subarray](leetcode-53-maximum-subarray.md) |
 | 66 | [Plus One](leetcode-66-plus-one.md) |
+| 69 | [Sqrt\(x\)](leetcode-69-sqrt-x.md) |
 | 70 | [Climbing Stairs](leetcode-70-climbing-stairs.md) |
 | 83 | [Remove Duplicates from Sorted List](leetcode-83-remove-duplicates-from-sorted-list.md) |
 | 88 | [Merge Sorted Array](leetcode-88-merge-sorted-array.md) |
@@ -57,23 +58,32 @@ Easy Level Problem Sets for Leetcode
 | 344 | [Reverse String](leetcode-344-reverse-string.md) |
 | 349 | [Intersection of Two Arrays](leetcode-349-intersection-of-two-arrays.md) |
 | 350 | [Intersection of Two Arrays II](leetcode-350-intersection-of-two-array-ii.md) |
+| 374 | [Guess Number Higher or Lower](leetcode-374-guess-number-higher-or-lower.md) |
 | 387 | [First Unique Character in a String](leetcode-387-first-unique-character-in-a-string.md) |
 | 412 | [Fizz Buzz](leetcode-412-fizz-buzz.md) |
+| 414 | [Third Maximum Number](leetcode-414-third-maximum-number.md) |
 | 415 | [Add Strings](leetcode-415-add-strings.md) |
+| 448 | [Find All Numbers Disappeared in an Array](leetcode-448-find-all-numbers-disappeared-in-an-array.md) |
 | 453 | [Minimum Moves to Equal Array Elements](leetcode-453-minimum-moves-to-equal-array-elements.md) |
 | 461 | [Hamming Distance](leetcode-461-hamming-distance.md) |
+| 463 | [Island Perimeter](leetcode-463-island-perimeter.md) |
 | 485 | [Max Consecutive Ones](leetcode-485-max-consecutive-ones.md) |
 | 509 | [Fibonacci Number](leetcode-509-fibonacci-number.md) |
 | 521 | [Longest Uncommon Subsequence I](leetcode-521-longest-uncommon-subsequence-i.md) |
+| 557 | [Reverse Words in a String III](leetcode-557-reverse-words-in-a-string-iii.md) |
 | 566 | [Reshape the Matrix](leetcode-566-reshape-the-matrix.md) |
 | 575 | [Distribute Candies](leetcode-575-distribute-candies.md) |
 | 589 | [N-ary Tree Preorder Traversal](leetcode-589-n-ary-tree-preorder-traversal.md) |
 | 598 | [Range Addition II](leetcode-598-range-addition-ii.md) |
 | 653 | [Two Sum IV - Input is a BST](leetcode-653-two-sum-iv-input-is-a-bst.md) |
 | 696 | [Count Binary Sub-strings](leetcode-696-count-binary-sub-strings.md) |
+| 700 | [Search in a Binary Search Tree](leetcode-700-search-in-a-binary-search-tree.md) |
+| 704 | [Binary Search](leetcode-704-binary-search.md) |
 | 709 | [To Lower Case](leetcode-709-to-lower-case.md) |
+| 744 | [Find Smallest Letter Greater Than Target](leetcode-744-find-smallest-letter-greater-than-target.md) |
 | 746 | [Min Cost Climbing Stairs](leetcode-746-min-cost-climbing-stairs.md) |
 | 917 | [Reverse Only Letters](leetcode-917-reverse-only-letters.md) |
+| 905 | [Sort Array By Parity](leetcode-905-sort-array-by-parity.md) |
 | 922 | [Sort Array By Parity II](leetcode-922-sort-array-by-parity-ii.md) |
 | 929 | [Unique Email Addresses](leetcode-929-unique-email-addresses.md) |
 | 941 | [Valid Mountain Array](leetcode-941-valid-mountain-array.md) |
@@ -81,10 +91,12 @@ Easy Level Problem Sets for Leetcode
 | 997 | [Find the Town Judge](leetcode-997-find-the-town-judge.md) |
 | 1046 | [Last Stone Weight](leetcode-1046-last-stone-weight.md) |
 | 1047 | [Remove All Adjacent Duplicates In String](leetcode-1047-remove-all-adjacent-duplicates-in-string.md) |
+| 1051 | [Height Checker](leetcode-1051-height-checker.md) |
 | 1089 | [Duplicate Zeros](leetcode-1089-duplicate-zeros.md) |
 | 1137 | [N-th Tribonacci Number](leetcode-1137-n-th-tribonacci-number.md) |
 | 1275 | [Find Winner on a Tic Tac Toe Game](leetcode-1275-find-winner-on-a-tic-tac-toe-game.md) |
 | 1295 | [Find Numbers with Even Number of Digits](leetcode-1295-find-numbers-with-even-number-of-digits.md) |
+| 1299 | [Replace Elements with Greatest Element on Right Side](leetcode-1299-replace-elements-with-greatest-element-on-right-side.md) |
 | 1304 | [Find N Unique Integers Sum up to Zero](leetcode-1304-find-n-unique-integers-sum-up-to-zero.md) |
 | 1346 | [Check If N and Its Double Exist](leetcode-1346-check-if-n-and-its-double-exist.md) |
 | 1480 | [Running Sum of 1D Array](leetcode-1480-running-sum-of-1d-array.md) |
