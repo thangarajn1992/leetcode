@@ -10,9 +10,9 @@
 | Day 4 | [Island Perimeter](../../difficulty-based-problem-index/leetcode-easy/leetcode-463-island-perimeter.md) |
 | Day 5 | [Climbing Stairs](../../difficulty-based-problem-index/leetcode-easy/leetcode-70-climbing-stairs.md) |
 | Day 6 | [Find All Duplicates in an Array](../../difficulty-based-problem-index/leetcode-medium/leetcode-442-find-all-duplicates-in-an-array.md) |
-| Day 7 |  |
+| Day 7 | [Word Search](../../difficulty-based-problem-index/leetcode-medium/leetcode-79-word-search.md) |
 | Day 8 |  |
-| Day 9 |  |
+| Day 9 | [Word Search II](../../difficulty-based-problem-index/leetcode-hard/leetcode-212-word-search-ii.md) |
 | Day 10 |  |
 | Day 11 |  |
 | Day 12 |  |
