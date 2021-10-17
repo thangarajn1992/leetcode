@@ -128,3 +128,4 @@ Easy Level Problem Sets for Leetcode
 | 1979        | [Find Greatest Common Divisor of Array](leetcode-1979-find-greatest-common-divisor-of-array.md)                                         |
 | 1984        | [Minimum Difference Between Highest and Lowest of K Scores](leetcode-1984-minimum-difference-between-highest-and-lowest-of-k-scores.md) |
 | 1991        | [Find the Middle Index in Array](leetcode-1991-find-the-middle-index-in-array.md)                                                       |
+| 2042        | [Check if Numbers Are Ascending in a Sentence](leetcode-2042-check-if-numbers-are-ascending-in-a-sentence.md)                           |
