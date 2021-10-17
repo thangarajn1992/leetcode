@@ -302,6 +302,7 @@
     * [Leetcode 1986 Minimum Number of Work Sessions to Finish the Tasks](difficulty-based-problem-index/leetcode-medium/leetcode-1986-minimum-number-of-work-sessions-to-finish-the-tasks.md)
     * [Leetcode 1992 Find All Groups of Farmland](difficulty-based-problem-index/leetcode-medium/leetcode-1992-find-all-groups-of-farmland.md)
     * [Leetcode 1993 Operations on Tree](difficulty-based-problem-index/leetcode-medium/leetcode-1993-operations-on-tree.md)
+    * [Leetcode 2043 Simple Bank System](difficulty-based-problem-index/leetcode-medium/leetcode-2043-simple-bank-system.md)
     * [Leetcode 2008 Maximum Earnings From Taxi](difficulty-based-problem-index/leetcode-medium/leetcode-2008-maximum-earnings-from-taxi.md)
   * [LeetCode Easy](difficulty-based-problem-index/leetcode-easy/README.md)
     * [Leetcode 1 Two Sum](difficulty-based-problem-index/leetcode-easy/leetcode-1-two-sum.md)
