@@ -1,6 +1,6 @@
 # Trees
 
-This page contains problems that involves any type of trees
+9This page contains problems that involves any type of trees
 
 | Leetcode No | Difficulty | Solution Link                                                                                                                                                                              |
 | ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -39,6 +39,7 @@ This page contains problems that involves any type of trees
 | 834         | Hard       | [Sum of Distances in Tree](../difficulty-based-problem-index/leetcode-hard/leetcode-834-sum-of-distances-in-tree.md)                                                                       |
 | 968         | Hard       | [Binary Tree Cameras](../difficulty-based-problem-index/leetcode-hard/leetcode-968-binary-tree-cameras.md)                                                                                 |
 | 979         | Medium     | [Distribute Coins in Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-979-distribute-coins-in-binary-tree.md)                                                       |
+| 993         | Easy       | [Cousins in Binary Tree](../difficulty-based-problem-index/leetcode-easy/leetcode-993-cousins-in-binary-tree.md)                                                                           |
 | 1268        | Medium     | [Search Suggestions System](../difficulty-based-problem-index/leetcode-medium/leetcode-1268-search-suggestions-system.md)                                                                  |
 | 1302        | Medium     | [Deepest Leaves Sum](../difficulty-based-problem-index/leetcode-medium/leetcode-1302-deepest-leaves-sum.md)                                                                                |
 | 1339        | Medium     | [Maximum Product of Splitted Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-1339-maximum-product-of-splitted-binary-tree.md)                                      |

@@ -89,6 +89,7 @@ Easy Level Problem Sets for Leetcode
 | 929         | [Unique Email Addresses](leetcode-929-unique-email-addresses.md)                                                                        |
 | 941         | [Valid Mountain Array](leetcode-941-valid-mountain-array.md)                                                                            |
 | 977         | [Squares of a Sorted Array](leetcode-977-squares-of-a-sorted-array.md)                                                                  |
+| 993         | [Cousins in Binary Tree](leetcode-993-cousins-in-binary-tree.md)                                                                        |
 | 997         | [Find the Town Judge](leetcode-997-find-the-town-judge.md)                                                                              |
 | 1046        | [Last Stone Weight](leetcode-1046-last-stone-weight.md)                                                                                 |
 | 1047        | [Remove All Adjacent Duplicates In String](leetcode-1047-remove-all-adjacent-duplicates-in-string.md)                                   |

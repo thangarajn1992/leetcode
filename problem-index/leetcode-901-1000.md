@@ -26,5 +26,7 @@ description: Leetcode Problems from 901 to 1000
 | 978         | Medium     | [Longest Turbulent Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-978-longest-turbulent-subarray.md)                           |
 | 979         | Medium     | [Distribute Coins in Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-979-distribute-coins-in-binary-tree.md)                 |
 | 986         | Medium     | [Interval List Intersections](../difficulty-based-problem-index/leetcode-medium/leetcode-986-interval-list-intersections.md)                         |
+| 993         | Easy       | [Cousins in Binary Tree](../difficulty-based-problem-index/leetcode-easy/leetcode-993-cousins-in-binary-tree.md)                                     |
 | 994         | Medium     | [Rotting Oranges](../difficulty-based-problem-index/leetcode-medium/leetcode-994-rotting-oranges.md)                                                 |
+|             |            |                                                                                                                                                      |
 | 997         | Easy       | [Find the Town Judge](../difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge.md)                                           |
