@@ -371,6 +371,7 @@
     * [Leetcode 461 Hamming Distance](difficulty-based-problem-index/leetcode-easy/leetcode-461-hamming-distance.md)
     * [Leetcode 463 Island Perimeter](difficulty-based-problem-index/leetcode-easy/leetcode-463-island-perimeter.md)
     * [Leetcode 485 Max Consecutive Ones](difficulty-based-problem-index/leetcode-easy/leetcode-485-max-consecutive-ones.md)
+    * [Leetcode 496 Next Greater Element I](difficulty-based-problem-index/leetcode-easy/leetcode-496-next-greater-element-i.md)
     * [Leetcode 509 Fibonacci Number](difficulty-based-problem-index/leetcode-easy/leetcode-509-fibonacci-number.md)
     * [Leetcode 521 Longest Uncommon Subsequence I](difficulty-based-problem-index/leetcode-easy/leetcode-521-longest-uncommon-subsequence-i.md)
     * [Leetcode 557 Reverse Words in a String III](difficulty-based-problem-index/leetcode-easy/leetcode-557-reverse-words-in-a-string-iii.md)

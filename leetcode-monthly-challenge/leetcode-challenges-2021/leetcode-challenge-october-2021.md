@@ -22,7 +22,7 @@
 | Day 16 |                                                                                                                                         |
 | Day 17 | [Path Sum III](../../difficulty-based-problem-index/leetcode-medium/leetcode-437-path-sum-iii.md)                                       |
 | Day 18 | [Cousins in Binary Tree](../../difficulty-based-problem-index/leetcode-easy/leetcode-993-cousins-in-binary-tree.md)                     |
-| Day 19 |                                                                                                                                         |
+| Day 19 | [Next Greater Element I](../../difficulty-based-problem-index/leetcode-easy/leetcode-496-next-greater-element-i.md)                     |
 | Day 20 |                                                                                                                                         |
 | Day 21 |                                                                                                                                         |
 | Day 22 |                                                                                                                                         |

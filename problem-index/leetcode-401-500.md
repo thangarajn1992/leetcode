@@ -23,3 +23,4 @@ description: Leetcode Problems from 401 to 500
 | 473         | Medium     | [Matchsticks to Square](../difficulty-based-problem-index/leetcode-medium/leetcode-473-matchsticks-to-square.md)                                       |
 | 474         | Medium     | [Ones and Zeroes](../difficulty-based-problem-index/leetcode-medium/leetcode-474-ones-and-zeroes.md)                                                   |
 | 485         | Easy       | [Max Consecutive Ones](../difficulty-based-problem-index/leetcode-easy/leetcode-485-max-consecutive-ones.md)                                           |
+| 496         | Easy       | [Next Greater Element I](../difficulty-based-problem-index/leetcode-easy/leetcode-496-next-greater-element-i.md)                                       |

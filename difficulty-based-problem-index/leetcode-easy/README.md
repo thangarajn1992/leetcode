@@ -69,6 +69,7 @@ Easy Level Problem Sets for Leetcode
 | 461         | [Hamming Distance](leetcode-461-hamming-distance.md)                                                                                    |
 | 463         | [Island Perimeter](leetcode-463-island-perimeter.md)                                                                                    |
 | 485         | [Max Consecutive Ones](leetcode-485-max-consecutive-ones.md)                                                                            |
+| 496         | [Next Greater Element I](leetcode-496-next-greater-element-i.md)                                                                        |
 | 509         | [Fibonacci Number](leetcode-509-fibonacci-number.md)                                                                                    |
 | 521         | [Longest Uncommon Subsequence I](leetcode-521-longest-uncommon-subsequence-i.md)                                                        |
 | 557         | [Reverse Words in a String III](leetcode-557-reverse-words-in-a-string-iii.md)                                                          |
