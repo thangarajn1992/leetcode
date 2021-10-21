@@ -96,6 +96,7 @@ Medium Level Problem Sets for Leetcode
 | 341         | [Flatten Nested List Iterator](leetcode-341-flatten-nested-list-iterator.md)                                                                              |
 | 377         | [Combination Sum IV](leetcode-377-combination-sum-iv.md)                                                                                                  |
 | 378         | [Kth Smallest Element in a Sorted Matrix](leetcode-378-kth-smallest-element-in-a-sorted-matrix.md)                                                        |
+| 380         | [Insert Delete GetRandom O(1)](leetcode-380-insert-delete-getrandom-o-1.md)                                                                               |
 | 384         | [Shuffle an Array](leetcode-384-shuffle-an-array.md)                                                                                                      |
 | 399         | [Evaluate Division](leetcode-399-evaluate-division.md)                                                                                                    |
 | 429         | [N-ary Tree Level Order Traversal](leetcode-429-n-ary-tree-level-order-traversal.md)                                                                      |

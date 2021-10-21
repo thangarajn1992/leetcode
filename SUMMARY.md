@@ -184,6 +184,7 @@
     * [Leetcode 341 Flatten Nested List Iterator](difficulty-based-problem-index/leetcode-medium/leetcode-341-flatten-nested-list-iterator.md)
     * [Leetcode 377 Combination Sum IV](difficulty-based-problem-index/leetcode-medium/leetcode-377-combination-sum-iv.md)
     * [Leetcode 378 Kth Smallest Element in a Sorted Matrix](difficulty-based-problem-index/leetcode-medium/leetcode-378-kth-smallest-element-in-a-sorted-matrix.md)
+    * [Leetcode 380 Insert Delete GetRandom O(1)](difficulty-based-problem-index/leetcode-medium/leetcode-380-insert-delete-getrandom-o-1.md)
     * [Leetcode 384 Shuffle an Array](difficulty-based-problem-index/leetcode-medium/leetcode-384-shuffle-an-array.md)
     * [Leetcode 399 Evaluate Division](difficulty-based-problem-index/leetcode-medium/leetcode-399-evaluate-division.md)
     * [Leetcode 429 N-ary Tree Level Order Traversal](difficulty-based-problem-index/leetcode-medium/leetcode-429-n-ary-tree-level-order-traversal.md)
