@@ -4,6 +4,7 @@
 
 | Leetcode No | Difficulty | Problem Link                                                                                                                                                                                        |
 | ----------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Leetcode No | Difficulty | Problem Link                                                                                                                                                                                        |
 | 3           | Medium     | [Longest Substring Without Repeating characters](../difficulty-based-problem-index/leetcode-medium/leetcode-3-longest-substring-without-repeating-characters.md)                                    |
 | 5           | Medium     | [Longest Palindromic Substring](../difficulty-based-problem-index/leetcode-medium/leetcode-5-longest-palindromic-substring.md)                                                                      |
 | 8           | Medium     | [String to Integer (atoi)](../difficulty-based-problem-index/leetcode-medium/leetcode-8-string-to-integer-atoi.md)                                                                                  |
@@ -27,6 +28,7 @@
 | 344         | Easy       | [Reverse String](../difficulty-based-problem-index/leetcode-easy/leetcode-344-reverse-string.md)                                                                                                    |
 | 387         | Easy       | [First Unique Character in a string](../difficulty-based-problem-index/leetcode-easy/leetcode-387-first-unique-character-in-a-string.md)                                                            |
 | 415         | Easy       | [Add Strings](../difficulty-based-problem-index/leetcode-easy/leetcode-415-add-strings.md)                                                                                                          |
+| 516         | Medium     | [Longest Palindromic Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-516-longest-palindromic-subsequence.md)                                                                |
 | 521         | Easy       | [Longest Uncommon Subsequence I](../difficulty-based-problem-index/leetcode-easy/leetcode-521-longest-uncommon-subsequence-i.md)                                                                    |
 | 522         | Medium     | [Longest Uncommon Subsequence II](../difficulty-based-problem-index/leetcode-medium/leetcode-522-longest-uncommon-subsequence-ii.md)                                                                |
 | 537         | Medium     | [Complex Number Multiplication](../difficulty-based-problem-index/leetcode-medium/leetcode-537-complex-number-multiplication.md)                                                                    |

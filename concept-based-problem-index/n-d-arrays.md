@@ -20,7 +20,6 @@
 | 329      | Hard       | [Longest Increasing Path in a Matrix](../difficulty-based-problem-index/leetcode-hard/leetcode-329-longest-increasing-path-in-a-matrix.md)                                    |
 | 363      | Hard       | [Max Sum of Rectangle No Larger Than K](../difficulty-based-problem-index/leetcode-hard/leetcode-363-max-sum-of-rectangle-no-larger-than-k.md)                                |
 | 378      | Medium     | [Kth Smallest Element in a Sorted Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-378-kth-smallest-element-in-a-sorted-matrix.md)                          |
-| 435      | Medium     | [Non-Overlapping Intervals](../difficulty-based-problem-index/leetcode-medium/leetcode-435-non-overlapping-intervals.md)                                                      |
 | 463      | Easy       | [Island Perimeter](../difficulty-based-problem-index/leetcode-easy/leetcode-463-island-perimeter.md)                                                                          |
 | 542      | Medium     | [01 Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-542-01-matrix.md)                                                                                      |
 | 566      | Easy       | [Reshape the Matrix](../difficulty-based-problem-index/leetcode-easy/leetcode-566-reshape-the-matrix.md)                                                                      |

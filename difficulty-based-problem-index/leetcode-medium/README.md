@@ -107,6 +107,7 @@ Medium Level Problem Sets for Leetcode
 | 462         | [Minimum Moves to Equal Array Elements II](leetcode-462-minimum-moves-to-equal-array-elements-ii.md)                                                      |
 | 473         | [Matchsticks to Square](leetcode-473-matchsticks-to-square.md)                                                                                            |
 | 474         | [Ones and Zeroes](leetcode-474-ones-and-zeroes.md)                                                                                                        |
+| 516         | [Longest Palindromic Subsequence](leetcode-516-longest-palindromic-subsequence.md)                                                                        |
 | 522         | [Longest Uncommon Subsequence II](leetcode-522-longest-uncommon-subsequence-ii.md)                                                                        |
 | 537         | [Complex Number Multiplication](leetcode-537-complex-number-multiplication.md)                                                                            |
 | 542         | [01 Matrix](leetcode-542-01-matrix.md)                                                                                                                    |
