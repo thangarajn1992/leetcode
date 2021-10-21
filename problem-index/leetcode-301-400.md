@@ -28,6 +28,7 @@ description: Leetcode Problems from 301 to 400
 | 350         | Easy       | [Intersection of Two Arrays II](../difficulty-based-problem-index/leetcode-easy/leetcode-350-intersection-of-two-array-ii.md)                                      |
 | 363         | Hard       | [Max Sum of Rectangle No Larger Than K](../difficulty-based-problem-index/leetcode-hard/leetcode-363-max-sum-of-rectangle-no-larger-than-k.md)                     |
 | 374         | Easy       | [Guess Number Higher or Lower](../difficulty-based-problem-index/leetcode-easy/leetcode-374-guess-number-higher-or-lower.md)                                       |
+| 376         | Medium     | [Wiggle Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-376-wiggle-subsequence.md)                                                         |
 | 377         | Medium     | [Combination Sum IV](../difficulty-based-problem-index/leetcode-medium/leetcode-377-combination-sum-iv.md)                                                         |
 | 378         | Medium     | [Kth Smallest Element in a Sorted Matrix](../difficulty-based-problem-index/leetcode-medium/leetcode-378-kth-smallest-element-in-a-sorted-matrix.md)               |
 | 380         | Medium     | [Insert Delete GetRandom O(1)](../difficulty-based-problem-index/leetcode-medium/leetcode-380-insert-delete-getrandom-o-1.md)                                      |

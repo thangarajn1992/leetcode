@@ -94,6 +94,7 @@ Medium Level Problem Sets for Leetcode
 | 332         | [Reconstruct Itinerary](leetcode-332-reconstruct-itinerary.md)                                                                                            |
 | 334         | [Increasing Triplet Subsequence](leetcode-334-increasing-triplet-subsequence.md)                                                                          |
 | 341         | [Flatten Nested List Iterator](leetcode-341-flatten-nested-list-iterator.md)                                                                              |
+| 376         | [Wiggle Subsequence](leetcode-376-wiggle-subsequence.md)                                                                                                  |
 | 377         | [Combination Sum IV](leetcode-377-combination-sum-iv.md)                                                                                                  |
 | 378         | [Kth Smallest Element in a Sorted Matrix](leetcode-378-kth-smallest-element-in-a-sorted-matrix.md)                                                        |
 | 380         | [Insert Delete GetRandom O(1)](leetcode-380-insert-delete-getrandom-o-1.md)                                                                               |
