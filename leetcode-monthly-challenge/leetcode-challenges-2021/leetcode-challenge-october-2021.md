@@ -26,7 +26,7 @@
 | Day 20 | [Reverse Words in a String](../../difficulty-based-problem-index/leetcode-medium/leetcode-151-reverse-words-in-a-string.md)             |
 | Day 21 | [Insert Delete GetRandom O(1)](../../difficulty-based-problem-index/leetcode-medium/leetcode-380-insert-delete-getrandom-o-1.md)        |
 | Day 22 | [Sort Characters By Frequency](../../difficulty-based-problem-index/leetcode-medium/leetcode-451-sort-characters-by-frequency.md)       |
-| Day 23 |                                                                                                                                         |
+| Day 23 | [Count Complete Tree Nodes](../../difficulty-based-problem-index/leetcode-medium/leetcode-222-count-complete-tree-nodes.md)             |
 | Day 24 |                                                                                                                                         |
 | Day 25 |                                                                                                                                         |
 | Day 26 |                                                                                                                                         |
