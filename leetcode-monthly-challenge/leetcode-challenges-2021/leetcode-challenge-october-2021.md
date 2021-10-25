@@ -27,7 +27,7 @@
 | Day 21 | [Insert Delete GetRandom O(1)](../../difficulty-based-problem-index/leetcode-medium/leetcode-380-insert-delete-getrandom-o-1.md)        |
 | Day 22 | [Sort Characters By Frequency](../../difficulty-based-problem-index/leetcode-medium/leetcode-451-sort-characters-by-frequency.md)       |
 | Day 23 | [Count Complete Tree Nodes](../../difficulty-based-problem-index/leetcode-medium/leetcode-222-count-complete-tree-nodes.md)             |
-| Day 24 |                                                                                                                                         |
+| Day 24 | [Min Stack](../../difficulty-based-problem-index/leetcode-easy/leetcode-155-min-stack.md)                                               |
 | Day 25 |                                                                                                                                         |
 | Day 26 |                                                                                                                                         |
 | Day 27 |                                                                                                                                         |
