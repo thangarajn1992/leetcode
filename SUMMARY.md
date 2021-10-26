@@ -354,6 +354,7 @@
     * [Leetcode 205 Isomorphic Strings](difficulty-based-problem-index/leetcode-easy/leetcode-205-isomorphic-strings.md)
     * [Leetcode 206 Reverse Linked List](difficulty-based-problem-index/leetcode-easy/leetcode-206-reverse-linked-list.md)
     * [Leetcode 217 Contains Duplicate](difficulty-based-problem-index/leetcode-easy/leetcode-217-contains-duplicate.md)
+    * [Leetcode 226 Invert Binary Tree](difficulty-based-problem-index/leetcode-easy/leetcode-226-invert-binary-tree.md)
     * [Leetcode 232 Implement queue using stacks](difficulty-based-problem-index/leetcode-easy/leetcode-232-implement-queue-using-stacks.md)
     * [Leetcode 234 Palindrome Linked List](difficulty-based-problem-index/leetcode-easy/leetcode-234-palindrome-linked-list.md)
     * [Leetcode 235 Lowest Common Ancestor of a Binary Search Tree](difficulty-based-problem-index/leetcode-easy/leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md)

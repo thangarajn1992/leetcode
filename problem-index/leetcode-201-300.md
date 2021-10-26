@@ -20,6 +20,7 @@ description: Leetcode Problems from 201 to 300
 | 216         | Medium     | [Combination Sum III](../difficulty-based-problem-index/leetcode-medium/leetcode-216-combination-sum-iii.md)                                                |
 | 217         | Easy       | [Contains Duplicate](../difficulty-based-problem-index/leetcode-easy/leetcode-217-contains-duplicate.md)                                                    |
 | 222         | Medium     | [Count Complete Tree Nodes](../difficulty-based-problem-index/leetcode-medium/leetcode-222-count-complete-tree-nodes.md)                                    |
+| 226         | Easy       | [Invert Binary Tree](../difficulty-based-problem-index/leetcode-easy/leetcode-226-invert-binary-tree.md)                                                    |
 | 230         | Medium     | [Kth Smallest Element in a BST](../difficulty-based-problem-index/leetcode-medium/leetcode-230-kth-smallest-element-in-a-bst.md)                            |
 | 232         | Easy       | [Implement queue using stacks](../difficulty-based-problem-index/leetcode-easy/leetcode-232-implement-queue-using-stacks.md)                                |
 | 234         | Easy       | [Palindrome Linked List](../difficulty-based-problem-index/leetcode-easy/leetcode-234-palindrome-linked-list.md)                                            |

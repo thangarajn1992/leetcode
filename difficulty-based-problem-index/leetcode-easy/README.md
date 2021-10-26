@@ -45,6 +45,7 @@ Easy Level Problem Sets for Leetcode
 | 205         | [Isomorphic Strings](leetcode-205-isomorphic-strings.md)                                                                                |
 | 206         | [Reverse Linked List](leetcode-206-reverse-linked-list.md)                                                                              |
 | 217         | [Contains Duplicate](leetcode-217-contains-duplicate.md)                                                                                |
+| 226         | [Invert Binary Tree](leetcode-226-invert-binary-tree.md)                                                                                |
 | 232         | [Implement queue using stacks](leetcode-232-implement-queue-using-stacks.md)                                                            |
 | 234         | [Palindrome Linked List](leetcode-234-palindrome-linked-list.md)                                                                        |
 | 235         | [Lowest Common Ancestor of a Binary Search Tree](leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md)                        |
