@@ -8,7 +8,7 @@ Given an integer array `nums`, return _the **third distinct maximum** number in 
 
 **Example 1:**
 
-```text
+```
 Input: nums = [3,2,1]
 Output: 1
 Explanation:
@@ -19,7 +19,7 @@ The third distinct maximum is 1.
 
 **Example 2:**
 
-```text
+```
 Input: nums = [1,2]
 Output: 2
 Explanation:
@@ -30,7 +30,7 @@ The third distinct maximum does not exist, so the maximum (2) is returned instea
 
 **Example 3:**
 
-```text
+```
 Input: nums = [2,2,3,1]
 Output: 1
 Explanation:
@@ -44,11 +44,11 @@ The third distinct maximum is 1.
 * `1 <= nums.length <= 10^4`
 * `-2^31 <= nums[i] <= 2^31 - 1`
 
-  **Follow up:** Can you find an `O(n)` solution?
+&#x20; **Follow up:** Can you find an `O(n)` solution?
 
 ## Solution
 
-### My Initial Solution : O\(N\) time and O\(1\) Space complexity
+### My Initial Solution : O(N) time and O(1) Space complexity
 
 ```cpp
 class Solution {
@@ -103,4 +103,3 @@ public:
     }
 };
 ```
-

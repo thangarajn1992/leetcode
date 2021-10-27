@@ -8,14 +8,14 @@ Given two integer arrays `inorder` and `postorder` where `inorder` is the inorde
 
 **Example 1:** ![](https://assets.leetcode.com/uploads/2021/02/19/tree.jpg)
 
-```text
+```
 Input: inorder = [9,3,15,20,7], postorder = [9,15,7,20,3]
 Output: [3,9,20,null,null,15,7]
 ```
 
 **Example 2:**
 
-```text
+```
 Input: inorder = [-1], postorder = [-1]
 Output: [-1]
 ```
@@ -32,7 +32,64 @@ Output: [-1]
 
 ## Solution
 
+### Iterative Solution
+
 ```cpp
+class Solution {
+public:
+    /* Iterative Approach */
+     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) 
+     {
+         int postIndex = postorder.size() - 1;
+         int inIndex = inorder.size() - 1;
+         bool leftSubTree = false;
+         TreeNode *prev = new TreeNode(postorder[postIndex]);
+         TreeNode *root = prev;
+         postIndex--;
+         
+         stack<TreeNode*> s;
+         s.push(root);
+         
+         while(postIndex >= 0)
+         {
+             if(s.empty() == false && inorder[inIndex] == s.top()->val)
+             {
+                 prev = s.top(); s.pop();
+                 inIndex--;
+                 leftSubTree = true;
+             }
+             else
+             {
+                 TreeNode *node = new TreeNode(postorder[postIndex]);
+                 postIndex--;
+                 s.push(node);
+                 if(leftSubTree == true)
+                 {
+                     prev->left = node;
+                     prev = prev->left;
+                     leftSubTree = false;
+                 }
+                 else
+                 {
+                     prev->right = node;
+                     prev = prev->right;
+                 } 
+             }
+         }
+         return root;
+     }  
+};
+```
+
+### Recursive Solution
+
+```cpp
+/* 
+    The Last Node of Postorder will be the root. Once we find the node's index in inorder, 
+    Then all nodes after that index are its right sub-tree and 
+         all nodes before that in inorder are its left sub-tree
+    We start at last Node of post order and keep going backwards
+*/
 class Solution {
 public:
     map<int,int> inorder_map;
@@ -55,4 +112,3 @@ public:
     }
 };
 ```
-

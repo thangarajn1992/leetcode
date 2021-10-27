@@ -10,30 +10,30 @@ _k_ is a positive integer and is less than or equal to the length of the linked 
 
 You may not alter the values in the list's nodes, only nodes themselves may be changed.
 
-**Example 1:** ![](https://assets.leetcode.com/uploads/2020/10/03/reverse_ex1.jpg)
+**Example 1:** ![](https://assets.leetcode.com/uploads/2020/10/03/reverse\_ex1.jpg)
 
-```text
+```
 Input: head = [1,2,3,4,5], k = 2
 Output: [2,1,4,3,5]
 ```
 
-**Example 2:** ![](https://assets.leetcode.com/uploads/2020/10/03/reverse_ex2.jpg)
+**Example 2:** ![](https://assets.leetcode.com/uploads/2020/10/03/reverse\_ex2.jpg)
 
-```text
+```
 Input: head = [1,2,3,4,5], k = 3
 Output: [3,2,1,4,5]
 ```
 
 **Example 3:**
 
-```text
+```
 Input: head = [1,2,3,4,5], k = 1
 Output: [1,2,3,4,5]
 ```
 
 **Example 4:**
 
-```text
+```
 Input: head = [1], k = 1
 Output: [1]
 ```
@@ -45,7 +45,7 @@ Output: [1]
 * `0 <= Node.val <= 1000`
 * `1 <= k <= sz`
 
-  **Follow-up:** Can you solve the problem in O\(1\) extra memory space?
+&#x20; **Follow-up:** Can you solve the problem in O(1) extra memory space?
 
 ## Solution
 
@@ -83,4 +83,3 @@ public:
     }
 };
 ```
-

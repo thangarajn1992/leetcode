@@ -4,24 +4,24 @@
 
 [https://leetcode.com/problems/set-matrix-zeroes/](https://leetcode.com/problems/set-matrix-zeroes/)
 
-Given an _`m`_ `x` _`n`_ matrix. If an element is **0**, set its entire row and column to **0**. Do it [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm).
+Given an _`m`_`  x  `_`n`_ matrix. If an element is **0**, set its entire row and column to **0**. Do it [**in-place**](https://en.wikipedia.org/wiki/In-place\_algorithm).
 
 **Follow up:**
 
-* A straight forward solution using O\(_mn_\) space is probably a bad idea.
-* A simple improvement uses O\(_m_ + _n_\) space, but still not the best solution.
+* A straight forward solution using O(_mn_) space is probably a bad idea.
+* A simple improvement uses O(_m_ + _n_) space, but still not the best solution.
 * Could you devise a constant space solution?
 
 **Example 1:** ![](https://assets.leetcode.com/uploads/2020/08/17/mat1.jpg)
 
-```text
+```
 Input: matrix = [[1,1,1],[1,0,1],[1,1,1]]
 Output: [[1,0,1],[0,0,0],[1,0,1]]
 ```
 
 **Example 2:** ![](https://assets.leetcode.com/uploads/2020/08/17/mat2.jpg)
 
-```text
+```
 Input: matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
 Output: [[0,0,0,0],[0,4,5,0],[0,3,1,0]]
 ```
@@ -84,4 +84,3 @@ public:
     } 
 };
 ```
-

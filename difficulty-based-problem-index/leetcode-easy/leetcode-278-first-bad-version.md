@@ -12,7 +12,7 @@ You are given an API `bool isBadVersion(version)` which returns whether `version
 
 **Example 1:**
 
-```text
+```
 Input: n = 5, bad = 4
 Output: 4
 Explanation:
@@ -24,7 +24,7 @@ Then 4 is the first bad version.
 
 **Example 2:**
 
-```text
+```
 Input: n = 1, bad = 1
 Output: 1
 ```
@@ -39,23 +39,16 @@ Output: 1
 class Solution {
 public:
     int firstBadVersion(int n) {
-        int start = 1, end = n, result = n;
-        while(start < end)
+        int left = 1, right = n, result = n;
+        while(left < right)
         {
-            int mid = start + (end - start)/2;
+            int mid = left + (right - left)/2;
             if(isBadVersion(mid))
-            {
-                end = mid;
-                result = min(result, mid);
-            }
+                right = mid;
             else
-            {
-                start = mid + 1;
-                result = max(result, mid);
-            }
+                left = mid + 1;
         }
-        return result;
+        return left;
     }
 };
 ```
-

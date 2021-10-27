@@ -8,7 +8,7 @@ Return _the maximum possible length_ of `s`.
 
 **Example 1:**
 
-```text
+```
 Input: arr = ["un","iq","ue"]
 Output: 4
 Explanation: 
@@ -18,7 +18,7 @@ Maximum length is 4.
 
 **Example 2:**
 
-```text
+```
 Input: arr = ["cha","r","act","ers"]
 Output: 6
 Explanation: 
@@ -27,7 +27,7 @@ Possible solutions are "chaers" and "acters".
 
 **Example 3:**
 
-```text
+```
 Input: arr = ["abcdefghijklmnopqrstuvwxyz"]
 Output: 26
 ```
@@ -43,23 +43,26 @@ Output: 26
 ```cpp
 class Solution {
 public:
-    int solve(vector<string> &v,int low,bitset<26> bits=0,string s="")
-    {
-        if(low==v.size()) return s.size();  //base case
-        bitset<26> b{bits};
-        for(auto &i: v[low])
-        {
-            if(b[i-'a']==1)   // character is already in the string 
-                return solve(v,low+1,bits,s);  //backtracking step
-            b[i-'a']=1;  //updating our mask
-        }
-        // if the string is valid and it didnt fall into backtracking step 
-        // then we have to check both choices and return the max value we get
-        return max(solve(v, low+1, b, s+v[low]), solve(v, low+1, bits, s)); 
-    }
     int maxLength(vector<string>& arr) {
        return solve(arr,0);
     }
+    
+    int solve(vector<string> &str, int index, bitset<26> bits = 0, string s="")
+    {
+        if(index == str.size()) 
+            return s.size();  //base case
+        
+        bitset<26> b{bits};
+        for(auto &c: str[index])
+        {
+            if(b[c - 'a'] == 1)   // character is already in the string
+                return solve(str, index+1, bits, s);  //can't include this string
+            
+            b[c - 'a'] = 1;  //updating our mask
+        }
+        // if the string can be included
+        // then we have to check both choices and return the max value we get
+        return max(solve(str, index+1, b, s+str[index]), solve(str, index+1, bits, s)); 
+    }
 };
 ```
-

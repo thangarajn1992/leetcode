@@ -10,7 +10,7 @@ Given an integer array `nums` representing the amount of money of each house, re
 
 **Example 1:**
 
-```text
+```
 Input: nums = [1,2,3,1]
 Output: 4
 Explanation: 
@@ -20,7 +20,7 @@ Total amount you can rob = 1 + 3 = 4.
 
 **Example 2:**
 
-```text
+```
 Input: nums = [2,7,9,3,1]
 Output: 12
 Explanation: 
@@ -33,7 +33,7 @@ Total amount you can rob = 2 + 9 + 1 = 12.
 * `1 <= nums.length <= 100`
 * `0 <= nums[i] <= 40`
 
-## Solution 
+## Solution&#x20;
 
 ### Iterative Approach:
 
@@ -42,15 +42,12 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int size = nums.size();
-        if(size == 0)
-            return 0;
-        int incl = nums[0];
-        int excl = 0;        
-        for(int i = 1; i < size; i++)
+        int incl = 0, excl = 0;
+        for(int i = 0; i < size; i++)
         {
-            int new_excl = max(incl,excl);
-            incl = nums[i] + excl;
-            excl = new_excl;
+            int res = max(excl + nums[i], incl);
+            excl = incl;
+            incl = res;
         }
         return max(incl, excl);
     }
@@ -77,4 +74,3 @@ public:
     }
 };
 ```
-

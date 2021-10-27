@@ -12,7 +12,7 @@ In one **step**, you can delete exactly one character in either string.
 
 **Example 1:**
 
-```text
+```
 Input: word1 = "sea", word2 = "eat"
 Output: 2
 Explanation: 
@@ -21,7 +21,7 @@ You need one step to make "sea" to "ea" and another step to make "eat" to "ea".
 
 **Example 2:**
 
-```text
+```
 Input: word1 = "leetcode", word2 = "etco"
 Output: 4
 ```
@@ -35,10 +35,10 @@ Output: 4
 
 We can make use of Dynamic Programming to directly determine the number of deletions required till the current indices of the strings.
 
-In order to do so, we make use of a 2-D `dp` array. Now, `dp[i][j]` refers to the number of deletions required to equalize the two strings if we consider the strings' length upto \(i−1\)th index and \(j−1\)th index for `s1` and `s2` respectively. Again, we fill in the `dp` array in a row-by-row order. Now, in order to fill the entry for `dp[i][j]`, we need to consider two cases only:
+In order to do so, we make use of a 2-D `dp` array. Now, `dp[i][j]` refers to the number of deletions required to equalize the two strings if we consider the strings' length upto (i−1)th index and (j−1)th index for `s1` and `s2` respectively. Again, we fill in the `dp` array in a row-by-row order. Now, in order to fill the entry for `dp[i][j]`, we need to consider two cases only:
 
-1. The characters `s1[i−1]` and `s2[j−1]`  match each other. In this case, we need to replicate the entry corresponding to`dp[i−1][j−1]`itself. This is because the matched character doesn't need to be deleted from any of the strings.
-2. The characters `s1[i−1]` and `s2[j−1]` don't match with each other. In this case, we need to delete either the current character of `s1` or `s2.` Thus, an increment of 1 needs to be done relative to the entries corresponding to the previous indices. The two options available at this moment are `dp[i−1][j]` and `dp[i][j−1]`. Since, we are keeping track of the minimum number of deletions required, we pick up the minimum out of these two values.
+1. The characters `s1[i−1] `and `s2[j−1]`  match each other. In this case, we need to replicate the entry corresponding to`dp[i−1][j−1]`itself. This is because the matched character doesn't need to be deleted from any of the strings.
+2. The characters `s1[i−1]` and` s2[j−1]` don't match with each other. In this case, we need to delete either the current character of `s1` or `s2.` Thus, an increment of 1 needs to be done relative to the entries corresponding to the previous indices. The two options available at this moment are `dp[i−1][j]` and `dp[i][j−1]`. Since, we are keeping track of the minimum number of deletions required, we pick up the minimum out of these two values.
 
 At the end,`dp[m][n]` gives the required minimum number of deletions. Here, `m` and `n` refer to the lengths of `s1` and `s2`
 
@@ -93,4 +93,3 @@ public:
     }
 };
 ```
-

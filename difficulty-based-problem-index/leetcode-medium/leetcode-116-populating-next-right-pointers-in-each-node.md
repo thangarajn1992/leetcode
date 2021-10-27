@@ -6,7 +6,7 @@
 
 You are given a **perfect binary tree** where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:
 
-```text
+```
 struct Node {
   int val;
   Node *left;
@@ -26,9 +26,9 @@ Initially, all next pointers are set to `NULL`.
 
 **Example 1:**
 
-![](https://assets.leetcode.com/uploads/2019/02/14/116_sample.png)
+![](https://assets.leetcode.com/uploads/2019/02/14/116\_sample.png)
 
-```text
+```
 Input: root = [1,2,3,4,5,6,7]
 Output: [1,#,2,3,#,4,5,6,7,#]
 Explanation: 
@@ -49,23 +49,28 @@ with '#' signifying the end of each level.
 class Solution {
 public:
     Node* connect(Node* root) {
-        if(!root)
-            return nullptr;
-        Node* pre = root, *cur = NULL;
-        while(pre->left)
+        Node* head = root;
+        while(head != nullptr) 
         {
-            cur = pre;
-            while(cur)
+            Node *dummy = new Node();
+            Node *temp = dummy;
+            while(head != nullptr)
             {
-                cur->left->next = cur->right;
-                if(cur->next) 
-                    cur->right->next = cur->next->left;
-                cur = cur->next;
+                if(head->left != nullptr)
+                {
+                    temp->next = head->left;
+                    temp = temp->next;
+                }
+                if(head->right != nullptr)
+                {
+                    temp->next = head->right;
+                    temp = temp->next;
+                }
+                head = head->next;
             }
-            pre = pre->left;
+            head = dummy->next;
         }
-        return root;
+       return root;
     }
 };
 ```
-

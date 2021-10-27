@@ -128,6 +128,7 @@
     * [Leetcode 64 Minimum Path Sum](difficulty-based-problem-index/leetcode-medium/leetcode-64-minimum-path-sum.md)
     * [Leetcode 73 Set Matrix Zeroes](difficulty-based-problem-index/leetcode-medium/leetcode-73-set-matrix-zeroes.md)
     * [Leetcode 74 Search a 2D Matrix](difficulty-based-problem-index/leetcode-medium/leetcode-74-search-a-2d-matrix.md)
+    * [Leetcode 75 Sort Colors](difficulty-based-problem-index/leetcode-medium/leetcode-75-sort-colors.md)
     * [Leetcode 78 Subsets](difficulty-based-problem-index/leetcode-medium/leetcode-78-subsets.md)
     * [Leetcode 79 Word Search](difficulty-based-problem-index/leetcode-medium/leetcode-79-word-search.md)
     * [Leetcode 82 Remove Duplicates from Sorted List II](difficulty-based-problem-index/leetcode-medium/leetcode-82-remove-duplicates-from-sorted-list-ii.md)

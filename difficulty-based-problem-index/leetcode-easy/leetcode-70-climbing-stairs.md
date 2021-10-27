@@ -10,7 +10,7 @@ Each time you can either climb `1` or `2` steps. In how many distinct ways can y
 
 **Example 1:**
 
-```text
+```
 Input: n = 2
 Output: 2
 Explanation: 
@@ -21,7 +21,7 @@ There are two ways to climb to the top.
 
 **Example 2:**
 
-```text
+```
 Input: n = 3
 Output: 3
 Explanation: 
@@ -40,22 +40,26 @@ There are three ways to climb to the top.
 ```cpp
 class Solution {
 public:
-    int climbStairsiter(int n, int cur, vector<int>& possibilities)
-    {
-        if(cur == n)
-            return 1;
-        if(cur > n)
-            return 0;
-        if(possibilities[cur])
-            return possibilities[cur];
-        possibilities[cur] += climbStairsiter(n, cur+1, possibilities);
-        possibilities[cur] += climbStairsiter(n, cur+2, possibilities);
-        return possibilities[cur];
-    }
     int climbStairs(int n) {
         vector<int> possibilities(n, 0);
         return climbStairsiter(n, 0, possibilities);
     }
+    
+    int climbStairsiter(int n, int cur, vector<int>& possibilities)
+    {
+        if(cur == n)
+            return 1;
+            
+        if(cur > n)
+            return 0;
+            
+        if(possibilities[cur] != 0)
+            return possibilities[cur];
+            
+        possibilities[cur] += climbStairsiter(n, cur+1, possibilities);
+        possibilities[cur] += climbStairsiter(n, cur+2, possibilities);
+        
+        return possibilities[cur];
+    }
 };
 ```
-

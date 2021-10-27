@@ -30,7 +30,7 @@
 | Day 24 | [Count Complete Tree Nodes](../../difficulty-based-problem-index/leetcode-medium/leetcode-222-count-complete-tree-nodes.md)                           |
 | Day 25 | [Min Stack](../../difficulty-based-problem-index/leetcode-easy/leetcode-155-min-stack.md)                                                             |
 | Day 26 | [Invert Binary Tree](../../difficulty-based-problem-index/leetcode-easy/leetcode-226-invert-binary-tree.md)                                           |
-| Day 27 |                                                                                                                                                       |
+| Day 27 | [Sort Colors](../../difficulty-based-problem-index/leetcode-medium/leetcode-75-sort-colors.md)                                                        |
 | Day 28 |                                                                                                                                                       |
 | Day 29 |                                                                                                                                                       |
 | Day 30 |                                                                                                                                                       |

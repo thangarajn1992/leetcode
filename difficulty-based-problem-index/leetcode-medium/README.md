@@ -39,6 +39,7 @@ Medium Level Problem Sets for Leetcode
 | 64          | [Minimum Path Sum](leetcode-64-minimum-path-sum.md)                                                                                                       |
 | 73          | [Set Matrix Zeroes](leetcode-73-set-matrix-zeroes.md)                                                                                                     |
 | 74          | [Search a 2D Matrix](leetcode-74-search-a-2d-matrix.md)                                                                                                   |
+| 75          | [Sort Colors](leetcode-75-sort-colors.md)                                                                                                                 |
 | 78          | [Subsets](leetcode-78-subsets.md)                                                                                                                         |
 | 79          | [Word Search](leetcode-79-word-search.md)                                                                                                                 |
 |             |                                                                                                                                                           |

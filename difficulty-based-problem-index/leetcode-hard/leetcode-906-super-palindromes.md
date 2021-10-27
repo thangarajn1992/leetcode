@@ -12,7 +12,7 @@ Given two positive integers `left` and `right` represented as strings, return _t
 
 **Example 1:**
 
-```text
+```
 Input: left = "4", right = "1000"
 Output: 4
 Explanation: 
@@ -22,7 +22,7 @@ Note that 676 is not a superpalindrome: 26 * 26 = 676, but 26 is not a palindrom
 
 **Example 2:**
 
-```text
+```
 Input: left = "1", right = "2"
 Output: 1
 ```
@@ -39,15 +39,15 @@ Output: 1
 
 **Intuition**
 
-Say `P = R^2`  is a superpalindrome.
+Say `P = R^2 ` is a superpalindrome.
 
 Because R is a palindrome, the first half of the digits in R  determine R' up to two possibilities. We can iterate through these digits: let k be the first half of the digits in R. For example, if k=1234, then R=1234321 or R=12344321. Each possibility has either an odd or an even number of digits in R .
 
-Notice because P &lt; 10^18 , R&lt; \(10^18\)^\(1/2\) ​=10^9, andR=k∣k′ \(concatenation\), where k′  is k reversed \(and also possibly truncated by one digit\); so that k&lt;10^ 5 = MAGIC, our magic constant.
+Notice because P < 10^18 , R< (10^18)^(1/2) ​=10^9, andR=k∣k′ (concatenation), where k′  is k reversed (and also possibly truncated by one digit); so that k<10^ 5 = MAGIC, our magic constant.
 
 **Algorithm**
 
-For each1 ≤ k&lt; MAGIC, let's create the associated palindrome R, and check whether R^2 is a palindrome.
+For each1 ≤ k< MAGIC, let's create the associated palindrome R, and check whether R^2 is a palindrome.
 
 We should handle the odd and even possibilities separately, as we would like to break early so as not to do extra work.
 
@@ -104,4 +104,3 @@ public:
     }
 };
 ```
-

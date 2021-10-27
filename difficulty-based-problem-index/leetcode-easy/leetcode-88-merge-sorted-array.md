@@ -10,14 +10,14 @@ The number of elements initialized in `nums1` and `nums2` are `m` and `n` respec
 
 **Example 1:**
 
-```text
+```
 Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
 Output: [1,2,2,3,5,6]
 ```
 
 **Example 2:**
 
-```text
+```
 Input: nums1 = [1], m = 1, nums2 = [], n = 0
 Output: [1]
 ```
@@ -30,7 +30,7 @@ Output: [1]
 * `1 <= m + n <= 200`
 * `-10^9 <= nums1[i], nums2[i] <= 10^9`
 
-  **Follow up:** Can you come up with an algorithm that runs in `O(m + n)` time?
+&#x20; **Follow up: **Can you come up with an algorithm that runs in `O(m + n)` time?
 
 ## Solution
 
@@ -51,4 +51,3 @@ public:
     }
 };
 ```
-

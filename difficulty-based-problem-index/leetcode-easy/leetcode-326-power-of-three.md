@@ -10,28 +10,28 @@ An integer `n` is a power of three, if there exists an integer `x` such that `n 
 
 **Example 1:**
 
-```text
+```
 Input: n = 27
 Output: true
 ```
 
 **Example 2:**
 
-```text
+```
 Input: n = 0
 Output: false
 ```
 
 **Example 3:**
 
-```text
+```
 Input: n = 9
 Output: true
 ```
 
 **Example 4:**
 
-```text
+```
 Input: n = 45
 Output: false
 ```
@@ -40,7 +40,7 @@ Output: false
 
 * `-2^31 <= n <= 2^31 - 1`
 
-  **Follow up:** Could you solve it without loops/recursion?
+&#x20; **Follow up:** Could you solve it without loops/recursion?
 
 ## Solution
 
@@ -53,4 +53,3 @@ public:
     }
 };
 ```
-

@@ -8,21 +8,21 @@ Given the `head` of a linked list and an integer `val`, remove all the nodes of 
 
 **Example 1:** ![](https://assets.leetcode.com/uploads/2021/03/06/removelinked-list.jpg)
 
-```text
+```
 Input: head = [1,2,6,3,4,5,6], val = 6
 Output: [1,2,3,4,5]
 ```
 
 **Example 2:**
 
-```text
+```
 Input: head = [], val = 1
 Output: []
 ```
 
 **Example 3:**
 
-```text
+```
 Input: head = [7,7,7,7], val = 7
 Output: []
 ```
@@ -39,21 +39,21 @@ Output: []
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        if(!head || !val)
+        if(head == nullptr || val == 0)
             return head;
+        
         ListNode *dummy = new ListNode(0);
         dummy->next = head;
-        ListNode *prev = dummy, *curr = head;
-        while(curr)
+        
+        ListNode *curr = dummy;
+        while(curr->next)
         {
-            if(curr->val == val) // remove this node
-                prev->next = curr->next;
+            if(curr->next->val == val) // remove this node
+                curr->next = curr->next->next;
             else
-                prev = curr;
-            curr = curr->next;
+                curr = curr->next;
         }
         return dummy->next;
     }
 };
 ```
-

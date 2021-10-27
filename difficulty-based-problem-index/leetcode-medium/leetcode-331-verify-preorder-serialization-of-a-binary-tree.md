@@ -16,25 +16,25 @@ You may assume that the input format is always valid.
 
 * For example, it could never contain two consecutive commas, such as `"1,,3"`.
 
-**Note:** You are not allowed to reconstruct the tree.
+**Note: **You are not allowed to reconstruct the tree.
 
 **Example 1:**
 
-```text
+```
 Input: preorder = "9,3,4,#,#,1,#,#,2,#,6,#,#"
 Output: true
 ```
 
 **Example 2:**
 
-```text
+```
 Input: preorder = "1,#"
 Output: false
 ```
 
 **Example 3:**
 
-```text
+```
 Input: preorder = "9,#,#,1"
 Output: false
 ```
@@ -125,4 +125,3 @@ public:
     }
 };
 ```
-

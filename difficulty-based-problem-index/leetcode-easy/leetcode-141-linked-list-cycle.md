@@ -12,25 +12,25 @@ Return `true` _if there is a cycle in the linked list_. Otherwise, return `false
 
 **Example 1:** ![](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png)
 
-```text
+```
 Input: head = [3,2,0,-4], pos = 1
 Output: true
 Explanation: 
 There is a cycle in the linked list, where the tail connects to the 1st node (0-indexed).
 ```
 
-**Example 2:** ![](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test2.png)
+**Example 2:** ![](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist\_test2.png)
 
-```text
+```
 Input: head = [1,2], pos = 0
 Output: true
 Explanation: 
 There is a cycle in the linked list, where the tail connects to the 0th node.
 ```
 
-**Example 3:** ![](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test3.png)
+**Example 3:** ![](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist\_test3.png)
 
-```text
+```
 Input: head = [1], pos = -1
 Output: false
 Explanation: 
@@ -43,7 +43,7 @@ There is no cycle in the linked list.
 * `-10^5 <= Node.val <= 10^5`
 * `pos` is `-1` or a **valid index** in the linked-list.
 
-**Follow up:** Can you solve it using `O(1)` \(i.e. constant\) memory?
+**Follow up:** Can you solve it using `O(1)` (i.e. constant) memory?
 
 ## Solution
 
@@ -51,16 +51,14 @@ There is no cycle in the linked list.
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        if(!head) 
-            return false;
-        ListNode *slow = head, *fast = head->next;
-        
-        while(slow && fast && fast->next && slow != fast){
+        ListNode *slow = head, *fast = head;       
+        while(fast && fast->next){
             slow = slow->next;
             fast = fast->next->next;
+            if(slow == fast)
+                return true;
         }
-        return (slow == fast);
+        return false;
     }
 };
 ```
-
