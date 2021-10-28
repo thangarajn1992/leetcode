@@ -46,14 +46,14 @@ The triplet (3, 4, 5) is valid because nums[3] == 0 < nums[4] == 4 < nums[5] == 
 class Solution {
 public:
     bool increasingTriplet(vector<int>& nums) {
-        int mini = nums[0], mid = INT_MAX;
-        for(int i = 1; i < nums.size(); i++)
+        int mini = INT_MAX, mid = INT_MAX;
+        for(int num : nums)
         {
-            if(nums[i] < mini)
-                mini = nums[i];
-            else if(nums[i] > mini && nums[i] < mid)
-                mid = nums[i];
-            else if(nums[i] > mid)
+            if(num <= mini)
+                mini = num;
+            else if(num <= mid)
+                mid = num;
+            else
                 return true;
         }
         return false;
