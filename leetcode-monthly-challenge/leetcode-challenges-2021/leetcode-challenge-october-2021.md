@@ -32,6 +32,6 @@
 | Day 26 | [Invert Binary Tree](../../difficulty-based-problem-index/leetcode-easy/leetcode-226-invert-binary-tree.md)                                           |
 | Day 27 | [Sort Colors](../../difficulty-based-problem-index/leetcode-medium/leetcode-75-sort-colors.md)                                                        |
 | Day 28 | [3Sum](../../difficulty-based-problem-index/leetcode-medium/leetcode-15-3sum.md)                                                                      |
-| Day 29 |                                                                                                                                                       |
+| Day 29 | [Rotting Oranges](../../difficulty-based-problem-index/leetcode-medium/leetcode-994-rotting-oranges.md)                                               |
 | Day 30 |                                                                                                                                                       |
 | Day 31 |                                                                                                                                                       |
