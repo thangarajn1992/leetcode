@@ -123,4 +123,5 @@ This page contains list of problems that involves arrays
 | 1984        | Easy       | [Minimum Difference Between Highest and Lowest of K Scores](../difficulty-based-problem-index/leetcode-easy/leetcode-1984-minimum-difference-between-highest-and-lowest-of-k-scores.md)                     |
 | 1986        | Medium     | [Minimum Number of Work Sessions to Finish the Tasks](../difficulty-based-problem-index/leetcode-medium/leetcode-1986-minimum-number-of-work-sessions-to-finish-the-tasks.md)                               |
 | 1991        | Easy       | [Find the Middle Index in Array](../difficulty-based-problem-index/leetcode-easy/leetcode-1991-find-the-middle-index-in-array.md)                                                                           |
+| 2037        | Easy       | [Minimum Number of Moves to Seat Everyone](../difficulty-based-problem-index/leetcode-easy/leetcode-2037-minimum-number-of-moves-to-seat-everyone.md)                                                       |
 
