@@ -450,6 +450,7 @@
 * [Leetcode Monthly Challenge](leetcode-monthly-challenge/README.md)
   * [Table Format](leetcode-monthly-challenge/table-format.md)
   * [Leetcode Challenges - 2021](leetcode-monthly-challenge/leetcode-challenges-2021/README.md)
+    * [Leetcode Challenge - November 2021](leetcode-monthly-challenge/leetcode-challenges-2021/leetcode-challenge-november-2021.md)
     * [Leetcode Challenge - October 2021](leetcode-monthly-challenge/leetcode-challenges-2021/leetcode-challenge-october-2021.md)
     * [Leetcode Challenge - September 2021](leetcode-monthly-challenge/leetcode-challenges-2021/leetcode-challenge-september-2021.md)
     * [Leetcode Challenge - August 2021](leetcode-monthly-challenge/leetcode-challenges-2021/leetcode-challenge-august-2021.md)
