@@ -75,4 +75,5 @@
 | 1974        | Easy       | [Minimum Time to Type Word Using Special Typewriter](../difficulty-based-problem-index/leetcode-easy/leetcode-1974-minimum-time-to-type-word-using-special-typewriter.md)                           |
 | 1980        | Medium     | [Find Unique Binary String](../difficulty-based-problem-index/leetcode-medium/leetcode-1980-find-unique-binary-string.md)                                                                           |
 | 1985        | Medium     | [Find the Kth Largest Integer in the Array](../difficulty-based-problem-index/leetcode-medium/leetcode-1985-find-the-kth-largest-integer-in-the-array.md)                                           |
+| 2038        | Medium     | [Remove Colored Pieces if Both Neighbors are the Same Color](../difficulty-based-problem-index/leetcode-medium/leetcode-2038-remove-colored-pieces-if-both-neighbors-are-the-same-color.md)         |
 | 2042        | Easy       | [Check if Numbers Are Ascending in a Sentence](../difficulty-based-problem-index/leetcode-easy/leetcode-2042-check-if-numbers-are-ascending-in-a-sentence.md)                                       |

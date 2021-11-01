@@ -226,4 +226,5 @@ Medium Level Problem Sets for Leetcode
 | 1992        | [Find All Groups of Farmland](leetcode-1992-find-all-groups-of-farmland.md)                                                                               |
 | 1993        | [Operations on Tree](leetcode-1993-operations-on-tree.md)                                                                                                 |
 | 2008        | [Maximum Earnings From Taxi](leetcode-2008-maximum-earnings-from-taxi.md)                                                                                 |
+| 2038        | [Remove Colored Pieces if Both Neighbors are the Same Color](leetcode-2038-remove-colored-pieces-if-both-neighbors-are-the-same-color.md)                 |
 | 2043        | [Simple Bank System](leetcode-2043-simple-bank-system.md)                                                                                                 |
