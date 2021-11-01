@@ -3,6 +3,7 @@
 This page contains the Leetcode Monthly Challenge problem and link for their solution
 
 * [2021](leetcode-challenges-2021/)
+  * [November 2021](leetcode-challenges-2021/leetcode-challenge-november-2021.md)
   * [October 2021](leetcode-challenges-2021/leetcode-challenge-october-2021.md)
   * [September 2021](leetcode-challenges-2021/leetcode-challenge-september-2021.md)
   * [August 2021](leetcode-challenges-2021/leetcode-challenge-august-2021.md)

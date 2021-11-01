@@ -31,6 +31,7 @@ description: Leetcode Problems from 101 to 200
 | 126         | Hard       | [Word Ladder II](../difficulty-based-problem-index/leetcode-hard/leetcode-126-word-ladder-ii.md)                                                                                           |
 | 127         | Hard       | [Word Ladder](../difficulty-based-problem-index/leetcode-hard/leetcode-127-word-ladder.md)                                                                                                 |
 | 128         | Medium     | [Longest consecutive Sequence](../difficulty-based-problem-index/leetcode-medium/leetcode-128-longest-consecutive-sequence.md)                                                             |
+| 130         | Medium     | [Surrounded Regions](../difficulty-based-problem-index/leetcode-medium/leetcode-130-surrounded-regions.md)                                                                                 |
 | 133         | Medium     | [Clone Graph](../difficulty-based-problem-index/leetcode-medium/leetcode-133-clone-graph.md)                                                                                               |
 | 136         | Easy       | [Single Number](../difficulty-based-problem-index/leetcode-easy/leetcode-136-single-number.md)                                                                                             |
 | 138         | Medium     | [Copy List with Random Pointer](../difficulty-based-problem-index/leetcode-medium/leetcode-138-copy-list-with-random-pointer.md)                                                           |
