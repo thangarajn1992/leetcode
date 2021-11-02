@@ -3,7 +3,7 @@
 | Day No | Problem & Solution Link                                                                                       |
 | ------ | ------------------------------------------------------------------------------------------------------------- |
 | Day 1  | [Surrounded Regions](../../difficulty-based-problem-index/leetcode-medium/leetcode-130-surrounded-regions.md) |
-| Day 2  |                                                                                                               |
+| Day 2  | [Unique Paths III](../../difficulty-based-problem-index/leetcode-hard/leetcode-980-unique-paths-iii.md)       |
 | Day 3  |                                                                                                               |
 | Day 4  |                                                                                                               |
 | Day 5  |                                                                                                               |
