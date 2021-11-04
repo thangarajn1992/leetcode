@@ -31,6 +31,7 @@
 | 297         | Hard       | [Serialize and Deserialize Binary Tree](../difficulty-based-problem-index/leetcode-hard/leetcode-297-serialize-and-deserialize-binary-tree.md)                                             |
 | 307         | Medium     | [Ranged Sum Query 1D - Mutable](../difficulty-based-problem-index/leetcode-medium/leetcode-307-range-sum-query-mutable.md)                                                                 |
 | 331         | Medium     | [Verify Preorder Serialization of a Binary Tree](../difficulty-based-problem-index/leetcode-medium/leetcode-331-verify-preorder-serialization-of-a-binary-tree.md)                         |
+| 404         | Easy       | [Sum of Left Leaves](../difficulty-based-problem-index/leetcode-easy/leetcode-404-sum-of-left-leaves.md)                                                                                   |
 | 429         | Medium     | [N-ary Tree Level Order Traversal](../difficulty-based-problem-index/leetcode-medium/leetcode-429-n-ary-tree-level-order-traversal.md)                                                     |
 | 437         | Medium     | [Path Sum III](../difficulty-based-problem-index/leetcode-medium/leetcode-437-path-sum-iii.md)                                                                                             |
 | 589         | Easy       | [N ary Tree Preorder Traversal](../difficulty-based-problem-index/leetcode-easy/leetcode-589-n-ary-tree-preorder-traversal.md)                                                             |

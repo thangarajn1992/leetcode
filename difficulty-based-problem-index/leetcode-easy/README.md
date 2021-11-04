@@ -62,6 +62,7 @@ Easy Level Problem Sets for Leetcode
 | 350         | [Intersection of Two Arrays II](leetcode-350-intersection-of-two-array-ii.md)                                                           |
 | 374         | [Guess Number Higher or Lower](leetcode-374-guess-number-higher-or-lower.md)                                                            |
 | 387         | [First Unique Character in a String](leetcode-387-first-unique-character-in-a-string.md)                                                |
+| 404         | [Sum of Left Leaves](leetcode-404-sum-of-left-leaves.md)                                                                                |
 | 412         | [Fizz Buzz](leetcode-412-fizz-buzz.md)                                                                                                  |
 | 414         | [Third Maximum Number](leetcode-414-third-maximum-number.md)                                                                            |
 | 415         | [Add Strings](leetcode-415-add-strings.md)                                                                                              |

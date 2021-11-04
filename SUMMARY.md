@@ -378,6 +378,7 @@
     * [Leetcode 350 Intersection of Two Array II](difficulty-based-problem-index/leetcode-easy/leetcode-350-intersection-of-two-array-ii.md)
     * [Leetcode 374 Guess Number Higher or Lower](difficulty-based-problem-index/leetcode-easy/leetcode-374-guess-number-higher-or-lower.md)
     * [Leetcode 387 First Unique Character in a String](difficulty-based-problem-index/leetcode-easy/leetcode-387-first-unique-character-in-a-string.md)
+    * [Leetcode 404 Sum of Left Leaves](difficulty-based-problem-index/leetcode-easy/leetcode-404-sum-of-left-leaves.md)
     * [Leetcode 412 Fizz Buzz](difficulty-based-problem-index/leetcode-easy/leetcode-412-fizz-buzz.md)
     * [Leetcode 414 Third Maximum Number](difficulty-based-problem-index/leetcode-easy/leetcode-414-third-maximum-number.md)
     * [Leetcode 415 Add Strings](difficulty-based-problem-index/leetcode-easy/leetcode-415-add-strings.md)

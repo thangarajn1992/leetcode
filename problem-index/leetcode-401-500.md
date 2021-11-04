@@ -8,6 +8,7 @@ description: Leetcode Problems from 401 to 500
 
 | Leetcode No | Difficulty | Problem Link                                                                                                                                           |
 | ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 404         | Easy       | [Sum of Left Leaves](../difficulty-based-problem-index/leetcode-easy/leetcode-404-sum-of-left-leaves.md)                                               |
 | 412         | Easy       | [Fizz Buzz](../difficulty-based-problem-index/leetcode-easy/leetcode-412-fizz-buzz.md)                                                                 |
 | 414         | Easy       | [Third Maximum Number](../difficulty-based-problem-index/leetcode-easy/leetcode-414-third-maximum-number.md)                                           |
 | 415         | Easy       | [Add Strings](../difficulty-based-problem-index/leetcode-easy/leetcode-415-add-strings.md)                                                             |

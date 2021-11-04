@@ -5,7 +5,7 @@
 | Day 1  | [Surrounded Regions](../../difficulty-based-problem-index/leetcode-medium/leetcode-130-surrounded-regions.md)             |
 | Day 2  | [Unique Paths III](../../difficulty-based-problem-index/leetcode-hard/leetcode-980-unique-paths-iii.md)                   |
 | Day 3  | [Sum Root to Leaf Numbers](../../difficulty-based-problem-index/leetcode-medium/leetcode-129-sum-root-to-leaf-numbers.md) |
-| Day 4  |                                                                                                                           |
+| Day 4  | [Sum of Left Leaves](../../difficulty-based-problem-index/leetcode-easy/leetcode-404-sum-of-left-leaves.md)               |
 | Day 5  |                                                                                                                           |
 | Day 6  |                                                                                                                           |
 | Day 7  |                                                                                                                           |
