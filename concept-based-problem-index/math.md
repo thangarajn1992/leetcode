@@ -21,6 +21,7 @@ This page contains list of problems related to Mathematics
 | 326         | Easy       | [Power of Three](../difficulty-based-problem-index/leetcode-easy/leetcode-326-power-of-three.md)                                                                          |
 | 330         | Hard       | [Patching Array](../difficulty-based-problem-index/leetcode-hard/leetcode-330-patching-array.md)                                                                          |
 | 412         | Easy       | [Fizz Buzz](../difficulty-based-problem-index/leetcode-easy/leetcode-412-fizz-buzz.md)                                                                                    |
+| 441         | Easy       | [Arranging Coins](../difficulty-based-problem-index/leetcode-easy/leetcode-441-arranging-coins.md)                                                                        |
 | 461         | Easy       | [Hamming Distance](../difficulty-based-problem-index/leetcode-easy/leetcode-461-hamming-distance.md)                                                                      |
 | 509         | Easy       | [Fibonacci Number](../difficulty-based-problem-index/leetcode-easy/leetcode-509-fibonacci-number.md)                                                                      |
 | 537         | Medium     | [Complex Number Multiplication](../difficulty-based-problem-index/leetcode-medium/leetcode-537-complex-number-multiplication.md)                                          |

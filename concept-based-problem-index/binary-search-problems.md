@@ -15,6 +15,7 @@
 | 295         | Hard       | [Find Median from Data Stream](../difficulty-based-problem-index/leetcode-hard/leetcode-295-find-median-from-data-stream.md)                         |
 | 300         | Medium     | [Longest Increasing Subsequence](../difficulty-based-problem-index/leetcode-medium/leetcode-300-longest-increasing-subsequence.md)                   |
 | 374         | Easy       | [Guess Number Higher or Lower](../difficulty-based-problem-index/leetcode-easy/leetcode-374-guess-number-higher-or-lower.md)                         |
+| 441         | Easy       | [Arranging Coins](../difficulty-based-problem-index/leetcode-easy/leetcode-441-arranging-coins.md)                                                   |
 | 658         | Medium     | [Find K Closest Elements](../difficulty-based-problem-index/leetcode-medium/leetcode-658-find-k-closest-elements.md)                                 |
 | 704         | Easy       | [Binary Search](../difficulty-based-problem-index/leetcode-easy/leetcode-704-binary-search.md)                                                       |
 | 744         | Easy       | [Find Smallest Letter Greater Than Target](../difficulty-based-problem-index/leetcode-easy/leetcode-744-find-smallest-letter-greater-than-target.md) |
