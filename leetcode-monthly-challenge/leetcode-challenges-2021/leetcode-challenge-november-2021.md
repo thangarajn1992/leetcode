@@ -7,9 +7,9 @@
 | Day 3  | [Sum Root to Leaf Numbers](../../difficulty-based-problem-index/leetcode-medium/leetcode-129-sum-root-to-leaf-numbers.md) |
 | Day 4  | [Sum of Left Leaves](../../difficulty-based-problem-index/leetcode-easy/leetcode-404-sum-of-left-leaves.md)               |
 | Day 5  | [Arranging Coins](../../difficulty-based-problem-index/leetcode-easy/leetcode-441-arranging-coins.md)                     |
-| Day 6  | [Sum of Left Leaves](../../difficulty-based-problem-index/leetcode-easy/leetcode-404-sum-of-left-leaves.md)               |
+| Day 6  |                                                                                                                           |
 | Day 7  |                                                                                                                           |
-| Day 8  |                                                                                                                           |
+| Day 8  | [Unique Binary Trees](../../difficulty-based-problem-index/leetcode-medium/leetcode-96-unique-binary-search-trees.md)     |
 | Day 9  |                                                                                                                           |
 | Day 10 |                                                                                                                           |
 | Day 11 |                                                                                                                           |
