@@ -105,6 +105,7 @@ Easy Level Problem Sets for Leetcode
 | 1299        | [Replace Elements with Greatest Element on Right Side](leetcode-1299-replace-elements-with-greatest-element-on-right-side.md)           |
 | 1304        | [Find N Unique Integers Sum up to Zero](leetcode-1304-find-n-unique-integers-sum-up-to-zero.md)                                         |
 | 1346        | [Check If N and Its Double Exist](leetcode-1346-check-if-n-and-its-double-exist.md)                                                     |
+| 1413        | [Minimum Value to Get Positive Step by Step Sum](leetcode-1413-minimum-value-to-get-positive-step-by-step-sum.md)                       |
 | 1480        | [Running Sum of 1D Array](leetcode-1480-running-sum-of-1d-array.md)                                                                     |
 | 1486        | [XOR Operation in an Array](leetcode-1486-xor-operation-in-an-array.md)                                                                 |
 | 1582        | [Special Positions in a Binary Matrix](leetcode-1582-special-positions-in-a-binary-matrix.md)                                           |
