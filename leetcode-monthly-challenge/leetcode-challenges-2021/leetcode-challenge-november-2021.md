@@ -14,7 +14,7 @@
 | Day 10 | [Best Time to Buy and Sell Stock II](../../difficulty-based-problem-index/leetcode-easy/leetcode-122-best-time-to-buy-and-sell-stock-ii.md)                          |
 | Day 11 | [Minimum Value to Get Positive Step by Step Sum](../../difficulty-based-problem-index/leetcode-easy/leetcode-1413-minimum-value-to-get-positive-step-by-step-sum.md) |
 | Day 12 | [Remove Linked List Elements](../../difficulty-based-problem-index/leetcode-easy/leetcode-203-remove-linked-list-elements.md)                                        |
-| Day 13 |                                                                                                                                                                      |
+| Day 13 | [Daily Temperatures](../../difficulty-based-problem-index/leetcode-medium/leetcode-739-daily-temperatures.md)                                                        |
 | Day 14 |                                                                                                                                                                      |
 | Day 15 |                                                                                                                                                                      |
 | Day 16 |                                                                                                                                                                      |

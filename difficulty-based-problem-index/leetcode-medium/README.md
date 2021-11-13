@@ -139,6 +139,7 @@ Medium Level Problem Sets for Leetcode
 | 718         | [Maximum Length of Repeated Subarray](leetcode-718-maximum-length-of-repeated-subarray.md)                                                                |
 | 725         | [Split Linked List in Parts](leetcode-725-split-linked-list-in-parts.md)                                                                                  |
 | 729         | [My Calendar I](leetcode-729-my-calendar-i.md)                                                                                                            |
+| 739         | [Daily Temperatures](leetcode-739-daily-temperatures.md)                                                                                                  |
 | 740         | [Delete and Earn](leetcode-740-delete-and-earn.md)                                                                                                        |
 | 743         | [Network Delay Time](leetcode-743-network-delay-time.md)                                                                                                  |
 | 752         | [Open the Lock](leetcode-752-open-the-lock.md)                                                                                                            |

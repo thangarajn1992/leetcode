@@ -12,6 +12,7 @@ description: Leetcode Problems from 701 to 800
 | 718         | Medium     | [Maximum Length of Repeated Subarray](../difficulty-based-problem-index/leetcode-medium/leetcode-718-maximum-length-of-repeated-subarray.md)                                   |
 | 725         | Medium     | [Split Linked List in Parts](../difficulty-based-problem-index/leetcode-medium/leetcode-725-split-linked-list-in-parts.md)                                                     |
 | 729         | Medium     | [My Calendar I](../difficulty-based-problem-index/leetcode-medium/leetcode-729-my-calendar-i.md)                                                                               |
+| 739         | Medium     | [Daily Temperatures](../difficulty-based-problem-index/leetcode-medium/leetcode-739-daily-temperatures.md)                                                                     |
 | 740         | Medium     | [Delete and Earn](../difficulty-based-problem-index/leetcode-medium/leetcode-740-delete-and-earn.md)                                                                           |
 | 743         | Medium     | [Network Delay Time](../difficulty-based-problem-index/leetcode-medium/leetcode-743-network-delay-time.md)                                                                     |
 | 744         | Easy       | [Find Smallest Letter Greater Than Target](../difficulty-based-problem-index/leetcode-easy/leetcode-744-find-smallest-letter-greater-than-target.md)                           |
