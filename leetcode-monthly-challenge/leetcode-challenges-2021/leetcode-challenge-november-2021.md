@@ -18,8 +18,8 @@
 | Day 14 |                                                                                                                                                                      |
 | Day 15 |                                                                                                                                                                      |
 | Day 16 |                                                                                                                                                                      |
-| Day 17 |                                                                                                                                                                      |
-| Day 18 |                                                                                                                                                                      |
+| Day 17 | [Unique Paths](../../difficulty-based-problem-index/leetcode-medium/leetcode-62-unique-paths.md)                                                                     |
+| Day 18 | [Find All Numbers Disappeared in an Array](../../difficulty-based-problem-index/leetcode-easy/leetcode-448-find-all-numbers-disappeared-in-an-array.md)              |
 | Day 19 |                                                                                                                                                                      |
 | Day 20 |                                                                                                                                                                      |
 | Day 21 |                                                                                                                                                                      |
