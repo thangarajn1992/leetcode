@@ -8,7 +8,7 @@ Given a binary array `nums`, return _the maximum number of consecutive_ `1`_'s i
 
 **Example 1:**
 
-```text
+```
 Input: nums = [1,1,0,1,1,1]
 Output: 3
 Explanation: 
@@ -18,7 +18,7 @@ The maximum number of consecutive 1s is 3.
 
 **Example 2:**
 
-```text
+```
 Input: nums = [1,0,1,1,0,1]
 Output: 2
 ```
@@ -36,25 +36,21 @@ Output: 2
 class Solution {
 public:
     int findMaxConsecutiveOnes(vector<int>& nums) {
-        int maxConsecutiveOnes = 0;
-        int index = 0;
-        int windowStart = -1; 
-        // windowStart being -1 means we are not in the window of Ones
-        for(; index < nums.size(); index++)
-        {
-            if(nums[index] == 0 && windowStart != -1) // end of window of Ones
-            {
-                maxConsecutiveOnes = max(maxConsecutiveOnes, index - windowStart);
-                windowStart = -1;
-            }
-            else if(nums[index] == 1 && windowStart == -1) // Start of new window of Ones
-                windowStart = index;
-        }
-        if(windowStart != -1) 
-            maxConsecutiveOnes = max(maxConsecutiveOnes, index - windowStart);
+        int currConsecutive = 0;
+        int maxConsecutive = 0;
         
-        return maxConsecutiveOnes;
+        for(int num : nums)
+        {
+            if(num == 0) // window ends
+            {
+                maxConsecutive = max(maxConsecutive, currConsecutive);
+                currConsecutive = 0;
+            }
+            else
+                currConsecutive++;
+        }
+        maxConsecutive = max(maxConsecutive, currConsecutive);
+        return maxConsecutive;
     }
 };
 ```
-
